@@ -1,0 +1,535 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sKt_wbp_IbVFNHZguImzPhpC33k\"",
+ "pageInfo": {
+  "totalResults": 15,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/umJoE9nKUbkkOzhTu3mZr0ujFsA\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:57:10.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 1: The Interview",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N8nls9jzbUE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N8nls9jzbUE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N8nls9jzbUE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N8nls9jzbUE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lyrwdYjK46khfdezueRgt-sBCmg\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:57:25.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 2: My job description",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rHcSi_6fm3E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rHcSi_6fm3E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rHcSi_6fm3E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rHcSi_6fm3E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kYClVW5Hcx0XA1vo-I6dq4SiErA\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:57:39.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 3: Arriving at my new office",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Df5r-vVOC-4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Df5r-vVOC-4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Df5r-vVOC-4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Df5r-vVOC-4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ed2RxNwZNfpS2kpRuH7EczKV3W0\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:58:38.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 4: Talking with my new boss",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1G11LJHKr0Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1G11LJHKr0Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1G11LJHKr0Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1G11LJHKr0Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9OxGwUx35_Svhhgjt9XlzY5HZFc\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:58:14.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 5: The Office Tour",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3ldrB51jS7Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3ldrB51jS7Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3ldrB51jS7Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3ldrB51jS7Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IAatohbsvadhTy5Ec62maL7mXPQ\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:58:33.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 6: Answering the telephone and transferring a call",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DbpJusVJN7A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DbpJusVJN7A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DbpJusVJN7A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DbpJusVJN7A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W8jFxYctjE5YBgnP5_1L87__x_I\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:58:56.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 7: Making an appointment",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gYR0hQIHNmY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gYR0hQIHNmY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gYR0hQIHNmY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gYR0hQIHNmY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Qc-rKJTfjSQnNajAvIUeHy7ehVw\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:59:12.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 8: Meeting with a customer",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LF8CVJ6ZpF4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LF8CVJ6ZpF4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LF8CVJ6ZpF4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LF8CVJ6ZpF4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pCvlkBnShEEfxnb69xWvBY_HG2U\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:59:28.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 9: In the meeting",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/57qLPINHig4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/57qLPINHig4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/57qLPINHig4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "57qLPINHig4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_ZhjPC59mMvqVe9DvWOPAcpNxbo\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2017-05-19T06:59:47.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 10: Handling a complaint",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5Dc_mPHwVPQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5Dc_mPHwVPQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5Dc_mPHwVPQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5Dc_mPHwVPQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Vd6SxXq1qC5cOt1XPHxDUt3FbmI\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:00:09.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 11: joining a marketing meeting",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wWEioNtK60g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wWEioNtK60g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wWEioNtK60g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wWEioNtK60g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yY1gWrvjjSRsK2lhUzl4ZM_hKkw\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:00:27.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 12: Performance appraisal",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W6fGtXPttMM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W6fGtXPttMM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W6fGtXPttMM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W6fGtXPttMM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6C1hxqbR_iBawnP7LUIThIilR6I\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:00:46.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 13: Planning a business trip",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tIxfI8Q2Dj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tIxfI8Q2Dj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tIxfI8Q2Dj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tIxfI8Q2Dj8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CXX0lOIQvcFXcR0Iei_Ef6yF0uw\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:01:27.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 14: Working in the office",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LmB3qFHi2Rw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LmB3qFHi2Rw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LmB3qFHi2Rw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LmB3qFHi2Rw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5FFQBDDJBYk5IOop2xYjr8X5StA\"",
+   "id": "UExzcVR1NTFJUkM3MXVBY2tEa2tETGVYMDVGV01kdmZNVy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:01:18.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 15: Talking with my colleagues",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kJb42eIrhBs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kJb42eIrhBs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kJb42eIrhBs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kJb42eIrhBs"
+    }
+   }
+  }
+ ]
+}
