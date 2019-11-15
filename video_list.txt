@@ -2,7 +2,7 @@
 		{	
 			"LIST_VIDEO_NAME": "ENGLISH FOR BEGINNER LEVELS",
 			"LIST_VIDEO_SIZE": "30",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHl8zBLmUw5lDt1VgdxgeCxqwUY8xnLNz5dxGzproCB4dF5ZAk&s",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/7oOX48NOyTQ/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20BEGINNER%20LEVELS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/qtciycc2tql14nl/ENGLISH%20FOR%20BEGINNER%20LEVELS.txt?dl=1"			
@@ -10,7 +10,7 @@
 		{	
 			"LIST_VIDEO_NAME": "ENGLISH FOR ELEMENTARY LEVELS",
 			"LIST_VIDEO_SIZE": "30",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZthXUNHJs-CHbr8pp4MFcBI3O6ljru14rZru_eO8rDdOQWAC&s",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/zj1ZqH-xwhw/hqdefault.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f9LPj6fEeIBPS5uiA47IN8M",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20ELEMENTARY%20LEVELS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/l6fmirmtfndh4ci/ENGLISH%20FOR%20ELEMENTARY%20LEVELS.txt?dl=1"			
@@ -18,7 +18,7 @@
 		{	
 			"LIST_VIDEO_NAME": "ENGLISH FOR INTERMEDIATE LEVELS",
 			"LIST_VIDEO_SIZE": "20",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmmIxaa8mxl7hdbftDL0Z2kQcmljrFBUvMCV8v14YeMoJejGnT&s",
+			"LIST_VIDEO_ICON": "https://tv-english.club/wp-content/uploads/2014/12/upper-intermediate1.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20INTERMEDIATE%20LEVELS",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/zzddc88jcbt69st/ENGLISH%20FOR%20INTERMEDIATE%20LEVELS.txt?dl=1"			
