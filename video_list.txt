@@ -1,5 +1,29 @@
 	[	
 		{	
+			"LIST_VIDEO_NAME": "ENGLISH FOR BEGINNER LEVELS",
+			"LIST_VIDEO_SIZE": "30",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20BEGINNER%20LEVELS",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/qtciycc2tql14nl/ENGLISH%20FOR%20BEGINNER%20LEVELS.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "ENGLISH FOR ELEMENTARY LEVELS",
+			"LIST_VIDEO_SIZE": "30",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLSq8-kwvz4f9LPj6fEeIBPS5uiA47IN8M",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20ELEMENTARY%20LEVELS",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/l6fmirmtfndh4ci/ENGLISH%20FOR%20ELEMENTARY%20LEVELS.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "ENGLISH FOR INTERMEDIATE LEVELS",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ENGLISH%20FOR%20INTERMEDIATE%20LEVELS",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/zzddc88jcbt69st/ENGLISH%20FOR%20INTERMEDIATE%20LEVELS.txt?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "VOA - English in a Minute",
 			"LIST_VIDEO_SIZE": "47",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
