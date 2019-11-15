@@ -1,0 +1,910 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pUEtGCdgZdv3eG12V3M5aQ0cWGc\"",
+ "pageInfo": {
+  "totalResults": 20,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hiHpXsnRHoJQfPL5eUEbsGxIyWE\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:37:50.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 1: Horror Films",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 1: Horror Films\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VHBma-tvR-g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VHBma-tvR-g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VHBma-tvR-g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VHBma-tvR-g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VHBma-tvR-g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VHBma-tvR-g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/456aKfCN-pHn8yhEhRmOOW65BlU\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:37:54.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 2: Rock n' Roll",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 2: Rock n' Roll\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kLQ7UyzMUwY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kLQ7UyzMUwY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kLQ7UyzMUwY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kLQ7UyzMUwY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kLQ7UyzMUwY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kLQ7UyzMUwY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bzdRhaGRUS5cg7Wg6FJR5Rz6eHc\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:37:58.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 3: Space",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 3: Space\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-asVr8pZ1Zg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-asVr8pZ1Zg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-asVr8pZ1Zg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-asVr8pZ1Zg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-asVr8pZ1Zg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-asVr8pZ1Zg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GjOM-WH-GNRhNGvXGfj4LPXOlbM\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:01.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 4: On the farm",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 4: On the farm\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zVVINd_9TpU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zVVINd_9TpU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zVVINd_9TpU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zVVINd_9TpU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zVVINd_9TpU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zVVINd_9TpU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fbvvdqbx2eyuVll5gTVnvWksiCA\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:04.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 5: At the doctor's office",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 5: At the doctor's office\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n9ru8jEj_OU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n9ru8jEj_OU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n9ru8jEj_OU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n9ru8jEj_OU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/n9ru8jEj_OU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n9ru8jEj_OU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CnfPFA0QhVK4Hr_zM9_EZovYsP0\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:27.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 6: At the circus",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 6: At the circus\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l6mW7HG6tLk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l6mW7HG6tLk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l6mW7HG6tLk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l6mW7HG6tLk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/l6mW7HG6tLk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l6mW7HG6tLk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5Dzg-5GtIy-hC7fZScFb3sytXlc\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:30.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 7: At the beach",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 7: At the beach\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nO_twM2kZb4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nO_twM2kZb4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nO_twM2kZb4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nO_twM2kZb4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nO_twM2kZb4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nO_twM2kZb4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8rjDDbfpovuEB_5AS7NNtJDX6bM\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:33.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 8: Crime doesn't pay",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 8: Crime doesn't pay\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/paLLw6NPreY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/paLLw6NPreY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/paLLw6NPreY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/paLLw6NPreY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/paLLw6NPreY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "paLLw6NPreY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TJsncT5CDUZeDcBYFhZf7e1uohQ\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:37.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 9: At the amusement park",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 9: At the amusement park\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bWRUirizf7U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bWRUirizf7U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bWRUirizf7U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bWRUirizf7U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bWRUirizf7U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bWRUirizf7U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3Ogpt5LK8hp1P1HR839NWitfHnk\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:38:42.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 10: At the grocery store",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 10: At the grocery store\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\n\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UV8Asxp0AAQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UV8Asxp0AAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UV8Asxp0AAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UV8Asxp0AAQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UV8Asxp0AAQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UV8Asxp0AAQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/06pYDGSQ9Aw0rYkGJWnX3IEQhaw\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:04.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 11: At the playground",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 11: At the playground\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1-Hlxb72k18/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1-Hlxb72k18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1-Hlxb72k18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1-Hlxb72k18/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1-Hlxb72k18/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1-Hlxb72k18"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/23U4r12DSGWHV696FDOAmrlarN4\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:09.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 12: At the camp",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 12: At the camp\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\n\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nL4VdKYsL6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nL4VdKYsL6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nL4VdKYsL6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nL4VdKYsL6g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nL4VdKYsL6g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nL4VdKYsL6g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/S7bTpRSf3lKLgHYk2b_iv8ER3ic\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:12.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 13: At the hotel",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 13: At home\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TofQdX_CyLA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TofQdX_CyLA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TofQdX_CyLA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TofQdX_CyLA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TofQdX_CyLA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TofQdX_CyLA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ER6rTncMP8z_-QRv1lfKA9TZoB0\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:15.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 14: Fairy tales and legends",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 14: Fairy tales and legends\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dST-cu2144k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dST-cu2144k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dST-cu2144k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dST-cu2144k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dST-cu2144k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dST-cu2144k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5PLJnLd8Hqf_NLAer_dVOOoW50Y\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:18.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 15: Christmas",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 15: Christmas\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/al0NQJCOHDs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/al0NQJCOHDs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/al0NQJCOHDs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/al0NQJCOHDs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/al0NQJCOHDs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "al0NQJCOHDs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hgowyKtIw6RlsbJRSc9TJLbpQWw\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:22.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 16: In the workshop",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 16: In the workshop\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VJPcrpgGJCw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VJPcrpgGJCw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VJPcrpgGJCw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VJPcrpgGJCw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VJPcrpgGJCw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VJPcrpgGJCw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aTwOnn8DO4oqhvSLrop3X05asoE\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:26.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 17: Under the water",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 17: Under the water\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_SIQ9LGjADQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_SIQ9LGjADQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_SIQ9LGjADQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_SIQ9LGjADQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_SIQ9LGjADQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_SIQ9LGjADQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UwsemLES2rtUajp0mnc5p0BlKh4\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:47.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 18: At the doctors",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 18: At the doctors\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nZf1isFZP4Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nZf1isFZP4Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nZf1isFZP4Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nZf1isFZP4Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nZf1isFZP4Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nZf1isFZP4Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/SzjdFzsCq-OY4F43TVsU6IYolpU\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:50.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 19: Preview (Lesson 1 to 9)",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 19: Preview (Lesson 1 to 9)\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cwNEqZgiTk8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cwNEqZgiTk8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cwNEqZgiTk8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cwNEqZgiTk8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cwNEqZgiTk8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cwNEqZgiTk8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/p8jiLKeRdsHDsBZN1d82z89H7yA\"",
+   "id": "UExTcTgta3d2ejRmOVZDdW5sVGN5NE4xZmRXZUJyMjdLcy5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-27T04:39:53.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Intermediate Levels - Lesson 20: Preview (Lesson 10 to 18)",
+    "description": "English For You - Learning English is much easier now!\n\nIntermediate Levels - Lesson 20: Preview (Lesson 10 to 18)\n\nThe intermediate level is a great opportunity for students with a medium level of English and wanting to improve it. This set is composed of 20 Lessons.\nNote: Buy the student's book to learn english faster.\nVisit: http://www.atlasyayincilik.com/tr/student-s-books\n\nNot:Bu videoyu pekiştirmek için mutlaka çalışma kitaplarını almanız lazım (Student's Books). Bu kitaplar sayesinde tüm konuları çok daha kolay öğreneceksiniz. \nKitapları satın almak için tıklayın.. \nhttp://www.atlasyayincilik.com/tr/student-s-books \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XZh0DN93oXU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XZh0DN93oXU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XZh0DN93oXU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XZh0DN93oXU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XZh0DN93oXU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XZh0DN93oXU"
+    }
+   }
+  }
+ ]
+}
