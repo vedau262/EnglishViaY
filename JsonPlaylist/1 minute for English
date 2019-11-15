@@ -1,1894 +1,2073 @@
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lhnFfzioc2-tBNHG4M88FndpEQs\"",
- "nextPageToken": "CDIQAA",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7YAlj86-gXuPoEAABGhrMr_xS0E\"",
  "pageInfo": {
-  "totalResults": 156,
+  "totalResults": 47,
   "resultsPerPage": 50
  },
  "items": [
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/edB5loH4Ow35Txl6nWN9ItNbOVo\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjJncklSTTRWQU5R",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/910W4kV9xDrBBHNXrl4JrYacX_Q\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yQUJFNUVCMzVDNjcxRTlF",
    "snippet": {
-    "publishedAt": "2016-02-23T10:29:11.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Working to Protect West African Languages and Culture",
-    "description": "",
+    "publishedAt": "2018-09-24T19:25:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Two Wrongs Don't Make a Right",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/english-in-a-minute-two-wrongs-don-t-make-a-right/4518586.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/default.jpg",
+      "url": "https://i.ytimg.com/vi/xZ6z5DNfzGI/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/xZ6z5DNfzGI/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/xZ6z5DNfzGI/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xZ6z5DNfzGI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xZ6z5DNfzGI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 0,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "2grIRM4VANQ"
+     "videoId": "xZ6z5DNfzGI"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WpvvP6GXmeSzrTwugT9rqtGbUNc\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmZzajFnOGF0WDFB",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/417wtdZwBvCAscN2LDuq-cYEBSU\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yQjZFRkExQjFGODk3RUFD",
    "snippet": {
-    "publishedAt": "2016-02-23T10:29:04.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Pakistan Names a School for a Student who Stopped a Suicide Bomber",
-    "description": "",
+    "publishedAt": "2018-09-24T19:23:24.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Wild Goose Chase",
+    "description": "Why would Anna and Jonathan be chasing geese?\r\nOriginally published at - https://learningenglish.voanews.com/a/english-in-a-minute-wild-goose-chase/4571618.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/default.jpg",
+      "url": "https://i.ytimg.com/vi/PlNBZR5gpLo/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/PlNBZR5gpLo/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/PlNBZR5gpLo/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PlNBZR5gpLo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PlNBZR5gpLo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 1,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "fsj1g8atX1A"
+     "videoId": "PlNBZR5gpLo"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZiIwEJdNkASslAFBSWMLJsqCwxA\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnpJZmlVZGNHdzNr",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zHoh-a_B87_cZOVB6CV93RrTgEc\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41MzY4MzcwOUFFRUU3QzEx",
    "snippet": {
-    "publishedAt": "2016-02-23T10:29:01.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Librarians Name Most Notable Books of 2014",
-    "description": "",
+    "publishedAt": "2018-03-26T21:21:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: By the Skin of My Teeth",
+    "description": "Teeth don't have skin, right?\r\nOriginally published at - https://learningenglish.voanews.com/a/4040132.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/default.jpg",
+      "url": "https://i.ytimg.com/vi/mCQszqKtEjY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/mCQszqKtEjY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/mCQszqKtEjY/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mCQszqKtEjY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mCQszqKtEjY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 2,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "zIfiUdcGw3k"
+     "videoId": "mCQszqKtEjY"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4xjGWUwEqd8b8Ws2Dt2iXGQJpXY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl92ZW83Mk1FRW5z",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wjiDWbfHakPa7EniQ3je9BsWeIc\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DRUQwODMxQzUyRTlGRkY3",
    "snippet": {
-    "publishedAt": "2016-02-23T10:28:53.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "UNICEF Appeals for Help for Syrian Schoolchildren",
-    "description": "",
+    "publishedAt": "2016-08-31T21:31:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Turn the Tables",
+    "description": "When should you \"turn the tables?\" Find out how to use this expression in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/a/english-in-a-minute-turn-the-tables/3390603.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/_veo72MEEns/default.jpg",
+      "url": "https://i.ytimg.com/vi/kRInjJ-ZzkM/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/_veo72MEEns/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kRInjJ-ZzkM/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/_veo72MEEns/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kRInjJ-ZzkM/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kRInjJ-ZzkM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kRInjJ-ZzkM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 3,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "_veo72MEEns"
+     "videoId": "kRInjJ-ZzkM"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HoX_icba0vb0DYIJDDY93zCYxH4\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlVaRlkxZ1J5LWZv",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8O5tgr1yCB4AdawbjoeHMvUCk8g\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DNkMwRUI2MkI4QkI4NDFG",
    "snippet": {
-    "publishedAt": "2016-02-23T10:28:43.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "UNESCO Says Poor Education Costs Billions of Dollars",
-    "description": "",
+    "publishedAt": "2016-04-20T16:17:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Bucket List",
+    "description": "What is on your \"bucket list?\" Find out what this term means in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/3209586.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/default.jpg",
+      "url": "https://i.ytimg.com/vi/CsI4VxJ1IBQ/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/CsI4VxJ1IBQ/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/CsI4VxJ1IBQ/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CsI4VxJ1IBQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CsI4VxJ1IBQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 4,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "UZFY1gRy-fo"
+     "videoId": "CsI4VxJ1IBQ"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vlA6cJwAIYdMF2huvRQVfKy2gYY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnp2YU5YN1JMZmE4",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9NohADWwSjjIWOp4aT0ozCWF1ko\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45NkVENTkxRDdCQUFBMDY4",
    "snippet": {
-    "publishedAt": "2016-02-23T10:26:38.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Turn Negative Writing Experiences Into Positive Ones",
-    "description": "",
+    "publishedAt": "2015-12-21T20:08:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Burning Bridges",
+    "description": "Does this expression really mean that a bridge is on fire? Find out how to use this \"fiery\" expression in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/2921220.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/default.jpg",
+      "url": "https://i.ytimg.com/vi/8TU41Gp4bmw/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/8TU41Gp4bmw/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/8TU41Gp4bmw/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/8TU41Gp4bmw/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8TU41Gp4bmw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 5,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "zvaNX7RLfa8"
+     "videoId": "8TU41Gp4bmw"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mIL-UHP7Qho7k-Po4Z-OM1kpzUY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjQ0VmpDTVBwbENV",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-cYZjYAVLGoS8SdN1ecxu5UjxEU\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4zQzFBN0RGNzNFREFCMjBE",
    "snippet": {
-    "publishedAt": "2016-02-23T10:26:30.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Thousands of Chinese Students Choose American High Schools",
-    "description": "",
+    "publishedAt": "2015-12-21T20:07:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Don't Hold Your Breath",
+    "description": "This expression sounds like a warning of some kind. Find out how to use this idiom in this episode of English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-dont-hold-your-breath/2833784.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/44VjCMPplCU/default.jpg",
+      "url": "https://i.ytimg.com/vi/tnZxt_EHfFg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/44VjCMPplCU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tnZxt_EHfFg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/44VjCMPplCU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tnZxt_EHfFg/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/44VjCMPplCU/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/tnZxt_EHfFg/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tnZxt_EHfFg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 6,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "44VjCMPplCU"
+     "videoId": "tnZxt_EHfFg"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/59cj8s6suc6pAD_BI0qkzR6ayT4\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnR1U3lMeEc1UE40",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b3YDPEDIncjV5fCu_DZHTcETgew\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5GNDg1Njc1QzZERjlFRjE5",
    "snippet": {
-    "publishedAt": "2016-02-23T10:26:05.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Teaching Children the Power of Music",
-    "description": "",
+    "publishedAt": "2015-11-30T20:08:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Wake-Up Call",
+    "description": "Have you ever gotten a wake-up call? This expression can be used in many situations. Find out more about this idiom in this week's English in a Minute.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-wake-up-call/2777234.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/default.jpg",
+      "url": "https://i.ytimg.com/vi/TFEnIiixnZo/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/TFEnIiixnZo/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/TFEnIiixnZo/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TFEnIiixnZo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TFEnIiixnZo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 7,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "tuSyLxG5PN4"
+     "videoId": "TFEnIiixnZo"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/eAI7K8cauoumEjqOJuHsLNZkuWc\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmFXY0M5cUVTVWI4",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-IddqfrocEuu3dcVJ7rpnyh04rg\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4xOTEzQzhBQzU3MDNDNjcz",
    "snippet": {
-    "publishedAt": "2016-02-23T10:25:58.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Teachers, Students Recall China's Cultural Revolution",
-    "description": "",
+    "publishedAt": "2015-11-12T16:50:32.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: To Have Butterflies",
+    "description": "Butterflies are beautiful creatures. But, is it a good thing or a bad thing to \"have butterflies?\" Find out how to use this expression in this episode of English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-to-have-butterflies/2741430.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/default.jpg",
+      "url": "https://i.ytimg.com/vi/K87LUZQfyAE/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/K87LUZQfyAE/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/K87LUZQfyAE/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K87LUZQfyAE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/K87LUZQfyAE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 8,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "aWcC9qESUb8"
+     "videoId": "K87LUZQfyAE"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n00mskvYj7Q6AYmaOEMO0irphOE\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl8xWmpocDd0Slo0",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zOWXWM26fYA-ojO1xUzvq1jNi50\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5BRjJDODk5REM0NjkzMUIy",
    "snippet": {
-    "publishedAt": "2016-02-23T10:25:54.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Syrian University Students Seek Education Overseas",
-    "description": "",
+    "publishedAt": "2015-11-04T15:05:18.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Elephant in the Room",
+    "description": "If someone is talking about the \"elephant in the room,\" does it really have anything to do with wildlife? Find out how to use this phrase in this week's episode of EIM!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2741426.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/default.jpg",
+      "url": "https://i.ytimg.com/vi/u07Ct43QdpY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/u07Ct43QdpY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/u07Ct43QdpY/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u07Ct43QdpY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/u07Ct43QdpY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 9,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "_1Zjhp7tJZ4"
+     "videoId": "u07Ct43QdpY"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5bIEKeWMwUyDDfFFVSU8qIdkNco\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkhnb0hOMkFTY25j",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/w8qX9hLmwcLIh58nRI5I99La5Yg\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC40QTA3NTU2RkM1QzlCMzYx",
    "snippet": {
-    "publishedAt": "2016-02-23T10:22:52.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Students Launch Weather Balloons to Study Ozone",
-    "description": "",
+    "publishedAt": "2015-11-04T14:26:45.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Get a Grip",
+    "description": "Has anyone ever told you to \"get a grip?\" What are they trying to tell you? Find out how to use this expression in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/2777204.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/default.jpg",
+      "url": "https://i.ytimg.com/vi/IkOUYqRDyOU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/IkOUYqRDyOU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/IkOUYqRDyOU/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IkOUYqRDyOU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IkOUYqRDyOU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 10,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "HgoHN2AScnc"
+     "videoId": "IkOUYqRDyOU"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LVQtnDYE-byAQpqzIEzwpT9oUgg\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkVmenVEWS0tM0tF",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tqbC8Sr-l2JR6WLTiRN-qlifVE0\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45RjNFMDhGQ0Q2RkFCQTc1",
    "snippet": {
-    "publishedAt": "2016-02-23T10:19:02.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "South Africa Welcomes Chinese Language and Influence in",
-    "description": "",
+    "publishedAt": "2015-11-04T14:22:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Up In The Air",
+    "description": "Are your future plans \"up in the air?\" Find out how to use this expression in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/2741442.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/default.jpg",
+      "url": "https://i.ytimg.com/vi/qu06iYO23J0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/qu06iYO23J0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/qu06iYO23J0/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/qu06iYO23J0/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qu06iYO23J0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 11,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "EfzuDY--3KE"
+     "videoId": "qu06iYO23J0"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MklQyqRFcSzK7ezVMlezdlfGCmM\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnhYcWExZ21IY0tn",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IH0XJLmucj0o8C9EXRk2hv6RDlA\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC42MTI4Njc2QjM1RjU1MjlG",
    "snippet": {
-    "publishedAt": "2016-02-23T10:18:52.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Smithsonian Exhibit Explores the World of the Senses",
-    "description": "",
+    "publishedAt": "2015-11-04T14:21:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Water Under the Bridge",
+    "description": "Bridges often cross over bodies of water. But what could this idiom mean? Find out in this week's English in a Minute!\r\nOriginally published at - http://learningenglish.voanews.com/media/video/2833770.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/default.jpg",
+      "url": "https://i.ytimg.com/vi/4dM9Tv1DyOk/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/4dM9Tv1DyOk/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/4dM9Tv1DyOk/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4dM9Tv1DyOk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4dM9Tv1DyOk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 12,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "xXqa1gmHcKg"
+     "videoId": "4dM9Tv1DyOk"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lCGmDNE-Ai6eUUlbdpV2_qGv344\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlN2SGlidTMxZ3VR",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RK0p1nwSoz7T6Sw-d3ABf4WRe_A\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5CMEQ2Mjk5NTc3NDZFRUNB",
    "snippet": {
-    "publishedAt": "2016-02-23T10:18:45.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "School Offers Kenyan Girls Free Education",
-    "description": "",
+    "publishedAt": "2015-08-25T19:57:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Put (Something) on Hold",
+    "description": "This expression can be used in many different situations. Learn a few of them in this week's episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2670637.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/SvHibu31guQ/default.jpg",
+      "url": "https://i.ytimg.com/vi/x82Es5oUXqE/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/SvHibu31guQ/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/x82Es5oUXqE/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/SvHibu31guQ/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/x82Es5oUXqE/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x82Es5oUXqE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x82Es5oUXqE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 13,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "SvHibu31guQ"
+     "videoId": "x82Es5oUXqE"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qHblusV8d6OuXI-Q_0IE-eWmVSY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlh6QzY4YVJIVnNn",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/f7V3f4mu_ZejRaX97184gPSDc64\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4zRDBDOEZDOUM0MDY5NEEz",
    "snippet": {
-    "publishedAt": "2016-02-23T10:18:38.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "School Attendance by Australian Aborigines Linked to Aid to Parents",
-    "description": "",
+    "publishedAt": "2015-08-25T19:57:18.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Straight from the Horse's Mouth",
+    "description": "If you hear something \"straight from the horse's mouth\" do you have the correct information? Find out in this week's episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2688203.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/default.jpg",
+      "url": "https://i.ytimg.com/vi/jU33p88usTA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/jU33p88usTA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/jU33p88usTA/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/jU33p88usTA/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jU33p88usTA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 14,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "XzC68aRHVsg"
+     "videoId": "jU33p88usTA"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9JVGp3klIVKZ71-vYKlcTlweEoI\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnlRajZuTWQyLUR3",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9ubK7sQ3LIc2s4EFlq6SoclqQ_M\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41QUZGQTY5OTE4QTREQUU4",
    "snippet": {
-    "publishedAt": "2016-02-23T10:18:25.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Rights Groups Demand End to Schoolchildren's Begging",
-    "description": "",
+    "publishedAt": "2015-08-25T19:56:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Shoot the Breeze",
+    "description": "If you're \"shooting the breeze\" with friends, what exactly are you doing? Find out in this week's episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2688204.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/default.jpg",
+      "url": "https://i.ytimg.com/vi/IstNsUNein8/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/IstNsUNein8/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/IstNsUNein8/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/IstNsUNein8/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IstNsUNein8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 15,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "yQj6nMd2-Dw"
+     "videoId": "IstNsUNein8"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Vo455v4ygn7SgIAaqtFU8YC_zMU\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkZWaVZYbVVnelBF",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TmMCjTim06sjNjXeWKWLeO6-UZE\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC43NDhFRTgwOTRERTU4Rjg3",
    "snippet": {
-    "publishedAt": "2016-02-23T10:10:03.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Rice Production Grows, but Not Everywhere",
-    "description": "",
+    "publishedAt": "2015-08-25T19:56:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Tip of the Iceberg",
+    "description": "An iceberg is a large mass of ice floating in water. But what do you think this idiom means? Find out in this week's episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2688209.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/default.jpg",
+      "url": "https://i.ytimg.com/vi/51ria38oZAg/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/51ria38oZAg/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/51ria38oZAg/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/51ria38oZAg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/51ria38oZAg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 16,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "FViVXmUgzPE"
+     "videoId": "51ria38oZAg"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AjgNost1rDsIyvjGhhFlXooHRhA\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnNKU3c2cmdqM0xV",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jreN1bkMxhdFrMT6SoR7gug5l7E\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC44Mjc5REFBRUE2MTdFRDU0",
    "snippet": {
-    "publishedAt": "2016-02-23T10:07:30.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Reports of Rape, Abuse Surface at a School in Jakarta",
-    "description": "",
+    "publishedAt": "2015-08-25T19:56:07.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Out of the Woods",
+    "description": "The word \"woods\" refers to an area of land covered with many trees. But this idiom does not actually have anything to do with trees. Find out what it means to be \"out of the woods\" in this episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-out-of-the-woods/2711201.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/default.jpg",
+      "url": "https://i.ytimg.com/vi/gDcULi0vdls/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gDcULi0vdls/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gDcULi0vdls/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/gDcULi0vdls/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gDcULi0vdls/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 17,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "sJSw6rgj3LU"
+     "videoId": "gDcULi0vdls"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dPCaMPn2ytJpnOuFt5V0Ub9Yqx8\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkxJSjRLVkF4Q3Zj",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sKCGJTppIrgICG1vAx3VN11y90g\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DMkU4NTY1QUFGQTYwMDE3",
    "snippet": {
-    "publishedAt": "2016-02-23T10:08:07.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Racial Segregation in US Public Schools Struck Down 60 Years Ago",
-    "description": "",
+    "publishedAt": "2015-08-25T19:55:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Skating on Thin Ice",
+    "description": "Ice skating is a popular winter activity in many places around the world. But what does the expression \"skating on thin ice\" mean? Find out in this episode's of EIM!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2670640.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/default.jpg",
+      "url": "https://i.ytimg.com/vi/ngc2ajFDOAw/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ngc2ajFDOAw/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ngc2ajFDOAw/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/ngc2ajFDOAw/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ngc2ajFDOAw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 18,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "LIJ4KVAxCvc"
+     "videoId": "ngc2ajFDOAw"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LwRxGrj8_D5yePDqQ1MfALGcC6E\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjVDRDgzT01TSEww",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YwfNJ_e1Qq8nLNDijqZezuJtonI\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yQUE2Q0JEMTk4NTM3RTZC",
    "snippet": {
-    "publishedAt": "2016-02-23T10:08:51.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Punishment Policies Are Changing in US High Schools",
-    "description": "",
+    "publishedAt": "2015-08-25T19:55:29.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Over the Hill",
+    "description": "This idiom could get you in trouble. Find out what \"over the hill\" means and learn when (and when not!) to use this expression in this episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2711198.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/default.jpg",
+      "url": "https://i.ytimg.com/vi/A90l3pbkKks/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/A90l3pbkKks/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/A90l3pbkKks/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/A90l3pbkKks/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/A90l3pbkKks/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 19,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "5CD83OMSHL0"
+     "videoId": "A90l3pbkKks"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EAnCcPwc_IkVw6GnU9xZU1S6EmM\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm1yMlFrMlM4WXpr",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gpCJPUegJWIfgZsZws4fArhR6js\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DQ0MyQ0Y4Mzg0M0VGOEYw",
    "snippet": {
-    "publishedAt": "2016-02-23T10:10:45.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Program Seeks to Lower Teen Pregnancy Rate in New York",
-    "description": "",
+    "publishedAt": "2015-08-25T19:54:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Don't Count Your Chickens Before They Hatch",
+    "description": "Is this expression about math, farming, or something else? Find out why you shouldn't count your chickens before they hatch in this episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2711200.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/default.jpg",
+      "url": "https://i.ytimg.com/vi/EttnnWIAL_s/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/EttnnWIAL_s/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/EttnnWIAL_s/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EttnnWIAL_s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EttnnWIAL_s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 20,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "mr2Qk2S8Yzk"
+     "videoId": "EttnnWIAL_s"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yfcSIxVDj2cj9LSR4gsDiTwr_DY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLk5Rekk1aFBhaV9n",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/oa6RtrTT8a_Jlpiak0bd7Pj7sxQ\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC43MTI1NDIwOTMwQjIxMzNG",
    "snippet": {
-    "publishedAt": "2016-02-23T10:03:46.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Overseas Students Add to Their Education at US Community",
-    "description": "",
+    "publishedAt": "2015-08-25T19:53:01.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Fifth Wheel",
+    "description": "Have you ever felt like a \"fifth wheel?\" Found out what this expression means in this episode of English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2716951.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/default.jpg",
+      "url": "https://i.ytimg.com/vi/b8AFxVb1Hrk/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/b8AFxVb1Hrk/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/b8AFxVb1Hrk/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/b8AFxVb1Hrk/sddefault.jpg",
       "width": 640,
       "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/b8AFxVb1Hrk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 21,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "NQzI5hPai_g"
+     "videoId": "b8AFxVb1Hrk"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/249iZZPODhpeegDiykLG-a_ABS8\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl95TjVuTTBhTHEw",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UQnta4AhY2rTbbgeO4pyg23ZVUM\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DNzE1RjZEMUZCMjA0RDBB",
    "snippet": {
-    "publishedAt": "2016-02-23T10:03:47.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Obama Visits Tech High School in Texas",
-    "description": "",
+    "publishedAt": "2015-08-25T19:52:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: A Bitter Pill to Swallow",
+    "description": "If medicine has an unpleasant taste, it is difficult to swallow. If a situation or fact is unpleasant, we say it is \"a bitter pill to swallow.\" Learn more about this idiom in this episode of EIM!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2716948.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/default.jpg",
+      "url": "https://i.ytimg.com/vi/r1CHVt_8LC4/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/r1CHVt_8LC4/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/r1CHVt_8LC4/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r1CHVt_8LC4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r1CHVt_8LC4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 22,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "_yN5nM0aLq0"
+     "videoId": "r1CHVt_8LC4"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ag3RCf_UwEmgcDLSIrS6hEw7HpQ\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm1tZTJlR1l4UGVv",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/otPvc4I5mJUYNn2bsXpNZYalXt8\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45NzUwQkI1M0UxNThBMkU0",
    "snippet": {
-    "publishedAt": "2016-02-23T10:03:32.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Nigeria's Kano State Starts a Major Literacy Campaign",
-    "description": "",
+    "publishedAt": "2015-08-25T19:50:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Nail-biter",
+    "description": "Biting your nails is a bad habit. But, is that what this idiom is really talking about? Find out in this week's English in a Minute!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2716950.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/default.jpg",
+      "url": "https://i.ytimg.com/vi/NQnEvS5tczM/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/NQnEvS5tczM/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/NQnEvS5tczM/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NQnEvS5tczM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NQnEvS5tczM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 23,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "mme2eGYxPeo"
+     "videoId": "NQnEvS5tczM"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AxvOQOmnPZ_1c1ntFmDh4TT4ptk\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjdNTWhLZHZxSllF",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PjzBgleezxg9izUsO1YsNgXdVLs\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4zRjM0MkVCRTg0MkYyQTM0",
    "snippet": {
-    "publishedAt": "2016-02-23T10:03:25.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Nigerian University Students Return to Classes After",
-    "description": "",
+    "publishedAt": "2015-03-05T16:21:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Keep One's Eyes Peeled",
+    "description": "\"To peel\" means to pull back a layer. But, does this idiom really mean you pull back your eyelid? Figure out what it means with this episode of English in a Minute.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2667762.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/default.jpg",
+      "url": "https://i.ytimg.com/vi/_KwcOfqnb8w/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/_KwcOfqnb8w/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/_KwcOfqnb8w/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_KwcOfqnb8w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_KwcOfqnb8w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 24,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "7MMhKdvqJYE"
+     "videoId": "_KwcOfqnb8w"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2wSENT3VLx-IAUadb3ohJCCYFug\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlJuYW93QjhTWW1B",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1u9EVRFZVRpemTD5ANx0G7Z_Sx0\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5GM0Q3M0MzMzY5NTJFNTdE",
    "snippet": {
-    "publishedAt": "2016-02-23T09:51:53.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "New Graduates Seek Jobs in Slowing Chinese Economy",
-    "description": "",
+    "publishedAt": "2015-03-05T16:21:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Know the Ropes",
+    "description": "This idiom probably comes from sailing. But what does it mean? Find out here!\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2553157.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/default.jpg",
+      "url": "https://i.ytimg.com/vi/dI3bWQjwZzY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/dI3bWQjwZzY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/dI3bWQjwZzY/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dI3bWQjwZzY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dI3bWQjwZzY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 25,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "RnaowB8SYmA"
+     "videoId": "dI3bWQjwZzY"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-Gbz90irkFr43ECzBSSeuPw6cZo\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnZDdVZzdjQ1aXNj",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ElI0ZBOxN8-pnRF6pady__9GRbQ\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yMDhBMkNBNjRDMjQxQTg1",
    "snippet": {
-    "publishedAt": "2016-02-23T09:51:54.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "More Options for Learning Online",
-    "description": "",
+    "publishedAt": "2015-03-05T16:20:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: The Apple Doesn't Fall Far From the Tree",
+    "description": "When an apple drops from an apple tree, it does not fall far from it. But what does it mean when you say this about a person?\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2553143.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/vCuVsv45isc/default.jpg",
+      "url": "https://i.ytimg.com/vi/kBk9FNkgOVc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/vCuVsv45isc/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kBk9FNkgOVc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/vCuVsv45isc/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kBk9FNkgOVc/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kBk9FNkgOVc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kBk9FNkgOVc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 26,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "vCuVsv45isc"
+     "videoId": "kBk9FNkgOVc"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jw9CKMYCUnwcMzs4LPVF8OJ4v58\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmltNEFkNnZPREFF",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4QTfuwIUSi0y66nUpqzKL3yorZ4\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5ENDU4Q0M4RDExNzM1Mjcy",
    "snippet": {
-    "publishedAt": "2016-02-23T09:51:24.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Malala Yousafzai Speaks at United Nations",
-    "description": "",
+    "publishedAt": "2015-03-05T16:20:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Another One Bites the Dust",
+    "description": "\"Another One Bites the Dust\" is a famous song by the band Queen. But what does it mean and how do you use this American English idiom?\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2553116.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/default.jpg",
+      "url": "https://i.ytimg.com/vi/ZUcgbiXs1EY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ZUcgbiXs1EY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ZUcgbiXs1EY/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZUcgbiXs1EY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZUcgbiXs1EY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 27,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "im4Ad6vODAE"
+     "videoId": "ZUcgbiXs1EY"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/j2wvtSe1bvyc_P7JKTa5SQkwKfo\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjh0VENfZU1ZUXNJ",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g4bDPcASOfbeGuwdgeMXMSlT8GI\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45RTgxNDRBMzUwRjQ0MDhC",
    "snippet": {
-    "publishedAt": "2016-02-23T09:47:44.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Majority of World's Illiterate Women Live in West Africa",
-    "description": "",
+    "publishedAt": "2015-03-05T16:20:21.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Blow Off Steam",
+    "description": "This expression comes from the days of steam engines. Our one minute video tells you all about what blowing off steam means.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/default.jpg",
+      "url": "https://i.ytimg.com/vi/0kabwn1C1Cc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0kabwn1C1Cc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0kabwn1C1Cc/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0kabwn1C1Cc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0kabwn1C1Cc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 28,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "8tTC_eMYQsI"
+     "videoId": "0kabwn1C1Cc"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kPvxDxhmj4HfeYzG-eZCVtxRWZ8\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnNjNmFOUkQyOEhz",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0jmeeKHcXfaiQGnAONGy-PZBC9o\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yMUQyQTQzMjRDNzMyQTMy",
    "snippet": {
-    "publishedAt": "2016-02-23T09:45:32.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Learning Outdoors at a Natural History Museum",
-    "description": "",
+    "publishedAt": "2015-03-05T16:20:06.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Poker Face",
+    "description": "What does a poker face look like? We tell you about the idiom poker face in this one minute video.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute/2510605.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/default.jpg",
+      "url": "https://i.ytimg.com/vi/v50QGDgdtpM/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/v50QGDgdtpM/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/v50QGDgdtpM/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v50QGDgdtpM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v50QGDgdtpM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 29,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "sc6aNRD28Hs"
+     "videoId": "v50QGDgdtpM"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DRzaZh_FTXQQJrOl1HweHj_HNOE\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlk5YVN3cHlRVFRr",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/oOP5d5dEUc_aPh8wxSuRwWdQ2DM\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41QTY1Q0UxMTVCODczNThE",
    "snippet": {
-    "publishedAt": "2016-02-23T09:45:24.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Law School in Two Years",
-    "description": "",
+    "publishedAt": "2015-03-05T16:19:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Up the Creek Without a Paddle",
+    "description": "This is an expression for a difficult situation. Watch this video and learn all about what it means to be \"up the creek without a paddle.\"",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/default.jpg",
+      "url": "https://i.ytimg.com/vi/96ygFYEQWjQ/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/96ygFYEQWjQ/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/96ygFYEQWjQ/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/96ygFYEQWjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/96ygFYEQWjQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 30,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "Y9aSwpyQTTk"
+     "videoId": "96ygFYEQWjQ"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mFewMB2ngNtYuTD_cnor1-an8Xs\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjYzbWp2SHRveDJv",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cW_DaAiSU-R1kUkOF3f-7yoXUSk\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5EQUE1NTFDRjcwMDg0NEMz",
    "snippet": {
-    "publishedAt": "2016-02-23T09:45:13.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "How Immigration Reform Could Affect English Learners",
-    "description": "",
+    "publishedAt": "2015-03-05T16:19:37.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Food for Thought",
+    "description": "Have you ever heard this expression in American English? Find out what it means by watching this video.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-food-for-thought/2494877.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/63mjvHtox2o/default.jpg",
+      "url": "https://i.ytimg.com/vi/_4WPPMF_8vU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/63mjvHtox2o/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/_4WPPMF_8vU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/63mjvHtox2o/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/_4WPPMF_8vU/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_4WPPMF_8vU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_4WPPMF_8vU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 31,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "63mjvHtox2o"
+     "videoId": "_4WPPMF_8vU"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gWN15D6OfsN9kyWPtVNQNheRZng\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlBxWWZCQjkxZFo4",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HAd45IsX1YIb9eKGTldi86km-Kc\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41Mzk2QTAxMTkzNDk4MDhF",
    "snippet": {
-    "publishedAt": "2016-02-23T09:45:07.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Group Brings Songwriting Workshops Into Schools",
-    "description": "",
+    "publishedAt": "2015-03-05T16:19:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Fly by the Seat of One's Pants",
+    "description": "You Don't have to be a pilot to \"fly by the seat of your pants.\" Watch this video and find out about this expression.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-fly-by-the-seat-of-ones-pants/2510756.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/default.jpg",
+      "url": "https://i.ytimg.com/vi/ouxwEci7iI0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ouxwEci7iI0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ouxwEci7iI0/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ouxwEci7iI0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ouxwEci7iI0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 32,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "PqYfBB91dZ8"
+     "videoId": "ouxwEci7iI0"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/T2I-Rm4zQal_8b5VJgeL4FZexpw\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlJJallYQXVvOWY0",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/iINQCgISTNTPDFGw2UT8l9CYdbI\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4zMDg5MkQ5MEVDMEM1NTg2",
    "snippet": {
-    "publishedAt": "2016-02-23T09:04:27.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Entrance Exams Cause Problems at University of Liberia",
-    "description": "",
+    "publishedAt": "2015-03-05T16:19:04.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Back to Square One",
+    "description": "Where and what is \"square one?\" And why would you want to return to it? Watch this video to figure out how to use this common American English expression.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2553166.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/default.jpg",
+      "url": "https://i.ytimg.com/vi/z6-VGr30uDE/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/z6-VGr30uDE/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/z6-VGr30uDE/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/z6-VGr30uDE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/z6-VGr30uDE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 33,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "RIjYXAuo9f4"
+     "videoId": "z6-VGr30uDE"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hQpOrXACQm5jvpDTaGdITIYgTGM\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjR2dGtsRDAyT09v",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/G963owgm7aUx1t3b_icaCjtKgr0\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45ODRDNTg0QjA4NkFBNkQy",
    "snippet": {
-    "publishedAt": "2016-02-23T09:35:44.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Educational Gains Mixed for Girls and Boys in Puntland and Somaliland",
-    "description": "",
+    "publishedAt": "2014-12-31T17:31:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Fair Weather Friend",
+    "description": "This expression is not about the weather. It's about friendship. Learn what it means from this one minute video.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/4vtklD02OOo/default.jpg",
+      "url": "https://i.ytimg.com/vi/kWKCchs6x1o/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/4vtklD02OOo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kWKCchs6x1o/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/4vtklD02OOo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/kWKCchs6x1o/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kWKCchs6x1o/sddefault.jpg",
+      "width": 640,
+      "height": 480
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 34,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "4vtklD02OOo"
+     "videoId": "kWKCchs6x1o"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vcT3c47aZNp3lmPoiH5ifoZ-JcY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmltTktWSFFtSVNz",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4zcwAtT5FXtKeQaqDvy9eM1cAFM\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5EMEEwRUY5M0RDRTU3NDJC",
    "snippet": {
-    "publishedAt": "2016-02-23T09:35:35.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Education Project in Rwanda Combines Online Classes, Local Help",
-    "description": "",
+    "publishedAt": "2014-11-24T22:44:51.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Calling Someone's Bluff",
+    "description": "When do you the idiom \"call someone's bluff\" in a conversation? Watch this video and learn all about it.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-calling-someones-bluff/2494874.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/imNKVHQmISs/default.jpg",
+      "url": "https://i.ytimg.com/vi/5o8LNdmevgo/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/imNKVHQmISs/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/5o8LNdmevgo/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/imNKVHQmISs/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/5o8LNdmevgo/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5o8LNdmevgo/sddefault.jpg",
+      "width": 640,
+      "height": 480
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 35,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "imNKVHQmISs"
+     "videoId": "5o8LNdmevgo"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rUS64MlqNguo6w20guk04hRkCI8\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkloUGRaWUNTLWd3",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QycnCHnA501VSu7_nHMP-xdpOjo\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC40NzZCMERDMjVEN0RFRThB",
    "snippet": {
-    "publishedAt": "2016-02-23T09:01:22.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Disagreement Over Value of Shelters for Street Children in Ethiopia",
-    "description": "",
+    "publishedAt": "2014-11-24T22:38:24.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Clear the Air",
+    "description": "Sometimes you have to \"clear the air.\" Learn what this American English phrase means by watching this video.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-clear-the-air/2494875.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/default.jpg",
+      "url": "https://i.ytimg.com/vi/ape8znRMmNA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ape8znRMmNA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ape8znRMmNA/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ape8znRMmNA/sddefault.jpg",
+      "width": 640,
+      "height": 480
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 36,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "IhPdZYCS-gw"
+     "videoId": "ape8znRMmNA"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-tbgYj4TtqoqzVtgTQpszrD96Wk\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJGQ19NdXRTeUpv",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fp0MOAwX5Fc7PGNXo-g96jLisYE\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5GNjNDRDREMDQxOThCMDQ2",
    "snippet": {
-    "publishedAt": "2016-02-23T08:52:55.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Congress Debates Interest Rates on Student Loans",
-    "description": "",
+    "publishedAt": "2014-11-24T22:29:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Barking Up the Wrong Tree",
+    "description": "Have you heard someone use this phrase in a discussion? The video will tell you all about \"barking up the wrong tree.\"\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-barking-up-the-wrong-tree/2479292.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/default.jpg",
+      "url": "https://i.ytimg.com/vi/-WSBQd3k85g/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/-WSBQd3k85g/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/-WSBQd3k85g/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-WSBQd3k85g/sddefault.jpg",
+      "width": 640,
+      "height": 480
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 37,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "rFC_MutSyJo"
+     "videoId": "-WSBQd3k85g"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VBsW30D_K0CzxL-smmImDASNQZ0\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlhrSENuN3c4Nmpn",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HLhU9siR0NFt3hZJxQxRLnhmG2Q\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC45NDk1REZENzhEMzU5MDQz",
    "snippet": {
-    "publishedAt": "2016-02-23T08:52:51.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Check Out the World Digital Library",
-    "description": "",
+    "publishedAt": "2014-11-24T22:29:29.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Back-Seat Driver",
+    "description": "Do you have a \"back-seat driver\" in your circle of friends? Watch this video to find out what the phrase means.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-back-seat-driver/2479288.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/default.jpg",
+      "url": "https://i.ytimg.com/vi/zR-B9eCDkdc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/zR-B9eCDkdc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/zR-B9eCDkdc/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zR-B9eCDkdc/sddefault.jpg",
+      "width": 640,
+      "height": 480
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 38,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "XkHCn7w86jg"
+     "videoId": "zR-B9eCDkdc"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/KNkQlV9qnF9zFtYoXZSJKt-6djc\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmdyRWhxeW5CRTk0",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/orloVkhLyHV9UoGOsNYQb_jOtYM\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC5DQUNERDQ2NkIzRUQxNTY1",
    "snippet": {
-    "publishedAt": "2016-02-23T08:52:54.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "American Educators Have Big Dreams for Schools in Africa",
-    "description": "",
+    "publishedAt": "2014-10-27T14:32:31.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Apple of One's Eye",
+    "description": "What could the \"apple of one's eye\" possibly be? Watch this video and found out about the American English phrase.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/grEhqynBE94/default.jpg",
+      "url": "https://i.ytimg.com/vi/eUvVCqblVMA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/grEhqynBE94/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/eUvVCqblVMA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/grEhqynBE94/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/eUvVCqblVMA/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eUvVCqblVMA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eUvVCqblVMA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 39,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "grEhqynBE94"
+     "videoId": "eUvVCqblVMA"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/42WXuQT4qQhJHjpvNbURNN6CXQM\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnZLekZLblVWT1hN",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Fi0fhbtlfPgHpcII4nNzwC-EKHY\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41MzJCQjBCNDIyRkJDN0VD",
    "snippet": {
-    "publishedAt": "2016-02-23T08:47:46.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "Affirmative Action Ruling Brings Mixed Reaction",
-    "description": "",
+    "publishedAt": "2014-10-20T15:01:45.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: As the Crow Flies",
+    "description": "Have you ever heard someone use \"as the crow flies\" in a sentence?\r\nWatch this video and find out what this phrase means in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-as-the-crow-flies/2479286.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/default.jpg",
+      "url": "https://i.ytimg.com/vi/gEx7pWEbAaY/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gEx7pWEbAaY/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gEx7pWEbAaY/hqdefault.jpg",
       "width": 480,
       "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gEx7pWEbAaY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gEx7pWEbAaY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 40,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "vKzFKnUVOXM"
+     "videoId": "gEx7pWEbAaY"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/o-oHxjgAcpLkTE1EipYqb3794MY\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnVaUkdKN1ZzUXZZ",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/L2WKdGNZ2zrpIURJUKJq5utUK5Q\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4xMkVGQjNCMUM1N0RFNEUx",
    "snippet": {
-    "publishedAt": "2016-02-22T13:46:17.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Surveillance",
-    "description": "",
+    "publishedAt": "2014-10-17T19:48:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: It's Up To You",
+    "description": "If somebody told you \"it's up to you\" what would you think?  Watch this program to find out what this phrase means in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/1679564.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/default.jpg",
+      "url": "https://i.ytimg.com/vi/VvYHPQY9_M0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/VvYHPQY9_M0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/VvYHPQY9_M0/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/VvYHPQY9_M0/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 41,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "uZRGJ7VsQvY"
+     "videoId": "VvYHPQY9_M0"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DUN_5BQzfvPHMF5Fz7WfU-y8JL0\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkdfdDBHSTBuVFhr",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PJnqdKIkVCJ5IUf7bEGp1ncb3YY\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4wOTA3OTZBNzVEMTUzOTMy",
    "snippet": {
-    "publishedAt": "2016-02-22T13:46:09.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Stock Market",
-    "description": "",
+    "publishedAt": "2014-10-17T19:48:41.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Miss The Point",
+    "description": "Have you ever heard somebody say \"miss the point?\"  Watch this program to find out the meaning of this phrase in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/1666400.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/default.jpg",
+      "url": "https://i.ytimg.com/vi/zfH7wPm2Brw/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/zfH7wPm2Brw/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/zfH7wPm2Brw/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/zfH7wPm2Brw/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 42,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "G_t0GI0nTXk"
+     "videoId": "zfH7wPm2Brw"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hXZUTzKOFKqoyrAqvbRtYux_u_g\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJxYTBVQk0wMERF",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RcUfVwu_PeV8B0mSwNXDLc-dI08\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41MjE1MkI0OTQ2QzJGNzNG",
    "snippet": {
-    "publishedAt": "2016-02-22T13:45:40.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Senate",
-    "description": "",
+    "publishedAt": "2014-10-16T16:14:51.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Go With The Flow",
+    "description": "What could this phrase mean?  Watch this program and find out the meaning of this idiom in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/1698437.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/default.jpg",
+      "url": "https://i.ytimg.com/vi/aU3cQBuLx0Q/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/aU3cQBuLx0Q/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/aU3cQBuLx0Q/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/aU3cQBuLx0Q/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 43,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "rqa0UBM00DE"
+     "videoId": "aU3cQBuLx0Q"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MFX5OlXaPagWA8ZNmy7mQdF5ZgU\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlpoZlhCLWpDUlBV",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/oS6A0ugY0FXuiFItdcFRCYNxNLw\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4wMTcyMDhGQUE4NTIzM0Y5",
    "snippet": {
-    "publishedAt": "2016-02-22T13:44:45.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Presidential",
-    "description": "",
+    "publishedAt": "2014-10-16T16:12:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Piece of Cake",
+    "description": "What does it mean when a person says something is \"a piece of cake?\"  Watch this program to find out what this phrase means in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/1679557.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/default.jpg",
+      "url": "https://i.ytimg.com/vi/G33bjxq7s4Y/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/G33bjxq7s4Y/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/G33bjxq7s4Y/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/G33bjxq7s4Y/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 44,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "ZhfXB-jCRPU"
+     "videoId": "G33bjxq7s4Y"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9OyUfVaG3Qg6hSXhBBH78PdUahE\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkJJTWRJRDg0bFZV",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QqsNR-WfPxvvmsuviApgFynkiQM\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC4yODlGNEE0NkRGMEEzMEQy",
    "snippet": {
-    "publishedAt": "2016-02-22T13:44:49.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Investment",
-    "description": "",
+    "publishedAt": "2014-10-16T16:11:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Get On My Nerves",
+    "description": "What does this phrase mean in American English?  Watch this program to discover what this means in American English.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/1698912.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/BIMdID84lVU/default.jpg",
+      "url": "https://i.ytimg.com/vi/nitfo1r65T4/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/BIMdID84lVU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/nitfo1r65T4/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/BIMdID84lVU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/nitfo1r65T4/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/BIMdID84lVU/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/nitfo1r65T4/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/BIMdID84lVU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 45,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "BIMdID84lVU"
+     "videoId": "nitfo1r65T4"
     }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AVXLn3R_UDN76C6n8lE1P7RMgUo\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjZPdHZ6ekw0VlhV",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ujozfckN6q7V0eU8wXv1KyDKv4E\"",
+   "id": "UExkOWhDdmozNFc1aEpad2pkZ2h3UVFpM1hocFNaTzlzeC41NkI0NEY2RDEwNTU3Q0M2",
    "snippet": {
-    "publishedAt": "2016-02-22T13:44:17.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - House of Representatives",
-    "description": "",
+    "publishedAt": "2014-10-16T15:30:03.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "English in a Minute: Burned Out",
+    "description": "What does it mean to be \"burned out\" in American English\n\rOriginally published at - http://learningenglish.voanews.com/media/video/english-in-a-minute-burned-out/2479290.html",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/default.jpg",
+      "url": "https://i.ytimg.com/vi/tY_aZGzpb0Y/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tY_aZGzpb0Y/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tY_aZGzpb0Y/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/tY_aZGzpb0Y/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/tY_aZGzpb0Y/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",
     "position": 46,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "6OtvzzL4VXU"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Rh00uEzbro81rGyb9yDOV32K8fE\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm5VaV9oOGtFbkhF",
-   "snippet": {
-    "publishedAt": "2016-02-22T13:44:04.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Espionage",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
-    "position": 47,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "nUi_h8kEnHE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-q5vMvjR1oOJrXG_D6qBvx05API\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjZxMEtzMnlvWWpR",
-   "snippet": {
-    "publishedAt": "2016-02-22T13:43:42.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words  Encouraging",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
-    "position": 48,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "6q0Ks2yoYjQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7n4N21xoWRBBjbJhSyg2Ps4ihBw\"",
-   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJiS3pVbExqM0N3",
-   "snippet": {
-    "publishedAt": "2016-02-22T13:42:58.000Z",
-    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
-    "title": "News Words - Dialogue",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "1 minute for English",
-    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
-    "position": 49,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "rbKzUlLj3Cw"
+     "videoId": "tY_aZGzpb0Y"
     }
    }
   }
