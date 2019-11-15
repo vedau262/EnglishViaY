@@ -1,0 +1,1976 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9ePvqZ9H2QQiZGHy2xO8bujpo9w\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 220,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/M_wvuqbKDKLYdeSKxcFnwzUfOPc\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjRBMjY2RTA0NkYwMDYwNEI=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 395",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pbS7ZO4CNmQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pbS7ZO4CNmQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pbS7ZO4CNmQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pbS7ZO4CNmQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bu9Qy6u7MXm9aCNTHS-4Pb2Rf5Y\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkU1QzZEQTAwOEFGQTA5RjQ=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:23.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 396",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3ITbwlGWZCY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3ITbwlGWZCY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3ITbwlGWZCY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3ITbwlGWZCY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/flwCpVIYNShUcfQ-KC0aKK1w8Z4\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkQwMkI4ODc1MTUyM0Q2RTI=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:17.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 397",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9OlE7nnoufo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9OlE7nnoufo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9OlE7nnoufo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9OlE7nnoufo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/oZoq24b1oh7_9jMerOAaibZJB0I\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkJBQzM3QUYwQUIzMzgyQTk=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 391",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f9aEx_zA4xI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f9aEx_zA4xI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f9aEx_zA4xI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f9aEx_zA4xI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z7OHBl39DqflfSiA4groOjzIrBg\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjQ3OEU4OEIxQkY1QTc2RTU=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 392",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aDa74ZLKAFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aDa74ZLKAFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aDa74ZLKAFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aDa74ZLKAFk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hiNDT8EyFt52FNw40alGskGb1ng\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjBDQTc0RURFQkNDRTlBNzk=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 394",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vu6WRo_Tbig/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vu6WRo_Tbig/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vu6WRo_Tbig/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vu6WRo_Tbig"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JdND0xSidE0WhQZW7NaI1LJCvVA\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkI5RDFEQkRBRTlFRTkwNTQ=",
+   "snippet": {
+    "publishedAt": "2017-06-19T00:56:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "VOA Learning English - Health Report # 393",
+    "description": "The latest research about diseases and medical advice presented in Special English",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aU0afMy6_bY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aU0afMy6_bY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aU0afMy6_bY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aU0afMy6_bY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/alhKhkLodl4oZYa39XBLADR9aTY\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjMyREQzNDNFQzU4RTY2MkU=",
+   "snippet": {
+    "publishedAt": "2016-05-24T19:01:22.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Greenery Linked to Longer Lifespan in Women",
+    "description": "We all know that trees and plants are beautiful and help the world around us. But a new study shows that living around more greenery may help women live longer.\r\nOriginally published at - http://learningenglish.voanews.com/a/greenery-linked-to-longer-lifespan-in-women/3338891.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UAe9Bwl38Yc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UAe9Bwl38Yc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UAe9Bwl38Yc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UAe9Bwl38Yc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UAe9Bwl38Yc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/w2Hh9sUiXhvuxGEJXzBtZqPQ8fs\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkZCNzRFOTcyMDgzNkJGQUE=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Roman Toilets Offered No Clear Health Benefits",
+    "description": "When the Romans moved into Europe around 2,000 years ago, they brought a cleaner way of living. That meant better quality toilets, sewers and bathing areas. But a new study shows that parasites were not defeated under Roman rule.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/roman-toilets-offer-no-clear-health-benefits/3186638.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-DJOsBi0ouA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-DJOsBi0ouA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-DJOsBi0ouA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-DJOsBi0ouA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-DJOsBi0ouA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YF0L67oSXvRUy06WEVkBRfy4LMs\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjVFRURFQjI4NDU2MzI4MEE=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: “Smart” Bandages Could Heal Wounds Better",
+    "description": "Researchers have created a new kind of “smart bandage.” It can provide medicine to a wound, and is made of material very similar to human skin.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/smart-bandages-could-heal-wounds-better/3210178.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/85cY7OqVBw4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/85cY7OqVBw4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/85cY7OqVBw4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/85cY7OqVBw4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "85cY7OqVBw4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pEGIsMg1xi05a6h1qWf_Ljwyab0\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjBCODM2MTJEMTJBNUI5QjI=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Asian Children Face Hunger and Obesity",
+    "description": "Child hunger and obesity are rising in Asia, says a new report.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/asian-children-fight-hunger-and-obesity/3285529.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/T0QX9CIWjqg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/T0QX9CIWjqg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/T0QX9CIWjqg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/T0QX9CIWjqg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "T0QX9CIWjqg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/C87HiUTFvX6H0gltfXIZdDhw-kA\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjk2MkY0RTVCRTA5MDAwMEU=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: A Gene for Gray Hair Identified",
+    "description": "Scientists say they have discovered a gene that affects a person’s likelihood of getting gray hair. Researchers say a treatment could be developed that may prevent or reverse graying.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/gene-for-gray-hair-identified/3242301.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o8nnrrLpuIc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o8nnrrLpuIc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o8nnrrLpuIc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o8nnrrLpuIc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o8nnrrLpuIc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bbPpFPhcx8MWdAIZDAMIzcfVahE\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjYwRjBGNDFCRTlFOTc5RjU=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Disease Threatens Banana Supplies",
+    "description": "Millions of people depend on bananas for nutrition. But officials are concerned about Panama disease, which threatens world banana supplies. Researchers are hard at work trying to stop the disease from spreading to Latin America.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/disease-threatens-banana-supplies/3316662.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2ZZ7qyQsMIw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2ZZ7qyQsMIw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2ZZ7qyQsMIw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2ZZ7qyQsMIw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2ZZ7qyQsMIw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kjICh-VXy65YXHZ-JP2SpxVy_fI\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkUyMDc3MzhDMTk1RkFFM0Y=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Human Rights Watch Report Details Abuses of Mentally Ill",
+    "description": "A new Human Rights Watch report details the shocking treatment of the mentally ill in Indonesia. Thousands of mentally ill in that country are chained to their beds or confined in small spaces, sometimes for years at a time. This happens even though there are laws prohibiting this treatment.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/human-rights-watch-mentally-ill-abuses/3274576.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_UMVxQeAXY4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_UMVxQeAXY4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_UMVxQeAXY4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_UMVxQeAXY4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_UMVxQeAXY4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0sv9GI_2AldAHFHXKM9xCrh9_So\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjY2NzRCRDg2Qjg3MjM3QUE=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Rich Americans Will Live Up to 15 Years Longer",
+    "description": "A rich 40-year-old man in the United States can expect to live until about 87. A poor 40-year-old man might only live until 73. The difference in length of life as it relates to income is part of a new study.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/rich-americans-live-longer/3306622.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xu6tLSr2IM8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xu6tLSr2IM8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xu6tLSr2IM8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xu6tLSr2IM8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xu6tLSr2IM8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5UnfzPBxtAsjJuZKAYTtDtJT7ic\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkM1NDNDMjExNTU0OEM1QUU=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Saudi Arabia Women Athletes",
+    "description": "Women athletes in Saudi Arabia say sports are helping to break down traditions that crush the voices of many women.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/saudi-arabia-women-athletes/3196765.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aGfGtnWImKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aGfGtnWImKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aGfGtnWImKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aGfGtnWImKI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aGfGtnWImKI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R5W9DiLWg_ih-gAyM698IBXkDAE\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjM3REQ1N0YwQUQ3RDVBODA=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: New York's Emergency Crews Learn Mandarin",
+    "description": "First responders are the first emergency workers to arrive at a fire or other accident. It is important that they are able to collect information to study the problem. In New York City, some first responders are learning a difficult language so that they can do just that.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/new-york-emergency-crews-learn-mandarin/3295564.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zNuj4PNRKAk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zNuj4PNRKAk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zNuj4PNRKAk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zNuj4PNRKAk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zNuj4PNRKAk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IDEIG6KAXZQeGKRi-PfpIngMAHw\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjM0MjY3RUM5RjQzOTAwMEM=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Researchers Explain Why It’s Hard to Sleep in New Place",
+    "description": "It is well know many people have a hard time sleeping in a new place. Researchers from Brown University think they know why. They said the left part of the brain is more active when people sleep in a new place. They said the brain appears to be keeping watch for possible danger.\r\nOriginally published at - http://learningenglish.voanews.com/a/why-its-hard-to-sleep-in-a-new-place/3327323.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/anEfuCyASFY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/anEfuCyASFY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/anEfuCyASFY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/anEfuCyASFY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "anEfuCyASFY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rDqsqXIXUe9z4vk03PD9K4DeuUc\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkQ0NDJBOUQ5Q0IwQ0E0Qjc=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Health Report: Dying of a Happy Heart",
+    "description": "Dying of a broken heart sounds like the ending of a sad love story. But, it actually happens. The “broken heart syndrome,” usually affects people who have received very bad news. Recently however, researchers discovered that a joyful event can also weaken your heart.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/health-report-dying-of-a-happy-heart/3252888.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v96MnEqh5kc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v96MnEqh5kc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v96MnEqh5kc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v96MnEqh5kc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v96MnEqh5kc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RSUp1if5cNguAnPCY9EltGGBt7k\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjE0NERDQkFBMURDOTIyOTk=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:13:22.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Official Warns of Limited Opportunity to Fight Ebola",
+    "description": "Top health experts explain the seriousness of the Ebola outbreak.  One expert warns that the chance for containing the virus could pass -- quickly.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/official-warns-of-limited-opportunity-to-fight-ebola/2463692.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1MvHBWqZg3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1MvHBWqZg3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1MvHBWqZg3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1MvHBWqZg3M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1MvHBWqZg3M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Q51QM9hB6u4CqDfCeNvB6YG8DiY\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkRCRDk5N0Q4NkZEM0MzRTA=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:12:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Study Identifies Problem in Polio Vaccine",
+    "description": "Researchers say changes in the polio virus were to blame for hundreds of deaths in the Republic of Congo in 2010.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/study-identifies-problem-in-polio-vaccine/2455999.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pM0yi7P9I6s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pM0yi7P9I6s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pM0yi7P9I6s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pM0yi7P9I6s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pM0yi7P9I6s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EK1xC4dGmxJgFjgaFQJeKZZIzBQ\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjhCODAxQkQ3NjYzNEUxMDA=",
+   "snippet": {
+    "publishedAt": "2014-09-18T12:59:50.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Raw Chocolate May Be Healthier",
+    "description": "The experts disagree on the health qualities of chocolate. But most agree that raw chocolate could be the healthiest kind available.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x4R1QhPpyMc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x4R1QhPpyMc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x4R1QhPpyMc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x4R1QhPpyMc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x4R1QhPpyMc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TVZ4m9SpLUTK_sCpyDQZgq0uOIM\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjhBNDM1RTUyM0YzNDU5MEY=",
+   "snippet": {
+    "publishedAt": "2014-09-15T13:47:50.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Scientists Base a Hearing Aid Design on the Ears of a Fly",
+    "description": "Scientists at the University of Texas are developing technology based on structures in the tiny ears of an unusual fly.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2425285.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zIOvl73G-Vk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zIOvl73G-Vk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zIOvl73G-Vk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zIOvl73G-Vk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zIOvl73G-Vk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qU2B7xo8izfjD9FYSaa_gPq4bF0\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjIyNjczMkI2QzBBNDNEMjE=",
+   "snippet": {
+    "publishedAt": "2013-11-05T20:45:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Ethiopia Praised for 67 Percent Drop in Child Deaths",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Health Report.\n\nThe United Nations Children's Fund is praising Ethiopia for reaching one of the Millennium Development Goals.  UNICEF officials say Ethiopia has reduced child deaths by more than two-thirds. Between 1990 and 2012, Ethiopia reported a 67 percent drop in the number of children dying before the age of five. Ethiopia's minister of health, Kesetebirhan Admasu, says his country has committed to end all preventable child deaths in a generation by 2035. Diarrhea, pneumonia and malaria are the leading causes of death among children in Ethiopia. In 1990, the country's death rate for children under five was one of the highest in the world. The death rate has dropped from 204 deaths for every 1,000 births to 68 deaths per thousand births. Hundreds of thousands of Ethiopian children who might have died in earlier years now reach their fifth birthday. Ethiopia is one of four African countries to have reached a Millennium Development Goal. The other three are Liberia, Malawi and Tanzania. One reason for Ethiopia's success is its Health Extension Program. The program employed 38,000 people to bring health care services to a large part of the rural population. Peter Salama is UNICEF's representative for Ethiopia. He says Ethiopia's plan can serve as an example. He says delegations from Togo, Guinea and Namibia have come to study the Health Extension Program. The United Nations approved the Millennium Development Goals in 2001. The goals were meant to get countries to pay more attention to issues such as fighting extreme poverty. Progress on the goal of reducing child deaths is slow in most countries. Only 13 of 61 countries are in a position to meet it. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/89R6QodXIBM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/89R6QodXIBM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/89R6QodXIBM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/89R6QodXIBM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "89R6QodXIBM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TuV7RwNStLX7RgeUqQ7Nlx9NVY4\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjM5QzUyQUY2Mzc3QTBDOEQ=",
+   "snippet": {
+    "publishedAt": "2013-10-30T17:05:12.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Vietnamese Nurses Go to Germany and Japan to Study Geriatric Care",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Health Report. \n\nJapan and Germany have the world's oldest populations, but neither country has enough trained health care workers to meet the needs of older adults. Now, they are turning to Vietnam for help. This month, 100 young Vietnamese are going to Germany as part of a project to train what are called \"geriatric\" nurses to work in the European country. The trainees recently completed a six-month language and culture class in Hanoi. They will spend the next two years in an occupational training program. If the trainees pass the final exam, they will be able to work in Germany as geriatric nurses for another three years. Germany is facing a crisis as low birth rates combine with a growing population of citizens who are living longer. About 20 percent of the population is over age 65, and that percentage is expected to continue rising. This is a problem that Japan also faces. Later this year, 150 Vietnamese candidates will go to Japan for two years of training at the country's hospitals. After that, they are expected to take the national nursing exam. Japan already trains nurses from the Philippines and Indonesia. But the health care system has been criticized for being too restrictive. All candidates must take the same exam, but it is very difficult for foreign applicants because few can speak the Japanese language. Many Japanese are opposed to foreigners working in some industries. Critics say foreign labor could lead to higher unemployment. But, there is little opposition to foreign nurses. In Vietnam, there are not enough jobs for everyone who wants one. Most children are expected to care for their aging parents when they get old. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yUmveHf9vDI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yUmveHf9vDI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yUmveHf9vDI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yUmveHf9vDI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yUmveHf9vDI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HYIEKSE03-F2D8Fr3cBkZFjGlPA\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjg3NzA0QjJBQkM4ODAwNTc=",
+   "snippet": {
+    "publishedAt": "2013-10-16T19:14:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Anti-Malaria Bed Nets Can Fight Elephantiasis",
+    "description": "Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Health Report. \n\nScientists are working on ways to stop a disease that threatens one-fifth of the world's population. Over 120 million people are infected with lymphatic filariasis, also known as elephantiasis. The disease is found mainly in Southeast Asia and Africa. It affects the lymphatic system, which is a major part of the body's natural defenses for fighting disease. Elephantiasis can cause swelling, or enlargement, of skin and tissue. The cause is a tiny worm that enters and lives in lymphatic tubes for six to eight years.  Scientists say they have been able to demonstrate that the most common cause of elephantiasis can be stopped. They are urging those at risk to sleep under nets treated with chemicals that kill a common insect: the mosquito. Lisa Reimer teaches at the Liverpool School of Tropical Medicine. She formerly served in Papua New Guinea as part of a team studying the disease. The team involved researchers from Papua New Guinea, Britain, Australia and the United States. Dr. Reimer says she was surprised at how effective anti-malaria bed nets covered with insecticide could be at fighting the disease. Doctors normally use drugs to fight the disease. Lisa Reimer says doctors in Papua New Guinea gave the drugs to people in five villages. She says this treatment nearly ended the threat from the worm to humans. But the drugs did not stop the threat from mosquitoes. The treated nets block female mosquitoes from securing blood, which they need to reproduce. The World Health Organization has set a goal of stopping lymphatic filariasis as a public health problem by the year 2020. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1flqsQlxFPI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1flqsQlxFPI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1flqsQlxFPI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1flqsQlxFPI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1flqsQlxFPI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vGlgDb7Yu85kSRNq5NOX9-GhvF4\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjI5MTE4MUI5NEE5MUIxMUM=",
+   "snippet": {
+    "publishedAt": "2013-09-30T19:54:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "WHO Urges Health Care for All",
+    "description": "From VOA Learning English, this is the Health Report.\n\nThe World Health Organization says everyone should have a right to the health care services they need without risking financial ruin. A new WHO report is urging countries to provide health care designed to meet the needs of their citizens. In 2005, all 194 members of the World Health Organization set a goal of providing universal health coverage. But very few countries have reached that target. Most people must use their own financial resources to pay for the health care they need.Since health care needs differ from one country to another, the new report urges every country to create its own system of health coverage. It says the services should include prevention, treatment, rehabilitation and reduction of pain. And the health care should involve communities, health centers and hospitals. Christopher Dye is head of the WHO's Office of Health Information, HIV/AIDS, Tuberculosis, Malaria and Neglected Tropical Diseases. Every year, he says, about 150 million people face extraordinary medical expenses that they cannot pay. The question, he says, is how to put in place financial risk protection that reduces costs to a minimum.The report shows how research can help countries improve their health system. Dr. Dye said some European countries have continued supporting their social and health services even during this period of financial difficulty. He says that decision is paying off in better health for their people. Dr. Dye notes that the cost of medical care is increasing quickly. Because of that, he says, governments must work harder to keep costs under control. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oXNBQVA3tpA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oXNBQVA3tpA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oXNBQVA3tpA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oXNBQVA3tpA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oXNBQVA3tpA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/easpa_mYDrqqUaQ2j1Wqu4m4kQs\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkM5M0QwNTUzRkU1MjRGOEM=",
+   "snippet": {
+    "publishedAt": "2013-09-24T12:08:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Findings About Soft Drinks and Aggression in Children",
+    "description": "From VOA Learning English, this is the Health Report.\n\nA new study has found evidence of aggressive behavior in children who drink four or more servings of soft drinks every day. Information for the study came from the mothers of three thousand five-year-olds. Researchers asked the women to keep a record of how many servings of soft drinks their children drank over a two-month period. The women also were asked to complete a checklist of their children's behavior. The researchers found that 43 percent of the boys and girls drank at least one daily serving of soda. Four percent of the youngsters had four or more sodas to drink every day. Shakira Suglia is with Columbia University's Mailman School of Public Health in New York City. She worked on the study with researchers from the University of Vermont and Harvard University School of Public Health. She says they found that children who drank the most soda were more than two times as likely as those who drank no soda to show signs of aggression. The aggressive behaviors included destroying possessions belonging to others, taking part in fights and physically attacking people. Dr. Suglia says the researchers identified the link after they considered socio-demographic factors like the child's age and sex. They also considered other possible influences, such as whether the boys and girls were eating sweets or given fruit drinks on a normal day. In addition, the researchers examined parenting styles and social conditions at home. Dr. Suglia says it is not clear why young children who drink a lot of soda have behavior problems.  But she says the ingredient caffeine could cause children to be more aggressive. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TncVkijfCgo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TncVkijfCgo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TncVkijfCgo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TncVkijfCgo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TncVkijfCgo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zhk6sxTwunNE0Ny60FOSJEXC4Pg\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjE0RDlBRkU3OTdENkM1NEQ=",
+   "snippet": {
+    "publishedAt": "2013-09-17T12:43:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Doctors in US Assist Operations in Syria by Skype",
+    "description": "Watch with or without closed captions. Click \"cc\" on the YouTube toolbar. Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ilZISQf1tAs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ilZISQf1tAs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ilZISQf1tAs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ilZISQf1tAs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ilZISQf1tAs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9NHarFNlUyaKzopVimRqIsk-Kq4\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjlDRkJGOENGQjJCQTAzNjU=",
+   "snippet": {
+    "publishedAt": "2013-09-16T19:31:04.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Alcohol Abuse Costs US More than $220 Billion a Year",
+    "description": "From VOA Learning English, this is the Health Report. \n\nA new study has found that excessive alcohol drinking costs Americans more than $220 billion a year. But the organizers of the study believe the biggest cost comes from the loss of worker productivity.  Robert Brewer works for America's Centers for Disease Control and Prevention, a public health agency. He helped to produce a report on the study. Researchers used findings from 2006 to examine costs linked to heavy drinking. They looked at results from around the United States and found a lot of variation in different parts of the country. Alcohol-related costs include health care, the cost of trying cases for alcohol-related crimes, and property damage from road accidents. Robert Brewer says the biggest cost, however, is the loss of productivity. Many people with a drinking problem have lower-paying jobs. He says they may also be less productive when they are at work. Mr. Brewer says there is also a huge cost to people who die from alcohol-related causes. He says many are young, and their incomes and productivity are tragically lost. The researchers were mainly concerned about the cost of heavy alcohol use. The study did not look at the effect on individuals who drink a glass of beer or wine with dinner. Mr. Brewer says the largest costs come from binge drinking, when people drink a lot of alcohol in a short period of time. The study was based on the economic costs of heavy drinking in the United States. But Mr. Brewer says many nations have problems with what the World Health Organization calls \"harmful use of alcohol.\" For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FxHoKGM36Cc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FxHoKGM36Cc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FxHoKGM36Cc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FxHoKGM36Cc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FxHoKGM36Cc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vQYpzIf4Xf4AHZpayWCSIcb6u3M\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjQ1ODNGQjhDNEMyNzdCMkY=",
+   "snippet": {
+    "publishedAt": "2013-09-14T15:42:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Colors and Depression",
+    "description": "From VOA Learning English, this is the Health Report. \n\nSome colors that people see late at night could cause signs of severe depression. That was the finding of a recent study that builds on earlier findings. They showed that individuals who live or work in low levels of light overnight can develop clinical depression, or severe depression. Signs may include loss of interest or pleasure in most activities, low energy levels and thoughts of death or suicide.In the recent study, American investigators designed an experiment that exposed hamsters to different colors. The researchers chose hamsters because they are nocturnal, which means they sleep during the day and are active at night. The animals were separated into four groups. One group of hamsters was kept in the dark during the nighttime period.  Another group was placed in front of a blue light. A third group slept in front of a white light, while a fourth was put in front of a red light. After four weeks, the researchers noted how much sugary water the hamsters drank. They found that the more depressed animals drank the least amount of water. Randy Nelson heads the Department of Neuroscience at Ohio State University. He says animals that slept in blue and white light appeared to be the most depressed. Randy Nelson notes that photosensitive cells in the retina have little to do with eyesight. He says these cells send signals to the area of the brain that controls what has been called the natural sleep-wake cycle. He says there is a lot of blue in white light. This explains why the blue light and white light hamsters appeared to be more depressed than those seeing red. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AcUZyqZg3Ts/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AcUZyqZg3Ts/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AcUZyqZg3Ts/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AcUZyqZg3Ts/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AcUZyqZg3Ts"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TchhoIfBo5thuGd3xjDKdec_2IM\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkRDRTg4RjRFN0JERTk5NkE=",
+   "snippet": {
+    "publishedAt": "2013-09-09T14:53:45.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Malaria Prevention Efforts Miss Many Pregnant Women in Africa",
+    "description": "From VOA Learning English, this is the Health Report. \n\nMalaria kills about 200,000 newborn babies and 10,000 new mothers every year. Most of these deaths are in Africa. Malaria can also cause mothers to lose their babies before they are born, or cause a baby to be born early. There are low-cost ways to prevent malaria infections. But a new study finds that many pregnant women do not receive these interventions.  For example, the World Health Organization has advised pregnant women in areas with high rates of malaria to sleep under bed nets treated with insecticide. The WHO also advises them to get what is known as intermittent preventive treatment, or IPT. This treatment involves taking a low-cost anti-malaria drug at certain times in their pregnancy in an effort to prevent the disease. The WHO recommends that pregnant women receive the medicine during visits to a clinic. Many pregnant women and new mothers go to medical clinics in sub-Saharan Africa. Yet researchers say only about 21 percent receive intermittent preventive treatment during their pregnancy. And less than 40 percent are given protective bed nets. Jenny Hill from the Liverpool School of Tropical Medicine is program manager for a research partnership called the Malaria and Pregnancy Consortium.  Ms. Hill says a review of 98 studies found a number of barriers to malaria prevention. These include unclear policy and guidance from government and health care officials. Other problems include drug shortages, a lack of clean water, and confusion about how to administer IPT. Ms. Hill says countries can save lives by following the WHO policy on intermittent preventive treatment. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w9i372Z6G78/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w9i372Z6G78/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w9i372Z6G78/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w9i372Z6G78/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w9i372Z6G78"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/q5CnwdwTpdby_QlMOWVtBRtlclo\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjU2QTVERTUwRENGNjY4MUY=",
+   "snippet": {
+    "publishedAt": "2013-08-26T18:17:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Zambia Fights HPV in Girls",
+    "description": "Subscribe to our channel: http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Health Report.\n\nZambia has one of the highest rates of cervical cancer in the world.  Ninety of every 100,000 Zambian women get the disease.  The Zambian government recently launched a program to vaccinate schoolgirls against the human papillomavirus, or HPV.  The virus can cause cervical cancer.  HPV can spread through sexual contact.The government hopes to vaccinate schoolgirls between the ages of 9 and 11 against HPV.  The program was launched in May at several schools.  One of them is the Kalingalinga Primary School in Lusaka.  About 100 students there received the HPV vaccine. Euphrasia Mweshi Mutale is a teacher.  She was involved in efforts to inform the community about what was expected to be a difficult subject.  Ms. Mutale is happy with the early results.  She says people involved in the program met with parents and teachers to tell them why it is good to vaccinate the girls.  She notes there have been no reported side effects from the vaccine, like high body temperature or skin discoloration.  Mulindi Mwanahamuntu is a director of the Cervical Cancer Prevention Program in Zambia.  He says health officials wanted to vaccinate 25,000 girls.  But he says there was some resistance from churches and other groups.  Zambian and international health officials are working to end the resistance by educating communities about medical issues.  Zambia is third on the World Health Organization's list of countries with the highest death rates from cervical cancer.  The country also has the highest cervical cancer rate in Africa.For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bo6gMePsQVY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bo6gMePsQVY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bo6gMePsQVY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bo6gMePsQVY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bo6gMePsQVY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/o5F7Hhoa1Al6JOQ3GWCiJ-D_c8c\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjA0NzRDQTIxNjgzQTA3NDA=",
+   "snippet": {
+    "publishedAt": "2013-08-21T13:17:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Why 'Minor' Memory Loss May Be a Bad Sign",
+    "description": "From VOA Learning English, this is the Health Report.\n\nYou wake up early one morning to prepare a meal to take to work, and then you forget it. Has this ever happened to you? Researchers say they now have proof that self-reported minor memory loss sometimes led to greater mental decline six years later. They reported the findings at a recent conference organized by the Alzheimer's Association. \nRebecca Amariglio is a neuropsychologist at Brigham and Women's Hospital in Boston, Massachusetts. She found that individuals who worried about their memory were more likely to suffer a loss of mental ability. Her research showed such persons were likely to have a protein called beta amyloid in the brain. Beta amyloid is suspected of being at least partly involved in Alzheimer's disease. Evidence that the disease develops for an unknown period of time before doctors recognize it is leading to a new area of study. It is called \"subjective cognitive decline.\" It involves people who sense that their memory and thinking skills are failing before others realize it. Experts want to inform the public that most people who worry about their mental decline do not develop dementia, the most common form of Alzheimer's. What they are experiencing is truly natural and normal aging. Dr. Ronald Petersen is a member of the Alzheimer's Association National Board. He says people should be tested if they fear they might have the disease. He says doctors might ask patients about other issues, like any medicines they are taking or whether they suffer from anxiety, depression or stress. He says all those things can cause changes in memory. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aO6JFBbeEIc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aO6JFBbeEIc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aO6JFBbeEIc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aO6JFBbeEIc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aO6JFBbeEIc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aMWc3AExCSmGGMIODoUDg2fVMZc\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkY2MUFBRjVCOUZBNkUyMkQ=",
+   "snippet": {
+    "publishedAt": "2013-08-12T15:34:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Long Life Doesn't Always Mean a Healthy Life",
+    "description": "From VOA Learning English, this is the Health Report. \n\nA new study has found that Americans are generally in good health. But some may be living with chronic disease longer and dying younger. Even without the study, some Americans seem to understand that a long life does not necessarily mean a healthy life. Christopher Murray from the University of Washington led the study. He says Americans are spending more years of their lives with long-term diseases.Researchers studied the major diseases and injuries that were at least partly to blame for Americans' health problems and early deaths over the past 20 years. They found the leading causes of chronic, or long-lasting, disability include depression, anxiety and back pain. Other leading causes are diabetes and lung diseases that block airflow and make breathing difficult. The researchers identified heart attack, stroke and cancer as the leading causes of early death. Dr. Murray says too many Americans are dying at an early age because they smoke or eat too many of the wrong foods. He says poor diet is blamed for 680,000 deaths. That is more than the 400,000 deaths a year from tobacco use. Obesity and high blood pressure are other conditions responsible for poor health. Another concern is air pollution. The National Institutes of Health says air pollution has been linked to heart and lung diseases. There was also good news from the study. It showed that Americans are generally enjoying better health longer. That is because of better methods for treating stroke and fighting some cancers. But it also found America is behind other wealthy nations in improving the health of its citizens. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W7GjfBpNJnc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W7GjfBpNJnc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W7GjfBpNJnc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W7GjfBpNJnc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W7GjfBpNJnc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/A3B_D9mVrwOUtkT47AP3VD-a2kc\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjVEMDM3NTM1RkIxMzg0NkY=",
+   "snippet": {
+    "publishedAt": "2013-07-23T13:31:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "An Experimental Drug for PTSD",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sc0z3YpkyNk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sc0z3YpkyNk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sc0z3YpkyNk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sc0z3YpkyNk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sc0z3YpkyNk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fuUD1ZsJwjz24t903ZSIVAQ3Kro\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjBDQTczQTkzMUI5QzQ4NUQ=",
+   "snippet": {
+    "publishedAt": "2013-07-19T22:16:57.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Billions Have Untreated Tooth Decay",
+    "description": "From VOA Learning English, this is the Health Report. Nearly 4 billion people around the world have serious, untreated problems with their teeth. That is what a recent report from the World Health Organization says. Health officials say failure to repair cavities can even lead to social and emotional problems. Wagner Marcenes is with the Institute of Dentistry at Queen Mary, University of London. He led a team of researchers as part of the Global Burden of Disease 2010 study. They used the information to estimate rates of infection. The report says untreated tooth decay is the most common of all 291 major diseases and injuries. Professor Marcenes says increases in tooth decay are affecting sub-Saharan Africa and probably other areas on the continent. He says this increase in tooth decay could be a result of changes in diet, as developing countries adopt western-style diets. Many western diets are rich in sugar, a leading cause of health problems in the mouth. But, in western countries, water supplies are often treated with the chemical fluoride. Adding fluoride to the water makes teeth resistant to the bacteria that can cause tooth decay. Wagner Marcenes says oral health problems can have a major effect on a person's quality of life. Cavities make eating difficult. As a result, people may eat softer foods that are easier to chew. However, softer foods are often higher in fat. Professor Marcenes is calling for an \"urgent, organized, social response\" to oral health problems. He believes in fighting tooth decay through a healthier diet. He is also calling for the development of new and less costly dental materials and treatments. For VOA Learning English, I'm Mario Ritter.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EAR0BK7grMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EAR0BK7grMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EAR0BK7grMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EAR0BK7grMA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EAR0BK7grMA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/uHtniqivBOSyCPSe5pQ0AvsLKoc\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjA1RDc3QjAzREEwMkYyNDQ=",
+   "snippet": {
+    "publishedAt": "2013-07-10T13:58:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Using Group Cognitive Therapy to Help Rape Victims in DRC",
+    "description": "From VOA Learning English, this is the Health Report. Group cognitive therapy is a form of mental health treatment. A study has found that this form of talk therapy can help rape victims in countries where there are few trained psychologists. Researchers say the findings show that counselors in a community can be trained to provide group cognitive therapy. Judith Bass is a professor of mental health at the Johns Hopkins School of Public Health in Baltimore, Maryland. She says rape victims can face a series of short and long-term problems. These include depression, anxiety and post-traumatic stress disorder. Sudden sounds or events can bring back memories of the attack. Professor Bass says sexual violence affects not just the victims but also their communities. Warring groups use rape to dehumanize and humiliate their opponents. Judith Bass says women who are raped often suffer from social stigma in their communities. They experience fear and worry about whether they can meet the needs of their families. Cognitive behavioral group therapy has been shown to work in Western countries. Judith Bass and other researchers investigated whether it could help women in the Democratic Republic of Congo. The DRC has faced more than 30 years of conflict since 1960. After six months, 42 percent of those in individual counseling who were depressed at the start of the therapy no longer showed signs of depression. By comparison, 70 percent of those in the cognitive therapy groups were no longer depressed. In these groups, the women discussed goals and learned skills for overcoming their depression and symptoms of post-traumatic stress disorder. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ew_qZQzmvik/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ew_qZQzmvik/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ew_qZQzmvik/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ew_qZQzmvik/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ew_qZQzmvik"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ljfwp-JpArIgUua9HfuVgVbfV9Q\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjg1MkFENDI2RDU3RTIwRTI=",
+   "snippet": {
+    "publishedAt": "2013-07-02T16:40:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Obesity Rises Among Children in Developing Countries",
+    "description": "http://learningenglish.voanews.com | http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Health Report.The World Health Organization says there has been an increase in the number of children in developing countries who weigh too much. In African countries, the WHO says the number of overweight or obese children is two times as high as it was 20 years ago. Around the world, about 43 million children under the age of five were overweight in 2011. Doctors use height, weight and age to measure whether a person is underweight, normal, overweight or obese. Overweight and obese children are more likely to become overweight and obese adults. They are also at risk of developing health problems like diabetes and heart disease. Francesco Branca is the director of the WHO Department of Nutrition for Health and Development. He says governments should consider providing vitamins for children. And they should have policies on how food is marketed to children. But reducing the number of overweight children will not be easy. The goal is difficult to meet, even in wealthy countries. Experts say lowering obesity rates is especially complex in countries that also have high rates of infectious diseases. But the WHO has some basic solutions. The organization says people should eat less fat, sugar, salt and processed food. This can be replaced with more fruits and vegetables and increased physical activity. These goals are especially important for children. The WHO also says mothers should breastfeed their babies for at least the first six months, if possible.  The current goal for the WHO's World Health Assembly is to prevent any increase in the percentage of overweight children in the next 12 years. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Lc8-eWeyU8s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Lc8-eWeyU8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Lc8-eWeyU8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Lc8-eWeyU8s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Lc8-eWeyU8s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/l5jSKE3h9E1hTmZLDN1DwX0axXg\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjEzQ0U3M0Q3RDQxOTczNDY=",
+   "snippet": {
+    "publishedAt": "2013-06-25T21:10:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "MERS Virus Worries Public Health Officials",
+    "description": "From VOA Learning English, this is the Health Report.The World Health Organization is expressing increasing concern about a virus that is similar to the respiratory disease known as SARS. The WHO calls the newly named disease Middle East respiratory syndrome coronavirus, or MERS-CoV. Most cases of MERS have been reported in the Middle East, mainly in Saudi Arabia. But cases have also been found in other countries, including Italy, Tunisia, Jordan, Britain and France.Since September the WHO has been informed of more than 50 laboratory-confirmed cases of MERS. At least 30 people with the infection have died. WHO spokesman Gregory Hartl says public health experts need to learn how humans get infected in order to be able to control it. And, he says experts need to develop ways to treat the disease.Mr. Hartl says so far all of the confirmed cases of the disease have had something in common. All the cases have had a travel connection to the Arabian Peninsula. Mr. Hartl says there have been very few cases where infected people returned home and transmitted the virus to other people. But two cases in France suggest that close contact can cause the virus to spread from person to person. A man sharing a hospital room with a patient with MERS later developed the infection himself. A new study published online by the Lancet medical journal suggests that people with MERS should be kept away from other people for twelve days.The director general of the WHO, Dr. Margaret Chan, has described the MERS virus as a \"threat to the entire world.\" Symptoms of the disease include cough, fever and difficulty breathing. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-rp0xjrVCU0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-rp0xjrVCU0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-rp0xjrVCU0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-rp0xjrVCU0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-rp0xjrVCU0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_CoyVtZQrdMQxmcIETW5pDMZvjE\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjI5NTZGQjcwMzMzQTAyNzU=",
+   "snippet": {
+    "publishedAt": "2013-06-13T12:08:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Dangers of Living Near Toxic Waste Dumps",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish \n\nFrom VOA Learning English, this is the Health Report. Millions of people in developing countries live near toxic waste sites. A new study looked at the dangers of living near these chemical waste dumps. An environmental group in New York studied water and soil samples from 373 waste sites in Pakistan, India and Indonesia. The researchers found that more than 8.6 million people were living near the sites in 2010. Richard Fuller was an author of the study. He says lead, chromium, mercury, phosphates, pesticides and other kinds of chemicals were found. Mr. Fuller heads the Blacksmith Institute, which paid for the study. The institute works to solve pollution problems in low- and moderate-income countries. The study says people living near the dumps lost more than 828,000 years of healthy life from toxic waste exposure. The researchers based this finding on estimates of illness, disability and early death. They say malaria caused less illness and early death in the same three countries, while air pollution caused a little more. The study found that lead created the highest pollution levels. If this metal is absorbed into the blood, it can harm the brain development of unborn babies and lower the intelligence of children. Two-thirds of those exposed to lead near waste dumps in Pakistan, India and Indonesia were children and women of child-bearing age. The Blacksmith Institute is studying toxic waste sites in 70 other developing countries. It hopes to help organize clean-up efforts. Richard Fuller says the countries he is working with want to cooperate, it's just going to take a lot of work. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/26NqWw2TX2o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/26NqWw2TX2o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/26NqWw2TX2o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/26NqWw2TX2o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "26NqWw2TX2o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7q72qZrCd8jIO_PPkS_L_R8vkcM\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjNDN0JFMUM5MkFFQjY5ODU=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Lower Prices for HPV Vaccine in Poorest Countries",
+    "description": "From VOA Learning English, this is the Health Report. Experts estimate that 275,000 women worldwide die of cervical cancer each year. Cancer of the cervix kills another woman every two minutes. Eighty-five percent of the women live in the world's poorest countries. In richer countries, this kind of cancer is more often diagnosed early and treated. Cervical cancer is usually caused by the human papillomavirus. HPV is spread through sex, but a vaccine can protect against it. The vaccine is generally given to girls between the ages of nine and 13. The HPV vaccine is given three times, in three separate doses. It only works if someone has not yet become infected. Now, two big drug companies have agreed to lower the price for the HPV vaccine for poor countries. The Global Alliance for Vaccines and Immunization, or GAVI, announced the agreement. Seth Berkley is the chief executive officer for GAVI. He says the alliance hopes to provide the vaccine to 30 million girls in more than 40 countries by 2020.Under the agreement, Merck and GlaxoSmithKline will sell their HPV vaccines for about $4.50 for each dose. Until now, the lowest price for poor countries was $13 per dose. The vaccine costs more than $100 in developed countries. Kate Elder is with the medical aid group Doctors Without Borders. She says the new price is still too high. She says the drug companies have earned enough profit from vaccine sales. GlaxoSmithKline says the price has to be high enough so that company stockholders earn money on their investment. But Kate Elder says the drug companies should be more open about how much it really costs to make the vaccines. For VOA Learning English, I'm Alex Villarreal.  (Adapted from a radio program broadcast 20May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LwBgMCGWvmg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LwBgMCGWvmg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LwBgMCGWvmg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LwBgMCGWvmg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LwBgMCGWvmg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/F1TZnXS8f9Jmti8m5k6M7ziaAJI\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjQ3REQ1NkY4Q0MwMUUxM0Q=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:26:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Improvements in Trauma Care Save Lives",
+    "description": "From VOA Learning English, this is the Health Report.\nIn the United States, hospitals with the best resources to treat injuries \nare known as trauma centers. One of the largest is at the Los Angeles \nCounty-University of Southern California Medical Center. \nDr. Demetrios Demetriades is the director of trauma services at \nthe hospital. He says when a trauma team is activated, all the members \nare expected to be ready within five minutes. This happens before \nthe patient even arrives. Every member of the team has a job \nto do. Dr. Demetriades says this methodical way of treating patients \nin the trauma center has greatly reduced preventable deaths. \nOther trauma care changes have also improved survival rates. One change \ninvolves emergency medical technicians and paramedics. These first responders are often with local fire and rescue departments. They can start treatment in the field while \ncommunicating with doctors at the hospital. But Dr. Demetriades says the thinking now is to avoid any delays in transporting seriously injured patients.  The new policy is \nknown as \"scoop and run.\" Another change is that the hospital does not always operate on patients with gunshots to the abdomen.  Avoiding surgery reduces the risk of \ninfection and other problems. Some lessons in trauma care have come from the wars in Iraq and Afghanistan.  Dr. Demetriades says one lesson is to not give trauma patients large amounts of saline and other intravenous fluids. Patients are given fresh blood \nproducts instead. Changes like these have improved the chances of survival in trauma centers by as much as 25 percent. For VOA Learning English, I'm Mario Ritter. (Adapted from a radio program broadcast 15May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AE9RKOWEzF4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AE9RKOWEzF4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AE9RKOWEzF4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AE9RKOWEzF4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AE9RKOWEzF4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ntpM635BD8dytIubQgPWi5bISTU\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjg3ODk5OTc0ODRGMDhGODQ=",
+   "snippet": {
+    "publishedAt": "2013-05-20T17:04:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "WHO Says Vaccines Save Up to 3 Million Children a Year",
+    "description": "From VOA Learning English, this is the Health Report. The World Health Organization says vaccinations against disease save the lives of 2 to 3 million children every year.  The WHO says almost 80 percent of babies are vaccinated against preventable diseases like diphtheria, measles and whooping cough. But 20 percent are not protected. That is about 22 million children.  That is why many efforts to end polio and measles have not succeeded. Jean-Marie Okwo-Bele is director of immunization for the World Health Organization. He says one problem is that the cost of newer vaccines is too high for poor countries. Most of the unvaccinated children live in Africa and Southeast Asia. Eighty percent of them live in just 10 countries. The list includes Nigeria, the Democratic Republic of Congo, India, Indonesia and Pakistan. Dr. Okwo-Bele says limited resources for health care systems also reduce the ability of poor countries to vaccinate children. For example, some countries are not able to store vaccines at cold temperatures until they can be used.  But the official says there are some improvements in getting vaccines to clinics and children. Dr. Okwo-Bele says a new vaccine against meningitis A in Benin and West Africa has been designed to remain effective at warmer temperatures. The WHO says governments need to vaccinate more children.  The UN agency also says health officials and governments must do a better job of telling people about the benefits of vaccines. Dr. Okwo-Bele says that includes making sure people understand that many stories about vaccines are not true. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 30Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SBzRPGVfa3Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SBzRPGVfa3Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SBzRPGVfa3Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SBzRPGVfa3Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SBzRPGVfa3Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OGX-7itIMNymI0AmnLS30Ka6AyI\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjIwMjk4MDg2RDYyRjE3NjY=",
+   "snippet": {
+    "publishedAt": "2013-05-15T13:20:08.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "What Your Blood Pressure Means",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_waKjNNBPb4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_waKjNNBPb4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_waKjNNBPb4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_waKjNNBPb4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_waKjNNBPb4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GvERoa6zjcRVeQZz9IDrfGU6Zow\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjVFMTEzNThERTAzQ0ZFRjQ=",
+   "snippet": {
+    "publishedAt": "2013-05-02T15:01:31.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Pakistan Improves Care for Wounded Troops",
+    "description": "From VOA Learning English, this is Health. More than 5,000 members of the Pakistani security forces have been killed fighting terrorists and militants since 2001. Twice as many regular and paramilitary troops have been wounded. But the high number of deaths and injuries has resulted in improved care at the army's top rehabilitation center in Rawalpindi. Doctors at the rehabilitation center help injured troops regain physical and mental skills damaged in war. Aman Ullah lost both of his legs more than a year ago while serving in the Khyber tribal area on the border with Afghanistan. The 23-year-old is one of the thousands of Pakistani soldiers dealing with wounds from Pakistan's fight against militant groups. Most soldiers are wounded by improvised explosive devices, or IEDs. The soldiers are recovering from major medical operations at Rawalpindi's Armed Forces Institute for Rehabilitation Medicine, or AFIRM. Aman Ullah and several other soldiers are now hoping to compete in the next Paralympic Games. This international competition is for athletes with disabilities. The chief of the rehabilitation center says he is proud of the progress made in treating the patients. The experience of treating thousands of patients over the years has led to improved medical practices. These improvements include more useful artificial limbs to replace arms and legs lost to injuries. Medical workers have also developed other improved practices for helping wounded soldiers. There are plans to expand the Rawalpindi rehabilitation center. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 17Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AFgH0PAWseE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AFgH0PAWseE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AFgH0PAWseE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AFgH0PAWseE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AFgH0PAWseE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aQDI5dakDPHfEDh1Yb587ZPXtfg\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjkwNTEyQzgzRjM5NUYyMUM=",
+   "snippet": {
+    "publishedAt": "2013-05-02T13:52:18.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Fighting to End Polio in Nigeria",
+    "description": "From VOA Learning English, this is the Health Report. Most countries are now free of polio, but the disease remains a threat in some countries, including Nigeria. Gregory Hussey is the director of the Vaccines for Africa Initiative at the University of Cape Town in South Africa. He says there is a worldwide movement to eradicate polio in the next five to 10 years. He says there are problems in Nigeria because people are refusing to immunize their children for a number of reasons. The World Health Organization says after polio vaccination campaigns were interfered with in northern Nigeria several years ago, the virus there spread all the way to Ethiopia. Gregory Hussey says continued outbreaks of measles represent another failure. The United Nations and other international agencies have immunization campaigns. But Africa lacks its own major programs. The Vaccines for Africa Initiative was started to spread knowledge about vaccines not only to healthcare workers, but to policymakers and communities.  But Gregory Hussey says cost remains a major problem. An international public-private partnership, the GAVI Alliance, helps developing countries offer vaccines. GAVI negotiates with drug companies to lower the cost of medicines. But Gregory Hussey warns that low-cost vaccines will not be available forever. He says some countries that have enough money to vaccinate children have not made that a top goal. Researchers at the University of Cape Town say African leaders must be held accountable for meeting immunization targets and honoring international commitments. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 10Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cSrfea64g8Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cSrfea64g8Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cSrfea64g8Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cSrfea64g8Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cSrfea64g8Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6-6otteTpo7CwH9-CKtgOXasdCE\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjZCNjlBQzE5QUYxMzJCREE=",
+   "snippet": {
+    "publishedAt": "2013-04-16T20:32:42.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Using a Smartphone as a Microscope",
+    "description": "From VOA Learning English, this is the Health Report in Special English. Microscopes are not always available where they are needed. Now, for a few dollars and a little work, the iPhone can become a microscope. The same is probably true of other smartphones as well. Dr. Isaac Bogoch is an infectious disease specialist at Toronto General Hospital in Canada. Dr. Bogoch was the lead investigator on a new study of the iPhone microscope. It appears in the American Journal of Tropical Medicine and Hygiene. He and his colleagues had heard of laboratory images made with smartphones. For the new study, he says he used an iPhone 4s because he happened to own one. But, he says, any smartphone with a good camera and a zoom function should work just as well. Dr. Bogosh says he and his colleagues bought a ball lens online for about $8. They attached the special lens to the lens of the iPhone camera using double-sided tape. Dr. Bogosh and his colleagues from Massachusetts General Hospital and the Swiss Tropical and Public Health Institute tested the iPhone on Pemba Island in Tanzania. They looked for intestinal parasites in school age children. He says by putting the lens close to the slides, his team was able to see the parasites they were looking for pretty easily. The results were better when the infections were more severe. But he thinks that will change when the technology improves. He says the smartphone microscope could greatly extend disease control in poor, rural areas. Medical workers would also be able to e-mail an image to an expert for help in identification. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 20Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f5QlcEJkeTM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f5QlcEJkeTM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f5QlcEJkeTM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f5QlcEJkeTM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f5QlcEJkeTM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zBiN9cX_HMjG6gQJtEucizDGuGQ\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLjE3M0ExOUE4NjBBQzkyQUI=",
+   "snippet": {
+    "publishedAt": "2013-04-05T13:19:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Gonorrhea Getting Harder to Treat",
+    "description": "From VOA Learning English, this is the Health Report. Each year an estimated 106 million people get infected with gonorrhea. This sexually transmitted disease is getting harder and harder to treat. The World Health Organization says gonorrhea is increasingly resistant to antibiotics. The WHO warns that there are few treatment options available. The world, it says, is running out of ways to cure the disease. Manjula Lusti-Narasimhan is a scientist in the Department of Sexually Transmitted Diseases at the WHO. She says infected men and women of reproductive age could become infertile if gonorrhea becomes untreatable. This bacterial disease can also threaten the health of infected pregnant women and their unborn children. Gonorrhea is one of four major sexually transmitted diseases that can be cured. The other three are chlamydial infection, syphilis and chancroid. But the organism that causes gonorrhea has developed resistance to almost every class of antibiotic. Resistance is caused by the overuse and misuse of antibiotics and by the use of poor quality antibiotics. It also results from natural genetic changes, or mutations, within the organisms that cause diseases. The WHO says it does not have enough information to know the extent of gonorrhea resistance worldwide. But it says cases of resistance to treatment have been reported in Australia, France, Japan, Norway, Sweden and Britain. The WHO is calling for smarter use of antibiotics and more research into new ways to treat the infections. Dr. Lusti-Marasimhan says there is currently no research into new drug treatments for gonorrhea. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 12Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l2ftk2_tDo4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l2ftk2_tDo4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l2ftk2_tDo4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l2ftk2_tDo4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l2ftk2_tDo4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AirulDqdTmAXnLIqq9x644h5oKk\"",
+   "id": "UExERUQ0OTI0M0NDNDExOEMzLkY0QTc2ODY4MTkwQjVEODQ=",
+   "snippet": {
+    "publishedAt": "2013-04-01T14:20:19.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "People Get Happier With Age",
+    "description": "From VOA Learning English, this is the Health Report.Do people get happier with age?  If you said \"Yes,\" then you were right. A recent study found that people generally become happier and worry less after the age of 50.  A team at Stony Brook University in New York asked people between the ages of 18 and 85 about their happiness.  The researchers found that levels of stress were highest in adults between the ages of 22 and 25.  Stress levels dropped sharply after people reached their 50s.  Happiness was highest among the youngest adults and those in their early 70s.  But those least likely to report feeling negative emotions were the oldest ones. The study also found that men and women have similar emotional patterns as they grow older.  But women of all ages reported more sadness, stress and worry than men.  The researchers also considered possible influences like having young children, being unemployed or being single.  But they found that these situations did not affect the levels of happiness and well-being related to age.  So why would happiness increase with age?  One theory is that, as people get older, they become more thankful for what they have and have better control of their emotions.  They also spend less time thinking about bad experiences. Happiness is not the only thing that seems to improve with age.  Another study found that people in their 80s reported the fewest problems with their sleep.  Researchers had expected to confirm the popular belief that sleep problems are connected to aging.  The survey found an increase in sleep problems during middle age, especially in women.  But overall, people reported that they felt their sleep quality improved with age.For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 06Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xSzifLw6yps/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xSzifLw6yps/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xSzifLw6yps/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xSzifLw6yps/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLDED49243CC4118C3",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xSzifLw6yps"
+    }
+   }
+  }
+ ]
+}
