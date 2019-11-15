@@ -36,8 +36,8 @@
 			"LIST_VIDEO_SIZE": "50",
 			"LIST_VIDEO_ICON": "http://cdn-radiotime-logos.tunein.com/s275542g.png",
 			"LIST_VIDEO_ID": "PLd9hCvj34W5gR8u7liXqZeWLsVnhR5ZPV",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/American%20Stories",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/cphfa1xty0hnucf/VOA%20-%20English%20in%20a%20Minute.txt?dl=1"			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20American%20Stories",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/y640ksxbm0j1gyo/VOA%20-%20American%20Stories.txt?dl=1"			
 		},
 		{	
 			"LIST_VIDEO_NAME": "VOA - News Words",
