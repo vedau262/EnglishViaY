@@ -1,0 +1,465 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R0id0SFPn8ZV16bO4mbbgLGRdBI\"",
+ "pageInfo": {
+  "totalResults": 13,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ni1fkSFmYwjBmwem7uWks0cApsE\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:08:03.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 1: On the Airplane",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EVQj6RW_7t0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EVQj6RW_7t0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EVQj6RW_7t0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EVQj6RW_7t0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LN9QZ5CXptSsulG1pziYedU9D5M\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:08:36.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 2: Airport immigration and customs",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HREyGddLElo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HREyGddLElo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HREyGddLElo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HREyGddLElo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_h1w7LZac7CJ0kUYa6MoWbD0HaA\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:08:51.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 3: Bying Some Clothes",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9iPVO1Gj1M8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9iPVO1Gj1M8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9iPVO1Gj1M8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9iPVO1Gj1M8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ure6j2hoc3DArAtDoT4508i3lbs\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:09:06.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 4: About shopping",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-oy8NHp6_9k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-oy8NHp6_9k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-oy8NHp6_9k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-oy8NHp6_9k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-sY-nUmGoZwm_d1I7roR5Wa2ijI\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:09:24.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 5: Introduction to your destination",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pqjBY-9fsJo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pqjBY-9fsJo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pqjBY-9fsJo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pqjBY-9fsJo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7CWfLOT9qv-LXmsECh8kE03JY08\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:09:42.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 6: Public transportation",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-g45PLg_s9Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-g45PLg_s9Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-g45PLg_s9Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-g45PLg_s9Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GweZdhbp7x-_QOC3XveihRLhfFQ\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:09:57.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 7: Going for lunch",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5xeOMVy9he4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5xeOMVy9he4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5xeOMVy9he4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5xeOMVy9he4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/95OkucpipYXfN7WIzCY5QNdhbTc\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:10:20.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 8: Going on a date",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JCCGXPtpvVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JCCGXPtpvVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JCCGXPtpvVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JCCGXPtpvVU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9dMX9U2vDZgbQVeftKYRQO5TCc0\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:10:47.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 9: Going to a movie and making new friends",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-pRdtxVYnEI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-pRdtxVYnEI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-pRdtxVYnEI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-pRdtxVYnEI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sm0w95PLt-ktZmRvopMnVqAsFcw\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:11:02.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 10: Going to the museum",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zNNfquF8XaM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zNNfquF8XaM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zNNfquF8XaM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zNNfquF8XaM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ogzlZbCUT2Ovp0Ms1tC_UIeKomM\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:12:15.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 11: I'm lost",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uKsMOD_MXaE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uKsMOD_MXaE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uKsMOD_MXaE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uKsMOD_MXaE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2nPwNi4C1ctgx-ygcEUV5-OBj6g\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:12:32.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 12: Shall we have dinner together",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NbmW4LoKym4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NbmW4LoKym4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NbmW4LoKym4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NbmW4LoKym4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Gs6WvMYKxCRvMUTkDJcB3Obf2S0\"",
+   "id": "UExzcVR1NTFJUkM3MWhRc1R1R2ZTazFja0ZWMUU0Ty1zUi45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2017-05-19T07:12:42.000Z",
+    "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+    "title": "Unit 13: Changing the plane ticket",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MyIHlc5a3J4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MyIHlc5a3J4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MyIHlc5a3J4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "English Conversation",
+    "playlistId": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MyIHlc5a3J4"
+    }
+   }
+  }
+ ]
+}
