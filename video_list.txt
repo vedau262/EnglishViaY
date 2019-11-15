@@ -1,5 +1,69 @@
 	[	
 		{	
+			"LIST_VIDEO_NAME": "VOA - English in a Minute",
+			"LIST_VIDEO_SIZE": "47",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20English%20in%20a%20Minute",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/cphfa1xty0hnucf/VOA%20-%20English%20in%20a%20Minute.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - American Stories",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLd9hCvj34W5gR8u7liXqZeWLsVnhR5ZPV",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/American%20Stories",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/cphfa1xty0hnucf/VOA%20-%20English%20in%20a%20Minute.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - News Words",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20News%20Words",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/318i74kp99mw4h0/VOA%20-%20News%20Words.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - Education Report",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PL3C1A50EBD8730AE1",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Education%20Report",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/djvrhxzyysmf2i1/VOA%20-%20Education%20Report.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - Health Report",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLDED49243CC4118C3",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Health%20Report",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/6lopyh1ctzg0i4q/VOA%20-%20Health%20Report.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - Economics Report",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PL6FA614EF0CB2AD82",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Economics%20Report",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ncs4awe7r6sgf29/VOA%20-%20Economics%20Report.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - Technology Report",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PL02D94E1D33933A51",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Technology%20Report",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/832bljko96rzmey/VOA%20-%20Technology%20Report.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "VOA - Agriculture Report",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PL46706B4B3D2E6C5E",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Agriculture%20Report",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/y1vpbby5lwdf2gm/VOA%20-%20Agriculture%20Report.txt?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "100 English conversation with subtitle",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
