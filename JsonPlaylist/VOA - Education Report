@@ -1,0 +1,2001 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3GiuRIqaHNI56CN4jqAq1MT8iYA\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 219,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/d0ky_xtFPBWwUnRgWy8QZ9ctaFs\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjVCQjhCODk0NkVCQkE0NkI=",
+   "snippet": {
+    "publishedAt": "2017-01-04T21:53:26.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "From Nairobi to North Carolina : A Kenyan Teacher's Journey",
+    "description": "James Mwangi is a teacher in Kenya. But for almost a year, he is living and teaching in the United States, thanks to a Fulbright program. VOA's Learning English team met him in Washington, D.C. There, he tells us about his journey from Nairobi to North Carolina.\nSee the story at James Mwangi is a teacher in Kenya. But for almost a year, he is living and teaching in the United States, thanks to a Fulbright program. VOA's Learning English team met him in Washington, D.C. There, he tells us about his journey from Nairobi to North Carolina. See the story at http://learningenglish.voanews.com/a/from-nairobi-to-north-carolina-a-kenyan-teachers-journey/3642669.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uVVzRqHvfZ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uVVzRqHvfZ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uVVzRqHvfZ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uVVzRqHvfZ4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uVVzRqHvfZ4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uVVzRqHvfZ4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sUMwKOfG7syOGkDAew9qYbWNDVw\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjc4M0JDNzRGNDc0NjRDQ0I=",
+   "snippet": {
+    "publishedAt": "2016-09-02T20:49:35.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Immigrants Cooking Up a Fusion of Cultures and Cuisines",
+    "description": "Two students in the Culinary Arts program at Carlos Rosario International Public Charter School share their dreams. Maksym is from Ukraine, and Isidro comes from Central America. They are studying to become chefs and are working hard to make their American dreams come true.\nSee the article at http://learningenglish.voanews.com/a/immigrants-cooking-up-a-fusion-of-cultures-and-cuisines/3488760.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/U3GQL-ni6XY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/U3GQL-ni6XY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/U3GQL-ni6XY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/U3GQL-ni6XY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/U3GQL-ni6XY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "U3GQL-ni6XY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PX9o9Np7KAEc93DcOYjcThYdM-4\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkY4ODI4MEI5MENDMzRDMzE=",
+   "snippet": {
+    "publishedAt": "2016-09-02T20:38:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Immigrants Find Their American Dream in the Kitchen",
+    "description": "At Carlos Rosario International Public Charter School, the Culinary Arts program prepares immigrant students to work as chefs in restaurants and run their own businesses.\nSee the article at http://learningenglish.voanews.com/a/immigrants-find-american-dream-in-kitchen/3480013.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xf7-SzsMS8I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xf7-SzsMS8I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xf7-SzsMS8I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xf7-SzsMS8I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xf7-SzsMS8I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xf7-SzsMS8I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WNb_aMsGrLHts4vkB8zDYocgifM\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjU3RkZFMzU4NkI0NjY0MzU=",
+   "snippet": {
+    "publishedAt": "2016-08-03T18:44:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Improve Your English By Using Common Objects",
+    "description": "Learn to pronounce two \"th\" sounds, \"i\" (ɪ) and \"ee\" (iː), and the –er (ɚ) sound properly in English with this week's Education Tips.\nSee article: http://learningenglish.voanews.com/a/improve-your-english-pronunciation-common-objects/3348958.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lYwtAlwkr6Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lYwtAlwkr6Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lYwtAlwkr6Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lYwtAlwkr6Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lYwtAlwkr6Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lYwtAlwkr6Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4wwMJryFAwg1iMan0hJ79pKqrS0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjQ2QjBENzFGQzRBRkU1NEY=",
+   "snippet": {
+    "publishedAt": "2016-08-05T17:18:50.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Everyday Grammar: Put Prepositions in Their Proper Place",
+    "description": "English learners tell us that the toughest thing to learn in English is how to use prepositions. We look at some that are often confused.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/everyday-grammar-put-prepositions-in-their-proper-place/2724286.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wkMBT8Tjff8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wkMBT8Tjff8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wkMBT8Tjff8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wkMBT8Tjff8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wkMBT8Tjff8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YjXiMDrxrGMNwBkvzBBi7m0MRqc\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkMwOUJGQUY5RDNCOTFCNzc=",
+   "snippet": {
+    "publishedAt": "2014-10-16T16:12:38.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Turn Negative Writing Experiences Into Positive Ones",
+    "description": ": A writer and college professor suggests asking yourself questions before you begin a school paper.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/turn-negative-writing-experiences-into-positive-ones/2471443.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3BmWY0EasyM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3BmWY0EasyM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3BmWY0EasyM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3BmWY0EasyM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3BmWY0EasyM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0EGN8xxsXp0_t25dl-5OG4xrlms\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkI5RjQ4QUIwRTYyMkM5MTE=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:14:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "School Attendance by Australian Aborigines Linked to Aid to Parents",
+    "description": "In Australia, new rules link school attendance with government assistance for poor people.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/school-attendance-by-australian-aborigines-linked-to-aid-to-parents/2456000.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j3FGAtyqDnI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j3FGAtyqDnI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j3FGAtyqDnI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/j3FGAtyqDnI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j3FGAtyqDnI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GDTFWCnezs0RJtEv1Y-3MZhylSU\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkJEQzRFMjhCRERFMkFFQzA=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:14:51.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Thousands of Chinese Students Choose American High Schools",
+    "description": "Some parents are willing to pay many thousands of dollars for their children to have some of their education in the United States.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/thousands-of-chinese-students-choose-american-high-schools/2463690.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2RMjoVRXNb8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2RMjoVRXNb8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2RMjoVRXNb8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2RMjoVRXNb8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2RMjoVRXNb8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aOYD8JFZoaEgLsOSyhjlaBrbDfY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkMyOTVBNjg4MkNENEE2NjA=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:39:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Racial Segregation in US Public Schools Struck Down 60 Years Ago",
+    "description": "But even today, many schools in the US are mainly white or mainly black.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xL6CqSTiQ18/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xL6CqSTiQ18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xL6CqSTiQ18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xL6CqSTiQ18/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xL6CqSTiQ18"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wKTv2F7d1RK-45cnCOk8253AqJM\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkIzOTJENjA2OEM4NEY5MTc=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:38:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Punishment Policies Are Changing in US High Schools",
+    "description": "Some US school districts have ended suspensions for wrongdoing when it does not include violence.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nhQRugUE86I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nhQRugUE86I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nhQRugUE86I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nhQRugUE86I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nhQRugUE86I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TjPaB2KQlDMvzAheiq-gLtDWG7Q\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjQ2NkM3MTgzMDVFOEMzRkU=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:38:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Reports of Rape, Abuse Surface at a School in Jakarta",
+    "description": "Indonesian police have arrested several suspects in connection with the incident reported in early April. Similar reports of sexual abuse at the school have followed.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LmwA-_e1k2g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LmwA-_e1k2g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LmwA-_e1k2g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LmwA-_e1k2g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LmwA-_e1k2g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8OuPNBBiB85a5hKlzfmHCzI3F3Q\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjE0MDhCRjlCODBENjc0Qzc=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:35:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Rights Groups Demand End to Schoolchildren's Begging",
+    "description": "Children as young as four years old are asking strangers for food and money in Senegal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lG7-DJ3pk4U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lG7-DJ3pk4U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lG7-DJ3pk4U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lG7-DJ3pk4U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lG7-DJ3pk4U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lFAewJYBZjWnxVvXi_dxpbc9iEs\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkNFREVEQzcxODMxRTgzNUE=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:34:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "South Africa Welcomes Chinese Language and Influence in...",
+    "description": "A recent agreement between China and South Africa centers on five areas of cooperation, including basic education, school books and lessons.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QgfzsBFhBsQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QgfzsBFhBsQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QgfzsBFhBsQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QgfzsBFhBsQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QgfzsBFhBsQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/amfqb8ODHhnaE-MwNVIAi2qDwUY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjAxNDZFNzcxMzQwNzA2RjQ=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:33:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Overseas Students Add to Their Education at US Community...",
+    "description": "Specially chosen students spend a school year in America.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tffKlQNFpDw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tffKlQNFpDw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tffKlQNFpDw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tffKlQNFpDw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tffKlQNFpDw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FbsI7jlLaJujKC62ZP8FPzINxzI\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkUzQzEzMDBBMTM5RTI3MTM=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:29:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "UNESCO Says Poor Education Costs Billions of Dollars",
+    "description": "United Nations report says governments are losing about $129 billion dollars a year on poor quality education.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/p6ctCJviUWg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/p6ctCJviUWg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/p6ctCJviUWg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "p6ctCJviUWg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/l4ky4wgrRBYypytNdIKUXIzE0AM\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjgwMjlCRjIzRjRFMDhDOTI=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:29:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Nigerian University Students Return to Classes After...",
+    "description": "Some observers say the strike was about pushing the Nigerian government to make universities better.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ZNJ7Pe5Gbw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ZNJ7Pe5Gbw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ZNJ7Pe5Gbw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4ZNJ7Pe5Gbw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/q4TNipMms1ae6hbx8l8VqqBSO0c\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjdFRTQ2M0U3MzAyQjZDMjc=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:27:00.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Nigeria's Kano State Starts a Major Literacy Campaign",
+    "description": "Nigeria has one of the world's highest rates of people who cannot read or write.  But a government agency is taking steps to educate more than 400,000 Nigerians in Kano State.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7eL3DjXDOLE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7eL3DjXDOLE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7eL3DjXDOLE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7eL3DjXDOLE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ExjI_Kq4W8tC-GvA_wQF4Ya6fW8\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjY2OTc3RDE1MzEzNzhCQTg=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:26:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Smithsonian Exhibit Explores the World of the Senses",
+    "description": "Student volunteers helped develop museum science and art show for the Museum of Natural History. The program combines the newest technologies and scientific equipment with more than 6,000 museum objects, both real and digital.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KTGl6C5Q-Xs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KTGl6C5Q-Xs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KTGl6C5Q-Xs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KTGl6C5Q-Xs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CBIoClbxyn08Mjdosp6q3KeV59w\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjc0RUYxODZBM0JDNjIyRDY=",
+   "snippet": {
+    "publishedAt": "2014-06-19T23:23:16.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "American Educators Have Big Dreams for Schools in Africa",
+    "description": "Bridge International Academies has a goal to educate children of families who make $2 a day or less. They opened their first school in Kenya in 2009. Since then, the number of schools has increased to 200.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KUHaXuC2n2Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KUHaXuC2n2Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KUHaXuC2n2Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KUHaXuC2n2Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/H_0EXb48GCbQRIRfB8pQnRQ3JDI\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjE4OEM3MThGNzA1RjE2RUQ=",
+   "snippet": {
+    "publishedAt": "2013-11-05T20:42:00.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Education Project in Rwanda Combines Online Classes, Local Help",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Education Report. \n\nA new experimental program using MOOCs or massive open online courses opened recently in Kigali, Rwanda. The Kepler project is designed for people in the developing world.  It uses MOOCs provided by foreign universities. It combines these online classes with help from local instructors and an internship program. A business foundation is helping to finance the first four years of the project. The students in the Kepler project pay no tuition. Fifty students are taking part in the first class in Rwanda. Canadian educational consultant Tony Bates praises the Kepler program for giving students a way to earn college credits. Students can earn academic credit through the Kepler project's agreement with Southern New Hampshire University in the United States. Mr. Bates also praises Kepler for providing local support and tutoring in Rwanda. But he says a lack of technology limits the usefulness of such a system in Africa. He says developing countries lack enough Internet service outside major cities.  Students may have mobile phones, but usually with very low bandwidth. Mr. Bates says it costs one American dollar to watch an eight-minute YouTube video on a low-cost handset. That is about the same as many Africans earn in a day. Tony Bates says streaming long video lectures would be too expensive for at least the next five to 10 years. He says using materials designed for mobile devices may be better. He notes examples like math videos from the Khan Academy and courses from the Carnegie Mellon Open Learning Initiative. He says these materials are designed for distance learning and are more interactive. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gcH7kkCvhA0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gcH7kkCvhA0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gcH7kkCvhA0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gcH7kkCvhA0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gcH7kkCvhA0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fZzctOlooKyyy5GqTlf-Qmj_a94\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjNGQTJBM0U3ODYyMzdCQTA=",
+   "snippet": {
+    "publishedAt": "2013-10-30T15:47:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "UNICEF Appeals for Help for Syrian Schoolchildren",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Education Report. \n\nThe United Nations Children's Fund is appealing to international donors to help provide education money for Syrian schoolchildren. Safe places to learn, teachers and supplies are all lacking, and almost 2 million young Syrian students have dropped out of school.UNICEF says about 40 percent of students from grades one to nine across the nation no longer attend formal classes. UNICEF spokeswoman Marixie Mercado says about half of those children are now refugees in Lebanon, Jordan, Iraq and Turkey. In the northern city of Aleppo, for example, only six percent of children of school age are in classrooms. But the school year there and in other locations began as planned on September 15th.  Talk of a military strike by the United States had caused uncertainty about starting classes.  But, schools opened after a strike appeared less likely. Still, many children who once walked to school are now taken there by their parents.  And other families have simply left the country. Lebanon now is trying to help about 550,000 school-age Syrian refugee children. UNICEF says the Lebanese public education system can take care of 300,000 Lebanese children. UNICEF is establishing schools for refugee children in buses.In Jordan, UNICEF says about two-thirds of 150,000 Syrian school-age children are not in school. In Iraq, UNICEF says nine out of 10 Syrian refugee children are out of school. Inside Syria, Ms Mercado says, the educational system has been torn apart. Both UNICEF and the Syrian government say about 3,000 schools have been damaged or destroyed. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NghK4ZinsRo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NghK4ZinsRo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NghK4ZinsRo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NghK4ZinsRo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NghK4ZinsRo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/srRtyILcTq-1Ztro-WunrzqMGds\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjY1NjkxOTBCOEM2QzYyNEQ=",
+   "snippet": {
+    "publishedAt": "2013-10-16T19:20:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Syrian University Students Seek Education Overseas",
+    "description": "Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Education Report.\n\nMany Syrians are trying to study overseas while a civil war continues in their country. Thousands of Syrian university students sought help when they learned there was money to help them continue their education. Leen al Zaibak is with Jusoor, an organization for Syrians living overseas. Jusoor joined with the American-based Institute of International Education to create the Syria Consortium for Higher Education in Crisis. More than 40 universities in the United States and Europe agreed to provide emergency aid to Syrian students and professors. Each university decides which students to accept. Universities in the consortium are supporting 70 students right now. One member of the consortium is American University in Washington. It is supporting a Syrian graduate student and a faculty member in the university's School of International Service. Daniela Kaisth is the vice president of the Institute of International Education. She expects there will be aid opportunities for 600 Syrian students during the next few months. She notes that a former president of Portugal, Jorge Sampaio, launched a scholarship program called the Global Platform 4 Syrian Students. He created the program because of Portugal's history of educating Jewish refugee children during World War II. The Institute of International Education also has a Scholar Rescue Fund for university professors and researchers in any country in crisis. This year, the fund found places for 30 Syrian scholars in five countries. All of the scholarship programs may be found online at iie.org. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2Qm7Fz8UPvg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2Qm7Fz8UPvg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2Qm7Fz8UPvg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2Qm7Fz8UPvg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2Qm7Fz8UPvg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kD5Y0cH-hBsSnKNt1nBi9uB1xE8\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjk4QzFFMDM0NUI3MkM4ODU=",
+   "snippet": {
+    "publishedAt": "2013-09-30T17:08:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Students Launch Weather Balloons to Study Ozone",
+    "description": "From VOA Learning English, this is the Education Report.  \n\nStudents at Saint Louis University have launched weather balloons into the sky above the city of St. Louis, Missouri. The United States space agency, NASA, is paying for the project to measure ozone gas. It is part of a study to learn more about air pollution and our climate. The students are getting the opportunity to carry out a real scientific experiment. They used a laptop computer and a radio receiver outside the St. Louis Science Center to communicate with data-gathering devices on the balloon. Before launch, the students tested all the instruments, and attached them to the weather balloon filled with helium. Gary Morris is a professor at Valparaiso University in Indiana. He is the lead trainer for the nationwide study. The professor says NASA wants more information on ozone because of how it affects our atmosphere. High above the Earth, in the stratosphere, the ozone layer keeps harmful ultraviolet radiation from reaching the ground. But, in the lower atmosphere, emissions from cars and other sources like petrochemical plants form ozone pollution and smog. They cause unhealthy air conditions that affect breathing. Jack Fishman leads the ozone study at St. Louis University. He says new requirements that decrease pollution have lowered ozone levels in American cities. But he notes that pollution in remote areas continues to increase. He blames industrial activity in East Asia for that pollution. Jack Fishman says polluted air is being blown across the Pacific by air currents in the upper atmosphere. He says ozone pollution has slowed the growth of farm crops and forests. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xLIaelxRWbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xLIaelxRWbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xLIaelxRWbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xLIaelxRWbI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xLIaelxRWbI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Dhszkk1m8iQ6XYz4aZLWDKjOp-o\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkUwNTYyOUU3MjM3NDE5RDQ=",
+   "snippet": {
+    "publishedAt": "2013-09-24T12:09:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Entrance Exams Cause Problems at University of Liberia",
+    "description": "From VOA Learning English, this is the Education Report. \n\nEntrance examinations have been causing problems at the University of Liberia in Monrovia. The exams help to decide whom the university will accept as a student. The trouble began after an education specialist, James Dorbor Jallah, was named to direct and administer the testing. Recently, about 25,000 high school students took the test, but failed. Mr. Dorbor Jallah says he and his team want to show that a fair examination can be held. He says some Liberians think they cannot enter the university unless they make a financial gift in return. He said the university has been trying to decide how to oversee the process so that people's abilities would be measured on the basis of their performance on the examinations. Last year, the University of Liberia accepted about 7,000 new students after they took a similar exam. But that test was judged differently. Mr. Dorbor Jallah says the university sought his help because it had problems in the past with entrance exams. The country's minister of education says she does not think that all the students failed the test. Some of the students have held protests at the university. They say they were cheated out of more than $20, which was required to register for the test. It appeared that the university would have no first-year students until Liberian President Ellen Johnson Sirleaf met with university officials. The officials then said they would lower admission test requirements and accept at least 1,600 people. Mr. Dorbor Jallah says the most recent test results were based on raw scores. A raw score does not take in account how well individuals perform within a group of students. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/biLlrafiNzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/biLlrafiNzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/biLlrafiNzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/biLlrafiNzk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "biLlrafiNzk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/N2bSDpoaXVwxEgQTYqti-CbY0sY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkY0NkY5OTYwMzY2MUQ4RDk=",
+   "snippet": {
+    "publishedAt": "2013-09-16T19:30:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Teachers, Students Recall China's Cultural Revolution",
+    "description": "From VOA Learning English, this is the Education Report.\n\nAlmost 40 years have passed since Chinese Communist leader Mao Zedong died and his Cultural Revolution ended. Changes in Chinese life caused widespread suffering during the Cultural Revolution. In recent times, some aging teachers and student leaders who lived through this period in Chinese history have been telling their stories. One of the first such stories published in China told of an apology from a student to a teacher. The apology gained attention in the West since appearing in China in 2010. The teacher was Chen Bi, now 90 years old and retired. She worked at the Beijing Foreign Language School during the Cultural Revolution. Today, Shen Xiaoke is a 60-year-old lawyer. He was a teenage student at Chen Bi's school in 1966.  In August of that year, school was suspended. Political indoctrination was extreme. Mao incited people to denounce teachers, intellectuals and others in important positions. Students influenced by his speeches turned against Chen Bi. Chen Bi recalls the period with horror. She says, \"For us who were persecuted, it was a nightmare.\" Shen Xiaoke says he heard many students argue among themselves about who was the most revolutionary. People tried to prove they were revolutionaries by hurting other people. Chen Bi said if students did not strike others, they would be accused of opposing the Cultural Revolution. So people who were normally not aggressive would start hitting victims.Three years ago, Shen Xiaoke decided to face the past. \"We need to apologize to our teachers,\" he says. He wrote Chen Bi an apology letter. He expressed his regrets for himself and for others in his class. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tSzeG-1nFM4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tSzeG-1nFM4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tSzeG-1nFM4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tSzeG-1nFM4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tSzeG-1nFM4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Xh3hvNZxLyoBd5JffQRqUp95CtQ\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjM4QjkzOTMxOTVGOUQ5RDM=",
+   "snippet": {
+    "publishedAt": "2013-09-14T15:40:15.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Teaching Children the Power of Music",
+    "description": "From VOA Learning English, this is the Education Report.\n\nKid Pan Alley is a nonprofit organization that holds songwriting workshops for students across the United States. The organization recently visited a school in the Anacostia area of Washington. The children presented a concert with the help of songwriter and recording artist Paul Reisler. He established Kid Pan Alley in 1999. Since then he has worked with more than 35,000 students and produced more than 2,200 songs. He says the power of music can teach children skills they might not learn in school. He believes the American educational system is focused too much on standardized tests designed to measure knowledge. But Paul Reisler says we now live in a creative economy. He says his group is trying to inspire children to be creative. At Orr Elementary School in Anacostia, 95 percent of students come from poor families. Marlon Ray is the school's dean of students.  He says some of the children have difficult lives. But, he says, these kids still want to strive for greatness.Jhonna Turner is director of programs at the school. She says the fourth- and fifth-grade students are often focused on more than school. Some have to help their families, or live in homeless shelters. A shooting took place in April directly in front of the school.  No one was injured, but the incident affected the whole community. Students are often influenced by what happens around them. Still, Orr Elementary School has a positive, hopeful atmosphere. Marlon Ray says the workshop and concert made possible by Kid Pan Alley created good memories that will last for years. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KEODZjPzD10/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KEODZjPzD10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KEODZjPzD10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KEODZjPzD10/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KEODZjPzD10"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IpbXrQBY03YJdnoMUJLtuGn7BDA\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkQxMDJFNTJGRUY3OEM0MEQ=",
+   "snippet": {
+    "publishedAt": "2013-09-09T14:54:37.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Majority of World's Illiterate Women Live in West Africa",
+    "description": "From VOA Learning English, this is the Education Report.\n\nA United Nations agency estimates that 516 million of the world's women cannot read and write. The UN Education, Scientific and Cultural Organization, UNESCO, says programs are needed to help illiterate women learn although they are past school age. Women make up two-thirds of all illiterate adults. The majority of these women live in West Africa. Many girls in that area never go to school. But in Liberia, a new education program is giving women in their 30s, 40s and 50s another chance to learn to read and write. Pauline Rose heads UNESCO's worldwide monitoring report on Education for All.  She says being illiterate causes huge problems in daily life.  She notes situations like not being able to read directions on a medicine bottle or the number on a bus.  Ms. Rose says illiteracy affects not only the women but also their families, because women are often the main caregivers of children.  She says, when women are illiterate, they are less likely to use health services. Some countries, like Senegal, have improved women's literacy rates through government efforts.  They tell more girls in primary school and community programs about the importance of education.  But there are still many nations where less than one in four women can read and write. They include Niger, Benin, Mali and Burkina Faso. Ms. Rose says these countries need literacy programs that target women.  Liberia, for example, has launched a second-chance literacy campaign to teach women. Liberia's Ministry of Education says 5,000 women currently study in adult literacy programs across the country. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/soz4YER1LUc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/soz4YER1LUc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/soz4YER1LUc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/soz4YER1LUc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "soz4YER1LUc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9FLVfJL8jC-MN6EaK-IAxE-YOm0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjM3QUNGQkFCMkJEMDVCRTA=",
+   "snippet": {
+    "publishedAt": "2013-08-26T18:15:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Check Out the World Digital Library",
+    "description": "Subscribe to our channel: http://youtube.com/voalearningenglish\\\n\nFrom VOA Learning English, this is the Education Report.\n\nImagine you are a student in Mexico.  And your teacher asks you to write a report about the country's ancient Aztec civilization.  You now can do your own research on the subject through the World Digital Library, or WDL. One of the 8,000 items listed on this website is the General History of the Things of New Spain.  It was written in the 16th century by a member of a Roman Catholic religious order.  Friar Bernardino Sahagun lived in what is now Mexico.  He liked many qualities of the Aztecs and wrote 13 books about them in Spanish and Nahuatl, the Aztec language. The books are stored in Florence, Italy.  But you can read every page and see every picture with the World Digital Library. The library has at least one item from every member country of the United Nations Educational, Scientific and Cultural Organization, or UNESCO.  UNESCO and the U.S. Library of Congress launched the WDL in 2009.  Since then, more than 25 million people have visited part of the collection. The library provides free access to thousands of objects of cultural and historical importance.The library is looking for information about Arabic and Islamic science, says Musa Murawih.  He is a WDL researcher who works on all of the library's documents in Arabic.  Arab countries and their libraries are strong supporters of the World Digital Library.  Mr. Murawih says the library shows the United States as a partner with Arab countries in an area other than military or security matters.The library also is helping countries make electronic copies of their documents, so that they are available to computer users around the world.For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m8FT2KSBJAs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m8FT2KSBJAs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m8FT2KSBJAs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m8FT2KSBJAs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "m8FT2KSBJAs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K2E6RnKBVk97MD62hpnEvUK4W8A\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjc5RDNDMjIxMzJEQkU2OUI=",
+   "snippet": {
+    "publishedAt": "2013-08-21T13:17:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Working to Protect West African Languages and Culture",
+    "description": "From VOA Learning English, this is the Education Report.\n\nExperts estimate that half of the 6,000 languages spoken on our planet will have disappeared by the end of the century. In West Africa, academics are trying to protect the language and rich cultural heritage of Togo. \nAt the University of Lome, professor N'bueke Adovi Goeh-Akue studies video of Gen cultural rituals. The professor is a cultural heritage specialist. He himself is a Gen, one of many ethnic groups in Togo. He has made films of Gen cultural customs with financial assistance from the United States. He says the Gen have an important place in Togo's history and culture. Gen rituals show how its people see their world, the interaction between the living and the dead, the seen and the unseen. The Gen believe in many different voodoo gods. But today, professor Goeh-Akue says fewer and fewer Gen children go through voodoo initiation ceremonies. He says that increasingly, the new generation does not recognize the importance of these cultural traditions. He says formal education and the spread of Christianity have reduced their influence. Many young people think traditional practices are uncivilized. And while the Gen language is widely spoken in Lome, the professor says it is not taught in schools. Gen is one of about 39 languages spoken in Togo. \nAnahit Minasyan is a language specialist with the United Nations Educational, Scientific and Cultural Organization. He says a language needs people who speak it as their first language. She says a language needs people who can speak it as their second language. If there are not, she says, a language is extinct. She says languages can die as a result of increasingly globalization. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KCvUZtKe1H8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KCvUZtKe1H8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KCvUZtKe1H8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KCvUZtKe1H8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KCvUZtKe1H8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XAl_g82O75FWm_AhFKf-aUe0PxY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjlENTU5NzkwRDYwRUYyNDM=",
+   "snippet": {
+    "publishedAt": "2013-08-12T15:12:31.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Malala Yousafzai Speaks at United Nations",
+    "description": "From VOA Learning English, this is the Education Report.\n\nMalala Yousafzai spoke to hundreds of young people at the United Nations on July 12. It was her first public speech since last October, when the schoolgirl was shot in the head by Taliban gunmen in Pakistan. The UN speech continued her campaign to education children. On the day she spoke, two groups announced that 57 million children around the world are not going to school. The two are Save the Children and UNESCO, the UN Educational, Scientific and Cultural Organization. A little more than half of those who are not going to school are girls. In September of 2012, UN Secretary General Ban Ki-Moon announced a program to get every boy and girl into school by 2015. Malala Yousafzai believes the goal is possible. In her words, \"One child, one teacher, one book and one pen can change the world.\"Sheza Shahid is the executive director of a new program called the Malala Fund. She says the 16-year-old is a true spokesperson and warrior for girls' rights. The Malala Fund was created to support the voices calling for girls' education. The actress Angelina Jolie has donated $250,000 to the fund. A group called Women in the World donated $150,000. The first children served by the Fund are 40 girls in Malala's hometown in the Swat Valley of Pakistan. These girls, aged five to 12, had been working. Shiza Shahid says the girls have now stopped working and are going to school. Malala Yousafzai is now going to school in England. But she talks to the girls in the Swat Valley through the computer software program Skype. Girls are also urged to tell their own stories online at malalafund.org. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ucgSHY10bKo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ucgSHY10bKo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ucgSHY10bKo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ucgSHY10bKo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ucgSHY10bKo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VC_OhABmEf3hx5ijACQUAq3Gfbc\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjlFNDY0MkYzOTI0OTAzOTY=",
+   "snippet": {
+    "publishedAt": "2013-07-23T13:34:24.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Affirmative Action Ruling Brings Mixed Reaction",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OVSWavxCWIo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OVSWavxCWIo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OVSWavxCWIo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OVSWavxCWIo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OVSWavxCWIo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b6pXZA0L5TbWjPasnnDIL90AsIw\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjk0QzlEMUQ4NUUwQ0NCNjI=",
+   "snippet": {
+    "publishedAt": "2013-07-19T22:17:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Congress Debates Interest Rates on Student Loans",
+    "description": "From VOA Learning English, this is the Education Report. Lawmakers in Washington are debating education issues, including the interest rates that students pay for loans. College students who take loans graduate owing an average of $26,000. But some economists say the real issue is controlling the cost of college. Experts say these high costs are hurting the whole economy.  For the past 30 years, college tuition has been increasing at twice the rate of inflation. Universities say decreasing financial support from state governments forces them to charge higher tuition. On average, private colleges now charge more than $30,000 a year. Terry Hartle is a spokesman for the American Council on Education, which represents thousands of colleges across the United States. He says funding for education has been shrinking for years. Experts worry that the high cost of education makes it less likely that good students from poor families can attend college. This means fewer scientists, engineers and others who could help increase economic growth. Also, a survey shows that some students concerned about repaying thousands of dollars in loans are delaying marriage and children. Many cannot afford to invest in a house or buy a car. Georgetown University labor economist Anthony Carnevale says the current system cuts economic growth for the whole country. And the effects are important. He says meeting the demand for workers with higher education could add $500 billion to the American economy. A new government report says one-third of Americans age 25 to 29 now hold college degrees -- up from one-fourth in 1995. For VOA Learning English, I'm Mario Ritter.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l2Kq-KVUCDk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l2Kq-KVUCDk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l2Kq-KVUCDk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l2Kq-KVUCDk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l2Kq-KVUCDk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/SjhjU0bHhmR88zqvr0iIoUryQUk\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkY1QkFFRTBCMEEzNzA2OUM=",
+   "snippet": {
+    "publishedAt": "2013-07-10T13:53:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Group Brings Songwriting Workshops Into Schools",
+    "description": "From VOA Learning English, this is the Education Report. Kid Pan Alley is a nonprofit organization that holds songwriting workshops for students across the United States. The organization recently visited a school in the Anacostia area of Washington, DC. The children presented a concert with the help of songwriter and recording artist Paul Reisler. He established Kid Pan Alley in 1999 and has worked with more than 35,000 students and produced more than 2,200 songs since that time.  He says the power of music can teach children skills they might not learn in school. He believes the American educational system is focused too much on standardized tests to measure success. But Paul Reisler says we now live in a creative economy. He says his group is trying to inspire children to be creative. At Orr Elementary School in Anacostia, 95 percent of students come from poor families. Marlon Ray is the school's dean of students.  He says some of the children have difficult lives. But, he says, these kids still want to strive for greatness.Jhonna Turner is director of programs at the school. She says the fourth- and fifth-grade students are often focused on more than school. They can be important helpers for their families. They make sure food is ready when they come home and do other tasks. Yet students are often influenced by what happens around them. A shooting took place in April directly in front of the school.  Although no one was injured, the event affected the whole community. Still, Orr Elementary School has a positive, hopeful atmosphere. Marlon Ray says the workshop and concert made possible by Kid Pan Alley created good memories that will last for years. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tFSvCcLtosI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tFSvCcLtosI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tFSvCcLtosI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tFSvCcLtosI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tFSvCcLtosI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7Bk9f0Wwev47M8GpgodfHNR9YDs\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjQwQUI2QkI1NERFMTI3RkU=",
+   "snippet": {
+    "publishedAt": "2013-07-02T16:40:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "More Options for Learning Online",
+    "description": "http://learningenglish.voanews.com | http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Education Report. American colleges are facing many problems. College costs are rising and there are not enough jobs for the people who have finished study programs. But employers say they cannot find enough workers with technical skills. Now, online classes might offer solutions. Many top universities offer online classes. Students can often take these classes at little or no cost. Lynda.com is one website with online classes. Lynda Weinman helped to launch the website. She says that colleges cannot teach technical skills easily because these skills change quickly. But it is easy for websites with online classes to keep up with new technology. Online classes offer different ways to learn. At most colleges, a professor gives a lecture, and the students research and study alone. Students who take online classes listen to lectures at home. But they work with their professor on projects and homework. Experts say the growing number of online classes will have a major effect on colleges. Some say college classes in the future may be a mix of online lectures and professors helping students in person. Georgetown University labor economist Tony Carnevale says he would welcome these changes. He says a college education must lead to skills that employers need. He also notes that the college system needs to become more efficient. Chris Cullen is a college marketing expert. He says competition from online schools and concerns about costs will change universities. He says top universities with strong public images may expand in an online world. But less famous schools may struggle to interest students. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tJMTiZgextY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tJMTiZgextY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tJMTiZgextY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tJMTiZgextY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tJMTiZgextY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gxso5FAMb6pXDgeLi2Cpj5Z5kMg\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkU4MDk1RUQ2MENENEI2MzY=",
+   "snippet": {
+    "publishedAt": "2013-06-25T21:10:08.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "New Graduates Seek Jobs in Slowing Chinese Economy",
+    "description": "From VOA Learning English, this is the Education Report.China will have a record number of graduates moving into the job market this summer. Seven million people will finish their studies and begin building a career.  But China's economy is slowing down.  Chances for jobs for many new graduates are not good.To make things harder for current job seekers, more than 200,000 who graduated last year are still looking for jobs.Hu Xingdou, an economist at the Beijing Institute of Technology, said only 30 percent of graduates can be employed immediately.  The economist said the majority of students remain unemployed and looking for work.\nAnd it is not just the number of graduates that is making the job search difficult. After years of strong growth, China's economy is slowing.  Chinese leaders say they are struggling to keep growth about seven percent. But, Hu Xingdou says a big problem is the structure of Chinese industry. He says there are many places in China where graduate students are needed, but are not willing to go. Recently, Chinese Premier Li Keqiang called on companies to give more opportunities to new graduates. In response, some privately run enterprises have announced increases in their hiring of new graduates.Observers say the government could go even further by giving private companies tax incentives and funding to help make them more equal to state-owned enterprises. They also say the government could encourage new graduates to work in smaller cities away from China's coastal area by giving them payments or other benefits.For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-jVEUdyi-jY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-jVEUdyi-jY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-jVEUdyi-jY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-jVEUdyi-jY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-jVEUdyi-jY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PY7b6moy1z1m-x6TwsUa5R1S81g\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkFCNEUzRERGQ0U1N0VBMEY=",
+   "snippet": {
+    "publishedAt": "2013-06-13T12:08:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Obama Visits Tech High School in Texas",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish \n\nFrom VOA Learning English, this is the Education Report. An unusual high school in Texas recently welcomed a special visitor. President Obama visited Manor New Technology High School, near the city of Austin.  The high school seeks to help prepare students to meet the increasing demand for technology workers. It has gained national recognition for focusing on student projects in so-called STEM subjects: science, technology, engineering and mathematics. Manor New Technology has 332 students.  Sixty-eight percent are from ethnic or racial minorities.  Fifty-two percent are from poor families. Across the country, students from poor families are more likely to have low educational levels and leave school. But the Texas school sent 97 percent of its graduates to college in 2011 and all of its graduates in 2012.   Most schools, however, do not have the financial support that Manor New Technology receives. It gets help from private organizations as well as state and federal funding.  Technology schools are sometimes criticized for not paying enough attention to the arts and social sciences. But supporters say more money should go into STEM programs that will provide people with jobs. University of Texas professor Jeremi Suri says workplace success depends on good communication and an ability to work well with others as a team. He says an understanding of cultures is important. For instance, some students at Manor New Technology High School reconstructed early Egyptian tools used to build pyramids. They learned about the engineering involved.  But they also studied the social and cultural atmosphere of that time.  For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bUumP2aUPEo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bUumP2aUPEo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bUumP2aUPEo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bUumP2aUPEo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bUumP2aUPEo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6lZCpDxJre2e0_GvwmBZjBiP8A0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjk2NDhGNzhGRDkyMkY5RjA=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Disagreement Over Value of Shelters for Street Children in Ethiopia",
+    "description": "From VOA Learning English, this is the Education Report.\nStreet children in Ethiopia say their biggest need is shelter. But a study shows that local \nnongovernmental organizations and community groups rarely offer what \nthe street children want. The international aid group Save the Children did the study. One of the researchers says the limited services provided by local NGOs do \nnot match what the children see as their greatest needs. Save the Children talked with \nchildren living on the streets in five major cities, three regional towns and eight rural villages. The children discussed many subjects, including their needs, \ntheir health and the risks they face. There are about 30,000 street children in Ethiopia. \nAbout 17,000 of them live in the capital, Addis Ababa. More than half \nof the children do not have access to shelter or enough food. \nThey survive mostly on what they receive from shining shoes, selling \nsmall items to passersby and appealing to strangers for help. \nThe street children face health threats. Research shows that about \n30 percent are seriously sick, but most do not have any kind of \ntreatment available. About 40 percent of the children may have \nbeen forced to have sex. The children believe that having \nshelter will reduce these kinds of risks. The child assistance group \nGOAL Ethiopia used to provide shelter for street children. But it found that this discouraged the children from re-entering their own communities.  The Ethiopian government is finishing work on a National Social Protection Strategy. \nIt will include new ways of providing support to families to reduce poverty and keep children off the streets. For VOA Learning English, I'm Mario Ritter.\n(Adapted from a radio program broadcast 16May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/U81DxQcduCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/U81DxQcduCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/U81DxQcduCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/U81DxQcduCs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "U81DxQcduCs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0miQsndNeWUe-b0NWIax7F5XFb0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjYyNDc2REY3NkRGNzEyRjg=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:43.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Program Seeks to Lower Teen Pregnancy Rate in New York",
+    "description": "From VOA Learning English, this is the Education Report. Each year, 750,000 Americans under the age of 20 become pregnant. The United States has one of the highest rates of teenage pregnancy among western industrialized countries. New York City has an especially high rate, with about 20,000 teen pregnancies each year. Since 1984, the Carrera Adolescent Pregnancy Prevention Program has worked to reduce the birth rate for teens. The program has worked with the Children's Aid Society, which operates after-school activities for young people. The sex education effort starts with children who are 10 and 11 years old.But sex education is only part of the effort. Psychologist Michael Carrera launched the pregnancy prevention program 29 years ago. He says efforts to reduce teen pregnancy rates must help young people see themselves as successful adults. He says success is more likely when young people believe that good things are going to happen in their lives. Then they take steps to reduce the risk of teen pregnancy on their own. The program includes sports training, art classes, part-time jobs, and help with banking. Health care is also available, as well as advice on education. Young people in the program have 50 percent fewer pregnancies than other New York teenagers from similar at-risk backgrounds.Michael Carrera is now in his 70s. He says he is still excited to come to work. His program reaches about 4,000 students in 12 states. The Obama administration has recognized the program with a social innovation award. In 2010, the administration ordered that federal money for sex education only go to programs that are proven to be effective. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 23May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8g08hC6C2Uo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8g08hC6C2Uo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8g08hC6C2Uo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8g08hC6C2Uo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8g08hC6C2Uo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MfQTj7e8dPcPUxiNxP172uxUCLs\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjY2MTM0MzhCMUIzNEVFNEY=",
+   "snippet": {
+    "publishedAt": "2013-05-20T17:04:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Educational Gains Mixed for Girls and Boys in Puntland and Somaliland",
+    "description": "From VOA Learning English, this is the Education Report. \nUNICEF, the United Nations Children's Fund, has reported some good news about education in two areas of Somalia. Puntland and Somaliland are now relatively peaceful and secure, at least compared to central and southern Somalia. A study found that in Puntland, the share of students in primary education increased from 26 percent to 43 percent over the last five years. A smaller increase was reported in Somaliland. In both cases the gains in school attendance were greater among boys than among girls. \nGirls leaving school is a problem across Somalia. For example, only one-third of Somali girls who had completed first grade took the Form Four Exam in the 2011-2012 school year. And girls represent only 28 percent of students in Somali secondary schools. The communications chief for UNICEF in Somalia, Susannah Price, says more schools are being built. She says the agency is developing projects in several fields of education. She also says UNICEF has been working on training teachers and developing nontraditional forms of education. Some of these programs are for children of families that herd livestock and move from place to place. Susannah Price says education is very important to the future of Somalia. But there are problems in getting parents to send girls to school. The spokeswoman says UNICEF encourages equality between males and females in education. More universal education could help Puntland and Somaliland also improve other areas of development, such as health care. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 01May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KSv0XIt8ab8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KSv0XIt8ab8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KSv0XIt8ab8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KSv0XIt8ab8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KSv0XIt8ab8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kkyarcz5zACNRKXNCUEFJac8to0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjVFM0RFMEZGRThDM0M5QkQ=",
+   "snippet": {
+    "publishedAt": "2013-05-12T10:37:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "School Offers Kenyan Girls Free Education",
+    "description": "The Kibera School for Girls in Nairobi helps the community understand the value of educating girls.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Gqt6JTvRxXQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Gqt6JTvRxXQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Gqt6JTvRxXQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Gqt6JTvRxXQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TQrrnl8HNQ351Ffjha1wJ7lTTnU\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjZENTU3N0RENEFDQTdFN0Y=",
+   "snippet": {
+    "publishedAt": "2013-05-02T15:01:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "How Immigration Reform Could Affect English Learners",
+    "description": "From VOA Learning English, this is Education. Immigration reform is a top policy goal this year in Washington. President Obama and a group of Democratic and Republican senators who have been preparing legislation agree on one thing. Millions of immigrants who are in the United States illegally will have to start learning English before they can begin the process of becoming legal residents. But school systems that face shrinking budgets are still cutting or eliminating English classes. Overcrowding is especially bad in California. That state is home to one of every four non-English-speaking immigrants in the United States. But Margie McHugh of the Migration Policy Institute predicts a huge amount of unmet demand for English training all across the country. She says the current system is too limited. Until recently, California law provided money to be used just for adult education. But, to help schools meet funding shortages, state legislators let them use that money for other programs. In Los Angeles, the adult education program has been cut by 75 percent. Once, the school district offered English at hundreds of neighborhood sites, with day and evening classes. This year, the teaching hours will be reduced. California Governor Jerry Brown wants to take responsibility for adult education away from school districts. Their main focus is on children. He wants to give the responsibility to community colleges. Adult schools across the country are experimenting with computerized English instruction. They hope software will help substitute for the individual attention that beginning students need. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 18Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/diz-dHXURa4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/diz-dHXURa4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/diz-dHXURa4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/diz-dHXURa4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "diz-dHXURa4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yTxntKbNYSsVzrYp7rU7FwMEo9s\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjFBMkE0MjM5MzA5ODYxODE=",
+   "snippet": {
+    "publishedAt": "2013-05-02T13:57:29.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Learning Outdoors at a Natural History Museum",
+    "description": "From VOA Learning English, this is the Education Report. Outdoors, in the open air, seems like a natural place to study natural science. It also makes sense in a place like Southern California where people like to be outside a lot. Now the Natural History Museum of Los Angeles County has redesigned an outdoor space into a living exhibit. The one and a half hectare area used to include a parking lot. Now, it welcomes birds, butterflies and many other living things. Teacher Eva Eng has visited the museum's outdoor campus with her students. She says they enjoyed the experience. The children were learning about plant science in school. Museum scientists come outside to describe plants and insects in the natural setting of this outdoor laboratory. Greg Pauly studies turtles. He tells students how urban development has changed the habitat of turtles like the western pond turtle. He says these animals are happiest around small bodies of water that grow and shrink with the seasons. Today, with development, there is much more permanent water, like the pond at the Natural History Museum itself. The scientist says the changing habitat is one reason why western pond turtles are disappearing. In addition to science lessons, the open-air exhibit provides contact with nature in a way that city children rarely get. Landscape architect Mia Lehrer says children can get real-life answers to questions they may have. Outdoor classrooms help students understand how the natural world is interconnected and how living things need habitat to survive. Museum official Karen Wise says the whole museum is opening up to an indoor-outdoor experience. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 11Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mq8-_ezt9sk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mq8-_ezt9sk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mq8-_ezt9sk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Mq8-_ezt9sk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Mq8-_ezt9sk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kaJOyPh_Ad1MrBxNKhaiKbooWoY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkNFMTgxNkU0OTdEQTM0RUE=",
+   "snippet": {
+    "publishedAt": "2013-04-16T20:32:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Law School in Two Years",
+    "description": "From VOA Learning English, this is the Education Report in Special English. Recently we told you how some medical schools in the United States offer future doctors a way to finish in three years instead of four. Some law schools also offer a way to save a year. People who want to become lawyers traditionally attend three years of law school. Like medical students, many law students are deeply in debt by the time they finish their juris doctor, or JD, degree. Those who take out loans borrow an average of around $100,000. Almost all graduates must pass a state bar examination to get a license to practice law. New York University Law School Professor Samuel Erstreicher thinks more students should be allowed to take the bar exam after two years of classes. This was more common in the past. Supreme Court Justice Benjamin Cardozo and President Franklin Roosevelt both took the bar exam after two years. Professor Erstreicher also suggests a more professional, instead of a more academic, program of study. Learning more about professional skills, he says, would better prepare a lawyer to serve the needs of average Americans. Some law schools offer a choice of a two- or three-year program. In 2009, Northwestern University School of Law in Chicago became the country's first top law school to add an accelerated program. Accelerated students at Northwestern have to learn the same material and pay the same price as three-year students. Some lawyers argue against accelerated programs. They question whether many law firms would want to hire lawyers without that third year of law school. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 21Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VYI8n_NHwd4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VYI8n_NHwd4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VYI8n_NHwd4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VYI8n_NHwd4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VYI8n_NHwd4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6_iBKDC71VnXRGDd5GDkoskdUjE\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjM3RkZDNDlFNTdDNzMwNjY=",
+   "snippet": {
+    "publishedAt": "2013-04-05T13:18:19.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Student Essays Reflect on \"One World\" Issues",
+    "description": "From VOA Learning English, this is the Education Report. One World Education is a group with a program in which teachers develop teaching materials based on student writing. The students are in middle and high school and write essays about cultural and global issues. Students are invited to write about an issue they find important. Then professionally developed learning materials based on chosen essays are used in schools to teach other students. Eric Goldstein is the executive director of One World Education, based in Washington. He says the nonprofit group has worked with over 1,500 student writers.  He says 350 teachers use the One World curriculum. He says the essays can serve as a writing and learning guide for thousands of students. Mr. Goldstein is a former classroom teacher himself. He and another teacher began forming plans for One World Education in 2006. The group publishes a study unit each month from August through May. Each unit of the curriculum starts with an essay, called a \"One World Reflection.\" The subjects have ranged from single parenthood to protecting rainforests to exploring Arab cultures, says Mr. Goldstein.Laila Kunaish of Washington wrote about her feeling that media reports in the United States are often unfair to Muslims. A learning activity based on her reflection called for students to collect examples of media stories and discuss whether or not that was true.Laila was chosen as a One World Student Ambassador last year. Twelve students are chosen yearly. Their reflections are published on the group's website with learning activities and reading and writing aids.  For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 13Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-LVqH0HLb4s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-LVqH0HLb4s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-LVqH0HLb4s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-LVqH0HLb4s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-LVqH0HLb4s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TUyECaUBK6HyqrxX9ljojlU7_VY\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkJGN0JBNkFGQjc1QzEzREE=",
+   "snippet": {
+    "publishedAt": "2013-04-01T14:03:05.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Small Change Can Improve a Child's Reading",
+    "description": "From VOA Learning English, this is the Education Report. Teachers and parents usually call attention to the pictures when they read storybooks to preschool children. But a study published in 2011 suggests that calling attention to the words and letters on the page may help a child's reading. The two-year study compared children who were read to this way in class with children who were not. The children whose teachers most often discussed the print showed clearly higher skills in reading, spelling and understanding. These results were found one year and even two years later.   Shayne Piasta at Ohio State University was an author of the study. She said most preschool teachers would find this method manageable and would need only a small change in the way they teach. They already read storybooks in class. The only difference would be increased attention to the printed text. If you get children to pay attention to letters and words, it makes sense they would do better at word recognition and spelling. But research suggests that very few parents and teachers do this in a systematic way. The report appeared in the journal Child Development.More than 300 children ages four and five were observed for the study. The children came from poor families and were below average in their language skills. There are different ways that adults can talk to children about print. They can point to a letter and discuss it, and even trace the shape with a finger. They can point out a word. They can discuss the meaning of the print or how the words tell the story. And they can talk about the organization of the print -- for instance, showing how words are written left to right in English. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 07Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fZut1F_FsHU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fZut1F_FsHU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fZut1F_FsHU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fZut1F_FsHU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fZut1F_FsHU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3ig1FV3P7D2NQBw7-Z7abjfzvFQ\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjc2ODdBQUNBQTZFOTRDQTA=",
+   "snippet": {
+    "publishedAt": "2013-03-25T19:38:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Getting More Americans to Study in China",
+    "description": "From VOA Learning English, this is the Education Report. Last year, 200,000 Chinese students studied in the United States. That was a 23 percent increase over the previous year.  The Institute of International Education in New York reports that 26,000 U.S. students were in China in 2011.  They included 15,000 people studying for academic credit and 11,000 taking part in other educational activities. A program called the 100,000 Strong Initiative is trying to increase the number of Americans studying in China.  The State Department launched the program in 2010.  The goal is to send 100,000 students to China during a four-year period. Last year, the nonprofit 100,000 Strong Foundation was launched.  Project Pengyou is one of the groups the foundation supports.  It connects American students who have lived or studied in China.  Project Pengyou is based in Beijing and led by Holly Chang. She says personal ties formed while studying abroad can have an effect on relations between the United States and China.  She says there is still a huge amount of misunderstanding between the two countries.The Chinese government has offered 20,000 scholarships to Americans under what is known as the U.S.-China Consultation on People-to-People Exchange.  The 100,000 Strong Foundation has no official relationship with the Chinese government.  But the foundation says it works closely with Chinese government officials to encourage more Americans to seek these Chinese scholarships. The goal is to give more Americans a chance to get a taste of Chinese culture.For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 28Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V8Y3iv95c-8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V8Y3iv95c-8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V8Y3iv95c-8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V8Y3iv95c-8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V8Y3iv95c-8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/y4QdMu2PCOUPh-p0ejoLNfBudKk\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjM0QkU4N0RCMjYxQTExQkM=",
+   "snippet": {
+    "publishedAt": "2013-03-19T14:03:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Afghan Youth Orchestra Performs in US",
+    "description": "From VOA Learning English, this is the Education Report in Special English. The Afghan Youth Orchestra performed in the United States in February. Forty-eight young musicians traveled from Kabul to play at some of the most famous American music halls. They performed at the Kennedy Center in Washington and Carnegie Hall in New York City. The last stop was Boston, Massachusetts, where they performed at the New England Conservatory of Music. The musicians perform versions of Western classical compositions and also traditional Afghan music. Violins and trumpets played along with a rubab and a sitar in a performance of \"Bolero\" by Maurice Ravel. The State Department and the United States Embassy in Kabul funded most of the trip. Secretary of State John Kerry called the young musicians \"ambassadors of peace.\" Afghanistan's former Taliban rulers banned music when they took power in 1996. Also, under the Taliban, girls were not permitted to be educated after the age of 8. Today, music is studied and played freely in Afghanistan. The musicians in the orchestra are male and female, and between the ages of 10 and 22. Most are orphans or were homeless. Ahmad Sarmast started the orchestra. A few years ago he founded the Afghanistan National Institute of Music in Kabul. The youth orchestra developed from that school. Ahmad Sarmast says he is very pleased with the accomplishments in such a short time. He says the idea of the trip was to change the way people view Afghanistan. The children, he says, are ambassadors of Afghan culture whose efforts reflect the changes in their country in the last ten years. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 21Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q4jdKVQXdiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q4jdKVQXdiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q4jdKVQXdiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q4jdKVQXdiI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q4jdKVQXdiI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6IS6QXn08GVj846id-gjmFASLc0\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjUwRTc2Rjk0RjUzMDM0QzU=",
+   "snippet": {
+    "publishedAt": "2013-03-12T14:39:48.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Children Mining Diamonds in Liberia",
+    "description": "From VOA Learning English, this is the Education Report in Special English.More and more children in Liberia are leaving school to work in diamond mines.  Fifteen-year-old Mike Coleman dropped out of school several months ago.  He left to search for diamonds in western Liberia to help his parents.The country's Ministry of Lands, Mines and Energy says that Liberian diamond mines employ at least 1,500 children.  Nora Quae is the head of a Junior High School in western Liberia.  She says that more than 200 students, half of the school, dropped out this year to work in the mines.  Liberia's unemployment rate is nearly 85 percent.  The World Bank estimates that 95 percent of the country's population lives on less than $2 a day.  Work in the diamond mines is difficult and dangerous.  But the possibility of earning $50 for each diamond is too good for many people to turn down.  Employing anyone under the age of 18 in diamond mines is illegal.  But many mine operators are willing to hire children who are small enough to fit into the narrow tunnels and tight spaces of mines. Thomas Wleh heads the Liberia Mining Entity in western Liberia.  He says a worker's age does not matter to mine owners.  And he says the operators do not force children to work for them.  But Mr. Wleh says the Ministry of Education should put measures in place to keep students in school. The United Nations Security Council helped ban the mining and export of so-called blood diamonds in Liberia in 2001 during the country's civil war.  But the United Nations ended the ban in 2007.  The diamond mines are again operating, increasing the demand for young workers.For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 21Feb2013",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PcNM7HCgtWA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PcNM7HCgtWA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PcNM7HCgtWA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PcNM7HCgtWA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PcNM7HCgtWA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AZSLxW6EMYpJ-G7W_qZA4-t-uKU\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLkRFNzBGMkQ1N0FGQUQ3MDk=",
+   "snippet": {
+    "publishedAt": "2013-03-04T21:20:57.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Academic Writing: Beyond the Five-Paragraph Essay",
+    "description": "From VOA Learning English, welcome to the Education Report in Special English. Millions of students have been taught a formula that has nothing to do with chemistry or mathematics. The formula is for writing a five-paragraph essay. First, write an introductory paragraph to state the argument. Then, add three paragraphs of evidence. Finally, write a conclusion. Linda Bergmann is director of the Writing Lab at Purdue University in Indiana. Her job is to help students, including international students, improve their writing. Professor Bergmann has worked with many students who learned this traditional five-paragraph formula. She says international students sometimes have difficulty with this formula if they learned a different writing structure. But just knowing how to write a five-paragraph essay is not going to be enough for a college student who has to write a longer academic paper. As Professor Bergmann notes, the formula is too simple to deal with subjects that require deeper thought and investigation. Karen Gocsik works for the Institute for Writing and Rhetoric at Dartmouth College in New Hampshire. The institute has a big library of online writing materials on its website. So what are the qualities that make up good writing? Karen Gocsik says there are no simple answers -- except maybe for one. That is, there is no formula that students can follow to guarantee a well-written paper. In some cultures, students organize their paragraphs to build toward the main idea at the end of the paper. American college students are usually expected to state their thesis at the beginning of their paper. And American professors generally want students to use short sentences. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 07Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PH6aXxhdhFQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PH6aXxhdhFQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PH6aXxhdhFQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PH6aXxhdhFQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PH6aXxhdhFQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Mrv8W316xF21BQXkKpAypkOayJs\"",
+   "id": "UEwzQzFBNTBFQkQ4NzMwQUUxLjY2QUM2MEE4ODlGMTAyOTE=",
+   "snippet": {
+    "publishedAt": "2013-02-26T19:42:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Shrinking World of Tenure",
+    "description": "From VOA Learning English, welcome to Education News in Special English.  At American colleges and universities, the number of positions that offer the job security of tenure has been shrinking for years.  Tenure is meant to give professors greater freedom to teach, write or study subjects that might not be popular or politically correct. But critics say tenure can keep schools from dismissing unproductive faculty members or problem employees.  Another complaint is that it can restrict the ability to make changes in programs or make the best use of limited budgets.  The number of tenured positions at U.S. colleges and universities has been decreasing since the 1970s. John Curtis is the Director of Research and Public Policy at the American Association of University Professors.  He says that only about 25 percent of faculty members have tenure or are in a position that might lead to tenure. The association says that at least 85 percent of faculty members should have tenure or be able to seek it.  It says this will protect independent thought and freedom of speech.  But a recent survey found that many colleges and universities plan to employ fewer tenured professors.  The study was done by the Gallup organization and the online publication Inside Higher Ed.  The survey asked more than 1,000 college and university officials about their hiring plans.  The results suggest that tenured positions might continue to decrease.  More than 58 percent of chief academic officers at U.S. public universities agreed that future generations of faculty should not expect tenure.  More than 53 percent of private school officials agreed.  For VOA Learning English, I'm Laurel Bowman.(Adapted from a radio program broadcast 07Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SQdiPaIV7Oc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SQdiPaIV7Oc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SQdiPaIV7Oc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SQdiPaIV7Oc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL3C1A50EBD8730AE1",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SQdiPaIV7Oc"
+    }
+   }
+  }
+ ]
+}
