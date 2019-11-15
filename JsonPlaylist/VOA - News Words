@@ -1,0 +1,2261 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gf87zdekO5ImiBlgVzqJn7wXwtY\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 202,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fngx9kHovtXl8By6J0hJc3m0TU4\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5EMzdGRjBBQzVCNEY2NDhG",
+   "snippet": {
+    "publishedAt": "2019-11-14T21:02:10.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Elite",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5128499.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9ozcEyyqx34/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9ozcEyyqx34/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9ozcEyyqx34/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9ozcEyyqx34/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9ozcEyyqx34/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9ozcEyyqx34"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RFzN-m6FUmKhcIQ6KcjZ_76cVxQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy44QUE0MzNDRkM4RjA0Njcy",
+   "snippet": {
+    "publishedAt": "2019-11-07T21:56:45.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Apparently",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5128492.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X5ElLA09eRI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X5ElLA09eRI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X5ElLA09eRI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/X5ElLA09eRI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/X5ElLA09eRI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "X5ElLA09eRI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/__1-K62kTdOSLbvgqcUKYu78VKI\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4zOTVGMDIwNzkzODk2QTQ1",
+   "snippet": {
+    "publishedAt": "2019-10-31T22:02:00.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Autonomous",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5128491.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YmKIJktEcqA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YmKIJktEcqA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YmKIJktEcqA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YmKIJktEcqA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YmKIJktEcqA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YmKIJktEcqA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DWufY5QJD61Yzg86X0YYArS6uFU\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43OTQxRDdENkQwNEZGMkQy",
+   "snippet": {
+    "publishedAt": "2019-10-24T22:05:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Exhume",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5128494.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XTG2ym_TDxA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XTG2ym_TDxA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XTG2ym_TDxA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XTG2ym_TDxA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XTG2ym_TDxA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XTG2ym_TDxA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W1uf7tvUHjfgYjyNvnGFgUpdyDQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5FOTM0MjQ2Q0ZDQURDRUFE",
+   "snippet": {
+    "publishedAt": "2019-10-17T22:01:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Impeachment",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5128493.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C4lTerUmcqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C4lTerUmcqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C4lTerUmcqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/C4lTerUmcqs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/C4lTerUmcqs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "C4lTerUmcqs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K9Ek4cgScB8tdzAh2pNuYkCpg1Y\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5BMDNGMkVEMjBGMzNGNEJC",
+   "snippet": {
+    "publishedAt": "2019-10-10T22:04:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Influx",
+    "description": "More than 450 immigrants have been arrested in southern Mexico in less than a day. The United States and Mexico are struggling with an influx of immigrants from Central America seeking asylum in the U.S.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036149.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tk2ONEtRfSM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tk2ONEtRfSM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tk2ONEtRfSM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tk2ONEtRfSM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tk2ONEtRfSM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tk2ONEtRfSM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s7wZfR2PDXTCVm_KAtNdTvepj_A\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5BNTZDRUVBRkUwRDU3N0FF",
+   "snippet": {
+    "publishedAt": "2019-10-03T22:02:49.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Indicate",
+    "description": "The Paris Air Show is the largest air trade show in the world. Makers of airplanes presented their latest designs at the show. The large orders for narrow body models indicate a move away from big, wide-body airplanes.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036141.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-UzzaKpj4kw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-UzzaKpj4kw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-UzzaKpj4kw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-UzzaKpj4kw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-UzzaKpj4kw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-UzzaKpj4kw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OixCxavIMjFAXHGFyUjagfYnWNE\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy44QjI0MDE3MzFCMUVBQTkx",
+   "snippet": {
+    "publishedAt": "2019-09-26T22:02:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Opportunity",
+    "description": "The demand by chefs has led to short supplies of palm weevil grubs. But villagers see it as an opportunity to farm the worms for restaurants.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036147.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nYzKDPHGYRk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nYzKDPHGYRk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nYzKDPHGYRk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nYzKDPHGYRk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nYzKDPHGYRk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nYzKDPHGYRk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qPmiAgVlagmese98omJmi-UjtKQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy42MzE1QTJBMEI3NjI4Rjk5",
+   "snippet": {
+    "publishedAt": "2019-09-19T22:02:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Galvanize",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/5036142.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1L4XBlV7hj0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1L4XBlV7hj0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1L4XBlV7hj0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1L4XBlV7hj0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1L4XBlV7hj0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1L4XBlV7hj0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Y8HJY7RxA5xKh1-9mtf3_7uzFng\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4wM0I0QUQ0RDU2REQxNjJC",
+   "snippet": {
+    "publishedAt": "2019-09-12T22:02:22.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Die-hard",
+    "description": "In June, U.S. President Donald Trump launched his presidential re-election campaign in Orlando, Florida. About 20,000 people were there and most were die-hard supporters.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036143.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ML6-awlmzLA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ML6-awlmzLA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ML6-awlmzLA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ML6-awlmzLA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ML6-awlmzLA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ML6-awlmzLA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LHaxuPvtK4hJe2lQXsB4qvhn6tI\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy41NEI5MkYxNzc0MDczQUUw",
+   "snippet": {
+    "publishedAt": "2019-09-05T22:01:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Skeptical",
+    "description": "In July, U.S. special counsel Robert Mueller appeared before Congress to answer questions about his investigation of Russian interference in the 2016 U.S. presidential election. Mueller warned of Russian attempts to influence the election in favor of Donald Trump, but some were skeptical.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036131.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Zk2ae40_Vrw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Zk2ae40_Vrw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Zk2ae40_Vrw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Zk2ae40_Vrw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Zk2ae40_Vrw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Zk2ae40_Vrw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OeDJlHSFdG3AmLKQYEhLiWoTH9s\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43RjU3NEIyMjFBMEIxQ0ZF",
+   "snippet": {
+    "publishedAt": "2019-08-29T22:03:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Ignorance",
+    "description": "Earlier this month, a gunman killed more than 20 people in the town of El Paso, Texas on the U.S.-Mexican border.  Hispanics living in El Paso say they are concerned for their safety. Gabriela Aguirre says ignorance of different cultures is a problem.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036129.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gmgDKVvGjpQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gmgDKVvGjpQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gmgDKVvGjpQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gmgDKVvGjpQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gmgDKVvGjpQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gmgDKVvGjpQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NNGmYGZqdoU3rvDlkYu_Fve3SzI\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy41ODJDREU4NjNDRTM2QkNC",
+   "snippet": {
+    "publishedAt": "2019-08-22T22:02:32.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Indigenous",
+    "description": "Members of Brazil’s Awa Amazon tribe are seen in a rare video. The indigenous tribe has never had contact with outside humans.\r\nOriginally published at - https://learningenglish.voanews.com/a/5036130.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PXkf9eV4Cjk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PXkf9eV4Cjk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PXkf9eV4Cjk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PXkf9eV4Cjk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PXkf9eV4Cjk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PXkf9eV4Cjk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GvM4vIQ8iajyKDMjgkdx1Dly_Pg\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5ENjg2QjQ3OTVDOUE2QzYw",
+   "snippet": {
+    "publishedAt": "2019-08-08T22:00:57.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Contemplate",
+    "description": "In June in Hong Kong, over a million people protested against a proposed law that would give mainland China some control over their courts.\r\nOriginally published at - https://learningenglish.voanews.com/a/5034362.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4DmHTkL-BIA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4DmHTkL-BIA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4DmHTkL-BIA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4DmHTkL-BIA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4DmHTkL-BIA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4DmHTkL-BIA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7nmb3iSGKlYQGRqcW_Q7quqbjmk\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DQTIzMEQyQTJBNDA4ODdF",
+   "snippet": {
+    "publishedAt": "2019-08-01T22:00:59.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Invasive",
+    "description": "A United Nations report on the environment says invasive plants are a threat.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931213.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CTvzr2M2Mv8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CTvzr2M2Mv8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CTvzr2M2Mv8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CTvzr2M2Mv8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CTvzr2M2Mv8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CTvzr2M2Mv8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/G2X4ldvbcjBTnAqeSUt0ysdln-U\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43MjE3M0ZBOUE4MjY1QTA1",
+   "snippet": {
+    "publishedAt": "2019-07-25T22:01:17.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Authorization",
+    "description": "In Cuba, a march was held to end to animal cruelty. It was the first march there to have authorization.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931212.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qXmQRQO3Z0s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qXmQRQO3Z0s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qXmQRQO3Z0s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qXmQRQO3Z0s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qXmQRQO3Z0s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qXmQRQO3Z0s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zL9nfDbMUXwiXLNUyk7p3oyMKpQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4yMzk0RjU2NDJBMzI5RDE2",
+   "snippet": {
+    "publishedAt": "2019-07-18T22:02:29.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Cheeky",
+    "description": "Those gorilla gals are always acting cheeky!\r\nOriginally published at - https://learningenglish.voanews.com/a/4931205.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kcMSonYTS4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kcMSonYTS4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kcMSonYTS4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kcMSonYTS4A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kcMSonYTS4A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kcMSonYTS4A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dO3Kpof8esLvTIPHarxcdMquibI\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40NUU5MjUxOUU1MDRGQzM0",
+   "snippet": {
+    "publishedAt": "2019-07-11T22:01:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Susceptible",
+    "description": "Camps in low-lying areas are susceptible to flooding.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931206.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TXZ4sjKGx7E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TXZ4sjKGx7E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TXZ4sjKGx7E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TXZ4sjKGx7E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TXZ4sjKGx7E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TXZ4sjKGx7E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GdSfc6wvH2hsQQd4Rb7PTvtiqrc\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43Njc4MTZEMDgzNUM1NEVG",
+   "snippet": {
+    "publishedAt": "2019-07-04T22:04:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Embrace",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/4931207.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lb7gaNtrmS8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lb7gaNtrmS8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lb7gaNtrmS8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lb7gaNtrmS8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lb7gaNtrmS8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lb7gaNtrmS8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Y0TRVw12tDtI0hRHNCi-KdxS5as\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DRkY0QzQxNDhEODU4QUJE",
+   "snippet": {
+    "publishedAt": "2019-06-27T22:03:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Biodiversity",
+    "description": "The Great Barrier Reef is filled with coral, fish and many other species creating a colorful biodiversity.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931203.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R5EknbrYKXs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R5EknbrYKXs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R5EknbrYKXs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/R5EknbrYKXs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/R5EknbrYKXs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "R5EknbrYKXs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UmObCyiGXUbfuBaDfFgT6muhVzA\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5BNTdEMTYxNTdFRkRFMUQ0",
+   "snippet": {
+    "publishedAt": "2019-06-20T22:02:06.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Uprising",
+    "description": "Uprising is the act of rising up.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931190.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A-UYdw7xDWc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A-UYdw7xDWc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A-UYdw7xDWc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/A-UYdw7xDWc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/A-UYdw7xDWc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "A-UYdw7xDWc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WZFM66IrN18JeFt7ZWBZAuM7q80\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4zNTI2QjhBOThBN0JGQTEx",
+   "snippet": {
+    "publishedAt": "2019-06-13T15:11:43.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Fallout",
+    "description": "Fallout from the newly-released special council's report has divided Republicans and Democrats.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931186.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5O0t7oLuew0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5O0t7oLuew0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5O0t7oLuew0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5O0t7oLuew0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5O0t7oLuew0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5O0t7oLuew0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tNX00jQyF_GG8JuqMYX9iFbMCJA\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5FMUU5ODU1MDE0RTk1Q0Ew",
+   "snippet": {
+    "publishedAt": "2019-05-30T22:02:35.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Extradite",
+    "description": "British authorities have received a request to extradite WikiLeaks founder Julian Assange to the United States.\r\nOriginally published at - https://learningenglish.voanews.com/a/4931187.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kfSLvAmymHs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kfSLvAmymHs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kfSLvAmymHs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kfSLvAmymHs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kfSLvAmymHs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kfSLvAmymHs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RgPXYlBrK-WORsdE07h9eZqiwgQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40MkJFNUMzMTJDNkVFQjEy",
+   "snippet": {
+    "publishedAt": "2019-05-16T21:57:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Stray",
+    "description": "With the large population in Cairo, comes a lot of traffic, pollution and stray dogs. The dogs are thought of as dangerous and dirty. A local man has opened two dog shelters in Cairo. \"We are just a group of people who go to the streets, rescue injured stray dogs, and cure them.\"\r\nOriginally published at - https://learningenglish.voanews.com/a/4841710.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WwA87qD0gU8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WwA87qD0gU8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WwA87qD0gU8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WwA87qD0gU8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WwA87qD0gU8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WwA87qD0gU8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Zutm_7e9kGI52KqiPd3gn260y80\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy41MjA2QjlEREM3NTE0RkJG",
+   "snippet": {
+    "publishedAt": "2019-05-09T21:56:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Unique",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/4841708.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UlfAETJ54q0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UlfAETJ54q0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UlfAETJ54q0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UlfAETJ54q0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UlfAETJ54q0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UlfAETJ54q0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZeB0PpyXVPno7HM0YtD5FpKZTBU\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4xQ0EyNTVGREQ1Nzk5MkVB",
+   "snippet": {
+    "publishedAt": "2019-04-25T21:58:21.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Blackmail",
+    "description": "In February, Jeff Bezos accused the owner of the National Enquirer tabloid newspaper of blackmail. Bezos wrote the tabloid threatened to publish private photographs of him and his girlfriend if he did not stop his investigation into its practices.\r\nOriginally published at - https://learningenglish.voanews.com/a/4841706.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MbumalB9xs8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MbumalB9xs8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MbumalB9xs8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MbumalB9xs8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MbumalB9xs8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MbumalB9xs8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RyYgxP94IQL38f1lkyImkg8qoKY\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4yMkNBN0M4QUJEQzYxMjA3",
+   "snippet": {
+    "publishedAt": "2019-04-19T14:19:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Sanctuary",
+    "description": "Originally published at - https://learningenglish.voanews.com/a/4841709.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WAbtVKJAcZY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WAbtVKJAcZY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WAbtVKJAcZY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WAbtVKJAcZY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WAbtVKJAcZY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WAbtVKJAcZY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qb96Fxzxeist2PODKLt-8NJ71xg\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5BNjBCMUFCN0Q5QzUyMjlG",
+   "snippet": {
+    "publishedAt": "2019-04-11T21:56:03.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Rehabilitate",
+    "description": "Recently hatched flamingo chicks on Kamfers Dam were flown hundreds of kilometers away to prevent them from dying. There, workers say it will take months to rehabilitate the chicks.\r\nOriginally published at - https://learningenglish.voanews.com/a/4841703.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N7_hv9GtO4s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N7_hv9GtO4s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N7_hv9GtO4s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N7_hv9GtO4s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/N7_hv9GtO4s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N7_hv9GtO4s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/p8i9iosi078G4bJgrDqImDxMrr8\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40MkQ0RjUwRTlGMUU4N0ZG",
+   "snippet": {
+    "publishedAt": "2019-04-04T21:59:01.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Retreat",
+    "description": "In February, the organization Freedom House released its yearly report on freedom and democracy.The report says gains were made in the late 20th century but for now, democracy is in retreat.\r\nOriginally published at - https://learningenglish.voanews.com/a/4841702.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TGqhUpZRKcU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TGqhUpZRKcU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TGqhUpZRKcU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TGqhUpZRKcU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TGqhUpZRKcU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TGqhUpZRKcU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CrPgL-_VctpjIw-ARzUSbjVxQ4k\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4wOTkzRUNGQkU5QzI1QTA3",
+   "snippet": {
+    "publishedAt": "2019-03-28T22:04:10.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Obstruction",
+    "description": "A United States government investigation of Russian interference in the 2016 U.S. elections is complete.\r\nOriginally published at - https://learningenglish.voanews.com/a/4851013.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/euZP7_GuFRc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/euZP7_GuFRc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/euZP7_GuFRc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/euZP7_GuFRc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/euZP7_GuFRc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "euZP7_GuFRc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z4lakJ4U1WIoGOgjgkMVh1_PZDs\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DQzY2RDZFRUQyRDlDQkMw",
+   "snippet": {
+    "publishedAt": "2019-03-28T21:58:48.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Brexit",
+    "description": "Brexit is the combination of Britain and the word exit, meaning to leave a place.\r\nOriginally published at - https://learningenglish.voanews.com/a/4841705.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AKjT-H2N9rw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AKjT-H2N9rw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AKjT-H2N9rw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AKjT-H2N9rw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AKjT-H2N9rw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AKjT-H2N9rw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/E5CIMZop1BdNmlsCkB-L_lLgaDs\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43Q0UyODJENjc3NDRCODU0",
+   "snippet": {
+    "publishedAt": "2019-03-21T21:59:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Sham",
+    "description": "More than 15 European countries are recognizing Juan Guaidó as Venezuela’s interim president. They said last year’s presidential election in which Nicholas Maduro won was a sham.\r\nOriginally published at - https://learningenglish.voanews.com/a/4841704.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fFxWmd-6EuQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fFxWmd-6EuQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fFxWmd-6EuQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fFxWmd-6EuQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fFxWmd-6EuQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fFxWmd-6EuQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1sr7LcfEp65e7upaR18K-xO9GXQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4yM0YxNkQ4MTExRjg4RUI2",
+   "snippet": {
+    "publishedAt": "2019-03-14T20:01:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Talent",
+    "description": "After winning an award for singing, Nelson Ebo left Angola and studied music in Spain. He lives in the United States and is famous all over the world for his talent. He would like to return to Angola to teach the “beautiful world of music.”\r\nOriginally published at - https://learningenglish.voanews.com/a/4737429.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oXzhYZi1jy8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oXzhYZi1jy8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oXzhYZi1jy8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oXzhYZi1jy8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oXzhYZi1jy8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oXzhYZi1jy8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1OZ3GoGurHhqs83jytm07DLG3Cg\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4zQTkyMjEwN0U0QkU3RDg5",
+   "snippet": {
+    "publishedAt": "2019-03-07T20:02:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Collaboration",
+    "description": "At CafeX, a robot makes many cups of coffee, knows when supplies are needed and even dances. There is always a human nearby to help and talk with customers. The café is a modern vision of collaboration.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737425.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eeL3LoLwwBk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eeL3LoLwwBk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eeL3LoLwwBk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eeL3LoLwwBk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eeL3LoLwwBk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eeL3LoLwwBk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s7mU6Qm7UQ9vsucIqORwh8iZSAU\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DNzNDRDE1NzhGODQzODI2",
+   "snippet": {
+    "publishedAt": "2019-02-28T21:04:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Deported",
+    "description": "A restaurant in Mexico City gives migrants a second chance. Hugo Hernandez, a manager, lived in the U.S. illegally. He was deported to Mexico after an arrest for illegal driving. He said, \"When I was deported, they took away everything from me except one thing: my knowledge.\"\r\nOriginally published at - https://learningenglish.voanews.com/a/4737427.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/u6aCFUNcUYw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/u6aCFUNcUYw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/u6aCFUNcUYw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u6aCFUNcUYw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/u6aCFUNcUYw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "u6aCFUNcUYw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K3pGB1vVcyCHUCLha4RpZginONM\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy43MzBFRTZDMUM3OTY2RjQ4",
+   "snippet": {
+    "publishedAt": "2019-02-21T17:48:43.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Congested",
+    "description": "Cholera has spread in camps for displaced people in Borno State. Chima Onwe helps run a camp. He says the congested living space is a reason for the spread and that people have limited access to clean water and healthy conditions.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737426.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/czFdwi4SNbg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/czFdwi4SNbg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/czFdwi4SNbg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/czFdwi4SNbg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/czFdwi4SNbg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "czFdwi4SNbg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ojKC-mgrelCOas_IcVSd1zkyKFA\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy4xREVBMTg1ODg1M0JCQUE1",
+   "snippet": {
+    "publishedAt": "2019-02-14T21:01:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Suspicious",
+    "description": "In October, Sayoc sent suspicious boxes from his home in Florida to Democratic party members, including former President Obama. None of the mail bombs exploded. Sayoc was charged with five federal crimes.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737422.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0qY6og3gSak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0qY6og3gSak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0qY6og3gSak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0qY6og3gSak/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0qY6og3gSak/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0qY6og3gSak"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ES8Q6ZDhCqjRM8c3Ucd7uoAC3HQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5CNzAzQzRDMkI3QThEQzZB",
+   "snippet": {
+    "publishedAt": "2019-02-07T21:02:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Innovation",
+    "description": "Officials believe the standard of measurement, using complex physics and electromagnetic force is better for today’s technology-driven world. This is the last world measurement standard to be replaced by innovation.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737420.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iik2Q7KHvxg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iik2Q7KHvxg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iik2Q7KHvxg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iik2Q7KHvxg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iik2Q7KHvxg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iik2Q7KHvxg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/BQw3123IEShzwvJTAYCdDtLCbFE\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy45QzM0OUZCRDUyMTgwREVG",
+   "snippet": {
+    "publishedAt": "2019-01-31T21:05:16.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Touchdown",
+    "description": "\"Touchdown confirmed!\" NASA scientists cheered as the spacecraft communicated it was safely on Mars. Its mission will examine the inside of the red planet. The information will permit scientists to study how a rocky body forms and becomes a planet.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737418.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M9uDdjw4XuQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M9uDdjw4XuQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M9uDdjw4XuQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/M9uDdjw4XuQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/M9uDdjw4XuQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M9uDdjw4XuQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/el_YMEXNZcdtcgfMxZHvZXwf9VA\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DMkM0MjQ3OTgwQzBCMEZB",
+   "snippet": {
+    "publishedAt": "2019-01-24T21:04:49.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Impede",
+    "description": "The regional chief of the United Nations children's agency visited children affected by the war in the Yemeni city of Hodeida. He said authorities are making it difficult to deliver food and medicine. He warned that efforts to impede relief could cause massive starvation and disease.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737421.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7CecKSsRVi0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7CecKSsRVi0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7CecKSsRVi0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7CecKSsRVi0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7CecKSsRVi0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7CecKSsRVi0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ALlFyDOVuovHibvJwZq2C0uK__8\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5BRjY4NjdBRjA5RTdCMUMx",
+   "snippet": {
+    "publishedAt": "2019-01-17T21:01:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Caravan",
+    "description": "Many migrants were traveling from Central America to seek asylum in the United States. Some in the caravan walked more than 4,000 kilometers. After reaching the Mexican town of Tijuana on the U.S. border, hundreds are still waiting to apply for asylum.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737416.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oDIoOLFBdt8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oDIoOLFBdt8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oDIoOLFBdt8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oDIoOLFBdt8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oDIoOLFBdt8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oDIoOLFBdt8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Gwow0yGkshN1oB6YpD0vscNZPKk\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy41RjU0OTVCQThDNUUwQzBD",
+   "snippet": {
+    "publishedAt": "2019-01-10T21:05:05.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Rumors",
+    "description": "Many people have spread rumors online that the Nigerian president had been replaced with a look-alike. Last month the president promised that he is alive. He said those spreading rumors about his health were not correctly informed.\r\nOriginally published at - https://learningenglish.voanews.com/a/4737417.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q2Jv5je5MPg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q2Jv5je5MPg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q2Jv5je5MPg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q2Jv5je5MPg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q2Jv5je5MPg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q2Jv5je5MPg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EEsAkkaO4nIveyLekLIYnmGLE1k\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5EREU0QjZERDMzRDBGNTMz",
+   "snippet": {
+    "publishedAt": "2019-01-03T23:00:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Vigilant",
+    "description": "Vanilla beans are worth about $530 a kilo. The high price makes them a target for criminals. Jao Nasaina is a vanilla farmer in Madagascar.  He has become more vigilant.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-vigilant/4638885.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3r_pDTxFNFY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3r_pDTxFNFY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3r_pDTxFNFY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3r_pDTxFNFY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3r_pDTxFNFY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3r_pDTxFNFY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/D0PtzMUnCemisU03-Otqx6vT4ks\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5CNEFEOUNDRUMzMjVGMjc2",
+   "snippet": {
+    "publishedAt": "2018-12-27T23:02:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Shun",
+    "description": "For centuries, Kayan women in Myanmar have worn a traditional symbol of beauty. All Kayan women were once expected to wear them but now, some have started to shun the practice.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-shun/4638884.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bHOTDdMOvKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bHOTDdMOvKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bHOTDdMOvKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bHOTDdMOvKI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bHOTDdMOvKI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bHOTDdMOvKI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/S0aCzqI_DQqPCAUMknmMiOkI50I\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy45NDIzMEVBNjk5NTFGRDZC",
+   "snippet": {
+    "publishedAt": "2018-12-20T23:03:29.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Incubator",
+    "description": "Washing your hands is one of the easiest ways to stop the spread of disease. So, two women created a fun way for children to wash their hands. The women did not have much business experience, so they turned to a business incubator for help in selling the product.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-incubator/4638882.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/POl2j6tRhEM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/POl2j6tRhEM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/POl2j6tRhEM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/POl2j6tRhEM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/POl2j6tRhEM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "POl2j6tRhEM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/SfltFE014Q1xP6xTK3FFX6_Dz4o\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5CODNEOTFERDNCQjU2ODhE",
+   "snippet": {
+    "publishedAt": "2018-12-13T23:02:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Infiltrate",
+    "description": "In September, officials removed all weapons from the police force in the Mexican town of Acapulco. Two top police officials are accused of murder and the entire force is under investigation. Authorities say drug criminals infiltrated the police force in order to control them.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-infiltrate/4638883.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qHWkqGqsjLs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qHWkqGqsjLs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qHWkqGqsjLs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qHWkqGqsjLs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qHWkqGqsjLs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qHWkqGqsjLs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mZpikuVCWzFc7VLrC6gjtFSify8\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40QTY5NjQzQkQzMjgwNjhD",
+   "snippet": {
+    "publishedAt": "2018-12-06T23:04:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Draconian",
+    "description": "In Venezuela, the government of President Nicolas Maduro has created new policies to deal with the economic crisis. Business owners say these draconian policies have caused them to close their businesses because they cannot pay their workers’ wages.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-draconian/4638881.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uMrQY3eYHMs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uMrQY3eYHMs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uMrQY3eYHMs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uMrQY3eYHMs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uMrQY3eYHMs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uMrQY3eYHMs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n-bDwQlra2con5BaWFoq8nYcCQQ\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy5DNTU3ODQ4ODAzMjFERTI1",
+   "snippet": {
+    "publishedAt": "2018-11-30T16:44:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Hazardous",
+    "description": "Go to VOA Learning English for more News Words.\nhttps://learningenglish.voanews.com/z/3620",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZHtWBHEQEzs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZHtWBHEQEzs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZHtWBHEQEzs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZHtWBHEQEzs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZHtWBHEQEzs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZHtWBHEQEzs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/U2IpTepShAe6hwFBlB_Yl5EXL54\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40Q0JERDMxNzcwNTk1M0Y0",
+   "snippet": {
+    "publishedAt": "2018-11-22T23:04:23.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Superfood",
+    "description": "The Baobab is a well-known tree in Africa. Inside the green shell that comes from the tree is a tasty fruit. The fruit has become a popular superfood in the United States and Europe.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-superfood/4638878.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3xqZmXMO95g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3xqZmXMO95g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3xqZmXMO95g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3xqZmXMO95g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3xqZmXMO95g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3xqZmXMO95g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2N1PbUsUW8Z_HzzRI--iaWfNSjo\"",
+   "id": "UExkOWhDdmozNFc1Z2Y4S1RKVV92THVjOWRMVFRXRmFoQy40NTBGRDE5MDg2Q0NEODI4",
+   "snippet": {
+    "publishedAt": "2018-11-15T23:02:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "News Words: Forfeit",
+    "description": "In Uganda, officials have placed thousands of cameras throughout the country. Critics say they are an unlawful way to monitor Ugandans’ daily lives. Lawyer Galisonga Julius says people need to forfeit privacy for public safety.\r\nOriginally published at - https://learningenglish.voanews.com/a/news-words-forfeit/4638877.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HveTsQq9bbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HveTsQq9bbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HveTsQq9bbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HveTsQq9bbY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HveTsQq9bbY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HveTsQq9bbY"
+    }
+   }
+  }
+ ]
+}
