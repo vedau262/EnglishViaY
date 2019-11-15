@@ -26,7 +26,7 @@
 		{	
 			"LIST_VIDEO_NAME": "VOA - English in a Minute",
 			"LIST_VIDEO_SIZE": "47",
-			"LIST_VIDEO_ICON": "https://gdb.voanews.com/9DFF77C9-D804-40CC-BA01-CF89BC0F19E4_w1200_r1_s.jpg",
+			"LIST_VIDEO_ICON": "https://pbs.twimg.com/media/Dg3oor3XUAI5VJL.jpg",
 			"LIST_VIDEO_ID": "PLd9hCvj34W5hJZwjdghwQQi3XhpSZO9sx",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20English%20in%20a%20Minute",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/cphfa1xty0hnucf/VOA%20-%20English%20in%20a%20Minute.txt?dl=1"			
@@ -34,7 +34,7 @@
 		{	
 			"LIST_VIDEO_NAME": "VOA - American Stories",
 			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://gdb.voanews.com/A8EF3F7B-BE7B-4D3A-BE57-EC62C28F8703_w1200_r1_s.jpg",
+			"LIST_VIDEO_ICON": "https://gdb.voanews.com/34A9645E-98DD-45EC-A2AF-584ACF0C54C6_w408_r1.jpg",
 			"LIST_VIDEO_ID": "PLd9hCvj34W5gR8u7liXqZeWLsVnhR5ZPV",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/American%20Stories",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/cphfa1xty0hnucf/VOA%20-%20English%20in%20a%20Minute.txt?dl=1"			
