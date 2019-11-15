@@ -1,0 +1,2006 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/biI2k8RAqRBM4N6A35sKmQVWwiM\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 214,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HYEAI9qPYXfEQ26kiCx8U9G-8yk\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjZCNEFBRTM2RkU0MkU1MkM=",
+   "snippet": {
+    "publishedAt": "2016-05-22T19:05:10.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Can Batteries Last Forever?",
+    "description": "A recent discovery by a scientist in California may help batteries last forever.\r\nOriginally published at - http://learningenglish.voanews.com/a/can-batteries-last-forever/3338898.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ojJXzZkW6kA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ojJXzZkW6kA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ojJXzZkW6kA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ojJXzZkW6kA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ojJXzZkW6kA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/stx3v1PDvstWXJz3gcRt7U5zgts\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkU5RjkyQzMxRDIxM0FEMTI=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: New Technology Aims to Put Audiences Inside the Movie",
+    "description": "Watching a movie in a theater may be a very different experience in the future. New technologies are being created to make it seem you are in the middle of the action.\r\nOriginally published at - http://learningenglish.voanews.com/a/new-technology-aims-to-put-audiences-inside-the-movie/3327332.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m2sm29_rots/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m2sm29_rots/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m2sm29_rots/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m2sm29_rots/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "m2sm29_rots"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_p6Uv9vbl4LRgHBS1M0XWIzh-Lc\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjk5MjMzNjE1OUM2NzQyRjA=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Silicon Businesses Fueled by Immigrants",
+    "description": "The area in northern California between San Francisco and San Jose is called Silicon Valley. It is famous for start-up businesses. Some of the people behind the start-ups are immigrants from places like Sri Lanka, Taiwan, and China.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/silicon-businesses-fueld-by-immigrants/3316665.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BOnCYlYnV3A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BOnCYlYnV3A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BOnCYlYnV3A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BOnCYlYnV3A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BOnCYlYnV3A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NunoKeWqTIepRNoBt4EX5gNRgVc\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkQzMEU1QThEOTM1RjhDN0U=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Microsoft Takes Legal Action Against the U.S.",
+    "description": "The technology company Microsoft says government agencies are abusing a law that lets them demand to read emails or online files without their owners knowing they are doing so. Microsoft says the agencies are violating the Constitution’s ban on unreasonable searches and seizures.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/microsoft-takes-legal-action-agaisnt-the-us/3306624.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dgx1LNL0htQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dgx1LNL0htQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dgx1LNL0htQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dgx1LNL0htQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dgx1LNL0htQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sOC7i2pNSgyrVeyVXIcZ5MpaqkI\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjA0NEI1MUEyNDIzN0U3QTk=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Spanish ‘Smart’ City Project Saves Time, Money",
+    "description": "A city in Spain uses technology to make life easier for its citizens and visitors. It is an example of a \"smart city\" that other cities are interested in trying.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/spanish-smart-city-project-saves-time-money/3295566.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mt_dUvUFjS4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mt_dUvUFjS4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mt_dUvUFjS4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Mt_dUvUFjS4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Mt_dUvUFjS4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3cGZKsY6_8g8Xs5VHCMfUm9D9zc\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkQ3M0JFNjJBN0ZGNjZBNDA=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: FBI and Apple Court Battle Ends",
+    "description": "In California, a legal battle between the Federal Bureau of Investigation and Apple has ended. The FBI was able to get information from an iPhone without help from Apple.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/fbi-apple-court-battle-ends/3285533.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cV0_wne-JZ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cV0_wne-JZ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cV0_wne-JZ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cV0_wne-JZ8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cV0_wne-JZ8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZxZhm_O1OMgJyBCzjhZP0r3c5w8\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjI1ODNGMDcxNjhFRUI1QjI=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: More Than One-Third of Inventors, Discoverers in U.S. are Foreign-Born",
+    "description": "Thirty-five percent of those responsible for some of the most important discoveries made in the US were born in other countries, a new study finds.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/more-than-one-third-inventors-in-u-s-are-foreign-born/3262925.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f6JFo1Kbdgo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f6JFo1Kbdgo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f6JFo1Kbdgo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f6JFo1Kbdgo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f6JFo1Kbdgo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FcFLgnCNuXLlX-buTjJxoC4LgeI\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkM3QTYwRUJDNURBMzRBNDQ=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Cambodian Prime Minister’s Facebook Popularity Questioned",
+    "description": "A newspaper says Cambodian Prime Minister Hun Sen might have paid for “likes” on his Facebook page. Cambodian politicians are using the social media site to show the public their popularity. A spokesperson for the prime minister dismisses the claim that Hun Sen paid for Facebook “likes.”\r\nOriginally published at - http://learningenglish.voanews.com/media/video/technology-report-cambodian-prime-minister-facebook-likes/3252892.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jhhFGV8UoaM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jhhFGV8UoaM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jhhFGV8UoaM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jhhFGV8UoaM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jhhFGV8UoaM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ESjQUy9bbE01RfkLyodYU75NzZE\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjVGQTA2MDI3Q0MxNEI1RUI=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Apple and the FBI Court Battles Continue",
+    "description": "In California, a legal battle between Apple and the U.S. Federal Bureau of Investigation will continue for some time. The lawsuit raises questions about the roles of law enforcement and technology. The ruling could affect privacy, safety and security.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/apple-and-the-fbi-court-battles-continue/3242305.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0SXUoqchGw0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0SXUoqchGw0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0SXUoqchGw0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0SXUoqchGw0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0SXUoqchGw0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GUnPFvrunw_l1EA_GVt9QpR1dv8\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjE2QzQ1OUJFNjg1MEQxMDg=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: The Internet Comes to Cuba, Slowly",
+    "description": "A short time ago, Cubans had no Internet service. Now things are changing, Internet service is available in some parks and hotels.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/the-internet-comes-to-cuba-slowly/3210181.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sktqoJb23Lc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sktqoJb23Lc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sktqoJb23Lc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sktqoJb23Lc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sktqoJb23Lc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5K7wxLEtT7TsZYbgbfZLyKf8edY\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkQzREQ1OTE0MDg5RDI5MDk=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Twitter Suspends Over 125,000 Accounts for 'Promoting Terrorist Acts'",
+    "description": "Twitter announces increased efforts to stop violent threats and terrorism on its global online platform.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/twitter-suspends-thousands-of-accounts-for-promoting-terrorist-acts/3196767.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ns_3WlMBt6U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ns_3WlMBt6U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ns_3WlMBt6U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ns_3WlMBt6U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ns_3WlMBt6U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sCAkEQtN3cTMbhEE4QWZ3QZJtTE\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkJDOTM1NkJGRkJDMjE1NkE=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:08:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Technology Report: Businesses Weak on Computer Crime Protection",
+    "description": "Researchers say policies designed to protect companies from computer attacks are not strong enough.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/businesses-weak-on-computer-crime-protection/3186640.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xAgoFvb3bkQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xAgoFvb3bkQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xAgoFvb3bkQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xAgoFvb3bkQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xAgoFvb3bkQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GqWbPnwLIBrpMedcMMG8T3h1Grg\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkMzMzBBMjZDQzk2MkNDNkI=",
+   "snippet": {
+    "publishedAt": "2014-10-17T19:49:18.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Learning English Technology report",
+    "description": "Captioned television to read, watch and learn American English. Focusing on technology, education, agriculture, economics, and health.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/2481139.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pst9p-Gky8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pst9p-Gky8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pst9p-Gky8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Pst9p-Gky8w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Pst9p-Gky8w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z5YFvZin4KRLsWNyxIgzO9ArvHg\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkYzQkYzM0U5ODdDRDc4MkM=",
+   "snippet": {
+    "publishedAt": "2014-10-17T19:50:23.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China's Internet Addiction Camps",
+    "description": "Based on the definition, China has over 20 million Internet addicts.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Dl0ghy4WLB8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Dl0ghy4WLB8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Dl0ghy4WLB8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Dl0ghy4WLB8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Dl0ghy4WLB8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fhDP59OxKOzjaq0r3Zrd4xeYAaA\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkU3NzdGMkQyRkE3NDgyRkM=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:14:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Brain Imaging Comes to Children in Poor Countries",
+    "description": "Brain imaging can identify the first signs of learning and development delays in newborns and young children.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QMb9AWwDAFo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QMb9AWwDAFo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QMb9AWwDAFo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QMb9AWwDAFo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QMb9AWwDAFo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WNbltOEuOcZugumQ_4RGcONC6Is\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkYzMTgwREVDMUQ1RUJERTY=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:16:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Conflict in Gaza Makes a Mark on Social Media",
+    "description": "Palestinians and Israelis have used social media to tell about the conflict in the Gaza Strip.  But experts warn that social media does not take the place of reporting from the area.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/conflict-in-gaza-makes-a-mark-on-the-internet/2431495.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/h04cyfnfLH8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/h04cyfnfLH8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/h04cyfnfLH8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/h04cyfnfLH8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "h04cyfnfLH8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wFKqjf4tTK-DD09POJtZNihmX7U\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkUzOUIyQkMzQjMyNDE0RUQ=",
+   "snippet": {
+    "publishedAt": "2014-03-12T18:34:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Uganda Hopes to Become a Market for Outsourcing",
+    "description": "Officials in Uganda have opened an outsourcing center to train people in Internet technology. Their aim is to create jobs for Ugandans.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jWeDtbdLQe8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jWeDtbdLQe8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jWeDtbdLQe8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jWeDtbdLQe8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QDYwhogmaH6iQDVSjLXLN3wbVuY\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjJEQTVEN0M2OTRBQzU5MDA=",
+   "snippet": {
+    "publishedAt": "2013-11-05T20:45:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Company Prepares for Risky Clean Up of Fukushima Reactor",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Technology Report.\n\nWorkers at the damaged Fukushima Daiichi nuclear plant in Japan will soon begin another clean-up effort. More than 1,500 nuclear fuel rods are to be removed from a damaged storage pool 30 meters above ground, inside the Reactor 4 building. TEPCO, the Tokyo Electric Power Company, owns the nuclear power station. Critics say TEPCO should not be trusted to carry out the operation.  However, TEPCO General Manager Masayuki Ono says the operation has been carefully planned. TEPCO had to rebuild the Reactor 4 building after a hydrogen explosion destroyed it. TEPCO workers will first remove pieces of wreckage left by the explosion. Then workers will remove the fuel rods one by one. They will use a crane suspended above the building. The fuel rods must not touch each other or break. Nuclear experts warn that any accidents could cause an explosion many times worse than the one in March 2011. Mitsuhei Murata is Japan's former ambassador to Switzerland and an anti-nuclear activist. He notes that problems over the past 30 months, including radioactive water leaks, have raised questions about TEPCO's efforts. He says if the worst happens, and workers have to withdraw, then it could be considered what he calls \"the beginning of the ultimate catastrophe of the world.\"Japan's Agency for Natural Resources and Energy says TEPCO alone is responsible for safety. But to support TEPCO, the agency has sought advice from specialists around the world. Nuclear inspectors have approved TEPCO's plan to remove the fuel from Reactor 4. The process is expected to begin in November and be finished in 18 months. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_-84sx9fsCo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_-84sx9fsCo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_-84sx9fsCo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_-84sx9fsCo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_-84sx9fsCo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/57lFVUSs9lM2rLtKxaQOWG9QBpA\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkEzRjIyRDNFQkY2ODgzQUM=",
+   "snippet": {
+    "publishedAt": "2013-10-30T14:55:11.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "New Supercomputers Aid Weather Forecasts",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Technology Report. \n\nMany Americans start to closely follow weather reports in the early fall during the Atlantic hurricane season. Predicting the strength and movement of these huge storm systems is of crucial importance. Thanks to new supercomputers, meteorologists for the National Oceanic and Atmospheric Administration, or NOAA, are getting better at predicting the weather as far as six days out. Hurricane Sandy hit the East Coast last October and caused deaths and widespread damage. It was one of the costliest storms in United States history. At the time, some people blamed meteorologists for not correctly predicting the path of the storm. But weather forecasting is extremely difficult, says Ben Kyger. He is the director of central operations at NOAA's National Centers for Environmental Prediction in College Park, Maryland. Ben Kyger says oceans are another issue because they closely interact with the atmosphere and have a huge effect on storms. NOAA has spent about $20 million on two new supercomputers in an effort to improve the dependability of its forecasts. It takes a huge amount of computational power to examine data from weather satellites, ground stations and other sources. It then takes a lot of power to predict temperature, air pressure, humidity and wind speed. But human brains and experience are still very important to the process. Meteorologists at the National Centers for Environmental Prediction scan the same data that the supercomputers get before issuing a weather report. NOAA issues worldwide forecasts every six hours, every day of the year. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dunfyT9A0pA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dunfyT9A0pA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dunfyT9A0pA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dunfyT9A0pA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dunfyT9A0pA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/asaXSUHINXSzrSQjtPk5lOzakAo\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjRGMzcyRUJGMUZDMkFGNTA=",
+   "snippet": {
+    "publishedAt": "2013-10-16T19:07:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Robo Sally Has Human-Like Hands",
+    "description": "Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Technology Report. \n\nResearchers at Johns Hopkins University's Applied Physics Laboratory in Laurel, Maryland, have designed a new humanoid or human-like robot. Its name is Robo Sally. The machine can be controlled from a distance and can be used to do work that is dangerous for human beings. Robo Sally has two long arms with human-like hands. She can use her fingers to pick up small objects, examine them in detail and do most things that human hands can do. Each finger contains a tiny motor capable of squeezing 20 pounds of pinch force, enough to defuse a bomb under the direction of an operator. Robo Sally sits on a metal base with wheels that let the robot move around, turn in tight spaces and climb over small objects. Mike McLaughlin is the main investigator for the Applied Physics Laboratory's Prosthetics Program. It was a difficult job. Mr. McLaughlin says the robot hand had to have many small motors to have the ability to do what a human hand does. It also needed to have human-like strength. For search and rescue duties, Robo Sally will be operated by a person using a wireless machine that is far from the robot. The operator will also wear special glasses. The glasses will permit the operator to see the robot's hands. Mr. McLaughlin says this kind of robot could be used in what he calls \"dull, dirty or dangerous\" situations where fine human finger movements are required. Mr. McLaughlin says the technology is not fully ready yet. He predicts that within five years, there will be some very big improvements. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1hWQCfysCFE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1hWQCfysCFE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1hWQCfysCFE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1hWQCfysCFE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1hWQCfysCFE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RebcBkcsbchqABw4Fz-AqUt6Fl0\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjdGMUQzOTI1MUEwMzRBQjQ=",
+   "snippet": {
+    "publishedAt": "2013-09-30T17:08:57.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Africa Grows as a Market for Tech Products",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nAfrica has become a growing market for high technology products. It may soon become a base for many more high tech companies as well. Experts predict growing competition in Africa as technology companies and others attempt to meet the needs of young and middle class populations. DHL calls itself the \"logistics company for the world.\" Logistics is the process of planning complex activities involving people and resources. DHL provides transportation by train, road, sea and air. The company sees Africa as a place where its business can expand. But, for that to happen, more international companies will need to invest and set up operations there. Sumesh Rahavendra is with DHL. He says there is a lot of evidence of growing operations by multinational companies in Africa. They include SAP, IBM and Hisense, a Chinese state-owned company. Sumesh Rahavendra is the company's head of marketing for sub-Saharan Africa. He says the area offers many possibilities for growth. He points out that many people who never used a desktop computer are now using tablets and smartphones.  He describes the continent's one billion people as a largely untouched market for many kinds of products.DHL has been operating in Africa for more than 35 years. Sumesh Rahavendra predicts that as more and more companies set up operations in Africa, DHL's business will increase. DHL says Africa is now the world's second largest mobile technology market, by connections, after Asia. In addition, it is the fastest growing mobile communications market in the world. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1zVrhvDfaGg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1zVrhvDfaGg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1zVrhvDfaGg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1zVrhvDfaGg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1zVrhvDfaGg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ID1dTDGH8x1n-nOU2viGD6tXjSM\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjYyMjI5MDI2MEVGRjQ0RUY=",
+   "snippet": {
+    "publishedAt": "2013-09-23T20:43:41.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Using Drones to Save Animals",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nPeople are finding new ways to use aerial vehicles, commonly called drones. An organization called DIY Drones says it has more than 40,000 members who build and fly such aircraft. Rescue teams, police and others are developing new uses and technology for drones. But, what seems like a good activity for one group may seem like a threat to another. Recently, the group, People for the Ethical Treatment of Animals, or PETA, made an announcement. The group said that it was negotiating with a drone manufacturer. PETA President Ingrid Newkirk says often drones are considered unmanned killing machines. But, she says her group believes they can also be used to save lives. The PETA website says the group would use drones to record cruelty to farm animals and illegal hunting methods. The website says this would help enforce animal protection laws. PETA's president says hunters sometimes put out food to get the attention of animals they want to shoot. However, Ingrid Newkirk says it is illegal to bait animals. She says drones could be used to identify lawbreakers. Hunting and gun rights groups oppose PETA's plan to watch and record images of hunters from the sky. They say the plan would violate the privacy of gun owners and their right to enjoy the outdoors. Local and federal lawmakers were already debating the issues raised by police use of drones. Groups like the American Civil Liberties Union wanted laws to prevent law enforcement agencies from watching people. They warn that without legal restrictions, the technology could be used to spy on citizens. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nGpNY01sHBk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nGpNY01sHBk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nGpNY01sHBk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nGpNY01sHBk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nGpNY01sHBk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1eJ5zm9gbcb1AZpWFetYlL47lNE\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjA5NzRCNjMwQ0NFRDcyNDE=",
+   "snippet": {
+    "publishedAt": "2013-09-16T19:30:28.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "How Google Glass Works",
+    "description": "From VOA Learning English, this is the Technology Report. \n\nThe Internet company Google is testing its newest device, Google Glass. Most of the technologies for Google Glass are already available on smartphones. What is different is that Google has taken those technologies and added them to eyeglass frames. \nChris Dale is the senior manager of communications for Google Glass. He says the device is a very small computer that sits in a lightweight frame and is positioned above the eye. He says it makes exploring and sharing the world around you easier.\nThe glasses have a tiny video screen and camera that connect wirelessly to the Internet through Wi-Fi, a smartphone or a tablet computer. You can make and receive calls, send and receive texts, take pictures, record video or search the web. You control Google Glass using your voice and a touchpad on the right temple arm of the frame. Professor Marcia Dawkins is among a group of people who have tested Google Glass. She thinks she could use the device in her classroom. Her Google Glass looks like a pair of bright orange glasses, but without the lenses. There is a tiny rectangular glass at the top right corner. She has been recording videos while biking. She has also been able to talk to her sister in Thailand. But not everyone is excited about Google Glass. Some are concerned about risks to privacy. They say the device will make it easy to video people without their knowledge. There are also concerns about the use of facial recognition technology. Google says it will not approve the use of such applications. The company says it is still testing Google Glass and hopes to make it available by early next year. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qPj-w7MmGOE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qPj-w7MmGOE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qPj-w7MmGOE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qPj-w7MmGOE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qPj-w7MmGOE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rbkl9sIqzovze6FF1MuNjbZ7YEw\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkFBMEY1NjQ0RjUwOTdGNkU=",
+   "snippet": {
+    "publishedAt": "2013-09-14T15:32:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Promoting Tornado Safe Rooms in Oklahoma",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nOn May 20th, a tornado brought death and destruction to the American community of Moore, Oklahoma. The tornado had wind speeds of up to 400 kilometers an hour. Twenty-four people died when the storm cut through the city. People had only 15 minutes to react to warnings. Some fled Moore or took refuge in the most secure area of their home. The lucky ones took cover in underground shelters or steel-and-concrete structures called safe rooms. Leslie Chapman Henderson is head of a nonprofit group called the Federal Alliance for Safe Homes. She is a big supporter of tornado safe rooms. She says they can help reduce the number of tornado deaths. A safe room is built to resist high winds and flying wreckage. Skye Strouhal survived the tornado in Moore. He watched as it moved in her direction. He and a friend ran to a neighbor's underground shelter only minutes before the storm struck. Better methods for predicting storms give people like Skye Strouhal and her friend more time. But they need someplace safe to go. Structures can be built to resist strong winds. But not all structures may be able to resist a tornado as strong as the one that hit Moore. It was rated F-5, the highest possible rating. Moore lies in an area of the United States called Tornado Alley. Powerful storm systems are common. The tornado in May was the fourth to strike the city in 14 years. Moore's mayor is pushing for laws requiring safe rooms in all new buildings. Similar proposals followed other tornado strikes, but no laws were passed. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dULrrI_bWxw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dULrrI_bWxw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dULrrI_bWxw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dULrrI_bWxw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dULrrI_bWxw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5ud4tExUuyetOVALmfGOoZM4UZI\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjI0Q0FCQkUzMUU3MTA0QUM=",
+   "snippet": {
+    "publishedAt": "2013-09-09T14:43:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Social Media Limits in Vietnam Criticized",
+    "description": "From VOA Learning English, this is the Technology Report. \n\nInternet activists and human rights groups are criticizing an order that requires blogs and social media sites in Vietnam to share personal information only. The order aims to ban social media users and bloggers from posting other information such as news stories. Local media reports say the decree states that such sites are not permitted to quote, gather or summarize information from press organizations or government websites.Prime Minister Nguyen Tan Dung approved Decree 72 in July.Internet activists say this is an attempt by the communist government to restrict freedom of speech. Rights groups say the decree's requirements are too broad and will be used to act against government critics. Others criticized a statement by Le Nam Thang, the deputy minister of information and communications. State media reported him as saying that the law aims to help Web users find correct and clean information on the Internet. But one blogger says that is a matter of personal choice. She says people should be able to decide for themselves whether information is good or bad. And she says Vietnamese citizens do not need the government to teach them on how to think. The decree sets out very broad categories of speech that officials could consider as troublesome. It includes warnings about information that is \"against Vietnam\" or undermines certain principles. Shawn Crispin is the Southeast Asia representative for the Committee to Protect Journalists, or CPJ. He says the increased restrictions suggest that the government thinks it has lost control of the criticism that is so widespread on social media. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/buUhYyNMpUc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/buUhYyNMpUc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/buUhYyNMpUc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/buUhYyNMpUc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "buUhYyNMpUc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/uwAM4Wd42whE6Zkr05QmgN-qOnk\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkREREQ3Q0MwMzQzNzFEMEU=",
+   "snippet": {
+    "publishedAt": "2013-08-26T18:08:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Computer in China Tops List of World's Most Powerful",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nChina's Tianhe-2 supercomputer has been rated number one on the Top500, a list of the world's most powerful computers. Experts measured the supercomputer's performance at 33.86 petaflops, or quadrillions of operations per second. China's National University of Defense Technology developed the supercomputer, which runs twice as fast as the number two rated Titan supercomputer.   That machine belongs to the U.S. government's Oakridge National Laboratory in the outhern state of Tennessee.  Tianhe-2 and Titan are part of the race to make supercomputers faster and more powerful. So what is a supercomputer?  A basic personal computer has one microchip at the center of its operations.  This Central Processing Unit, or CPU, carries out a set of commands as part of a predesigned program.The first supercomputers had a few more CPUs.  The number grew as microprocessors became cheaper and faster.  Andrew Grimshaw is a computer science professor at the University of Virginia.  He says many supercomputers today are called parallel machines.  Instead of one CPU, they have thousands.  These parallel machines are made up of many individual computers called nodes.  They are positioned in one block.  They use a lot of power, create a lot of heat, and require huge cooling systems. They also use programs different from the ones used by ordinary computers. Professor Grimshaw says anyone with enough resources can build a supercomputer to solve problems that require millions of mathematical calculations.  For VOA Learning English, I'm Carolyn",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aoEYLW-dIxI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aoEYLW-dIxI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aoEYLW-dIxI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aoEYLW-dIxI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aoEYLW-dIxI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LFHjllxmI-Nuxl1brUzfgaddHA4\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjZGMDQwMkJBRkQ5REM4RDU=",
+   "snippet": {
+    "publishedAt": "2013-08-21T13:18:07.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "A Device That Can Tell If Drivers Are Alert",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nHigh-tech companies are developing the next generation of products that will help us drive cars, do our shopping and even care for our children. The technology company Intel recently held a demonstration of some of its new devices in San Francisco. \nOne device measured how alert a driver was. Sensors connected to the driver's head measured brain activity. Cameras placed on the car's dashboard measured eye movement.\n          Justin Rattner works at Intel Labs. He says the devices measure how much of the brain is occupied while the person is driving. Devices like these, he says, will make driving safer. Another experimental Intel technology links cars electronically to help prevent crashes. When the driver of the car in front signals a turn or slows down, an alert message is sent to the car in back. There was also a demonstration of a virtual computer. The computer was projected onto the table from a controller hidden in a flower pot. Sensors read the movements of the users' hands, so there was no need for a mouse or other handheld device. This technology could be used in everyday situations. At a market, sensors and computer chips placed in products could help shoppers find the items they want to buy. For example, the technology could help them avoid foods that could cause an allergic reaction.\n          Cameras and sensors are already available to help parents watch their children. In the future, other equipment will monitor a baby's health and mood. And security systems are being improved and simplified, with face-recognition software instead of complicated passwords. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZelMDOxcy2Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZelMDOxcy2Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZelMDOxcy2Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZelMDOxcy2Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZelMDOxcy2Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Sz_-Bfv7ECaSOl9f_5TcPQ4tuhI\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkI2MjFBMDREMzJBRjkwRTE=",
+   "snippet": {
+    "publishedAt": "2013-08-12T15:32:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "World Digital Library Serves Millions",
+    "description": "From VOA Learning English, this is the Technology Report.\n\nName a website where you could find old pictures of camels carrying people to Mecca, Saudi Arabia, and books about ancient Aztecs in Mexico? It is all found in the World Digital Library. Its collection is available on the Internet. The library has 8,000 items, from whole books to ancient writings to music and photographs. There are 170 partners in 79 countries sending material to the World Digital Library. Partners include national or university libraries, museums and other cultural organizations. The librarian of the United States Congress, James Billington, launched the WDL in 2009. John Von Oudenaren is the director of the library. He says Mr. Billington wanted it to include materials that are both interesting and important. Every item is explained in the six official languages of the United Nations -- English, Arabic, French, Spanish, Chinese, Russian, and also Portuguese. Since 2009, 25 million people have visited the website from 250 places. The greatest number is from Spanish-speaking countries. John Von Oudenaren says users include schools, researchers and anyone interested. He was especially happy to hear from one teacher in New York City. She said it was wonderful to have a website that people around the world could find interesting and important items. Musa Murawih is a researcher for the WDL from Sudan. He works with all the materials that are in Arabic. Musa Murawih believes the library provides tools for understanding especially among Arabs, Muslims and the United States. Anyone may search the World Digital Library by subject, time period, kind of document or area of the world. The website is www.wdl.org. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6tRJHfvKKE0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6tRJHfvKKE0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6tRJHfvKKE0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6tRJHfvKKE0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6tRJHfvKKE0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yc1dArEUDlZL3ZXwxdRpOzXl-Lk\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjY3MzNFMkZENTZCOTFBMjM=",
+   "snippet": {
+    "publishedAt": "2013-07-23T13:40:34.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "US High Court Rejects Patents on Natural Genes",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qlV1KCQMJKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qlV1KCQMJKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qlV1KCQMJKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qlV1KCQMJKI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qlV1KCQMJKI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mfh_rAba4PvtQFEZ5kyFgVRe9tw\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjdCMjk4NDdENDZDMkQyNDU=",
+   "snippet": {
+    "publishedAt": "2013-07-19T22:16:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Goal Line Technology Used at Confederations Cup",
+    "description": "From VOA Learning English, this is the Technology Report. Many sports competitions use cameras to help officials make the right call. Now goal line technology is being used in international soccer. The move to goal line technology follows international pressure on football's governing body, FIFA, after a missed call in the 2010 World Cup. Video replays of a game clearly showed that England's Frank Lampard had scored a goal against Germany. However, that goal was denied because neither the referee nor the linesman saw the ball cross the goal line. The incident caused such an outcry that FIFA approved the development of goal line technology. That technology was used at the Confederations Cup in Brazil in June. Bjorn Linder is the chairman of GoalControl, the German-based company that won the goal line technology contract for this year's Confederations Cup. His team spent weeks in Brazil before the games as part of the FIFA certification process. He says the system has 14 cameras connected to a computer. Computers track the path of the ball in real time and reconstruct the play. The system sends a signal to the referees through their watches when it finds that the ball has crossed the goal line. Electronic eyes on the goal line may settle arguments, but the data is still only a reconstruction of reality. GoalControl claims an accuracy of plus or minus five millimeters. This is well below FIFA's minimum requirement of plus or minus three centimeters. Goal line technology may become a central part of the sport. But it is still the referee -- not the computer -- that makes the final call. For VOA Learning English, I'm Mario Ritter.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zWM6WJelxdQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zWM6WJelxdQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zWM6WJelxdQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zWM6WJelxdQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zWM6WJelxdQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hZ1qvwFVEdOPIvK2SkD_--MuluM\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkNBODIwRTc5N0NGMzIyOEE=",
+   "snippet": {
+    "publishedAt": "2013-07-25T02:01:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Amazon Launches Shopping Website in India",
+    "description": "From VOA Learning English, this is the Technology Report. The world's largest online retail company, Amazon, has launched its first shopping website in India.The Amazon website in India offers seven million books and 12,000 movies and television programs. It will soon add more products such as cameras and mobile phones.The American company will not sell its own products in India. Indian law does not permit companies that sell goods from more than one manufacturer to sell directly to people on the Internet. Instead the Amazon website serves as a marketplace for local businesses. Last year, Amazon launched a site in India which let users compare prices online, but not purchase products.Shabori Das is with the market research company Euromonitor. She says Amazon is entering a market where online shopping is still new, but is expected to grow quickly. She says India is expected to be among the 20 fastest growing Internet retailing markets in the world. Online businesses are interested in India's huge, young population. But only about 12 percent of Indians have a connection to the Internet. That is far fewer than in countries like China. Still, there are 150 million Internet users in India, making its market the third largest in the world. And it is expected to grow quickly as more people get connected. At this time, the path to big profits may not be easy for online retail businesses. Online retail is currently valued at $10 billion, but a large amount of that is for air travel. Now, competition to provide retail goods should increase with the entry of Amazon into the market. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ku9dre2a5Bo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ku9dre2a5Bo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ku9dre2a5Bo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ku9dre2a5Bo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ku9dre2a5Bo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Tn9NBEA82JVEB_TUNE7Sj6aPDlQ\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjVDNDI5ODM5RTkwREU1REM=",
+   "snippet": {
+    "publishedAt": "2013-07-02T16:39:35.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Identifying a 'STEMI' Heart Attack With an iPhone App",
+    "description": "http://learningenglish.voanews.com | http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Technology Report. Researchers have developed an experimental iPhone application, or app, that they say can improve the chances of survival from a heart attack. The iPhone app is designed to identify patients suffering from a kind of heart attack known as a STEMI, or ST-elevation myocardial infarction. In a STEMI, blood flow to the heart is stopped because of a blockage in a coronary artery. Unlike other kinds of heart attacks, STEMIs show up very clearly on an electrocardiogram or ECG. Doctors use ECGs to measure electrical activity in the heart. The experimental iPhone app should help rescuers reacting to a possible medical emergency. They can perform an ECG and then take a picture of the test results with the camera on the telephone. They can then send that information ahead to hospital emergency room doctors. The iPhone app is the work of David Burt and his students at the University of Virginia in Charlottesville. He says the app can help save lives by preparing doctors for the arrival of the STEMI patient as early as possible. He says doctors can mobilize their system so that they can perform a catheterization to unblock the artery or some other treatment. David Burt and his team tested the app 1,500 times over three American cellular telephone networks in a populated area. He said the app was successful within less than 10 seconds about 94 percent of the time. The developers are now testing the iPhone app in rural areas, where cell phone reception is more problematic than in cities. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zLxA1-iDVrA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zLxA1-iDVrA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zLxA1-iDVrA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zLxA1-iDVrA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zLxA1-iDVrA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bIEKm09GHDl7fNAMBUGSfJJsuUE\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjEyQzM2QzJDRkY2QjdBMkM=",
+   "snippet": {
+    "publishedAt": "2013-06-25T21:19:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "A Call for a Ban on 'Killer Robots'",
+    "description": "From VOA Learning English, this is the Technology Report. A United Nations special investigator recently called for a ban on the production and use of lethal autonomous robotics, known as LARs. Critics say these \"killer robots\" may one day choose and strike targets independently, without human direction. UN official Christof Heyns says the lack of human commanders raises many moral and ethical questions about LARs. He spoke in May at a meeting of the UN Human Rights Council in Geneva, Switzerland.He says the taking of any human life deserves a basic level of consideration. Mr. Heyns says the deployment of machines to kill people may be unacceptable because the world has yet to agree on legal responsibility in such cases. He says \"killer robots\" should not have the power of life and death over human beings. He disagrees with people who say robots could help reduce the possibility of what they call riskless wars. Mr. Heyns says people make mistakes. They can act out of fear or be driven by revenge or cruelty. But, unlike robots, they can also act out of compassion. He says humans consider many different things in each situation they face. Drone aircraft have also been a point of debate in recent years. These vehicles are piloted by a person on the ground. Many countries have drone programs. Drone strikes have helped the United States in its battle against militants in countries such as Afghanistan and Pakistan. In May, President Obama said the use of drone strikes must be held to high standards. He called the use of drones effective. But he noted that the new technology raises what he called \"profound questions.\"For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oAns3JVM15s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oAns3JVM15s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oAns3JVM15s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oAns3JVM15s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oAns3JVM15s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g2-FUE3xUdkGG3a1oO9DzLTvM8s\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjMwNzc5OEFBQUU1MkRFNTY=",
+   "snippet": {
+    "publishedAt": "2013-06-12T20:44:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Persuading You to Buy a PC",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish \n\nFrom VOA Learning English, this is the Technology Report. Computer makers are working on ways to persuade people to buy personal computers. Companies at the recent Consumer Electronics Show in Las Vegas talked about new developments, like touch computers, or laptops that turn into tablets. The chip manufacturer Intel made a surprise announcement at the show. Mike Fard says his company is taking steps to reduce power requirements on some processors. He says Intel is constantly trying to provide more battery life. Yet sales of PCs are slow. Research company IDC reported that worldwide sales of PCs dropped 14 percent in the first three months of 2013. The company said this was the worst drop since it started collecting information in 1994. One possible reason for the slow sales is the rise of tablet computers, such as Apple's iPad. Intel and its competitors have sought to improve sales by offering new products. These include the ultrabook, a thin, lightweight notebook computer, which came out in 2011. But they have not lifted sales. Industry experts are also concerned about reaction to Microsoft's Windows 8 operating system. It was released last October. Bob O'Donnell, an IDC vice president, said the Windows 8 launch not only failed to increase PC sales, but seemed to have slowed the market. He has criticized the company for making \"radical changes,\" such as removing the \"start\" button from the operating system. Windows' corporate vice president Julie Larson-Green announced this month that Microsoft will release a Windows 8 update. She expects the first public preview of the update to take place in June. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1-KtcbV8kaQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1-KtcbV8kaQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1-KtcbV8kaQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1-KtcbV8kaQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1-KtcbV8kaQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/efxp5TX1nMHO-fFYjfTQTlRLTKk\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkZEQUE1OEE1NjdGRjBFRDg=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:26:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Smartphones in Space: a Really Long-Distance Call for NASA",
+    "description": "From VOA Learning English, this is the Technology Report. \nSmartphones are small and easy to carry so they are always ready when we need them. People use them to get road directions, to take pictures or to call friends. But we easily forget the power of smartphone microprocessors. Scientists with NASA, the American \nspace agency, have not. In April, NASA sent three smartphones into space to operate as low-cost satellites. They were launched from NASA's Wallops Flight Facility in \nthe state of Virginia. The launch was the first test flight of the privately built Antares rocket. Space agency officials gave names to the three PhoneSats, as they are called. The names are \"Alexander,\" \"Graham\" and \"Bell,\" after the inventor of the telephone. \nAll three PhoneSats looked like small cubes or boxes. Each one was about the size of a drinking cup and weighed a little more than one kilogram. At the heart of each was a Google-HTC Nexus One phone. The microprocessor inside the phone serves as the brain of the mini-satellite. Jim Cockrell works for NASA in California. He says the \nPhoneSats were an experiment to find out if a cellphone can serve as the \navionics for a satellite. NASA says the PhoneSats operated for almost \na week. They collected pictures of the Earth and sent messages to \nground stations. The agency says smartphones have more than 100 times the computing power of an average satellite. Jim Cockrell notes that they also have high-resolution cameras and global positioning system receivers. So, the next time you pick up a smartphone, think about the work of the PhoneSats \"Alexander,\" \"Graham\" \nand \"Bell.\" For VOA Learning English, I'm Mario Ritter. (Adapted from a radio program broadcast 13May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/u0T4e9h01TE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/u0T4e9h01TE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/u0T4e9h01TE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u0T4e9h01TE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "u0T4e9h01TE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-4a-NuZkeGtsYzCSjvEmpnMmfgo\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjA5M0ZCRDIxMDQxNjVBMDE=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:27.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Brck: an Internet Router Designed for Africa",
+    "description": "From VOA Learning English, this is the Technology Report. Getting and staying connected to the Internet is quickly becoming very important in Africa. A team of Americans and Kenyans have developed an Internet router made especially for the continent. They say it can keep the Internet available even in areas with undependable electricity and Internet service. The device is called Brck. It can plug into an electric outlet, but it can also be battery powered.  Al Banda is a blogger in Cameroon. He saw the device for the first time at an information technology conference in Berlin, Germany. Mr. Banda said Brck could solve a problem he has experienced.   He says in his community in Cameroon electricity is not dependable. Also it is very difficult to get access to the Internet even with an Internet service provider. Mr. Banda says Brck is an African answer to an African problem. The Kenyan-based nonprofit technology company Ushahidi developed Brck, after raising money through the funding website Kickstarter. Ushahidi official Erik Hersman says the router is able to move among Internet networks. He says if there is a problem with the Internet connection, the device will look for a 3G network with its SIM card. He says the Brck can be taken anywhere. Erik Hersman says the Brck will go into production as soon as the company raises $125,000. Ushahidi has collected about half that so far. It plans to make up to 1,500 devices at first, mainly for Africa and India. Mr. Hersman expects each device to sell for about $100. The Brck could be a solution to Internet connection problems in Africa, but it could also find uses in developed countries. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 20May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4jT69cIF4vw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4jT69cIF4vw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4jT69cIF4vw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4jT69cIF4vw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4jT69cIF4vw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9is72BaLEbKr6h3vKLNaJoulTgY\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkI0NkUzNkQwNTlGMDJDNEI=",
+   "snippet": {
+    "publishedAt": "2013-05-20T15:31:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "An App for Alzheimer's Caregivers",
+    "description": "From VOA Learning English, this is the Technology Report. Alzheimer's disease is mostly a condition of old age. Today, life expectancy is increasing around the world. As a result, the number of people affected by Alzheimer's is expected to triple in some countries by 2050. People with this brain disease often have other medical needs that require the services of many health care professionals. Caregivers often have a hard time keeping up with all the medical information. More and more often, family members are being called on to help care for loved ones with Alzheimer's. It is a responsibility for which most people are unprepared. That is why the Hebrew Home, a private health care group in Riverdale, New York, developed an iPhone and iPad application called Balance.  \n      The app offers caregivers advice on recognizing symptoms and on feeding, bathing and providing a healthy environment for the patient. It can be bought on the Internet for $4. The Hebrew Home is a not-for-profit organization that provides care to 75,000 patients in New York City. David Pomeranz is its program development director. He created \"Balance.\" Mr. Pomeranz says the Balance app is designed to let users organize information so they can easily keep track of a patient's health. It helps caregivers manage doctor's appointments and share information with doctors about the patient's daily emotional changes. Interest in the app has not been limited to the United States. David Pomeranz says people in other countries are also using it. Software developers are working on a version of Balance for mobile devices using the Android operating system. For VOA Learning English, I'm Laurel Bowman.(Adapted from a radio program broadcast 29Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iV7CXw0JUxk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iV7CXw0JUxk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iV7CXw0JUxk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iV7CXw0JUxk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iV7CXw0JUxk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ipacivWArGG98mFCKgNmUi_pXIw\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkY5OUFGNUU0MENCRkE0Q0Q=",
+   "snippet": {
+    "publishedAt": "2013-05-12T10:37:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "California Governor Seeks to Increase Ties with China",
+    "description": "Jerry Brown recently visited Tsinghua University in Beijing where he signed an agreement to share information about policies to reduce pollution.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tUZsmvx34NY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tUZsmvx34NY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tUZsmvx34NY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tUZsmvx34NY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tUZsmvx34NY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ghJHirL52uml1DiV8b_LEQZHHNA\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjc3QzE3NzM4OUU4Q0Y4MEY=",
+   "snippet": {
+    "publishedAt": "2013-05-02T15:01:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Why 'Lite' Smartphones Are So Popular",
+    "description": "From VOA Learning English, this is Technology. Twenty-three-year old Rio Safiyanto sells face masks for about 30 cents each in central Jakarta, Indonesia. He earns enough money to own a cell phone that permits him to visit websites like Facebook and Twitter, as well as finding game applications, or apps. Rio Safiyanto says the average person in Indonesia has a cell phone. He likes having one because he can talk to his family when he is away from home. And, he is pleased that he can use it to listen to music. Rio's phone has a keypad that makes it look like a Blackberry.    It is known as a feature phone or smartphone lite. That is because it is less costly and cannot do as many things as more advanced phones like the Apple iPhone. These devices make up the majority of cell phones sold around the world. They are successful in places like Indonesia, where some smartphones cost 700 dollars or more. Although many lower-income users are new to smartphones, they are quickly learning to use the technology. Phone manufacturer Nokia offers a service called Life Tools. For a monthly payment, Nokia sends text messages to farmers. They tell about weather conditions, crop prices, agricultural news and give advice.        Local businessman Aldi Haryopratomo has developed a way for store owners to sell things from prepaid cellphone minutes to life insurance through text messages. A company called Ruma developed the technology. It is working on a system that will inform people about jobs in their area. Last year, the French company Semiocast reported that Jakarta was the world's top tweeting city, ahead of Tokyo and London. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 15Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bEah3lg5Sp8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bEah3lg5Sp8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bEah3lg5Sp8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bEah3lg5Sp8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bEah3lg5Sp8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vsgVB_P0c8GAPcR5ZDfmb5jT9v4\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjU2QzExM0M3MDAyMTBCMDQ=",
+   "snippet": {
+    "publishedAt": "2013-05-02T13:47:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Tricks in Digital Video",
+    "description": "From VOA Learning English, this is the Technology Report.Movies are all about appearances.  Movie fans know that the action hero in the film \"Superman\" does not really fly.  But in the movie \"Superman Returns,\" another visual trick is used.  The man they see flying is not a real person.  He is what is called a virtual actor.  The first step in creating a digital actor is to have a real person stand in a room called a light stage.  A computer records the shape of the actors face.  Computer Scientist Paul Debevec is with the Institute for Creative Technologies at the University of Southern California.  He says special lighting and seven different cameras are used to create the digital image.Mr. Debevec is part of a team working to create computerized images of people, objects and environments that look and act real.  The light stage permits actors to be turned into digital versions of themselves.  Similar technology could appear soon.  Computer experts at the Institute are developing a three-dimension video teleconferencing system.  They hope to send a 3-D video image of a person to a meeting room.  The image would be able to work with the people in the room, who would see it without special eyeglasses.Paul Debevec says 3-D meetings would make it seem like all of the attendees are in the room together.  How far are we from 3-D teleconferencing?  Paul Debevec says businesses will begin to use 3-D video teleconferencing in the next five years.  The Institute is using its light stage and Interactive 3-D technology to record video testimonies of Holocaust survivors for the Shoah Foundation, also at USC.  The 3-D images could be shown in classrooms and museums.For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 8Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wMUBSh34m6I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wMUBSh34m6I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wMUBSh34m6I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wMUBSh34m6I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wMUBSh34m6I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qq5bt9UHVSVO5PE7ltHA3R3FbKs\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjBCQ0JBRTU1ODFEMTFGODg=",
+   "snippet": {
+    "publishedAt": "2013-04-16T20:32:50.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Threat From Cyber Attacks",
+    "description": "From VOA Learning English, this is the Technology Report in Special English. Attacks on computer systems are a growing concern among United States lawmakers. Recently, the head of a congressional committee warned about the threat of cyber attacks from China, Iran and other countries. Congressman Michael McCaul is chairman of the Homeland Security Committee in the House of Representatives. He compared the threat from cyber attacks to the terrorist threat faced by the United States on September 11, 2001. But he said that, this time, the nation knows about the threat and is taking action.Other lawmakers expressed concern about reports that China is to blame for most attacks against American computer networks. Recently, President Obama told ABC News that there has been a steady increase in the threat to cyber security from other nations and from criminals. He said the United States has taken part in what he called \"tough talk\" with China and other nations. China's Foreign Ministry has said the country is open to talks. But it said China is itself a victim of attacks, and not responsible for computer crimes. In February, President Obama signed an executive order on cyber security. The order directs American agencies to improve information sharing on cyber threats. A Senate bill on cyber security last year failed to get enough votes to pass. Some business groups and privacy rights activists expressed opposition to the measure. Now, a new cyber security bill has been introduced in the House of Representatives.For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 18Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ja0Ab_OKccg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ja0Ab_OKccg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ja0Ab_OKccg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ja0Ab_OKccg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ja0Ab_OKccg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-KVqiSCc6BV2IZuH_DGPK_bi5ac\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjlCMjdGMEQ4N0NDRTAyNEM=",
+   "snippet": {
+    "publishedAt": "2013-04-05T13:19:52.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "An App That Predicts Traffic Delays",
+    "description": "From VOA Learning English, this is the Technology Report. Around the world, commuters in big cities spend a lot of time stuck in traffic.  In America, Los Angeles and San Francisco tie for second place on the list of cities with the worst traffic.  The Texas A&M University Transportation Institute says Washington, D.C., is in first place. Professor Cyrus Shahabi knows about traffic jams.  He lives more than 65 kilometers from his office at the University of Southern California, in Los Angeles.  He says he is always late for meetings, even with the help of a navigation system.  So he decided to develop an app for his mobile phone that would help.  The ClearPath app is designed to do what other navigation systems cannot.  Professor Shahabi says his program uses historical data to predict traffic conditions before the driver leaves the house. The app uses traffic data gathered for more than two years from 9,000 sensors on the roads of Los Angeles.  It also collects information on accidents.  Cyrus Shahabi says his system does more than respond to current traffic conditions.  With it, he says, a driver can enter what time he wants to leave on a specific date, and ClearPath will give the fastest route.  It considers the entire road network, including streets and highways, before the driver begins his or her trip. A free ClearPath app for roads in Los Angeles is expected to be launched soon.  In a year, the computer science professor says he hopes to have ClearPath available around the country, and then in foreign countries after traffic data in other cities is collected.  Cyrus Shahabi says he wants to get companies that already have navigation systems, such as Google and Apple, to use the new technology. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 10Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kwEry-lq2aQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kwEry-lq2aQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kwEry-lq2aQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kwEry-lq2aQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kwEry-lq2aQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/y5ueewNHBaYe9KZtOdRJC6xkExg\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjlEQkI1OUQyM0M3OEVBNkY=",
+   "snippet": {
+    "publishedAt": "2013-03-25T19:48:48.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China a Growing Supplier of Drones",
+    "description": "From VOA Learning English, this is the Technology Report in Special English. China recently said it considered launching a drone strike against a Burmese drug trafficker. Naw Kham was wanted in the killings of 13 Chinese sailors on the Mekong River in 2011. China's top drug official said the plan was to bomb the drug dealer's mountain hiding place in northeastern Burma using unmanned aircraft. The official said the drone strike idea was passed over in order to capture Naw Kham alive. He was seized last April in a joint operation with Laos. That China considered using a drone strike is a sign of its increasing development of unmanned flight technology. It also suggests that China is seriously considering using drone attacks outside of its borders. Peter Dutton is with the United States Naval War College. He says China is moving away from its earlier policy of non-interference in international affairs. He says the country is becoming more active in protecting its interests beyond its borders. The United States has led the world in drone technology for years. It is known to use UAV, or unmanned aerial vehicle, strikes against foreign targets. In recent years, China has greatly improved its UAV technology. It showed off many of its new models at recent air shows in the country. One of the drones has a range of over 3,200 kilometers. China is also modernizing its global navigation system to compete with those of the United States, Russia and Europe. The United States exports unmanned aircraft to only a few of its closest allies. China is now seen as an increasingly reliable, lower cost supplier. Several countries have bought or built their own UAVs, mostly for surveillance purposes. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 25Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g0h1mDk7e_o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g0h1mDk7e_o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g0h1mDk7e_o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g0h1mDk7e_o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g0h1mDk7e_o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qB1YizjEjLDBl79wfxifOzjq4-c\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjIyNUYyNjEyMzcxQkNGRUY=",
+   "snippet": {
+    "publishedAt": "2013-03-19T14:02:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "A Plan to Fight Cyber Threats",
+    "description": "From VOA Learning English, this is the Technology Report. The United States has announced a plan to fight the growing threat from cyber spies and Internet attackers known as hackers.  United States Attorney General Eric Holder says the Justice Department is fighting back aggressively.  He says the department is working with states and federal agencies to bring to justice those involved in online theft and espionage.  Mr. Holder called for increased cooperation with private businesses.  He also noted the need to protect trade secrets.  The attorney general said a single trade secret can be worth millions of dollars.  Stolen trade secrets, he said, hurt businesses, jobs and economic competitiveness. The new policy calls for fines and trade action against individuals and countries that target U.S. trade secrets.  The plan was announced the day after the American information security company Mandiant published its investigation of cyber-attacks.  It reported that more than 140 companies have been attacked since 2006.  The targets include some of the biggest companies in the United States such as Apple, Facebook, Lockheed Martin, and CocaCola. Mandiant says hacking groups in China carry out most of the attacks.  They include groups known as Comment Crew and Shanghai Group.  Mandiant also identified something called Advanced Persistent Threat 1, or APT1.  It says APT1 is a part of the Chinese military, the People's Liberation Army.  Mandiant says the Chinese government also wants to hack into important parts of America's infrastructure. China's Foreign Ministry denies Mandiant's accusations.  It calls the report is irresponsible. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 18Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BzfwA-BZSkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BzfwA-BZSkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BzfwA-BZSkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BzfwA-BZSkA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BzfwA-BZSkA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DElw5RMLkMKpg2tMaS3QnvqL7Tg\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjQ4NUEwQjc4NkE2NzNCQzE=",
+   "snippet": {
+    "publishedAt": "2013-03-12T14:38:12.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Building Machines With Human-Like Senses",
+    "description": "From VOA Learning English, this is the Technology Report in Special English. Every year, IBM chooses five new technologies that the company believes will change the world within the next five years. The list is called \"5 in 5.\" IBM says it considers its own research and the new directions of society and business when identifying the technologies. This year, the list describes devices that will extend our five senses. Imagine looking for clothes online and touching your computer or smartphone to feel the cloth. IBM's vice president of innovation, Bernie Meyerson, says this technology could be available in the next five years. Touch is just one of the senses that technology will help to extend. IBM says smart machines will soon be able to listen to the environment and give us information about the sounds they hear. For example, Bernie Meyerson says an advanced speech recognition system will tell new parents why their baby is crying. Smart machines will also help identify medical conditions. If you sneeze on your computer or cell phone, the device will study the molecules that came out of your mouth. It will then tell you whether you need to see a doctor. Another prediction is that computers will be better able to not just look at images but understand what they show and act on that information. Bernie Meyerson says IBM scientists are also developing a computer system that can examine and combine molecules to create the most popular flavors and smells. Mark Maloof is a computer scientist at Georgetown University. He says it will be exciting to see what young people will do with the mobile technology, networking and computing power of tomorrow. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 18Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jcknnl17tbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jcknnl17tbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jcknnl17tbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jcknnl17tbY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jcknnl17tbY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/d-kfie5z3kmpMH3_4IIvtchFEl4\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjQ2REVGNjA3QkFGNjgzNkI=",
+   "snippet": {
+    "publishedAt": "2013-03-04T21:38:54.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "An iPad App for Orangutans",
+    "description": "From VOA Learning English, this is the Technology Report in Special English. Humans are not the only ones who like to use tablet computers. The nonprofit organization Orangutan Outreach has started a program called Apps for Apes using Apple's iPad. Orangutan Outreach was started by Richard Zimmerman six years ago. Its goal is to protect orangutans in the wild. The organization launched Apps for Apes one year ago. The program introduces the Apple iPad to orangutans in zoos. Apps for Apes has three goals. The first is to provide activities for captive orangutans. The second is to raise awareness among zoo visitors about how smart these animals are. The third goal is to urge people to visit Orangutan Outreach's website, redapes.org, to learn how they can help protect wild orangutans.   Orangutan Outreach says the iPad is a perfect device for orangutans because of the touchscreen technology. With some assistance, the animals are able to use apps to listen to music, play games and do other activities. Apps for Apes was first launched at the Milwaukee County Zoo in Wisconsin. It has expanded to more than 10 other zoos and a rescue center for apes in the United States and Canada. And it is growing worldwide. Richard Zimmerman says the program could affect the behavior of orangutans, but it is too early to know. Zoo officials have told him about the apes' reaction to seeing and using iPads. He says young orangutans seem very interested. They go to the device immediately. Females seem to be the quickest learners. And some big males are simply curious about the tablet. They spend time watching it from a distance. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 04Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6j1cr_Ola8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6j1cr_Ola8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6j1cr_Ola8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6j1cr_Ola8w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6j1cr_Ola8w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0YluptKRNH3NWL0IWPW074F8wyk\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjU1MzdCQkVBNERCRTAyNzM=",
+   "snippet": {
+    "publishedAt": "2013-02-26T19:04:45.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "How Mobile Phones Are Changing Life in Africa",
+    "description": "From VOA Learning English, we bring you news about technology in Special English. The World Bank estimates there are about 650 million mobile phone users in African countries south of the Sahara desert.  That is greater than the number of users in the United States and the European Union. Samia Melhem works for the World Bank to increase information technologies in Africa.  She says mobile phones are Africa's fastest-growing technology. She says more Africans have access to the Internet than to clean water or sanitation.  She says mobile technology has brought about huge changes in how people live. CNN television recently named seven ways life has been revolutionized by mobile phones.  They include political activism, education, entertainment, disaster management, agriculture, and health.  Banking is another industry that has been transformed by mobile phones.  Reports say at least half of the adults in Gabon, Kenya, and Sudan use mobile money. Rene Mendy sells goods in the streets of Dakar, Senegal.  But he never had enough money to open a bank account.  Now he uses a mobile phone banking service called Orange Money.  With his telephone, he can add or take out as little as one dollar from his account.  He can make payments and send money to family members who live far away. Orange Money says it serves 4 million customers in 10 countries.  The World Bank's Samia Melhem notes that the French company is facing competition from other mobile banking services.  That is not a surprise.  The cost of sending a payment by phone is far lower than with traditional transfer agents like Western Union.  For VOA Learning English, I'm Laurel Bowman.(Adapted from a radio program broadcast 04Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J2jtWdkgTes/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J2jtWdkgTes/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J2jtWdkgTes/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/J2jtWdkgTes/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "J2jtWdkgTes"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Paa9X5fxx9ryKv0vhUnAeCcOTaU\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjk1MDAxNEJFQzExNjc3MEM=",
+   "snippet": {
+    "publishedAt": "2013-02-20T21:45:10.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "ADB Loan to Finance E-trikes in Philippines",
+    "description": "From VOA Learning English, this is Technology, in Special English. The Asian Development Bank has approved a $300 million loan to help finance an electric vehicle program in the Philippines. The goal is to reduce pollution. The money will help pay for tricycles powered by electricity, or e-trikes. The Philippines wants to have 100,000 of the vehicles on the road by 2017. E-trike driver Alfredo Forelo says the battery can operate for five or six hours. He paid one dollar and 25 cents to charge the battery. He says, in the past, he spent as much as four dollars a day on fuel for a gasoline-powered tricycle. Tricycle drivers usually pay about four dollars a day to rent their vehicles from operators.  Alfredo Forelo says he earns about $17 a day from driving an e-trike after costs.  That is more than double the average daily earning of someone driving a gas-powered tricycle.  The e-trike can carry as many as eight passengers. The vehicle has a roof that protects passengers from the sun and rain.  The city of Mandaluyong chose Alfredo Forelo to help with a demonstration program of 20 e-trikes. The director of the city's Tricycle Regulation Office says the Asian Development Bank chose Mandaluyong because of its desire to keep the air clean. He says the city will offer a rent-to-own program for the e-trikes. The electronic vehicles cost about $5,000. Traditional motorcycles cost about $3,000. There have been bumps in the road however. Seven of the city's 20 e-trikes already need repair, and waiting for parts is slowing down the program.  Bank and city officials have now learned that manufacturers must fully guarantee their parts. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1aNEXpkGPZA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1aNEXpkGPZA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1aNEXpkGPZA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1aNEXpkGPZA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1aNEXpkGPZA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/j-QqHLA9NqqxuvrBfwcESLgGlec\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLjI1OUJEMUFGOEIxMzMyQzI=",
+   "snippet": {
+    "publishedAt": "2013-02-08T16:01:46.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Examining the Case Against Aaron Swartz",
+    "description": "From VOA Learning English, we welcome you to news about Technology. Have you ever had an RSS news feed sent to your mobile phone or computer? If so, you have Aaron Swartz to thank. He helped develop that Internet publishing technology when he was 14 years old. He also helped develop what came to be known as the social news website Reddit.  But sadly, the 26-year-old Internet activist was found dead in his apartment in Brooklyn, New York on January 11. His death was called a suicide. Aaron Swartz believed that information is knowledge. He believed the Internet should be used to make that knowledge available to everyone. This belief is what eventually got him in trouble with the law. Aaron Swartz was to face a federal trial in April. He was accused of using computers at the Massachusetts Institute of Technology to download millions of academic documents from JSTOR. He could have faced 35 years in prison and as much as $1 million in fines. Some people have called the charges extreme. Renee Hutchins is a law professor at the University of Maryland. She said it is unclear if government lawyers had a solid criminal case against Aaron Swartz. She said he was basically accused of violating a user agreement with JSTOR, which charges fees to use its huge collection of research publications. Renee Hutchins says Aaron Swartz had legal accounts with JSTOR and with MIT, through Harvard University. A Court of Appeals ruled that his actions violated user agreements and could be considered criminal. But a recent ruling by the Ninth Circuit Court disputed the idea that federal criminal law is meant for that purpose. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 21Jan2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gq13hLdG95Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gq13hLdG95Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gq13hLdG95Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gq13hLdG95Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gq13hLdG95Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/c2g8e6ahkmXWc218T8DhFHK4ePU\"",
+   "id": "UEwwMkQ5NEUxRDMzOTMzQTUxLkEyNDE5MERGREQ3Q0FBRTQ=",
+   "snippet": {
+    "publishedAt": "2013-02-04T14:57:00.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "At CES in Las Vegas, TVs Were the Stars",
+    "description": "From VOA Learning English, this is the Technology Report in Special English. Televisions were the stars of January's International Consumer Electronics Show.  Known as CES, the yearly gathering in Las Vegas is one of the world's largest consumer electronics trade shows. TVs made news this year because they were bigger and better, with some of the most advanced technology ever. Some TVs used a technology called Organic Light Emitting Diodes, or OLED.  They were thinner, lighter, offered better color and were brighter than current LEDs. Ultra High Definition TVs were also popular. Most of UHDTVs on display used something called 4K technology. It has four times more resolution than current HDTVs. And Sharp Electronics showed off a super high definition TV with resolution that is 16 times greater than that of standard high definition TVs. Smart TVs this year were smarter. Many offered technology like voice recognition. One TV from the company TCL uses sensors and voice recognition to know who is watching. It then offers programs based on the user. In addition to TV technology, size also played a major part in CES 2013. Televisions varied in size from big to bigger, with at least two companies -- Samsung and HiSense -- exhibiting TVs measuring almost three meters across. Gary Shapiro is president and CEO of the Consumer Electronics Association, the group that organizes the show. He said CES has more than 20,000 products from over 3200 companies.  But, it is more than a trade show. It is a gathering of the brightest minds, industry leaders and those trying to catch a glimpse of the future. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 14Jan2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4l1i3NCU_bI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4l1i3NCU_bI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4l1i3NCU_bI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4l1i3NCU_bI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL02D94E1D33933A51",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4l1i3NCU_bI"
+    }
+   }
+  }
+ ]
+}
