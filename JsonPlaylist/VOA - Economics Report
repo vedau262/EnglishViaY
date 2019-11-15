@@ -1,0 +1,2011 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2SccRTeyA2VT_vcVCnQpPXPTWo4\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 218,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tH0a_IZ7PAMpez0Dk1W4QDnOgB4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjcwMjQ0NTVENjY5OUMwRUI=",
+   "snippet": {
+    "publishedAt": "2016-05-26T19:03:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: New Clothing Manufacturing Jobs Could Increase in South Asia",
+    "description": "A World Bank study says the increasing cost of making clothes in China could help South Asia grow its clothing industry. But workers often make clothes in poor conditions.\r\nOriginally published at - http://learningenglish.voanews.com/a/new-clothing-manufacturing-jobs-could-increase-in-south-asia/3338894.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7TJplyAMjRU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7TJplyAMjRU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7TJplyAMjRU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7TJplyAMjRU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7TJplyAMjRU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IdfRnpQ3qXyJYrViXlmkyupeXOw\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjFDMUM3OTVBNDFEMUNBOTk=",
+   "snippet": {
+    "publishedAt": "2016-05-19T19:04:01.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: Market for Illegally Made Goods Reaches $460 Billion",
+    "description": "An organization that studies economic and social issues says the international trade in counterfeit goods is rising. The Organization for Economic Cooperation and Development or OECD warns that some of these products can endanger the public and might even finance terrorists or criminal groups.\r\nOriginally published at - http://learningenglish.voanews.com/a/illegally-made-goods-market-reaches-460-billion-dollars/3327326.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eQ_v75vu_94/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eQ_v75vu_94/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eQ_v75vu_94/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eQ_v75vu_94/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eQ_v75vu_94"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WXer-wGHbr2_yfj_Jygt88_QPF0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkNCNUFERjI5RDk2N0FDNUU=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: World Bank Official Says Panama Papers Hurting Public Trust",
+    "description": "The documents called the Panama Papers show how rich people and world leaders have tried to hide their money and avoid paying taxes. The World Bank Managing Director says information in the papers may make everyday citizens less willing to pay taxes.\r\nOriginally published at - http://learningenglish.voanews.com/a/world-bank-official-says-panama-papers-hurting-public-trust/3316664.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1X4YgNiQ1mM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1X4YgNiQ1mM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1X4YgNiQ1mM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1X4YgNiQ1mM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1X4YgNiQ1mM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/92ikat3zp3eoDV8B3u8kqiaHc68\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjc5RkUxN0QxNkE4NjFFOEY=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: China’s Economy Continues to Slow",
+    "description": "The world’s second-largest economy continues to struggle, according to recent Chinese government reports. The Chinese economy is growing, but not at the large rate it did 10 years ago.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/chna-economy-continues-to-slow/3306620.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cuSzi8TV5FQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cuSzi8TV5FQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cuSzi8TV5FQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cuSzi8TV5FQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cuSzi8TV5FQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pRp1yqtmAF2lX0TP_btRE4wxj6Q\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjNDQjFCM0M5NDEzMjg4MjQ=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: There are Many Ways to Save Your Money in the U.S.",
+    "description": "There are old sayings about the importance of saving money for your future. Here is a look at some ways to do that in the U.S.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/many-ways-to-save-money-in-the-us/3295565.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1rdgzE3fWfo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1rdgzE3fWfo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1rdgzE3fWfo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1rdgzE3fWfo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1rdgzE3fWfo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ytluc6scz61EaPC0-ueMuwqq_N0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjg2M0IzNDAzNDFBMjI1NDk=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: How Much Do Illegal Immigrants Pay in Taxes?",
+    "description": "Illegal immigration is a big subject in this year’s American presidential race. Do illegal immigrants pay their fair share in taxes to state and local governments?\r\nOriginally published at - http://learningenglish.voanews.com/media/video/how-much-do-illegal-immigrants-pay-in-taxes/3285531.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c0yL2_4r-W4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c0yL2_4r-W4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c0yL2_4r-W4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/c0yL2_4r-W4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "c0yL2_4r-W4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qNr06GBlNWre9Rjwgn8mnS-K2UI\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkVDNkJBNzBEQ0JFNkZDM0E=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: India's Slave Workers Learn They Have Rights",
+    "description": "Thousands of brick workers in India's western Maharashtra state are learning from activists that they have human and economic rights. But they remain in debt to owners who deny them these rights.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/indias-slave-workers-learn-they-have-rights/3274578.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QjzwtdwFXI8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QjzwtdwFXI8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QjzwtdwFXI8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QjzwtdwFXI8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QjzwtdwFXI8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sH1qYTMDN31Av53jfxj72knV8G4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjAyM0VENEVDRDkwNzBGQTQ=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: Hollywood Studios Chase Chinese Audiences",
+    "description": "China is projected to become the No. 1 market for movies by the end of the year. Hollywood is using Chinese-themed plots and characters to attract the Chinese to the movies.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/hollywood-studios-chase-chinese-audiences/3210180.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/onuW-bCJsGA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/onuW-bCJsGA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/onuW-bCJsGA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/onuW-bCJsGA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "onuW-bCJsGA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ljp7IWkZfM_Pl5mKpIB-vy_5fNc\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkZGNDcxMjY3Q0RFMzI5MkY=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: Old Age and Debt Threaten Vietnam Economy",
+    "description": "Vietnam’s population is growing old at the fastest rate of any nation in recorded history. This could cause a shrinking of the Vietnamese labor force.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/old-age-debt-threaten-vietnam-economy/3196764.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k1s15GhdjT8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k1s15GhdjT8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k1s15GhdjT8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/k1s15GhdjT8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "k1s15GhdjT8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8U30psDF-OUy63YZ41NF7nJY5Uo\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjA2MDQ1NDQ0NUU2N0E3OUM=",
+   "snippet": {
+    "publishedAt": "2016-05-19T05:07:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Economics Report: Boko Haram Weakens Chad, Cameroon Economies",
+    "description": "Attacks from Boko Haram militants are hurting the economies of Chad and northern Cameroon. The militants often attack trucks and kill drivers who are bringing goods to the two central African nations. Some of the products come from Borno State in nearby Nigeria.\r\nOriginally published at - http://learningenglish.voanews.com/media/video/boko-haram-weakens-chad-and-cameroon-economies/3186642.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cCmfoHMOmPs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cCmfoHMOmPs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cCmfoHMOmPs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cCmfoHMOmPs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cCmfoHMOmPs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8z0W52QrnBOST3qiYkR9tQldTx0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjQyQjcwMUNERDhCNTNFNEU=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:12:22.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Higher Education Opens to More People Worldwide",
+    "description": "But, it is also deepening social and economic divides in some countries.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/higher-education-opens-to-more-people-worldwide/2471442.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wNp2gj35hUU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wNp2gj35hUU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wNp2gj35hUU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wNp2gj35hUU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wNp2gj35hUU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/G3DvgsOI07m0ZCqnIZcketfh9no\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjYwQ0FBNUZFRDU5RTc5QzY=",
+   "snippet": {
+    "publishedAt": "2014-10-16T16:14:09.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "“Exploding” Lake to Provide Power in Rwanda",
+    "description": "Methane gas from a lake in Rwanda could provide power to millions of people.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/exploding-lake-to-provide-power-in-rwanda/2456002.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q2HI0nZRkxk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q2HI0nZRkxk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q2HI0nZRkxk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q2HI0nZRkxk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q2HI0nZRkxk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nK3gcU18Re4nI3EE4oX2OJv2r5Y\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkRBMjlFOURCNzFCRjBENEY=",
+   "snippet": {
+    "publishedAt": "2014-10-03T21:07:01.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "As the World Ages, Economies Will Change",
+    "description": "Experts say it is not too late to influence the economic effect of the world’s aging populations.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iIdroeN5dW0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iIdroeN5dW0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iIdroeN5dW0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iIdroeN5dW0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iIdroeN5dW0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JZt-1r8YPOc4RRSkDxVDyigtCng\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjU5OTUwQzEyNzlCQjcyREM=",
+   "snippet": {
+    "publishedAt": "2014-09-18T12:50:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China's Alibaba to Sell Stock on the New York Stock Exchange",
+    "description": "Alibaba could raise $20 billion or more by selling stock to the public in the U.S.  The company holds an 80 percent share of China’s online market.\n\rOriginally published at - http://learningenglish.voanews.com/media/video/chinese-online-store-to-sell-stock-on-the-new-york-stock-exchange/2446471.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rEwnTf5QNVY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rEwnTf5QNVY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rEwnTf5QNVY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rEwnTf5QNVY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rEwnTf5QNVY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6jrUCrfF7S6lsOqJwFmINNhXJVE\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkI4OTFCREU0RTNCNTBBODE=",
+   "snippet": {
+    "publishedAt": "2014-10-20T16:16:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Economists Are Hopeful About Africa's Economy",
+    "description": "Originally published at - http://learningenglish.voanews.com/media/video/economists-are-hopefule-about-africas-economy/2431543.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LFmWFgdRiZk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LFmWFgdRiZk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LFmWFgdRiZk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LFmWFgdRiZk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LFmWFgdRiZk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/iyGfgcJ3APRMsdRFvmbzaof2qmk\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkZGNzVDODk4QzI3MURGRDc=",
+   "snippet": {
+    "publishedAt": "2013-11-05T20:35:23.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "What the US 'Debt Ceiling' Means",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Economics Report.\n\nThere has been a lot of talk about the \"debt ceiling\" in the United States. The debt ceiling is a legal limit on how much the federal government can borrow. Political disputes over that amount have concerned investors in recent weeks. American lawmakers must negotiate a new debt ceiling every time the federal debt reaches that legal limit. National debt grows when a government spends more money than it has available. Governments offer bonds and other investments to raise money to pay for this spending. In return, the government promises to repay, with interest, the investors who buy these securities. The financial demands of World War One led American lawmakers to establish a total debt limit. In 1917, Congress agreed that the president could borrow up to a set amount without seeking approval. Congress has agreed to change the debt limit 10 times since 2001. But the major parties may disagree on spending levels or on the need to borrow to pay for government operations. Other nations buy United States Treasury securities because they are considered the safest investment in the world. The partial shutdown of the federal government led to worldwide concern about the safety of these investments. Congress agreed to re-open the government without enforcing the debt ceiling only one day before borrowing reached the legal limit. Lawmakers agreed to let the president decide what the Treasury Department could borrow through February 7th. Congress must now negotiate a new debt limit and resolve other budgetary issues in order to avoid another crisis. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PGXmaIm-ALw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PGXmaIm-ALw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PGXmaIm-ALw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PGXmaIm-ALw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PGXmaIm-ALw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zShIzA_Mq84QBVowDS_VMrqITaQ\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkNFQzNBMjY0NUU4NkQ4RDA=",
+   "snippet": {
+    "publishedAt": "2013-10-30T15:27:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "How Stress Affects Mental Bandwidth",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish | Like us on Facebook: http://facebook.com/voalearningenglish\n\nFrom VOA Learning English, this is the Economics Report. \n\nNew research shows how a lack of money, food or even time can affect decision making and the ability to act. In the book, \"Scarcity: Why Having Too Little Means So Much,\" Professors Sendhil Mullainathan and Eldar Shafir examine the mental stress of dealing with a lack of something necessary. Sendhil Mullainathan is an economist. He teaches at Harvard University in Massachusetts. Eldar Shafir teaches psychology at Princeton University in New Jersey. Their research combined theories from economics and psychology to explain behaviors. The two borrowed a word from digital technology to describe how thinking is harmed by scarcity. They use the word, \"bandwidth\" to describe the ability of the mind to remember and plan. They say mental bandwidth decreases when people have too little. When mental energy is divided between worry and planning, planning is affected. One experiment in India tested the intelligence of farmers before and after the yearly harvest. Farmers scored higher after they had sold their crops. Worry over the lack of money before the harvest had temporarily decreased their intelligence. The two men experienced their own decreased bandwidth. They found that a lack of enough time affected their performance in all parts of their lives. Sendil Mullainathan was chosen for a MacArthur Genius Award, yet he says he found himself missing meetings, not answering e-mails and forgetting to call his mother. Eldar Shafir says the research is meaningful for public policy. He says the condition of being poor or hungry or even too busy restricts the ability to think and act to make things better. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ETpxtZ_yWSc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ETpxtZ_yWSc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ETpxtZ_yWSc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ETpxtZ_yWSc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ETpxtZ_yWSc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kiVZEb8GsEigqta4LWCffv6HBDg\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkQzNDM1QTU5MjE0ODZGRkI=",
+   "snippet": {
+    "publishedAt": "2013-10-16T19:22:47.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Reopening of Kaesong Industrial Complex",
+    "description": "Like us on Facebook: http://facebook.com/voalearningenglish \n\nFrom VOA Learning English, this is the Economics Report. \n\nNorth and South Korea reopened their joint factory zone recently. Lines of trucks and cars crossed South Korea's northern border on the way to Kaesong, North Korea. About 800 South Korean workers and their supervisors entered the jointly operated Kaesong Industrial Complex. They brought materials and parts to restart production for the first time in months. South Korean managers expressed happiness at returning to work. Ji Yoon-tae is deputy chief of a South Korean company in Kaesong. He said it was very hard while the factories were closed. From now on, he says, he hopes everything works out well and the factory zone comes back to life. In April, North Korea removed about 53,000 workers from the joint manufacturing effort. Their withdrawal resulted from military tensions with South Korea and the United States. South Korean companies say they lost about $1 billion from the suspension of work at the factories. The industrial area produces cloth, watches and parts for electronic products. After months of negotiations, the two Koreas reached a deal to reopen the area. They agreed to set up a joint committee to settle future problems. Officials from the two sides have been holding weekly meetings to discuss other details. The re-opening is seen as the most important sign of warming relations between North and South Korea since the North carried out missile and nuclear tests. Choi Kyong-lim is South Korea's deputy minister of trade, industry and energy. He told reporters in Seoul that the government hopes many Chinese companies will invest in Kaesong. China is North Korea's closest ally. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q5BseB5xFag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q5BseB5xFag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q5BseB5xFag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q5BseB5xFag/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q5BseB5xFag"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Tb_BY7tMTelRV8PnMBi1ZFCS3Jc\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjBBRTA1QzUzMTM0QzBCRDE=",
+   "snippet": {
+    "publishedAt": "2013-09-30T17:08:30.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "South Africa Faces Labor Imbalance",
+    "description": "From VOA Learning English, this is the Economics Report.\n\nThe South African Department of Labor reported last month that the nation has too few jobs for unskilled laborers. The department also said there are not enough workers for highly skilled positions. The sharp differences between jobs and skills were apparent recently when officials advertised a job opening in the government. The position was that of auditor-general, or chief financial supervisor. With a 26 percent unemployment rate nationwide, there was no shortage of interest in the job. Ninety people asked to be considered. But officials said many of them lacked the necessary skills or education. The auditor-general is responsible for supervising and independently examining South Africa's finances. The advertisement said the position required the person to be a trained accountant. But many unqualified people applied. The Labor Department report blamed the nation's poor education system. But, for unskilled workers, the story is very different. Restaurant industry official TJ Van der Walt says the businesses he works with get a huge number of applications for every job. Sejamothopo Motau is a member of South Africa's parliament. He says education has been a major problem in South Africa's development. He notes that many blacks received a poor education under white minority rule. Apartheid officially ended in 1994.  He says many people are university graduates, but they cannot get jobs where there is a need for skilled workers. This is because the education these graduates have is not enough to place them in jobs with high-skill requirements. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sCOyXC_ZAYo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sCOyXC_ZAYo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sCOyXC_ZAYo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sCOyXC_ZAYo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sCOyXC_ZAYo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cgNy9rwgFlSKslsAXBUlp8uWdQ0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjg4OTQ1RkU0NDQ4NDFEMTE=",
+   "snippet": {
+    "publishedAt": "2013-09-23T21:15:17.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "A Way for Some Wealthy Investors to Get US Visas",
+    "description": "From VOA Learning English, this is the Economics Report. \n\nWhat do these four things have in common: a proposed wind farm in the American state of Washington; a gold mine in Idaho; a new casino in Las Vegas; and ski resort expansions in Vermont?  They are all investments for wealthy foreigners seeking green cards to live in the United States. Under American law, foreigners can get such visas if they invest at least $500,000 to create at least 10 jobs in the country. Here is an example of the program works. A few years ago Jordan Gagner and his wife needed to move from their home in Canada to a drier climate, like Arizona. At first, the possibility of getting a visa seemed unlikely. But then, he heard about the immigrant investor visa. Jorndan Gagner and several other foreign investors offered $500,000 dollars each to build an assisted living center in Bellingham, Washington. Mr. Gagner was credited with creating many jobs during the recession, and his whole family received green cards. Companies that bring together investors and possible borrowers are officially known as \"EB-5 regional centers\".  The name comes from the part of the immigration law that set up the immigrant investor visa. Some Americans have expressed concerns about the program. Landowner Harland Radomske first heard about it when a group of wealthy Koreans were invited to invest in a wind farm on land next to his property. He fears a wind farm would reduce the value of his ranch. Yet, even with the disputes over immigration, the foreign investor program has a lot of support in Congress. There is also a move to make the program permanent. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hJU46ZUKjw0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hJU46ZUKjw0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hJU46ZUKjw0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hJU46ZUKjw0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hJU46ZUKjw0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Gwy2GEXxSvYA0aaSKLBHIKSDukQ\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkUyNjY5NjFCNTgwMTAxRTc=",
+   "snippet": {
+    "publishedAt": "2013-09-16T19:30:48.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Future Uncertain for African Growth and Opportunity Act",
+    "description": "From VOA Learning English, this is the Economics Report.\n\nThe United States is considering the future of an American law called the African Growth and Opportunity Act, or AGOA. This law allows countries in sub-Saharan Africa to export some goods and natural resources to the United States without duties.AGOA is set to end in 2015. It was signed into law in 2000 and has been extended once already. Earlier this month, American Trade Representative Michael Froman met with African ministers in Ethiopia for talks on the possible renewal of AGOA. He said the United States is interested in African trade talks with the European Union. He said American officials want to know about the results of those talks before they decide what to do about extending the law. Mr. Froman said African partner countries need to think about how they want to work with the United States on renewing it. He said the countries need to understand how this issue relates to their negotiations with the European Union.  EU economic partnership agreements with African countries would be different from AGOA. Not only would African products be duty-free in Europe. European goods sent to African markets would not be subject to import taxes either. Mr. Froman said the wording of AGOA might need to be changed so the law is more like the EU partnership agreements. He said the United States is unlikely to support calls for giving African partners one-way access to the American market while limiting trade for American companies. In the end, the United States Congress will decide whether or not to approve an extension of the law, and for how long. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fUps5t84VlU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fUps5t84VlU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fUps5t84VlU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fUps5t84VlU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fUps5t84VlU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JhtQ9ZBZ_XKCqypXzr38khyehu0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjNDNDkwNzYyOTZCNjNBNzg=",
+   "snippet": {
+    "publishedAt": "2013-09-14T15:31:05.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "How a California City Wants to Rescue Struggling Homeowners",
+    "description": "From VOA Learning English, this is the Economics Report.  \n\nThe American housing market is growing stronger. Yet many areas are still suffering from the collapse of the market in 2008. Richmond is a small city California. More than half of the homeowners there owe more for their home loans than the properties are currently worth. Such loans are risky for lenders since people in that situation often stop making payments. Now, city officials are moving forward with a plan to rescue these struggling homeowners. The city wants to buy the mortgages from banks for an amount equal to the current value of the properties. It plans to work with an investment company to help each homeowner get a new mortgage through government programs and private investors. City officials say if banks do not cooperate, they will force the lenders to sell the loans. Richmond plans to use the legal power called eminent domain. This allows officials to take a property but requires the government to pay fair market value. State and local governments use this legal power to take property needed for public purposes, such as new roads, schools or economic development. At least two banks are asking a federal court to intervene. They want the court to prevent the city of Richmond from using eminent domain. Lawyers for the banks say investors such as retirees would lose money. They also say the action would interfere with their contracts with investors. The United States paid billions of dollars to rescue banks during the world financial crisis. Now, the courts must decide if Richmond, California, can help rescue homeowners through the power of eminent domain. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/17Zw_02hjOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/17Zw_02hjOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/17Zw_02hjOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/17Zw_02hjOI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "17Zw_02hjOI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K5mNWMZZYRTheBM4oVcAd23hT60\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjZCRDg3MjI3MUExN0Y5OEE=",
+   "snippet": {
+    "publishedAt": "2013-09-09T16:05:44.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Chinese Exports to North Korea Fell During First Half of 2013",
+    "description": "From VOA Learning English, this is the Economics Report.\n\nRecent Chinese trade information shows that China's exports to North Korea decreased by more than 13 percent during the first six months of 2013.  This is the first time in 4 years that exports have fallen. Exports decreased by about $1.6 billion from January to June compared to the same period last year.  The last time exports from China to North Korea dropped was in 2009 during the world financial crisis. This year, there was a large decrease in shipments of unprocessed oil to North Korea. Lu Chao studies at the Liaoning Academy of Social Sciences. He says China is the biggest oil provider to North Korea.  He said last year, China exported 500,000 tons of oil to the country. Mr. Lu says China placed trade restrictions on North Korea this year after its third nuclear test.  He says the Chinese government made the decision based on a United Nations Security Council resolution. North Korea's decision to carry out its third nuclear test earlier this year has affected ties between the two countries.  Following the test, Chinese students called on the government to completely cut ties with North Korea.  Chinese officials have condemned the test. They have called for the continuation of six-nation talks aimed at ending the country's nuclear weapons programs. In May, the government operated People's Bank of China announced it was no longer doing business with North Korea's foreign trade bank. Recently officials from the United States and South Korea met.  They announced their plan to continue placing restrictions on North Korea and to seek more assistance from China in the process. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HuId0FjSdgw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HuId0FjSdgw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HuId0FjSdgw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HuId0FjSdgw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HuId0FjSdgw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kvAVhyEtxkGe1sa1cJNTU2JyTDk\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjIwNUE3NTNBNzU1MjIzN0Q=",
+   "snippet": {
+    "publishedAt": "2013-08-26T18:13:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Kenya's Mineral Discoveries Produce Mixed Feelings",
+    "description": "Subscribe to our channel: http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Economics Report.\n\nRecent discoveries of mineral wealth in Kenya could help add to East Africa's biggest economy.  The government also is taking steps to improve the openness of the mining industry.  But some citizens are concerned that at least one newly announced mining project will damage local communities. The government has warned companies about making announcements about new resources before they are confirmed.  Kenya's secretary of mining, Najib Balala, says the government will ask mining companies for details about their findings 21 days before making them public.The discoveries also could upset some communities where big mining projects are planned.  One example is the recent discovery of rare minerals in the Mirima Hills, in the coastal area of Kwale.  The mining company Cortec reported finding a deposit of more than 600 kilograms of niobium.  The element is used in making steel and metal mixtures called superconducting alloys that allow electric currents to travel very easily.  Cortec says the discovery could be worth $50 billion.But a dispute has begun between the company, the government and the local community.  Leaders of the Mijikenda ethnic group, which lives near Kenya's coast, say they practice their religion in the Mirima Hills. The Kenyan government has not announced how payments it receives from mining companies, called royalties, would be used.  The Mining Secretary is expected to present legislation proposing that the central government take 70 percent of mining royalties.  Local governments would receive 25 percent and local communities would receive five percent.For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9A52rmgMSTE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9A52rmgMSTE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9A52rmgMSTE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9A52rmgMSTE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9A52rmgMSTE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/im83GRy5cyaPa15daMs67if3OX0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkNCMjM0OEI0OUVCQUI1NEY=",
+   "snippet": {
+    "publishedAt": "2013-06-25T21:22:55.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China and the 'Ham Capital of the World'",
+    "description": "From VOA Learning English, this is the Economics Report. The Chinese meat processing company Shuanghui International is proposing to buy the American ham and pork producer Smithfield Foods. It would be the biggest purchase of an American company by a Chinese buyer. Ham and pork are the meat of pigs. Virginia ham is famous around the world.  The town of Smithfield, Virginia, where the company started, calls itself the ham capital of the world. Larry Santure is the sales manager for Smithfield Foods.He says the explorer Marco Polo brought a basis for curing ham to Italy from China. He says this kind of cured ham turned out to be the prosciutto that we know today. Later, settlers brought the formula for making prosciutto with them to the United States. He says the main reason Smithfield became the center of ham processing was because local Native Americans had methods for producing salt from nearby ocean water. Virginia Wade manages a store that specializes in ham made in Smithfield. She says the ham is aged at least six months in salt. She says the uncooked hams are similar to ham in China. Before Smithfield Foods can be sold to the Chinese company, the purchase must be approved by the American government and by Smithfield Foods stockholders. There have been concerns in the past about some Chinese companies doing business in the United States. But Gary Hufbauer expects the Committee on Foreign Investment in the United States to approve this purchase. He is with the Peterson Institute for International Economics in Washington. Mr. Hufbauer believes the Chinese company is buying the world's good opinion of Smithfield Foods, including the quality and safety of its products. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ax38EYuYqK8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ax38EYuYqK8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ax38EYuYqK8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ax38EYuYqK8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ax38EYuYqK8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZEGxWT2WK4gQiNxLwJz1E_QXfmw\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjlFMzc4RkM4M0RGNEVDNkY=",
+   "snippet": {
+    "publishedAt": "2013-08-21T13:17:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Detroit Files for Bankruptcy",
+    "description": "From VOA Learning English, this is the Economics Report. \n\nDetroit Mayor Dave Bing had to report some bad news recently. He said Detroit was seeking bankruptcy protection. The move would give the city court protection from creditors. The decision to declare bankruptcy is an effort to restructure and reduce debt. It comes at a difficult time for Detroit. In March, Michigan Governor Rick Snyder named Kevyn Orr, a bankruptcy expert, to oversee the city's financial problems. Detroit has been struggling to reduce a budget deficit of more than $300 million. In addition, the city's long-term debt has increased to at least $18 billion.\nDetroit's problems have grown over many years. Michigan State University professor Eric Scorsone says the city depended too much on one industry: automobile manufacturing. Jobs with car makers were a big reason why Detroit was one of the country's largest cities half a century ago. In the 1950s, it had a population of about 1.8 million people. Today the number is down to less than 800,000. Robin Boyle is a professor of urban planning at Wayne State University. He says, over the years, many Detroit residents moved to areas outside the city or even left the state. That hurt Detroit's ability to invest in itself. It is rare for a large American city of seek bankruptcy protection. In 1975, New York City came close before the federal government agreed to provide money. Detroit, however, is the largest city to seek bankruptcy.\n\n\nNow, a federal judge is to consider Detroit's request. One of the main issues is what to do about the retirement pay of city workers. Currently, there are many more retired workers than those paying into the pension system. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qNL8xF5uk50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qNL8xF5uk50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qNL8xF5uk50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qNL8xF5uk50/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qNL8xF5uk50"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/09l-ijyG5y3fCmiJK7J5kmdFmsM\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkEzRDA0OTY4NzFEQUNFNEQ=",
+   "snippet": {
+    "publishedAt": "2013-08-12T15:16:03.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "US Wine Makers Seek to Raise Sales in China",
+    "description": "From VOA Learning English, this is the Economics Report.\n\nAmerican wine producers are hoping to increase their sales in China, where the country's growing middle class is drinking wine. The United States exported just 74 million dollars in wine to China last year. But exports are growing at a rate of nearly 20 percent a year. Two years ago, former basketball star Yao Ming launched a wine company called Yao Family Wines. It is based in California's Napa Valley -- one of the top wine producing areas in the world. Tom Hinde is with Yao Family Wines. He says the vineyard grows only Cabernet Sauvignon grapes because many people in China like red wine. The small winery makes a costly product. Its top cabernet sells for 625 dollars a bottle. Napa Valley's Black Stallion Winery also looks to China as a promising market. Holly Evans works for the company. She says the company has two wines that are sold throughout the United States and also in China. Many moderately priced wines are exported to China. They include some from the San Antonio Winery in Los Angeles. Fifteen percent of its production goes to China.The Wine Institute represents more than 1,000 wineries and allied businesses through California. Spokesperson Linsey Gallagher says her group is always receiving requests from China. But she says the country is a problem for marketing. She says that, in China, it is not known that California is the fourth largest wine producing area in the world, producing many kinds of wine. Winemakers hope to expand the market for fine dry wines, including white wines, which are now a small part of the Chinese market.For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JYkHKee_uKA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JYkHKee_uKA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JYkHKee_uKA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JYkHKee_uKA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JYkHKee_uKA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/uGC6jphtt8wGbkwNrqcn4hBYidM\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjNGNjVDQ0Y4MjVCMjQ1OTU=",
+   "snippet": {
+    "publishedAt": "2013-07-23T13:35:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "UN Says World Unprepared for Rapid Growth of Cities",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E0sJyTSdH_I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E0sJyTSdH_I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E0sJyTSdH_I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/E0sJyTSdH_I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "E0sJyTSdH_I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-hL2jpNu7Guo3CTmOKTUEvwrq4Y\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjg5MDRDRDI3NkIzQjQyNzk=",
+   "snippet": {
+    "publishedAt": "2013-07-19T22:21:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Economic Concerns Fueled Brazil Protests",
+    "description": "From VOA Learning English, this is the Economics Report. Economic concerns have been at the heart of the recent protests in Brazil. Brazilian President Dilma Rousseff answered growing public unrest over government spending and economic concerns. On June 24, she proposed a popular vote, or plebiscite, on a constitutional process to make reforms needed by the country.President Rousseff also described a $23 billion spending plan. The money would go to public transportation and would support investment in education and health care. The Brazilian leader also promised to fight political corruption. President Rousseff met with state governors, city mayors and protest leaders in the capital, Brasilia. It is estimated that one million people took part in protests across Brazil. Demonstrators are angry that the government is spending billions of dollars in public money in preparations for two huge sporting events. Brazil will hold the FIFA World Cup soccer championship next year and then the 2016 Olympic Games two years later. The protests started when the government announced it would increase transportation costs, such as bus and subway fares. But the protests soon turned to other economic issues, and spread. As a result, the government suspended its plans for the transportation fare increases. Demonstrators have been demanding better health care, education and public transportation and action against corruption. As Brazil prepares for the major sporting events, the country is also facing rising inflation. The inflation rate is now over six percent, which is higher than the government's target. For VOA Learning English, I'm Mario Ritter.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jacElX7MGuA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jacElX7MGuA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jacElX7MGuA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jacElX7MGuA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jacElX7MGuA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GcnUWU4crPXIKA3iKTU8AtgK884\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjQ1REI1MUFBNjBEMTlFNkU=",
+   "snippet": {
+    "publishedAt": "2013-07-10T13:46:14.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "African Countries Put Pressure on China",
+    "description": "VOA Learning English, this is the Economics Report. Ghana arrested more than 100 Chinese nationals in June. They were accused of illegally mining gold. In February, Zambia seized a Chinese operated mine because of safety concerns. And Gabon has decided to seize property from three foreign oil companies, including one from China. Some observers say these and other incidents appear to be a reaction by African governments against Chinese investment on the continent. China became Africa's top trade partner in 2009. Yet some Africans believe they are not getting enough for their exports. Bright Simons is with the IMANI group. He says China is no longer known only for giving loans and sending workers to build hospitals and roads. He says China is now a business partner. Ghana has taken steps against foreigners involved in \"shallow mining\" for gold. Only Ghanaians can get government approval for this kind of mining. Bright Simons says some Ghanaians \"rent\" the permits to foreigners who have the money and training to actually mine the gold. Observers say nations like Niger and Gabon want to get more for their natural resources. They want more money, more local jobs and better living conditions. Worldwide demand for oil, coal, iron ore and uranium has made their negotiating position stronger. Some nations are also concerned about abusive or illegal operations. In Gabon, the government says it is planning not to extend operating permits to three companies, including Addax, which is part of China's Sinopec. Many experts believe the partnership between China and Africa will continue to grow, but now perhaps on more equal terms. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ImarRQ18hmc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GczQtaSMbOGiNBs8A29sg9dmVN4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkQ1NkRBQUU2MDBBMDUxN0M=",
+   "snippet": {
+    "publishedAt": "2013-07-25T02:00:20.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "African Countries Put Pressure on China",
+    "description": "VOA Learning English, this is the Economics Report. Ghana arrested more than 100 Chinese nationals in June. They were accused of illegally mining gold. In February, Zambia seized a Chinese operated mine because of safety concerns. And Gabon has decided to seize property from three foreign oil companies, including one from China. Some observers say these and other incidents appear to be a reaction by African governments against Chinese investment on the continent. China became Africa's top trade partner in 2009. Yet some Africans believe they are not getting enough for their exports. Bright Simons is with the IMANI group. He says China is no longer known only for giving loans and sending workers to build hospitals and roads. He says China is now a business partner. Ghana has taken steps against foreigners involved in \"shallow mining\" for gold. Only Ghanaians can get government approval for this kind of mining. Bright Simons says some Ghanaians \"rent\" the permits to foreigners who have the money and training to actually mine the gold. Observers say nations like Niger and Gabon want to get more for their natural resources. They want more money, more local jobs and better living conditions. Worldwide demand for oil, coal, iron ore and uranium has made their negotiating position stronger. Some nations are also concerned about abusive or illegal operations. In Gabon, the government says it is planning not to extend operating permits to three companies, including Addax, which is part of China's Sinopec. Many experts believe the partnership between China and Africa will continue to grow, but now perhaps on more equal terms. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ImarRQ18hmc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ImarRQ18hmc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/u-jyPnR0IgX0peNJ658uGFLsbFw\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkQ4NUI5MDU0OEI0QTkyREI=",
+   "snippet": {
+    "publishedAt": "2013-07-02T16:40:02.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China Increases Food Imports",
+    "description": "http://learningenglish.voanews.com | http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Economics Report. A new report says China's demand for food imports will sharply rise in the next 10 years. The United Nations Food and Agriculture Organization and the Organization for Economic Cooperation and Development made the prediction. They say China will increase its imports of grains, oil seeds and meat. Angel Gurria is secretary-general of the OECD. He says China's need for food is growing at a time when world food production is decreasing. Imports to China are expected to grow at a yearly rate of three percent to 1.7 million tons by the year 2022. China's imports of crops used to feed animals, called coarse grains, are expected to double by 2022. And imports of oil seeds are predicted to rise 41 percent. Angel Gurria says China's economic growth is fueling its hunger for imports. He says the country already has a big effect on world food markets. Jose Graziano Da Silva is the head of the Food and Agriculture Organization. He says reducing the large amount of food that is now wasted would help meet the growing demand for food. The rise in the Chinese demand for food is expected to cause grain and other commodity prices to rise. Businesses are taking new steps because of China's influence on world food trade. Last month, the Chinese meat processing company Shuanghui announced a $7 billion offer for the American pork company Smithfield Foods. China is already the world's biggest importer of milk and soybeans. It is expected to become the world's biggest consumer of pork, passing the European Union within 10 years. The FAO and OECD say that will cause international pork prices to rise. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xI86zBxS8nc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xI86zBxS8nc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xI86zBxS8nc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xI86zBxS8nc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xI86zBxS8nc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bY2dEm3uKn4XYTK0-Yg50Voqru4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjQ3Q0NGQzhCNjI5MzE1MEE=",
+   "snippet": {
+    "publishedAt": "2013-06-13T12:08:40.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Calls for Action Against Tax Havens",
+    "description": "Subscribe to the VOA Learning English Channel: http://youtube.com/voalearningenglish\n\nFrom VOA Learning English, this is the Economics Report. In Britain, demonstrators recently protested outside the Treasury to call on the world's richest countries to act against tax havens. These are countries or territories that have low tax rates for businesses. Companies can place their profits in tax havens to avoid the higher tax rates of countries where they earned the income. An investigation found that tax havens cost Africa $38 billion every year in lost taxes. Former United Nations secretary-general Kofi Annan led the investigation. The demonstrators at Britain's Treasury called on Chancellor George Osborne to discuss the practice with finance ministers from other wealthy countries. Melanie Ward is with the \"Enough For Everyone If\" campaign. She said she believes many people in Britain and the world oppose such tax avoidance.Tax havens and low-tax countries like Ireland are popular. But critics of tax havens say big companies transfer profits out of the countries on which their income depends. Ronen Palan is a professor at City University London. He says capital in some African countries is funding development in other parts of the world because of such transfers. The charity ActionAid says the brewing company SABMiller uses a complex system of tax havens. It says this system moves profits out of the company's operations in developing countries like Ghana. SABMiller denies any tax abuses. It says in 2010 it paid about $250 million in corporate taxes in India and sub-Saharan Africa. British Prime Minister David Cameron has promised to discuss the issue of tax havens at the G8 leaders meeting in June. For VOA Learning English, I'm Laurel Bowman.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yJh0zVAGKRo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yJh0zVAGKRo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yJh0zVAGKRo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yJh0zVAGKRo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yJh0zVAGKRo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tmUWGOjNgabaig_0x-gf-cU-KK0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjQxMjEwMzBFRjFFNjI3OEY=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Chinese Interest in South Africa Grows",
+    "description": "From VOA Learning English, this is the Economics Report. \nThe number of people visiting South Africa grew by almost 10 percent last year. One country making that number grow is China. Chinese investment has been \nincreasing in South Africa. So has the number of Chinese visitors to \nthe country. China sends the fourth largest number of tourists to South \nAfrica. More than 130,000 Chinese tourists went there last year. \nEuropeans remain the biggest tourism group. But the percentage of \nChinese tourists grew by 56 percent from 2011 to 2012. Beverly Schafer \nis a member of Cape Town's city government. She represents an \narea that is home to a famous soccer stadium. She says the number \nof visitors to the country increased after South Africa hosted the World \nCup soccer championship in 2010. South Africa's travel industry has \nbeen noting the growing number of Chinese tourists. Mariette Du \nToit-Helmbold has worked with Cape Town Tourism. She says \nthe industry is looking for Chinese-speaking guides and has \nstarted providing information in Mandarin Chinese. There are several \nreasons for the increase in Chinese tourists. One could be \nSouth Africa's inclusion in the BRICS economic group, which also \nincludes China. Also, South Africa recently added visa application \ncenters in Beijing and Shanghai. And last year, South African Airways \nadded direct flights between Beijing and Johannesburg. Traditionally, \nCape Town's tourism industry has been directed toward Europeans and \nAmericans, who often travel in smaller groups or as couples. However, Chinese tourists often prefer to travel in larger groups. For VOA Learning English, I'm Mario Ritter.\n(Adapted from a radio program broadcast 17May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZNgJad9YFTw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZNgJad9YFTw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZNgJad9YFTw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZNgJad9YFTw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZNgJad9YFTw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g9XW5bOayksuwZ2omXoM3TW-vFE\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjg3N0E2NzE0QzgzRUE0NEU=",
+   "snippet": {
+    "publishedAt": "2013-06-04T13:27:53.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Some New Nurses Have Trouble Finding Jobs",
+    "description": "From VOA Learning English, this is the Economics Report. About one-third of new nursing graduates in the United States are having trouble finding work. Alexandra Bauernschub is finishing a master's degree program at the University of Maryland. She has done well in the program, earning the highest grade point average possible. But she is worried because she has not received job offers. Yet there is hope for nurses who complete studies at four-year schools or graduate level programs. They have an easier time finding a job in health care than nurses graduating from a two-year degree program. Experts say there are fewer job openings because nurses in their 50s and 60s are delaying retirement. These workers are hoping to rebuild the savings they lost a few years ago during the financial crisis. Jane Kirschling is head of the University of Maryland's nursing school. She says weak economic conditions have created tensions in the job market. The number of students entering nursing school has risen sharply in recent years. At the same time, the United States is preparing for the retirement of millions of \"baby-boomers.\" That is the name given to Americans born between the end of World War Two and the early 1960s. Hundreds of thousands of nurses are expected to retire just as people their age need more medical care. Health care laws are changing in the United States. Health experts say they expect demand for nurses to care for the sick and aged to grow. They say many older nurses will retire if the economy improves. This would create job openings for younger nurses and recent college graduates. For VOA Learning English, I'm Alex Villarreal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RqVg_6lq1EI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RqVg_6lq1EI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RqVg_6lq1EI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RqVg_6lq1EI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RqVg_6lq1EI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xbpt1hogI3RPjEKScYCmu8GKVUY\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjY3NUMwMUQ0MzJBRkRCQTQ=",
+   "snippet": {
+    "publishedAt": "2013-05-20T15:34:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Concerns Grow About Pakistan's Economy",
+    "description": "From VOA Learning English, this is the Economics Report.\nMany Pakistanis are increasingly concerned about their economy. Zafar Saeed directs an occupational training center in Islamabad, the capital. For the past 10 years, the center has trained thousands of people for work in an increasingly difficult economy. Now, the business is struggling with issues ranging from loss of electricity to inflation. Zafar Saeed blames the government for the situation. He says his organization has suffered big financial losses in the last five years. One of the reasons is long power outages. Another reason is that inflation makes it hard for people to pay his fees so they can learn skills that lead to income.\n\n\n\nOther people share his opinion. Street protests against power outages are common in Pakistan. Some outages can now last an entire day. Ashfaque Hassan Khan is a professor at the NUST Business School in Islamabad. He says there has been too little political will to fix the national tax system. Less than one percent of Pakistan's 180 million people pay income taxes. About 70 percent of federal lawmakers did not complete any income tax documents last year. As Professor Khan notes, that makes it more difficult to ask major donors to the country for help. He says other nations question why they should provide Pakistan with aid when Pakistan does not tax its own wealthy citizens. \nSixty percent of the Pakistani population is under the age of 25. Opinion surveys show that young people are most concerned about economic problems and corruption. \nFor VOA Learning English, I'm Laurel Bowman.) You can watch more captioned videos at the VOA Learning English website and the VOA Learning English channel on YouTube. (Adapted from a radio program broadcast 01May2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ljpco9yPbi8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ljpco9yPbi8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ljpco9yPbi8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ljpco9yPbi8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ljpco9yPbi8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/328F5UvCCf9HNNXFX1WcxdlFVT0\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjU3NzREMURDMUNFMUFCRjg=",
+   "snippet": {
+    "publishedAt": "2013-05-12T10:37:25.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "South Africa's Labor Laws Slow Growth",
+    "description": "Unemployment in the nation is near 25 percent. Experts say South Africa's hiring and dismissal practices are partly to blame.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PSHGH95is9s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PSHGH95is9s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PSHGH95is9s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PSHGH95is9s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PSHGH95is9s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9QjYuOsw4He6prZyGpKCKmTcr-s\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjNDOUZBMzJGMEM4QUYyQzU=",
+   "snippet": {
+    "publishedAt": "2013-05-02T15:01:36.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Venezuela's Economic Problems",
+    "description": "From VOA Learning English, this is Economics. Venezuela is facing a number of economic problems. Inflation is putting pressure on many businesses. Rotzen Villabon owns a gift store. But his business needs American dollars to import products made in China. He is unable to exchange Venezuelan money for dollars at the official exchange rate of about 6.5 bolivares to the dollar. He says the supply of dollars is even limited on the black market, where dollars cost much more. He says that is why business at his store is down. Venezuela has the highest rate of inflation in South America. In February, Venezuela reduced the value of its currency by one third, which has made imports more costly. The economic troubles have resulted in shortages of products -- from necessities like food to beauty products. Venezuela is a major oil exporter. The nation's oil wealth paid for many social programs during the 14-year-rule of former president Hugo Chavez. But Venezuela's recent presidential election showed there are divisions in the country. Nicolas Maduro was declared the winner of a close election over opposition candidate Henrique Capriles on April 14th. Mr. Capriles disputed the vote and called for a recount. Henrique Capriles is a lawyer. He promised to open the economy to foreign investment. Nicolas Maduro is former union leader. He served as vice president to Mr. Chavez before the president died of cancer last month. Mr. Maduro promised to continue the social policies and programs of Mr. Chavez. For supporters, the election was about saving programs for free housing, health care and education. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 19Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nziP_O4yx88/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nziP_O4yx88/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nziP_O4yx88/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nziP_O4yx88/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nziP_O4yx88"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XgQNusBT4SNEYQHfI91-AFn_0L4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkJGRkQ3MzAwQUU3RTZGQ0Y=",
+   "snippet": {
+    "publishedAt": "2013-05-02T13:55:12.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "A World of Unconventional Fuels",
+    "description": "From VOA Learning English, this is the Economics Report.The growth of natural gas and oil production in the United States has changed experts' predictions about energy worldwide. Recently, delegates at a conference in Texas spoke of a world increasingly powered by what they call unconventional fuels. By this, they mean fuels that are not petroleum. The United States is increasing its natural gas production. But the biggest energy user, transportation, still depends largely on oil. Daniel Akerson is the chairman of General Motors. He says offering home natural gas fueling stations might help. But he says that is not likely to happen until the United States supports the creation of far more fueling stations nationwide.Cars and trucks powered by natural gas are costly. That is why John Felmy of the American Petroleum Institute says any change has to start with large commercial vehicles. He says family-sized vehicles would cost too much compared to other electric or gas-powered ones. He thinks it would be wise to suggest the export of liquefied natural gas as a way for producers to expand their business. John Felmy says such exports would cut the United States' trade deficit and create more jobs. Yet he believes they would have only a small effect on the price most people pay. Energy officials from many countries wanted to learn how they could expand their own natural gas production at the conference in Houston. For many nations, this is a way to fight poverty. Arsenio Mabote is chairman of Mozambique's National Petroleum Institute. He says energy resources can be used to generate electricity and that brings development. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 12Apr2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3H1X1eD05UE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3H1X1eD05UE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3H1X1eD05UE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3H1X1eD05UE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3H1X1eD05UE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2rVN2ysXTBhGqEyz4ICouaT9qL4\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkZCNjZFOTgyQzY4RDIxREE=",
+   "snippet": {
+    "publishedAt": "2013-04-16T20:33:03.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The BRICS Summit",
+    "description": "From VOA Learning English, this is the Economics Report in Special English. Five nations held the fifth BRICS Summit at the end of March in Durban, South Africa. The five BRICS nations are Brazil, Russia, India, China and South Africa. For years, these nations have said they do not have a strong voice in world events. All five countries have strong economies. But none has been asked to lead the International Monetary Fund or the World Bank. India, Brazil and South Africa have all campaigned, without success, for a permanent seat on the United Nations Security Council. Anil Sooklal is South Africa's ambassador to the BRICS group. He says the group can overcome historical imbalances by giving each nation power over a proposed development bank. The bank would be collectively owned by all the BRICS countries. Emilio Pera is with Ernst and Young business advisory services. He says a development bank is a good idea for financing public works projects and strengthening cooperation between the BRICS nations. A report from South Africa's Standard Bank says each nation is expected to donate $10 billion for the bank. China's economy alone is bigger than that of the four other countries combined. For China, $10 billion is not a lot of money. But for South Africa, it represents almost half of the country's education budget. At the IMF and the World Bank, members donate money based on the size of their economy. Standard Bank's Simon Freemantle says it could be a long time before the bank is launched. He thinks the bank has a long process through which it still has to travel in order to reach the point where it can extend loans. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 22Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/si-JnBHRhi8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/si-JnBHRhi8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/si-JnBHRhi8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/si-JnBHRhi8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "si-JnBHRhi8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_fM4fw0eDs03tMm5Elxhi3Pu7uY\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjFDOTA4RDlDQTUzMjA5REU=",
+   "snippet": {
+    "publishedAt": "2013-04-01T14:02:57.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "The Kabul Bank Scandal",
+    "description": "From VOA Learning English, this is the Economics Report. A court in Afghanistan recently sentenced former leaders of the country's first private bank to prison. The two men were found guilty of crimes that led to the failure of the Kabul Bank in 2010.  Some people say the five-year prison sentences were not enough. The bank failure led to a financial crisis in Afghanistan. A special three-judge committee of the Afghan Supreme Court decided the case. The court found Kabul Bank's former chairman, Sherkhan Farnood, guilty of stealing $278 million. Former chief executive officer Khalilullah Ferozi was found guilty of stealing $530 million. The judge ordered the two men to repay the stolen money.  The former bank officials have been under house arrest for more than a year.  They were among 21 Kabul Bank and government employees who were tried and found guilty. The other defendants were given shorter sentences.  All have the right to appeal.  The case was considered a test of Afghanistan's new legal system and the government's will to fight corruption. The special court did not charge several other influential people linked to the bank as shareholders or borrowers. These people included a brother of President Hamid Karzai and a brother of the first vice president.The Afghan government rescued the bank and renamed it the New Kabul Bank. Nations that help support Afghanistan, led by the United States, have promised billions of dollars in aid after NATO forces withdraw by the end of 2014. But they are demanding that the government bring corruption under control.For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program broadcast 08Mar2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qDdBcOfJivs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qDdBcOfJivs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qDdBcOfJivs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qDdBcOfJivs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qDdBcOfJivs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FghSRsBbgqbwf3w9DmVF0tWq5JY\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkQ5RkE5NkZFNEJGMTI1NDE=",
+   "snippet": {
+    "publishedAt": "2013-03-25T16:13:58.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Studying Corruption in Thailand",
+    "description": "From VOA Learning English, this is the Economics Report.Many Thais joined protests in Bangkok last year.  They urged Prime Minister Yingluck Shinawatra to deal with the growing problem of corruption in their country.  How much economic activity is lost to corruption is difficult to estimate.  The University of the Thai Chamber of Commerce studied the issue not too long ago.  The university found that more than two percent of all of the goods and services produced in Thailand, or worth about $11 billion, will likely be lost to corruption this year. According to the researchers, many business people say they are paying more to Thai officials and politicians to win government contracts. Political economist Pasuk Pongpaichit says there is evidence that officials are making progress in controlling low level corruption. But, she says, the slowing world economy means growing competition for profitable deals with the government. Bandid Nijathaworn is a former central bank official and President of the Thai Institute of Directors.  He says corruption in Thailand appears to be more of a problem now than it was 10 years ago.  And the problem affects more than Thailand.  The American-based Center for International Policy says that more than $2.7 trillion in illegal funds left China between 2001 and 2010.  The money left as a result of criminal financial deals, corruption, tax evasion or other illegal activities.  For Thailand, the amount was $64 billion during the same period. In 2003, the United Nations passed a convention against corruption.  But observers say the fight against corruption needs to go beyond law enforcement.  They say it must include nongovernmental organizations and private industry groups. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 29Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/stvYZ8gwvMo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/stvYZ8gwvMo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/stvYZ8gwvMo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/stvYZ8gwvMo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "stvYZ8gwvMo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MQFfzaZ_XKDdYMe1ktas6lbDxUc\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjFGQThEQTUyMEEzOTA1RDY=",
+   "snippet": {
+    "publishedAt": "2013-03-19T14:01:38.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Training Entrepreneurs in Ethiopia",
+    "description": "From VOA Learning English, this is the Economics Report in Special English. The Ethiopian government and the United Nations Development Program, or UNDP, have launched a three-year program. They plan to train more than 200,000 entrepreneurs.  Government and UNDP officials say the businesses set up by these men and women could create more than 1 million jobs in Ethiopia.  The country's minister of urban development and construction, Mekuria Haile, says Ethiopians need to change their way of thinking.  He says that instead of looking for jobs, people need to become social and economic entrepreneurs who create jobs. The Ethiopian government and the UNDP are interested in people wanting to set up small- and medium-sized companies. The development program is expected to cost $26 million dollars. So far, the UNDP has supplied $6 million. The program is based on four main ideas: institutional development, entrepreneurship training, business development services, and partnerships. Eugene Owusu works in Ethiopia for the UNDP. He says more needs to be done to reduce bureaucratic rules and increase access to credit in the country. Ethiopia has one of the world's fastest-growing economies. But it is 174th on the UNDP's Human Development Index. Human development has improved in Ethiopia during the past 20 years. But almost one third of the people live in poverty. And the need for jobs and economic growth is urgent. In Africa, Ethiopia's population is second only to Nigeria. And Prime Minister Hailemariam Desalegn says a majority of the country is under the age of 25.For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 22Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ELaut9Umy0M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ELaut9Umy0M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ELaut9Umy0M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ELaut9Umy0M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ELaut9Umy0M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TSMX0wNfJ-kQSYinqcj07j6TYYI\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjk4OTk4NDY3OEUxNjE5REQ=",
+   "snippet": {
+    "publishedAt": "2013-03-12T14:39:56.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "EU Countries Agree on Financial Framework",
+    "description": "From VOA Learning English, this is the Economics Report in Special English.European Union countries have struggled to find common ground as they tried to work out a budget agreement in Belgium.  But this month, they agreed on the European Union's multiannual financial framework, or MMF, for the period from 2014 to 2020.  The MMF sets the EU's yearly spending at about $1.3 trillion.  That is one percent of the income of the EU.Members agreed to reduce total spending by more than three percent for the period.  This is the first time that members have accepted cutting costs.  European Council President Herman Van Rompuy spoke after the agreement was announced.  He said the compromise budget might not be perfect.  But, he said, it should help all EU members.German Chancellor Angela Merkel praised the long-term spending plan.  She said the agreement makes policy more predictable and enables members to act in Europe's interest.  Some EU leaders have been calling for greater spending controls in their home countries.  They wanted the EU to show that it too is willing to cut costs.British Prime Minister David Cameron welcomed the agreement.  Before the two-day meeting in Brussels, he had threatened to veto the budget, if there were no steps toward reducing spending.  But the agreement still might not succeed.  The European parliament must approve the measure.  And some members of the parliament say it fails to deal with many problems like the sharp differences in wealth between rich and poor people. If the measure is approved, it will affect 28 European Union countries.  The EU says Croatia is expected to join the group in July.For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 22Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PNHYLOXyPPQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PNHYLOXyPPQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PNHYLOXyPPQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PNHYLOXyPPQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PNHYLOXyPPQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hpAMj9XzdLSKWpoNOblYuLnDgUA\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkFCRjY2MzcwQTQ2QjBFOEE=",
+   "snippet": {
+    "publishedAt": "2013-03-04T21:14:50.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "China's Air Pollution",
+    "description": "From VOA Learning English, welcome to the Economics Report in Special English. China has been struggling to deal with record levels of smog over Beijing. Recently, officials in several Chinese cities announced plans to trade carbon credits as a way to reduce air pollution. For many years, China considered economic growth more important than the environment. The nation remains hungry for energy. But it has also become the world's biggest producer of carbon gasses. Beijing's smoggy days have made international news. Small particles in the air reduce visibility and threaten public health. Smog has been a concern in the city for years. But a sharp rise in pollution levels in January led to sharp criticism from many Chinese. Pollution from coal-burning power centers and factories is a big part of the problem. Now, officials hope to control industrial air pollution by creating systems to trade carbon credits. The trading systems, or platforms, would enable companies to receive credits for lowering greenhouse gas emissions. The credits can then be traded. The goal of these market-based platforms is to get businesses to invest in clean technology.    Markets for carbon credits are expected to open this year in seven cities, including Beijing, Shanghai and Tianjin. Officials say the government has decided to start with pilot programs because carbon trading is something new. China wants to launch a national carbon trading program by 2016. Still, public pressure continues building on the government to find an answer to thick air pollution. Wu Changhua is with The Climate Group. She says the Chinese people are looking at more than jobs. They want a better environment too. For VOA Learning English, I'm Alex Villarreal. (Adapted from a radio program originally broadcast 8Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CunVyL3cshs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CunVyL3cshs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CunVyL3cshs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CunVyL3cshs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CunVyL3cshs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0PTVJosZYBw-WtbtVG_CxFgOAUQ\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkM3REM2MEY4OTk0MzI2NTI=",
+   "snippet": {
+    "publishedAt": "2013-02-26T19:42:13.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "East Asia's Territorial Disputes",
+    "description": "From VOA Learning English, welcome to Economic News in Special English.  Economic growth in East Asia and the Pacific region is expected to reach 7.9 percent this year.  That is higher than in any other part of the world.  But that is only part of the story. The other side of East Asia's success includes conflicting territorial claims in the area and trade imbalances with the rest of the world.  Competition for natural resources is an increasingly important issue.  This has led to territorial disputes.  For example, the islands known as Diaoyu in China and Senkaku in Japan are thought to be rich in oil.  Areas around the islands are said to be good fishing grounds.  China and Japan have competing claims for the territory. Kenneth Lieberthal is an Asia expert with the Brookings Institution here in Washington.  He says he has not seen evidence that either China or Japan is willing to reduce tensions over the islands.  That means territorial disputes will likely continue. China, Japan, Korea, Taiwan, Vietnam and the Philippines are involved in territorial claims with neighbors over West Pacific islands.  Trade imbalances are another issue.  East Asia has long been a source of exports. China's big trade imbalance with the United States has concerned U.S. lawmakers for years.  Some blame China's control of its currency for America's big trade deficit.  But Kenneth Leiberthal does not think so.  He notes other policies.  One is China's direct support for many of its important industries with government aid, or subsidies.  Mr. Lieberthal says Chinese rules at home also hurt countries seeking to export to China.  He says these and other issues such as the abuse of intellectual property rights have a much bigger effect on America's trade deficit with China.  For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 08Feb2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e1aSisVQdoU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e1aSisVQdoU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e1aSisVQdoU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e1aSisVQdoU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e1aSisVQdoU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Gin2utcBUO5zAC9vBKCEU5Wl2Zs\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjUxNDdCRURCNzZFNTI5Mjc=",
+   "snippet": {
+    "publishedAt": "2013-02-20T21:42:33.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Global Jobless Numbers Likely to Rise This Year",
+    "description": "From VOA Learning English, welcome to Economics in Special English. The International Labor Organization says nearly 200 million people are without jobs around the world. And the ILO is warning of even higher unemployment this year. The United Nations agency released a report called \"Global Employment Trends 2013.\" It says the number of unemployed worldwide rose by more than 4 million last year from the year before. The report says one fourth of this increase was in developed economies. The remaining 75 percent was in mainly developing economies in Asia, and in African countries south of the Sahara Desert. The report also says an estimated 39 million people stopped looking for work last year. The average length of unemployment increased sharply in developed economies. One-third of all job seekers in wealthy countries were unemployed for a year or more. The ILO's Director-General, Guy Ryder, says the world's economic recovery is not expected to be strong enough to reduce unemployment quickly. His group says the labor market is especially hard for young people. The ILO says 12.6 percent of people between the ages of 15 and 24 are unemployed worldwide. It says more and more young people, who experience long-term unemployment, stop looking for work. This prevents them from gaining needed on-the-job experience. Guy Ryder says, to create jobs, all countries must provide more predictable policies. He says these include measures to raise wages and support buying. He says countries should enact reforms to strengthen their banking industries, so banks can provide credit. For VOA Learning English, I'm Carolyn Presutti.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EQ_gR9W3d-E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EQ_gR9W3d-E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EQ_gR9W3d-E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EQ_gR9W3d-E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EQ_gR9W3d-E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JaeZXwM0cIixc79h_Nj8gE63rpU\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjgwRTQ3MjJBMEI4NjcwN0I=",
+   "snippet": {
+    "publishedAt": "2013-02-08T16:02:02.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "World Bank Sees 'Fragile and 'Uncertain' in 2013",
+    "description": "For VOA Learning English, welcome to Economics, in Special English. In January, the World Bank released its Global Economic Prospects report. World Bank experts are using the words \"fragile\" and \"uncertain\" to describe the economic recovery this year. Their report predicts the global economy will grow a little over two percent in 2013, and slightly more in the following two years. Predictions of limited growth have become familiar since the financial crisis four years ago. Wealthy countries are expected to have slower growth than developing ones as they deal with larger amounts of debt and big budget deficits. World Bank President Jim Yong Kim is urging developing countries to become growth drivers. But he notes that it is important to build a foundation for growth that can last over time.He says, the developed world needs to help developing countries make gains in health, infrastructure and education. Andrew Burns was lead author of the report. He says it is not only important to build roads and bridges, but to invest money in health care and effort in government reforms. Some high-growth developing countries, such as China, are spending a lot on public works projects, but spend little on health care. The World Bank President says Europe and America have approved some measures to deal with economic weakness. But financial policy remains a work in progress. Still, wealthy nations remain the biggest markets for exports and providers of foreign investment. Developing countries are positioned for stronger growth. But they will face basic risks. World Bank chief Kim said he is concerned that low grain supplies could bring high food prices, hurting the poor. For VOA Learning English, I'm Alex Villarreal . (Adapted from a radio program broadcast 25Jan2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HhgzVNrcPT4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HhgzVNrcPT4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HhgzVNrcPT4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HhgzVNrcPT4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HhgzVNrcPT4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hJKnPsuS-4NcmTKf8QkNRefOOQs\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLjM4OTY2ODY5M0MzNjIyMjY=",
+   "snippet": {
+    "publishedAt": "2013-02-04T14:56:41.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "Income Inequality Seen as World's Biggest Risk Over Next 10 Years",
+    "description": "From VOA Learning English, this is the Economics Report in Special English. The World Economic Forum says the most likely risk facing the world over the next 10 years is a big difference between rich and poor. The estimate was made in a new report called the World Economic Forum's Global Risks 2013. Food availability and the spread of terrorism are noted every year. But new risks, especially technological and economic ones, are getting more attention. The report was based on surveys of more than 1,000 experts from around the world. They considered the likelihood and impact of risks should they become reality. Sharp income disparity was considered the most likely problem to take place in the next 10 years. This is the second straight year that a wealth gap was named. Next was what the report called \"chronic fiscal imbalances,\" or the failure of governments to deal with heavy debt over time.The risk said to have the biggest possible impact was a major failure in the world financial system, like the collapse of a top institution or currency. But experts rated a water supply crisis as second on the list of high-impact risks. How the experts change their opinions is also something to note. This year, the mismanagement of the aging population moved from the 18th to the fifth most likely threat. The failure to deal with the costs and social issues involved with an aging population is now considered a risk with much greater potential impact. There were also extreme possibilities. The report called these \"X Factors.\" They include the likelihood of our climate going out of control, and even the discovery of alien life. For VOA Learning English, I'm Laurel Bowman. (Adapted from a radio program broadcast 18Jan2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K4MFJcStMKc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K4MFJcStMKc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K4MFJcStMKc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K4MFJcStMKc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K4MFJcStMKc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9PikW_TIVHVJ8X_GFMaT_JKojm8\"",
+   "id": "UEw2RkE2MTRFRjBDQjJBRDgyLkVGNzdGN0FFMTI5MDU1RkQ=",
+   "snippet": {
+    "publishedAt": "2013-01-25T15:38:39.000Z",
+    "channelId": "UCKyTokYo0nK2OA-az-sDijA",
+    "title": "'Fiscal Cliff' Avoided, but Not Solved",
+    "description": "From VOA Learning English, this is the Economics Report in Special English. \n\nOn January 1, both houses of the United States Congress approved a plan to increase taxes for most Americans. This agreement avoided much larger tax increases that were going to take effect this year.  After signing the bill, President Obama said it was important to have a balanced approach to the country's fiscal problems.  In the final months of 2012, the country faced a combination of higher taxes and automatic budget cuts that were being called the \"fiscal cliff.\" The fiscal cliff was avoided, but more remains to be done. Congress has given itself more time to decide how to cut the federal budget. Increased tax revenue and budget reductions are needed to reduce the federal deficit, which was over $1 trillion last year.The new law increases the tax rate on individuals with earnings of over $400,000 and on couples with earnings of over $450,000. All working Americans will have some kind of tax increase. This is because the share of Social Security taxes paid by employees will return to 2010 levels, an increase from last year of two percent.But the largest part of the tax increase will affect those with a lot of investment income and those with very high wages. Taxes on investment gains and dividends and payments from some kinds of securities will increase as well. Also, the top income tax rate will go to 39.5 percent from 35 percent. Overall, the effect of the law is simple. It will be the first major tax increase in 20 years.In addition, lawmakers are facing difficult budget decisions.  On March first, big, automatic budget cuts, or sequestration is set to take place across the federal government. For VOA Learning English, I'm Carolyn Presutti. (Adapted from a radio program broadcast 11Jan2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V06qj5WxNkc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V06qj5WxNkc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V06qj5WxNkc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V06qj5WxNkc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VOA Learning English",
+    "playlistId": "PL6FA614EF0CB2AD82",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V06qj5WxNkc"
+    }
+   }
+  }
+ ]
+}
