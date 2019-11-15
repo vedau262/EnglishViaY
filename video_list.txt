@@ -1,6 +1,6 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "ENGLISH FOR BEGINNER LEVELS",
+			"LIST_VIDEO_NAME": "English For Beginner Levels",
 			"LIST_VIDEO_SIZE": "30",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/7oOX48NOyTQ/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",			
@@ -8,7 +8,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/qtciycc2tql14nl/ENGLISH%20FOR%20BEGINNER%20LEVELS.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "ENGLISH FOR ELEMENTARY LEVELS",
+			"LIST_VIDEO_NAME": "English For Elementary Levels",
 			"LIST_VIDEO_SIZE": "30",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/zj1ZqH-xwhw/hqdefault.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f9LPj6fEeIBPS5uiA47IN8M",			
@@ -16,7 +16,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/l6fmirmtfndh4ci/ENGLISH%20FOR%20ELEMENTARY%20LEVELS.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "ENGLISH FOR INTERMEDIATE LEVELS",
+			"LIST_VIDEO_NAME": "English For Intermediate Levels",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://tv-english.club/wp-content/uploads/2014/12/upper-intermediate1.jpg",
 			"LIST_VIDEO_ID": "PLSq8-kwvz4f9VCunlTcy4N1fdWeBr27Ks",			
@@ -88,7 +88,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/y1vpbby5lwdf2gm/VOA%20-%20Agriculture%20Report.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "100 English conversation with subtitle",
+			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://s10.apktidy.com/thumbs/305d8p/english-conversation-greeting-app-for-android.jpg",
 			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
@@ -96,7 +96,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "Learn and Practice English",
+			"LIST_VIDEO_NAME": "Learn And Practice English",
 			"LIST_VIDEO_SIZE": "16",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTftnj12BSO3L5u0oz2fPWxdGAW-H0Fl164tf8gc8FWpSSkTHZ&s",
 			"LIST_VIDEO_ID": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",			
@@ -104,7 +104,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/a4z1ss6hhksuerl/Learn%20and%20Practice%20English.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "Daily English conversation",
+			"LIST_VIDEO_NAME": "Daily English Conversation",
 			"LIST_VIDEO_SIZE": "22",
 			"LIST_VIDEO_ICON": "https://live-english.net/wp-content/uploads/2018/06/Adding-Daily-English-Conversation-To-Your-Routine-750x315.png",
 			"LIST_VIDEO_ID": "PLsqTu51IRC71RWbgct33qQZx3qLU4PI1S",			
@@ -112,7 +112,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/iosl5dhb0in776s/Daily%20English%20conversation.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "Communication skil in the offfice",
+			"LIST_VIDEO_NAME": "Communication Skil In The Offfice",
 			"LIST_VIDEO_SIZE": "15",
 			"LIST_VIDEO_ICON": "https://enovatelab.org/wp-content/uploads/2018/09/EnSkill_Business_communication-e1538325090772-1030x396.jpg",
 			"LIST_VIDEO_ID": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",			
@@ -120,7 +120,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ow7wxsjp22sk2ga/Communication%20skil%20in%20the%20offfice.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "Traveling abroad",
+			"LIST_VIDEO_NAME": "Traveling Abroad",
 			"LIST_VIDEO_SIZE": "13",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzBV_slVR86R09z7nD5vase17yXPGZTL2hLEtjDulckgol6f5Cg&s",
 			"LIST_VIDEO_ID": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",			
