@@ -90,7 +90,7 @@
 		{	
 			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
 			"LIST_VIDEO_SIZE": "20",
-			"LIST_VIDEO_ICON": "https://s10.apktidy.com/thumbs/305d8p/english-conversation-greeting-app-for-android.jpg",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Z3VRSx7aO2A/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/100%20English%20conversation%20with%20subtitle",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
