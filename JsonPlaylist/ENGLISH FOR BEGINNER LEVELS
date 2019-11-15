@@ -1,0 +1,1360 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fvUSA5qmJ4xqR3YrgPpAXemVRKQ\"",
+ "pageInfo": {
+  "totalResults": 30,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QNTjvcfuE4Oc64M94GZDei5TWew\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:47:42.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 1: Nice To Meet You!",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 1: Nice To Meet You!\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IeaadwctbD4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IeaadwctbD4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IeaadwctbD4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IeaadwctbD4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IeaadwctbD4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IeaadwctbD4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9w8kAdl4gWq6JG-KrVSCwsZi86M\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:02.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 2: How Are You?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 2: How Are You?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S2lFmQcXsM4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S2lFmQcXsM4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S2lFmQcXsM4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/S2lFmQcXsM4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/S2lFmQcXsM4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "S2lFmQcXsM4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TrqQDqCrzEThguzELMfGSK7bpDI\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:05.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 3: What does she look like?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 3: What does she look like?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QTd9Hu-1RH0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QTd9Hu-1RH0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QTd9Hu-1RH0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QTd9Hu-1RH0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QTd9Hu-1RH0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QTd9Hu-1RH0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sclCLhKMYMcTf8PIjITymJ9KDuw\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:08.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 4: Where are you from?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 4: Where are you from?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Hbcn940MG6A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Hbcn940MG6A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Hbcn940MG6A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Hbcn940MG6A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Hbcn940MG6A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Hbcn940MG6A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WtdUwZ3_GyWiDQlz5MPRzd3oKv0\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:11.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginer Levels - Lesson 5: Do you speak English?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginer Levels - Lesson 5: Do you speak English?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sGCS1SoVKqk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sGCS1SoVKqk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sGCS1SoVKqk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sGCS1SoVKqk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sGCS1SoVKqk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sGCS1SoVKqk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zBXMhMXmNRtvQryc4z_yM3EmEqU\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:50.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 6: My Family",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 6: My Family\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rX8V9_P84Kk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rX8V9_P84Kk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rX8V9_P84Kk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rX8V9_P84Kk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rX8V9_P84Kk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rX8V9_P84Kk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6u1dNIMeC595UNcxk6QVjzkK2Gc\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:54.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 7: These are my relatives",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 7: These are my relatives\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Zn3iwpAj3Sk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Zn3iwpAj3Sk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Zn3iwpAj3Sk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Zn3iwpAj3Sk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Zn3iwpAj3Sk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Zn3iwpAj3Sk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VWts5R8yEVRdjyweF-RCNFGPnIM\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:48:57.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 8: What do you do?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 8: What do you do?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fk4sDmRFpl4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fk4sDmRFpl4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fk4sDmRFpl4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fk4sDmRFpl4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Fk4sDmRFpl4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fk4sDmRFpl4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RMQrModWkTjdSYs7KCcy2wYflQs\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:00.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 9: Where do you work?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 9: Where do you work?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bx9VeMgC5t4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bx9VeMgC5t4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bx9VeMgC5t4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bx9VeMgC5t4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bx9VeMgC5t4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bx9VeMgC5t4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ykcaWI4A6-73xzBPHK88cvgI5gM\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:04.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 10: What time is it?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 10: What time is it?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FCj8gq_Bhf8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FCj8gq_Bhf8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FCj8gq_Bhf8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FCj8gq_Bhf8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FCj8gq_Bhf8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FCj8gq_Bhf8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/M1iq1D9cHIy0mJls_i8dDOGXe04\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:24.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 11: What day is it?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 11: What day is it?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fMOhV2rIcCE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fMOhV2rIcCE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fMOhV2rIcCE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fMOhV2rIcCE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fMOhV2rIcCE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fMOhV2rIcCE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZZMcOoLZbGXmOIaFrsfb4OaShAk\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:26.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 12: How is the weather?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 12: How is the weather?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xu_mwZpexWk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xu_mwZpexWk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xu_mwZpexWk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Xu_mwZpexWk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Xu_mwZpexWk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Xu_mwZpexWk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wVYreKWK1vfgDnUcAsS5OB_WosU\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:30.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 13: What are you wearing?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 13: What are you wearing?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wLjzt1oPG-w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wLjzt1oPG-w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wLjzt1oPG-w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wLjzt1oPG-w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wLjzt1oPG-w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wLjzt1oPG-w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z7TGcSmbipxQwx7o2ANYwLbWE4E\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:32.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 14: The Body",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 14: The Body\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_hSkg1nJrjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_hSkg1nJrjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_hSkg1nJrjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_hSkg1nJrjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_hSkg1nJrjQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_hSkg1nJrjQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bp5F8PbJZOOAPeOATDFIytliwqg\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:49:36.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 15: What's the matter?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 15: What's the matter?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YKBAp-WlII8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YKBAp-WlII8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YKBAp-WlII8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YKBAp-WlII8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YKBAp-WlII8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YKBAp-WlII8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DLE96LioeT1BFxzHGL_KhVFcOL4\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:50:41.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 16: Home sweet home",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 16: Home sweet home\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hc4GjFt1Stg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hc4GjFt1Stg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hc4GjFt1Stg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hc4GjFt1Stg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hc4GjFt1Stg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hc4GjFt1Stg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/u3ekIwuHuGwIlKyImqsxdgLm_4s\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:50:44.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 17: Tell me about your furniture",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 17: Tell me about your furniture\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NxZ3yBZOYvM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NxZ3yBZOYvM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NxZ3yBZOYvM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NxZ3yBZOYvM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NxZ3yBZOYvM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NxZ3yBZOYvM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qYWaog0Rl2pBTKAqEC-MiRc9zhs\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:50:47.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 18: I'm Hungry",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 18: I'm Hungry\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MZp2CIf8xKg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MZp2CIf8xKg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MZp2CIf8xKg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MZp2CIf8xKg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MZp2CIf8xKg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MZp2CIf8xKg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rqCy3eaNCLWG3188iwGHV_DOIvk\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:50:50.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 19: What sports can you play?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 19: What sports can you play?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IRn2mXSEYAc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IRn2mXSEYAc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IRn2mXSEYAc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IRn2mXSEYAc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IRn2mXSEYAc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IRn2mXSEYAc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vwNXIzAx7pKSmhDNNvkOhloP5v8\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:50:53.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 20: What did you do yesterday?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 20: What did you do yesterday?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BLIqC19IVSg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BLIqC19IVSg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BLIqC19IVSg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BLIqC19IVSg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BLIqC19IVSg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BLIqC19IVSg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NkDZc8bHP5sGsx-eEYfvFvsR9y8\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:51:12.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 21: What are you going to do?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 21: What are you going to do?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rh0JQU1_IWc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rh0JQU1_IWc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rh0JQU1_IWc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rh0JQU1_IWc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rh0JQU1_IWc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rh0JQU1_IWc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VQJWSB5A1OQZxrQk_9eAuxwVJ7k\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:51:17.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 22: Would you like to go?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 22: Would you like to go?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/T26V9gueHZw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/T26V9gueHZw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/T26V9gueHZw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/T26V9gueHZw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/T26V9gueHZw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "T26V9gueHZw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0SIMf8MPyHhE46NbOyr-z_mqPOU\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:51:20.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 23: My Vacation",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 23: My Vacation\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kSS1Ewlb5Os/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kSS1Ewlb5Os/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kSS1Ewlb5Os/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kSS1Ewlb5Os/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kSS1Ewlb5Os/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kSS1Ewlb5Os"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fRTGa2SZfJ1hOZCOPtJFae72Ovc\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:51:24.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 24: How do you travel?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 24: How do you travel?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wtjz7P2VJ34/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wtjz7P2VJ34/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wtjz7P2VJ34/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wtjz7P2VJ34/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wtjz7P2VJ34/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wtjz7P2VJ34"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UeNte4dwEBMVFXTF71SFFGzZ8sU\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:51:27.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 25: How do you get there?",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 25: How do you get there?\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rVozjiicvS0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rVozjiicvS0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rVozjiicvS0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rVozjiicvS0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rVozjiicvS0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rVozjiicvS0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QyEh9tE5597ie2LOuamSwOr_r54\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:52:02.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 26: Ask Me A Question",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 26: Ask Me A Question\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x86G_XVs4oc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x86G_XVs4oc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x86G_XVs4oc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x86G_XVs4oc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x86G_XVs4oc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x86G_XVs4oc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fOA8b3oCc48HAe88WNKk4Tvnic4\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:52:07.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 27: I don't know",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 27: I don't know\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CdFmr3Nn8Ak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CdFmr3Nn8Ak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CdFmr3Nn8Ak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CdFmr3Nn8Ak/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CdFmr3Nn8Ak/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CdFmr3Nn8Ak"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gUXjLxpPd63iy_TWKAtWxiNrILI\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:52:10.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 28: Review (Lesson 1 to 9)",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 28: Review (Lesson 1 to 9)\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5xkU-hoqR7k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5xkU-hoqR7k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5xkU-hoqR7k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5xkU-hoqR7k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5xkU-hoqR7k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5xkU-hoqR7k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZXW6Wi8zLCyrq3n5Jpxm3ux0_ME\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:52:13.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 29: Review (Lesson 10 to 18)",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 29: Review (Lesson 10 to 18)\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BppFoENt9ew/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BppFoENt9ew/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BppFoENt9ew/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BppFoENt9ew/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BppFoENt9ew/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BppFoENt9ew"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yhjmD8hACjJD543YwubLy3mpxqY\"",
+   "id": "UExTcTgta3d2ejRmOC1NZ3Rzc3lKRmliLWwzb1JoQWk3di44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-10-23T02:52:16.000Z",
+    "channelId": "UC-hwaztzYPzI-Oi9G5UQWTA",
+    "title": "Beginner Levels - Lesson 30: Review (Lesson 19 to 27)",
+    "description": "English For You - Learning English is much easier now!\n\nBeginner Levels - Lesson 30: Review (Lesson 19 to 27)\n\n \n\nBeginner Level: https://goo.gl/geABxo\nElementary Level: https://goo.gl/4zk6Uy\nIntermediate Level: https://goo.gl/6dO0KT\nBeginner Level - Practical Drama Exercise Videos: https://goo.gl/bqOdyp\nElementary Level - Practical Drama Exercise Videos: https://goo.gl/3KEbVk\nEnglish For You Story Collection: https://goo.gl/9dmld2\nSubscribe us on YouTube: https://goo.gl/jkjFZ7\n\nSubscribe us on Facebook: https://goo.gl/fNVtsd\nFollow us on Twitter: https://goo.gl/i8InhD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bimoWNYbm74/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bimoWNYbm74/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bimoWNYbm74/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bimoWNYbm74/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bimoWNYbm74/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ENGLISH FOR BEGINNER LEVELS",
+    "playlistId": "PLSq8-kwvz4f8-MgtssyJFib-l3oRhAi7v",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bimoWNYbm74"
+    }
+   }
+  }
+ ]
+}
