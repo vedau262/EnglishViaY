@@ -1,0 +1,1896 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lhnFfzioc2-tBNHG4M88FndpEQs\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 156,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/edB5loH4Ow35Txl6nWN9ItNbOVo\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjJncklSTTRWQU5R",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:29:11.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Working to Protect West African Languages and Culture",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2grIRM4VANQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2grIRM4VANQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WpvvP6GXmeSzrTwugT9rqtGbUNc\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmZzajFnOGF0WDFB",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:29:04.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Pakistan Names a School for a Student who Stopped a Suicide Bomber",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fsj1g8atX1A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fsj1g8atX1A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZiIwEJdNkASslAFBSWMLJsqCwxA\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnpJZmlVZGNHdzNr",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:29:01.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Librarians Name Most Notable Books of 2014",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zIfiUdcGw3k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zIfiUdcGw3k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4xjGWUwEqd8b8Ws2Dt2iXGQJpXY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl92ZW83Mk1FRW5z",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:28:53.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "UNICEF Appeals for Help for Syrian Schoolchildren",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_veo72MEEns/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_veo72MEEns/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_veo72MEEns/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_veo72MEEns"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HoX_icba0vb0DYIJDDY93zCYxH4\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlVaRlkxZ1J5LWZv",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:28:43.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "UNESCO Says Poor Education Costs Billions of Dollars",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UZFY1gRy-fo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UZFY1gRy-fo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vlA6cJwAIYdMF2huvRQVfKy2gYY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnp2YU5YN1JMZmE4",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:26:38.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Turn Negative Writing Experiences Into Positive Ones",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zvaNX7RLfa8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zvaNX7RLfa8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mIL-UHP7Qho7k-Po4Z-OM1kpzUY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjQ0VmpDTVBwbENV",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:26:30.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Thousands of Chinese Students Choose American High Schools",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/44VjCMPplCU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/44VjCMPplCU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/44VjCMPplCU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/44VjCMPplCU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "44VjCMPplCU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/59cj8s6suc6pAD_BI0qkzR6ayT4\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnR1U3lMeEc1UE40",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:26:05.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Teaching Children the Power of Music",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tuSyLxG5PN4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tuSyLxG5PN4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/eAI7K8cauoumEjqOJuHsLNZkuWc\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmFXY0M5cUVTVWI4",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:25:58.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Teachers, Students Recall China's Cultural Revolution",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aWcC9qESUb8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aWcC9qESUb8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n00mskvYj7Q6AYmaOEMO0irphOE\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl8xWmpocDd0Slo0",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:25:54.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Syrian University Students Seek Education Overseas",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_1Zjhp7tJZ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_1Zjhp7tJZ4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5bIEKeWMwUyDDfFFVSU8qIdkNco\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkhnb0hOMkFTY25j",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:22:52.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Students Launch Weather Balloons to Study Ozone",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HgoHN2AScnc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HgoHN2AScnc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LVQtnDYE-byAQpqzIEzwpT9oUgg\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkVmenVEWS0tM0tF",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:19:02.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "South Africa Welcomes Chinese Language and Influence in",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EfzuDY--3KE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EfzuDY--3KE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MklQyqRFcSzK7ezVMlezdlfGCmM\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnhYcWExZ21IY0tn",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:18:52.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Smithsonian Exhibit Explores the World of the Senses",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xXqa1gmHcKg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xXqa1gmHcKg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lCGmDNE-Ai6eUUlbdpV2_qGv344\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlN2SGlidTMxZ3VR",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:18:45.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "School Offers Kenyan Girls Free Education",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SvHibu31guQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SvHibu31guQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SvHibu31guQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SvHibu31guQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qHblusV8d6OuXI-Q_0IE-eWmVSY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlh6QzY4YVJIVnNn",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:18:38.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "School Attendance by Australian Aborigines Linked to Aid to Parents",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XzC68aRHVsg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XzC68aRHVsg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9JVGp3klIVKZ71-vYKlcTlweEoI\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnlRajZuTWQyLUR3",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:18:25.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Rights Groups Demand End to Schoolchildren's Begging",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yQj6nMd2-Dw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yQj6nMd2-Dw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Vo455v4ygn7SgIAaqtFU8YC_zMU\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkZWaVZYbVVnelBF",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:10:03.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Rice Production Grows, but Not Everywhere",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FViVXmUgzPE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FViVXmUgzPE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AjgNost1rDsIyvjGhhFlXooHRhA\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnNKU3c2cmdqM0xV",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:07:30.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Reports of Rape, Abuse Surface at a School in Jakarta",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sJSw6rgj3LU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sJSw6rgj3LU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/dPCaMPn2ytJpnOuFt5V0Ub9Yqx8\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkxJSjRLVkF4Q3Zj",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:08:07.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Racial Segregation in US Public Schools Struck Down 60 Years Ago",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LIJ4KVAxCvc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LIJ4KVAxCvc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LwRxGrj8_D5yePDqQ1MfALGcC6E\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjVDRDgzT01TSEww",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:08:51.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Punishment Policies Are Changing in US High Schools",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5CD83OMSHL0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5CD83OMSHL0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EAnCcPwc_IkVw6GnU9xZU1S6EmM\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm1yMlFrMlM4WXpr",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:10:45.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Program Seeks to Lower Teen Pregnancy Rate in New York",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mr2Qk2S8Yzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mr2Qk2S8Yzk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yfcSIxVDj2cj9LSR4gsDiTwr_DY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLk5Rekk1aFBhaV9n",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:03:46.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Overseas Students Add to Their Education at US Community",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NQzI5hPai_g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NQzI5hPai_g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/249iZZPODhpeegDiykLG-a_ABS8\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLl95TjVuTTBhTHEw",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:03:47.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Obama Visits Tech High School in Texas",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_yN5nM0aLq0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_yN5nM0aLq0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ag3RCf_UwEmgcDLSIrS6hEw7HpQ\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm1tZTJlR1l4UGVv",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:03:32.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Nigeria's Kano State Starts a Major Literacy Campaign",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mme2eGYxPeo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mme2eGYxPeo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AxvOQOmnPZ_1c1ntFmDh4TT4ptk\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjdNTWhLZHZxSllF",
+   "snippet": {
+    "publishedAt": "2016-02-23T10:03:25.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Nigerian University Students Return to Classes After",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7MMhKdvqJYE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7MMhKdvqJYE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2wSENT3VLx-IAUadb3ohJCCYFug\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlJuYW93QjhTWW1B",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:51:53.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "New Graduates Seek Jobs in Slowing Chinese Economy",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RnaowB8SYmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RnaowB8SYmA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-Gbz90irkFr43ECzBSSeuPw6cZo\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnZDdVZzdjQ1aXNj",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:51:54.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "More Options for Learning Online",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vCuVsv45isc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vCuVsv45isc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vCuVsv45isc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vCuVsv45isc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jw9CKMYCUnwcMzs4LPVF8OJ4v58\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmltNEFkNnZPREFF",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:51:24.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Malala Yousafzai Speaks at United Nations",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/im4Ad6vODAE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "im4Ad6vODAE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/j2wvtSe1bvyc_P7JKTa5SQkwKfo\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjh0VENfZU1ZUXNJ",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:47:44.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Majority of World's Illiterate Women Live in West Africa",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8tTC_eMYQsI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8tTC_eMYQsI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kPvxDxhmj4HfeYzG-eZCVtxRWZ8\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnNjNmFOUkQyOEhz",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:45:32.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Learning Outdoors at a Natural History Museum",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sc6aNRD28Hs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sc6aNRD28Hs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DRzaZh_FTXQQJrOl1HweHj_HNOE\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlk5YVN3cHlRVFRr",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:45:24.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Law School in Two Years",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y9aSwpyQTTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y9aSwpyQTTk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mFewMB2ngNtYuTD_cnor1-an8Xs\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjYzbWp2SHRveDJv",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:45:13.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "How Immigration Reform Could Affect English Learners",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/63mjvHtox2o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/63mjvHtox2o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/63mjvHtox2o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "63mjvHtox2o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gWN15D6OfsN9kyWPtVNQNheRZng\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlBxWWZCQjkxZFo4",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:45:07.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Group Brings Songwriting Workshops Into Schools",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PqYfBB91dZ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PqYfBB91dZ8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/T2I-Rm4zQal_8b5VJgeL4FZexpw\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlJJallYQXVvOWY0",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:04:27.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Entrance Exams Cause Problems at University of Liberia",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RIjYXAuo9f4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RIjYXAuo9f4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hQpOrXACQm5jvpDTaGdITIYgTGM\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjR2dGtsRDAyT09v",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:35:44.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Educational Gains Mixed for Girls and Boys in Puntland and Somaliland",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4vtklD02OOo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4vtklD02OOo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4vtklD02OOo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4vtklD02OOo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vcT3c47aZNp3lmPoiH5ifoZ-JcY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmltTktWSFFtSVNz",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:35:35.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Education Project in Rwanda Combines Online Classes, Local Help",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/imNKVHQmISs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/imNKVHQmISs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/imNKVHQmISs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "imNKVHQmISs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rUS64MlqNguo6w20guk04hRkCI8\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkloUGRaWUNTLWd3",
+   "snippet": {
+    "publishedAt": "2016-02-23T09:01:22.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Disagreement Over Value of Shelters for Street Children in Ethiopia",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IhPdZYCS-gw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IhPdZYCS-gw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-tbgYj4TtqoqzVtgTQpszrD96Wk\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJGQ19NdXRTeUpv",
+   "snippet": {
+    "publishedAt": "2016-02-23T08:52:55.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Congress Debates Interest Rates on Student Loans",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rFC_MutSyJo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rFC_MutSyJo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VBsW30D_K0CzxL-smmImDASNQZ0\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlhrSENuN3c4Nmpn",
+   "snippet": {
+    "publishedAt": "2016-02-23T08:52:51.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Check Out the World Digital Library",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XkHCn7w86jg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XkHCn7w86jg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/KNkQlV9qnF9zFtYoXZSJKt-6djc\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLmdyRWhxeW5CRTk0",
+   "snippet": {
+    "publishedAt": "2016-02-23T08:52:54.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "American Educators Have Big Dreams for Schools in Africa",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/grEhqynBE94/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/grEhqynBE94/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/grEhqynBE94/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "grEhqynBE94"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/42WXuQT4qQhJHjpvNbURNN6CXQM\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnZLekZLblVWT1hN",
+   "snippet": {
+    "publishedAt": "2016-02-23T08:47:46.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "Affirmative Action Ruling Brings Mixed Reaction",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vKzFKnUVOXM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vKzFKnUVOXM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/o-oHxjgAcpLkTE1EipYqb3794MY\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnVaUkdKN1ZzUXZZ",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:46:17.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Surveillance",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uZRGJ7VsQvY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uZRGJ7VsQvY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DUN_5BQzfvPHMF5Fz7WfU-y8JL0\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkdfdDBHSTBuVFhr",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:46:09.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Stock Market",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/G_t0GI0nTXk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G_t0GI0nTXk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hXZUTzKOFKqoyrAqvbRtYux_u_g\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJxYTBVQk0wMERF",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:45:40.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Senate",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rqa0UBM00DE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rqa0UBM00DE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MFX5OlXaPagWA8ZNmy7mQdF5ZgU\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLlpoZlhCLWpDUlBV",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:44:45.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Presidential",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZhfXB-jCRPU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZhfXB-jCRPU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9OyUfVaG3Qg6hSXhBBH78PdUahE\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLkJJTWRJRDg0bFZV",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:44:49.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Investment",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BIMdID84lVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BIMdID84lVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BIMdID84lVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BIMdID84lVU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BIMdID84lVU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BIMdID84lVU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AVXLn3R_UDN76C6n8lE1P7RMgUo\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjZPdHZ6ekw0VlhV",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:44:17.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - House of Representatives",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6OtvzzL4VXU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6OtvzzL4VXU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Rh00uEzbro81rGyb9yDOV32K8fE\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLm5VaV9oOGtFbkhF",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:44:04.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Espionage",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nUi_h8kEnHE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nUi_h8kEnHE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-q5vMvjR1oOJrXG_D6qBvx05API\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLjZxMEtzMnlvWWpR",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:43:42.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words  Encouraging",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6q0Ks2yoYjQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6q0Ks2yoYjQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7n4N21xoWRBBjbJhSyg2Ps4ihBw\"",
+   "id": "VVViOFctSHpES2xHcGlZUUl5cHBXYU5nLnJiS3pVbExqM0N3",
+   "snippet": {
+    "publishedAt": "2016-02-22T13:42:58.000Z",
+    "channelId": "UCb8W-HzDKlGpiYQIyppWaNg",
+    "title": "News Words - Dialogue",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rbKzUlLj3Cw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "1 minute for English",
+    "playlistId": "UUb8W-HzDKlGpiYQIyppWaNg",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rbKzUlLj3Cw"
+    }
+   }
+  }
+ ]
+}
