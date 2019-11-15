@@ -1,50 +1,42 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "Basic Grammars",
-			"LIST_VIDEO_SIZE": "46",
-			"LIST_VIDEO_ICON": "https://dl.myket.ir/newresizing/resize/medium/png/icon/e4cdd2a3-73a7-4665-842b-735d5d807c54_.png",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ39ePPxzbbdzxp0xNGo2KtL"
+			"LIST_VIDEO_NAME": "100 English conversation with subtitle",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/100%20English%20conversation%20with%20subtitle",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 1",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ0_TYJNK00Wj-9_9UnLVveV"			
+			"LIST_VIDEO_NAME": "Learn and Practice English",
+			"LIST_VIDEO_SIZE": "16",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Learn%20and%20Practice%20English",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/a4z1ss6hhksuerl/Learn%20and%20Practice%20English.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 2",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ3LPTsgLgQhj9UB1ge6-_cM"			
+			"LIST_VIDEO_NAME": "Daily English conversation",
+			"LIST_VIDEO_SIZE": "22",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71RWbgct33qQZx3qLU4PI1S",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Daily%20English%20conversation",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/iosl5dhb0in776s/Daily%20English%20conversation.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 3",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2r4YfUsEfgOxQ3sm395rRI"			
+			"LIST_VIDEO_NAME": "Communication skil in the offfice",
+			"LIST_VIDEO_SIZE": "15",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Communication%20skil%20in%20the%20offfice",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ow7wxsjp22sk2ga/Communication%20skil%20in%20the%20offfice.txt?dl=1"			
 		},
 		{	
-			"LIST_VIDEO_NAME": "English Grammar Lessons - Part 4",
-			"LIST_VIDEO_SIZE": "41",
-			"LIST_VIDEO_ICON": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ef/7a/36/ef7a3677-2246-2c88-2415-edb43bcb4fc6/source/256x256bb.jpg",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2r4YfUsEfgOxQ3sm395rRI"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Daily English Vocabulary - Part 1",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ3sELOBp6G6hKvLD4XLSjsr"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Daily English Vocabulary - Part 2",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ2VbB9QvoNtBnafTcG6ljXN"
-		},
-		{	
-			"LIST_VIDEO_NAME": "Daily English Vocabulary Part - 3",
-			"LIST_VIDEO_SIZE": "40",
-			"LIST_VIDEO_ICON": "https://static-s.aa-cdn.net/img/ios/1056025157/157ea8176447923dc4b8cbfd5984bdda?v=1",
-			"LIST_VIDEO_ID": "PLpzK3-N3jAJ1msJ32gcgmIbtB-ufrUlqB"
-		}		
+			"LIST_VIDEO_NAME": "Traveling abroad",
+			"LIST_VIDEO_SIZE": "13",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/3EVCFFokciY/default.jpg",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Traveling%20abroad",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4m26mjspu87n3ky/Traveling%20abroad.txt?dl=1"			
+		}
 	]
