@@ -1,0 +1,910 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OGUT60DRhSfRjqyfuJefOLlsh64\"",
+ "pageInfo": {
+  "totalResults": 20,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mn01kz3XSYsMRaWkdG2YmaWz5z0\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2016-10-26T01:34:24.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 1 ➤ 5",
+    "description": "English conversation between two people ♡ Lesson 1 ➤ 5\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7ndXTIGTMo4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7ndXTIGTMo4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7ndXTIGTMo4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7ndXTIGTMo4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7ndXTIGTMo4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7ndXTIGTMo4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CGxysrO6HoMWV6jWY7ONIzsyZ1A\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2016-10-26T06:00:26.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 6 ➤ 10",
+    "description": "English conversation between two people ♡ Lesson 6 ➤ 10\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Iqr2BPqxswk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Iqr2BPqxswk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Iqr2BPqxswk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Iqr2BPqxswk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Iqr2BPqxswk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Iqr2BPqxswk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VQ9eO6iGZdor7lqfh1oUDxbnCL0\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2016-09-28T08:40:00.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 16 ➤ 20",
+    "description": "English conversation between two people ♡ Lesson 16 ➤ 20\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35 – AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MHNG8Zbq2Iw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MHNG8Zbq2Iw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MHNG8Zbq2Iw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MHNG8Zbq2Iw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MHNG8Zbq2Iw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MHNG8Zbq2Iw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2R7Qw68VWDFJJhi9wxsopWyOiAg\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2016-10-27T07:40:54.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 11 ➤ 15",
+    "description": "English conversation between two people ♡ Lesson 11 ➤ 15\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DjOafrnF3F8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DjOafrnF3F8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DjOafrnF3F8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DjOafrnF3F8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DjOafrnF3F8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DjOafrnF3F8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bJ3EhDZJHSHvu5J87npqy0Ap2Qk\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2016-09-29T04:58:46.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 21 ➤ 25",
+    "description": "English conversation between two people ♡ Lesson 21 ➤ 25\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35 – AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XHoZqQEsZeM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XHoZqQEsZeM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XHoZqQEsZeM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XHoZqQEsZeM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XHoZqQEsZeM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XHoZqQEsZeM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZjtsmZyPonz1sxyBRCOrJS0oIvI\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2016-09-30T04:33:27.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 26 ➤ 30",
+    "description": "English conversation between two people ♡ Lesson 26 ➤ 30\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35 – AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r10uC4vOJfs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r10uC4vOJfs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r10uC4vOJfs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r10uC4vOJfs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r10uC4vOJfs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r10uC4vOJfs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lfrjICRgTqMJSq3conM15SFygLE\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2016-10-04T05:07:14.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 31 ➤ 35",
+    "description": "English conversation between two people ♡ Lesson 31 ➤ 35\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35 – AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4KDjIUUwsUI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4KDjIUUwsUI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4KDjIUUwsUI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4KDjIUUwsUI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4KDjIUUwsUI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4KDjIUUwsUI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_VZuRbVr_77urKYkegsWvTjjyp4\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2016-10-06T08:46:49.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 36 ➤ 40",
+    "description": "English conversation between two people ♡ Lesson 36 ➤ 40\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35 – AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hKao7BPt5Zw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hKao7BPt5Zw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hKao7BPt5Zw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hKao7BPt5Zw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hKao7BPt5Zw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hKao7BPt5Zw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QTNOfF2_cZEJymBegfh55G39wE4\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2016-10-08T14:34:03.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 41 ➤ 45",
+    "description": "English conversation between two people ♡ Lesson 41 ➤ 45\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/etBS-w_pXXQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/etBS-w_pXXQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/etBS-w_pXXQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/etBS-w_pXXQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/etBS-w_pXXQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "etBS-w_pXXQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PY2C37kctY1SLKJoju0eGOU__os\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2016-10-11T05:42:02.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 46 ➤ 50",
+    "description": "English conversation between two people ♡ Lesson 46 ➤ 50\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RMrXsLnKQQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RMrXsLnKQQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RMrXsLnKQQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RMrXsLnKQQM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RMrXsLnKQQM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RMrXsLnKQQM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7XTIy2bPTZ4kU5BGvqjgyOQBy2M\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2016-10-12T05:33:30.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 51 ➤ 55",
+    "description": "English conversation between two people ♡ Lesson 51 ➤ 55\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/znp5CNvBa2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/znp5CNvBa2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/znp5CNvBa2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/znp5CNvBa2c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/znp5CNvBa2c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "znp5CNvBa2c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fxddVW_pvVFCuBuwypf6lCXvCfY\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2016-10-14T06:19:51.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡  Lesson 56 ➤ 60",
+    "description": "English conversation between two people ♡  Lesson 56 ➤ 60\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EuF_OtGY4Ug/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EuF_OtGY4Ug/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EuF_OtGY4Ug/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EuF_OtGY4Ug/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EuF_OtGY4Ug/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EuF_OtGY4Ug"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aiG86QEC6qYf8Gzcv6NAJql37Uo\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2016-10-14T12:46:25.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 61 ➤ 65",
+    "description": "English conversation between two people ♡ Lesson 61 ➤ 65\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4Whgs13-4Gg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4Whgs13-4Gg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4Whgs13-4Gg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4Whgs13-4Gg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4Whgs13-4Gg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4Whgs13-4Gg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nUU6m9l4kd6aVrGRDaDJdSzVCsQ\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2016-10-18T10:03:52.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 66 ➤ 70",
+    "description": "English conversation between two people ♡ Lesson 66 ➤ 70\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/inidNklKRgs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/inidNklKRgs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/inidNklKRgs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/inidNklKRgs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/inidNklKRgs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "inidNklKRgs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/liFUoMMJtG_Rg6Gt01SQ6k3oZx4\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2016-10-19T11:29:07.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 71 ➤ 75",
+    "description": "English conversation between two people ♡ Lesson 71 ➤ 75\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-rLGPdLwyxY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-rLGPdLwyxY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-rLGPdLwyxY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-rLGPdLwyxY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-rLGPdLwyxY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-rLGPdLwyxY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/O6kiQ-KxYtdCG2ACnZcYSVVxkzo\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2016-10-19T23:37:08.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 16 ➤ 20",
+    "description": "English conversation between two people ♡ Lesson 16 ➤ 20\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EGpSxZWsjjo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EGpSxZWsjjo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EGpSxZWsjjo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EGpSxZWsjjo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EGpSxZWsjjo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EGpSxZWsjjo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9H0_QC_XpywxnWht3OQE7w7PIz8\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2016-10-23T00:00:56.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 81 ➤ 85",
+    "description": "English conversation between two people ♡ Lesson 81 ➤ 85\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZCPUlFrZ3F4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZCPUlFrZ3F4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZCPUlFrZ3F4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZCPUlFrZ3F4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZCPUlFrZ3F4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZCPUlFrZ3F4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OzNbq10OL63WbQD0s_4Vz_EG-Rc\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2016-10-24T11:56:48.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 86 ➤ 90",
+    "description": "English conversation between two people ♡ Lesson 86 ➤ 90\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8Hy75xVmeWY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8Hy75xVmeWY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8Hy75xVmeWY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8Hy75xVmeWY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8Hy75xVmeWY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8Hy75xVmeWY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8UmCKoFWPP04CFJ9rDNOM_wPFiw\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2016-10-24T16:24:29.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 91 ➤ 95",
+    "description": "English conversation between two people ♡ Lesson 91 ➤ 95\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FvQ_1lryaOY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FvQ_1lryaOY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FvQ_1lryaOY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FvQ_1lryaOY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FvQ_1lryaOY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FvQ_1lryaOY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/D9UrAu0h2VmBFjYuWEkS92Fq1HM\"",
+   "id": "UExqQ3c1aWFpUGtJTnFnaWpUT1dNNE5FUHZWRHdEdW1ENy5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2016-10-25T04:23:46.000Z",
+    "channelId": "UCPqrEgBEHVj4vDITrClNQIw",
+    "title": "English conversation between two people ♡ Lesson 96 ➤ 100",
+    "description": "English conversation between two people ♡ Lesson 96 ➤ 100\n───────────────────\n▶ English conversation between two people ♡ 100 Lessons: bit.ly/100englishconversation\n▶ If you want more, tell me by comment below this video♥\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken\n───────────────────\nLesson 1: WHERE ARE YOU FROM?\nLesson 2: DO YOU SPEAK ENGLISH?\nLesson 3: WHAT’S YOUR NAME?\nLesson 4: ASKING DIRECTIONS\nLesson 5: I’M HUNGRY\nLesson 6: DO YOU WANT SOMETHING TO DRINK?\nLesson 7: THAT’S TOO LATE!\nLesson 8: CHOOSING A TIME TO MEET\nLesson 9: WHEN DO YOU WANT TO GO?\nLesson 10: ORDERING FOOD\nLesson 11: NOW OR LATER?\nLesson 12: DO YOU HAVE ENOUGH MONEY?\nLesson 13: HOW HAVE YOU BEEN?\nLesson 14: INTRODUCING A FRIEND\nLesson 15: BUYING A SHIRT\nLesson 16: ASKING ABOUT LOCATION\nLesson 17: DO YOU KNOW THE ADDRESS?\nLesson 18: VACATION TO CANADA\nLesson 19: WHO IS THAT WOMAN? \nLesson 20: COMMON QUESTIONS\nLesson 21: THE SUPERMARKET IS CLOSED\nLesson 22: DO YOU HAVE ANY CHILDREN?\nLesson 23: HELP WITH PRONUNCIATION \nLesson 24: I LOST MY WALLET\nLesson 25: PHONE CALL AT WORK\nLesson 26: FAMILY TRIP\nLesson 27: I WENT SHOPPING\nLesson 28: WHAT KIND OF MUSIC DO YOU LIKE?\nLesson 29: GOING TO THE LIBRARY\nLesson 30: WHERE DO YOUR PARENTS LIVE?\nLesson 31: CAN YOU HELP ME FIND A FEW THINGS?\nLesson 32: PAYING FOR DINNER\nLesson 33: BUYING A PLANE TICKET\nLesson 34: PUTTING THINGS IN ORDER\nLesson 35: AT THE RESTAURANT\nLesson 36: I NEED TO DO LAUNDRY\nLesson 37: FINDING A CONVENIENCE STORE\nLesson 38: GEOGRAPHY AND DIRECTION\nLesson 39: I ATE AT THE HOTEL\nLesson 40: GOING TO THE MOVIES\nLesson 41: THE FOOD TASTES GREAT\nLesson 42: HELPING A FRIEND MOVE\nLesson 43: VISITING FAMILY\nLesson 44: LOOKING AT VACATION PICTURES \nLesson 45: ORDERING FLOWERS\nLesson 46: LEAVING A MESSAGE\nLesson 47: TALKING ABOUT THE WEATHER\nLesson 48: MAKING PLANS\nLesson 49: MEETING A FRIEND\nLesson 50: I’M A STUDENT\nLesson 51: STUDYING FOR EXAMS \nLesson 52: DID YOU GET MY MESSAGE?\nLesson 53: MAKING A DOCTOR’S APPOINTMENT\nLesson 54: MAIL\nLesson 55: I HAVE A COLD\nLesson 56: DINNER INVITATION\nLesson 57: SEND ME THE DIRECTION\nLesson 58: BAD CELLPHONE RECEPTION\nLesson 59: GOING TO THE GYM\nLesson 60: CAR ACCIDENT\nLesson 61: DOCTOR’S VISIT\nLesson 62: MAKING A HOTEL RESERVATION\nLesson 63: I CHANGED MY MIND\nLesson 64: DO YOU WANT TO PLAY A GAME?\nLesson 65: BIRTHDAY PRESENT\nLesson 66: CHECKING INTO a HOTEL Good evening.\nLesson 67: SENDING A PACKAGE\nLesson 68: I HAVE ALLERGIES\nLesson 69: JOSH WORKS AT A SOFTWARE COMPANY\nLesson 70: LISTENING TO MUSIC\nLesson 71: TAKING A TAXI\nLesson 72: WE’RE NOT LOST\nLesson 73: HELP ME FIND MY PURSE\nLesson 74: TAKING PICTURES\nLesson 75: I DROPPED YOUR CALCULATOR\nLesson 76: I BROUGHT YOU AN APPLE\nLesson 77: MY MOTHER-IN-LAW IS COMING TOMORROW\nLesson 78: JIM CANCELLED THE MEETING\nLesson 79: BILL GOT FIRED\nLesson 80: NERVOUS ABOUT SURGERY\nLesson 81: A ROMANTIC STORY\nLesson 82: WORRIED ABOUT DAD\nLesson 83: I’M GETTING FAT\nLesson 84: I’LL TAKE YOU TO WORK\nLesson 85: SNOWING OUTSIDE\nLesson 86: MISSED CALL\nLesson 87: SHOPPING FOR A FRIEND\nLesson 88: WHAT IS YOUR MAJOR?\nLesson 89: NEW APARTMENT\nLesson 90: HAVE YOU FOUND A GIRLFRIEND YET?\nLesson 91: COMPUTER PROBLEMS\nLesson 92: DO YOU KNOW HOW TO GET DOWNTOWN?\nLesson 93: DID YOU SEE THE NEWS TODAY?\nLesson 94: WHAT’S YOUR FAVORITE SPORT?\nLesson 95: MAKING A WEBPAGE\nLesson 96: WOULD YOU MIND DRIVING?\nLesson 97: YOUR ENGLISH IS SO GOOD\nLesson 98: GIFTS\nLesson 99: ELECTION\nLesson 100: BOOK CLUB\n───────────────────\n#englishconversation #englishlistening #englishlisteningpractice\n───────────────────\n▶ Please subscribe to update new videos.\nSubscribe To Update New Lesson: bit.ly/learnenglishfuken",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-exodlRd-B0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-exodlRd-B0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-exodlRd-B0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-exodlRd-B0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-exodlRd-B0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Learn English - FukEn",
+    "playlistId": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-exodlRd-B0"
+    }
+   }
+  }
+ ]
+}
