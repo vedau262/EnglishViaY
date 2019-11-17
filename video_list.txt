@@ -42,7 +42,7 @@
 		{	
 			"LIST_VIDEO_NAME": "VOA - News Words",
 			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "http://www.time-to-read.co.uk/pictures/GNWR/Newwords/~jD7lHjDDDD7lHj2B/New_Words.jpg",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/ZtIuaNtmN7Q/hqdefault.jpg",
 			"LIST_VIDEO_ID": "PLd9hCvj34W5gf8KTJU_vLuc9dLTTWFahC",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20News%20Words",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/318i74kp99mw4h0/VOA%20-%20News%20Words.txt?dl=1"			
