@@ -126,5 +126,13 @@
 			"LIST_VIDEO_ID": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Traveling%20abroad",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4m26mjspu87n3ky/Traveling%20abroad.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Conversation with Easy English",
+			"LIST_VIDEO_SIZE": "32",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/SesCepncmJ8/maxresdefault.jpg",
+			"LIST_VIDEO_ID": "PLhPfBpTj6VpT1lPC_dGwj1Zip_4dQQP_c",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ConversationEasyEnglish.json",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/xf6r9jce9bhbyah/ConversationEasyEnglish.json?dl=1"			
 		}
 	]
