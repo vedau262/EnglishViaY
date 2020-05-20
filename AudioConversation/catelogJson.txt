@@ -1,7 +1,7 @@
 [
     {
         "catalogtitle": "200 English Conversations",
-        "catalogthumb": "https://lh3.googleusercontent.com/VgQYXZfTlnXPdbnpwhxWm9osPfdOfJiI-7mB_OFgljDGzl4FvGB5bRfSX5EZZdfk2A=w412-h220-rw",
+        "catalogthumb": "https://lh5.googleusercontent.com/proxy/4KVoYLmt55_NwQjZdi9CCOZ-95ZTzcwb77X6zs7-7ScFW451sBM2oZ4A7dSeHJlCOoDV3fhZsQ6rmOlUTa-_oEvOWb372gx9pOMFeFLUPOb_IxhP3lOxqfx6Vbys-KJoxAt_hK9lRhcOhfgdPtXT",
         "catalogdes": "200 English Conversations",
         "catalognumberbook": 200,
         "enablethumbnail": 1,
@@ -11,7 +11,7 @@
     },
     {
         "catalogtitle": "Listening Beginner A1",
-        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8042_GettyImages-1063745264-hig.jpg?itok=hmgJtHOY",
+        "catalogthumb": "https://cdn01.alison-static.net/courses/453/alison_courseware_intro_453.jpg",
         "catalogdes": "Are you a beginner (CEFR level A1) learner of English? This section offers listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
@@ -21,7 +21,7 @@
     },
     {
         "catalogtitle": "Listening Preintermediate A2",
-        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8043_GettyImages-944241720-hig.jpg?itok=qowXRdv2",
+        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
         "catalogdes": "Are you a pre-intermediate (CEFR level A2) learner of English? This section offers listening practice to help you understand common vocabulary and expressions in short, clear dialogues. Situations include simple explanations, introductions, messages and announcements.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
@@ -41,7 +41,7 @@
     },
     {
         "catalogtitle": "Upper intermediate B2",
-        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8049_GettyImages-970432876-hig.jpg?itok=BQ-swIhA",
+        "catalogthumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXX7py1Fu8G52n1lR7YA48_vKOKh1BYPhxuIGKOkyhyzBUjIP&s",
         "catalogdes": "Are you an upper intermediate (CEFR level B2) learner of English? This section offers listening practice to help you understand extended, standard speech about familiar topics that may contain complex ideas. Situations include broadcasts, reviews, presentations and lectures.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
@@ -71,7 +71,7 @@
     },
     {
         "catalogtitle": "English Conversation Practice",
-        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
+        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/89a-300x220.jpg",
         "catalogdes": "English Conversation Practice",
         "catalognumberbook": 38,
         "enablethumbnail": 1,
@@ -81,7 +81,7 @@
     },
     {
         "catalogtitle": "English Interview",
-        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
+        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
         "catalogdes": "English Interview",
         "catalognumberbook": 73,
         "enablethumbnail": 1,
