@@ -1,7 +1,7 @@
 [
     {
         "catalogtitle": "200 English Conversations",
-        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8042_GettyImages-1063745264-hig.jpg?itok=hmgJtHOY",
+        "catalogthumb": "https://lh3.googleusercontent.com/VgQYXZfTlnXPdbnpwhxWm9osPfdOfJiI-7mB_OFgljDGzl4FvGB5bRfSX5EZZdfk2A=w412-h220-rw",
         "catalogdes": "200 English Conversations",
         "catalognumberbook": 200,
         "enablethumbnail": 1,
