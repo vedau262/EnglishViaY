@@ -6,7 +6,7 @@
         "catalognumberbook": 200,
         "enablethumbnail": 1,
         "enablecatalog": 1,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/200EnglishConversations.txt",
         "key": "200EnglishConversation"
     },
     {
