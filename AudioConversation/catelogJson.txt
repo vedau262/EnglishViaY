@@ -15,7 +15,7 @@
         "catalogdes": "Are you a beginner (CEFR level A1) learner of English? This section offers listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "NA",
         "key": "beginnerA1"
     },
@@ -25,17 +25,17 @@
         "catalogdes": "Are you a pre-intermediate (CEFR level A2) learner of English? This section offers listening practice to help you understand common vocabulary and expressions in short, clear dialogues. Situations include simple explanations, introductions, messages and announcements.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "NA",
         "key": "PreIntermediateA2"
     },
     {
         "catalogtitle": "Intermediate B1",
-        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8048_GettyImages-722208805-hig.jpg?itok=yZb3drsS",
+        "catalogthumb": "https://www.marj3.com/wp-content/uploads/2020/04/Konversationskurse.jpg",
         "catalogdes": "Are you an intermediate (CEFR level B1) learner of English? This section offers listening practice to help you understand the main points of clear, standard speech about everyday or job-related topics. Situations include phone calls, meetings and interviews.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "NA",
         "key": "IntermediateB1"
     },
@@ -45,7 +45,7 @@
         "catalogdes": "Are you an upper intermediate (CEFR level B2) learner of English? This section offers listening practice to help you understand extended, standard speech about familiar topics that may contain complex ideas. Situations include broadcasts, reviews, presentations and lectures.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "NA",
         "key": "UpperIntermediateB2"
     },
@@ -55,7 +55,7 @@
         "catalogdes": "Are you an advanced (CEFR level C1) learner of English? This section offers reading practice to help you understand long, complex texts about a wide variety of topics, some of which may be unfamiliar. Texts include specialised articles, biographies and summaries.\n\nEach lesson has a preparation task, a reading text and two tasks to check your understanding and to practise a variety of reading skills. Make a start today.",
         "catalognumberbook": 12,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "NA",
         "key": "AdvancedC1"
     },
