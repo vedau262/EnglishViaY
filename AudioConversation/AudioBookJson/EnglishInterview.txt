@@ -1,63 +1,45 @@
 [
     {
-        "title": "How would your strengths help you succeed at our company?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/71a.mp3",
-        "dialog": "Interviewer: How would your strengths help you succeed at our company?\nBill: Your company is one of the global leaders in chemical sales. You are a market leader in many different countries all over the world. I have a lot of experience working with people from many different countries and I speak 5 languages.\n\nInterviewer: What languages do you speak?\n\nBill: My native language is Russian, but I am also fluent in English and Japanese. I am also proficient in Mandarin and German.\n\nInterviewer: That is impressive. Besides languages, how would your experience benefit our company?\n\nBill: As I mentioned earlier, I have a lot of experience working with people from other countries. I know how to behave and how to do business in many countries. I can make strong and lasting relationships with customers all over the world.\n\nInterviewer: That is a great skill to have in this business.",
+        "title": "Are you a leader or a follower?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/46a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/39a.mp3",
+        "dialog": "Interviewer: Are you a leader or a follower?\nMark: I think I am more of a follower, but I can lead if I need to.\n\nInterviewer: Can you explain a little more, please?\n\nMark: Sure. Well, if I am working with people who have more experience or who are natural leaders, then I feel very comfortable following them. I still speak my mind and share my opinion, but I’ll let them take charge.\n\nInterviewer: I see.\n\nMark: But on the other hand, if there is a situation in which nobody is leading but a leader is required, then I will fill that role.\n\nInterviewer: Why do you think that is the best way?\n\nMark: I think that the most qualified person should be the leader. If I am the most qualified person, then I will be the leader, but I won’t force my way into being the leader if I am not the best person for the job.\n\nInterviewer: I think that is very reasonable.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "How has your strength helped you succeed in your career?",
+        "title": "Are you a risk-taker?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/107a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/38a.mp3",
+        "dialog": "Interviewer: Are you a risk-taker?\nTina: That is a tough question to answer because it depends a lot on the situation.\n\nInterviewer: What do you mean?\n\nTina: Each situation is unique and has different risks and rewards. I am not afraid to take risks, but I want to make sure that what I am doing is a smart decision. I also don’t want to take any unnecessary risks.\n\nInterviewer: Can you tell about a time that you took a risk?\n\nTina: I think that quitting my job last month was a risk. There is no guarantee that I will find a better job. However, after I thought about it for a long time, I decided that I was confident enough in my abilities to take that risk.\n\nInterviewer: And what makes you so confident?\n\nTina: I have been successful at every job I have ever had and I know that I could do this job really well if given the chance.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Are you an organized person?",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/28a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/72a.mp3",
-        "dialog": "Interviewer: You mentioned that writing was your strength.\nCarly: Yes.\n\nInterviewer: How has your strength helped you succeed in your career?\n\nCarly: Writing has helped me in numerous ways. Most importantly, writing has helped me persuade consumers to use my company’s services.\n\nInterviewer: What kind of writing was it?\n\nCarly: I was able to persuade consumers through a few different mediums. I wrote a successful online advertisement that led to a 25% increase in sales. I helped write a radio advertisement that my company aired for over 6 months. And I often wrote blog posts for our company’s website to show customers how our services could positively affect their lives.\n\nInterviewer: That is very impressive. How did you become such a good writer?\n\nCarly: I have always been pretty good at writing, but I have also spent a lot of time practicing and studying how to be a great writer.",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/36a.mp3",
+        "dialog": "Interviewer: Are you an organized person?\nCarly: Actually, I am both organized and unorganized. At work, I am very organized because I know that being organized is important to do a good job. But at home, I am not very organized. In my home, I don’t really mind if things are a little messy or out of place.\n\nInterviewer: So, what are some ways that you are organized at work?\n\nCarly: Well, I put all of my meetings, deadlines, and other events in my calendar. As soon as I get a new task or set up a meeting, the first thing I do is put it in my calendar.\n\nInterviewer: That’s a good habit to have.\n\nCarly: Also, I like to make a list every morning to figure out what I need to accomplish that day. I think that this helps me be more productive throughout the day.\n\nInterviewer: Do you keep your desk neat?\n\nCarly: Some people might think my desk looks messy, but there is a system.\n\nInterviewer: Don’t feel bad about that. I am the same way.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "How can you overcome this weakness?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/40a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/73a.mp3",
-        "dialog": "Interviewer: You mentioned that your weakness is time management. How can you overcome this weakness?\nGreg: I think the best way to improve my time management is to make a schedule and then stick to it. I have read many books about time management, and most of them recommend making a schedule and following it as closely as possible.\n\nInterviewer: What do you do if something unexpected comes up?\n\nGreg: If that happens, then you simply add it to your schedule. At the end of each day, I sit down and look at my schedule for the next day. If there is anything that needs to be added, then I modify the schedule.\n\nInterviewer: Does this work for you?\n\nGreg: It has helped me very much. I have become much better at time management and many of the problems that I had before have disappeared.\n\nInterviewer: That’s good to hear. At our company, we think time management is extremely important.",
+        "title": "Are you better at anticipating or reacting to problems?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/30a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/37a.mp3",
+        "dialog": "Interviewer: Are you better at anticipating or reacting to problems?\nGreg: Honestly, I think that I am good at both. I try to think ahead and predict what problems will occur, and then I try to prevent them from happening. But I also prepare in order to handle potential problems if they do happen. At the same time, when an unexpected problem happens, I am able to stay calm and deal with the problem.\n\nInterviewer: That’s good to hear. Which one do you think is more important – anticipating or reacting?\n\nGreg: I definitely think that anticipating is more important than reacting. If you can anticipate problems, then you can stop them before they actually happen. As they say, an ounce of prevention is worth a pound of cure.\n\nInterviewer: That is one of my favorite proverbs.\n\nGreg: Me too. My mother used to say it a lot when I was young.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What are you doing to improve your weakness?",
+        "title": "Can you tell me a little about yourself?",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/74a.mp3",
-        "dialog": "Interviewer: You said that your weakness is learning new technology. What are you doing to improve your weakness?\nTina: As you know, technology is constantly being updated and changing. So, it is important for people in our field to stay up to date with the latest technologies. I often fall behind on this because I become too focused on whatever project I am working on. In order to fix this, I set aside one hour every day to study new technology.\n\nInterviewer: What time of day do you do that?\n\nTina: I do it every morning from 8 to 9, right before I start work. I like to sit in the coffee shop on the 1st floor and have my morning coffee while I study a little bit.\n\nInterviewer: That’s great. Do you ever miss a day because you are too busy or too tired?\n\nTina: Of course, I do, but I have a rule. The rule is that if I miss a day during the week, then I need to make it up on the weekend. For example, I wasn’t able to study this Wednesday because I had a dentist appointment, so I will study for at least one hour this Saturday.\n\nInterviewer: That’s a good rule.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How do you make decisions?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/10a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/75a.mp3",
-        "dialog": "Interviewer: How do you make decisions?\nMark: When I make an important decision, I want to make sure that I have as much reliable information as possible. So, the first thing I do is gather information. I do research, talk to people, or whatever I have to do to get the information. Second, I like to make a list of the advantages and disadvantages. This helps me think and it makes the decision less subjective. Last, if I have time, then I like to give myself a couple of days to think about it before I make my final decision.\n\nInterviewer: Would you say that decision-making is one of your strengths?\n\nMark: Yes, I would. I have read many books and taken a few classes about how to make good decisions. I think the decision-making process is something that everyone can study and benefit from.\n\nInterviewer: Do you feel comfortable making quick decisions under pressure?\n\nMark: Yes, I have no problem working under pressure. You can follow the same basic steps that I mentioned earlier, but just shorten the time for each one when you have to make a quick decision.\n\nInterviewer: It seems like you have thought about this topic a great deal.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Tell me about your educational background.",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/93a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/21a.mp3",
-        "dialog": "Interviewer: Tell me about your educational background.\n\nJon: Well, I got my bachelor’s degree in electrical engineering from the University of North Carolina. I chose this major because I have always been interested in technology. Even when I was young, I used to like taking apart electronics to see what was inside.\n\nInterviewer: Interesting. Besides classes related to your major, what kinds of classes did you enjoy?\n\nJon: I always enjoyed English classes. Actually, English is not my first language. So, it was very important and interesting for me to continue to work to improve my English.\n\nInterviewer: Your English sounds perfect to me.\n\nJon: Thank you. By the time I got to university, my English was good enough that I could take regular English classes with native English speakers. It was a good way for me to gain credit and also continue to build my English skills.\n\nInterviewer: That’s great.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How do you deal with pressure?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/24a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/31a.mp3",
-        "dialog": "Interviewer: How do you deal with pressure?\n\nJon: I think dealing with pressure is one of my strengths. I work very well under pressure and in stressful situations. I think pressure or stress can help us work better and harder. People just need to realize that we can control our stress.\n\nInterviewer: What do you mean by control our stress?\n\nJon: I mean that stress only affects us negatively if we let it. If we remain calm and remember what is truly important in our lives like family and health, then we can handle these stressful situations much easier.\n\nInterviewer: That’s a good answer. Anything else?\n\nJon: Also, I believe that living a healthy lifestyle helps me work better under pressure. If I am healthy and active, then I feel better. And if I feel better, then I can handle stressful situations more effectively.\n\nInterviewer: I feel the same way.",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/7a.mp3",
+        "dialog": "Interviewer: Can you tell me a little about yourself?\n\nBill: I am a hardworking guy who likes to compete. At work, I want to do the best work possible, and I want my team, department, and company to do well and to beat the competition.\n\nInterviewer: Outside of work, what kind of competitive things do you do?\n\nBill: I enjoy playing sports. I play on a baseball team with my friends every weekend and recently I have taken up golf.\n\nInterviewer: I love golf!\n\nBill: I haven’t been playing long, so I am still terrible at it.\n\nInterviewer: That is how everyone is at first. If you keep practicing, you will get better and it will be more enjoyable.\n\nBill: I hope so.\n\nInterviewer: Anyway, it is good that you are competitive because our industry is very competitive and we need people who are driven to succeed.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -72,55 +54,91 @@
         "enable": 1
     },
     {
-        "title": "When you attended university, what courses did you like the most?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/79a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/23a.mp3",
-        "dialog": "Interviewer: When you attended university, what courses did you like the most?\n\nKevin: I was fascinated by all of my finance courses. Finance was my major, and I spent most of my time either studying finance or discussing finance with my classmates.\n\nInterviewer: Were there any classes not related to your major that interested you?\n\nKevin: Besides the finance classes, I would have to say that I liked classes about health and nutrition.\n\nInterviewer: That’s interesting. What made you interested in that?\n\nKevin: I am into health and exercise, so I found classes about health and nutrition to be very helpful. I liked learning about different methods to be healthy and how certain diets affect your body. I believe that if you take care of your body, then it will take care of you.\n\nInterviewer: I agree with that 100%. I am also into health and fitness.",
+        "title": "Could you briefly tell me about your work history?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/41a.mp3",
+        "dialog": "Interviewer: Could you briefly tell me about your work history?\nKevin: Sure. After I graduated high school, I got my first job at McDonald’s. I was promoted to manager after two years. Around the same time that I became a manager, I also started attending classes at the local college. In 2009, I got my bachelor’s degree in marketing, and I left my position at McDonald’s and I started working for Ford Motors in the marketing department. And I have been working there ever since.\n\nInterviewer: Was it difficult to work full time and go to school?\n\nKevin: To be honest, it was difficult. But I was highly motivated. I knew that I did not want to work in a fast food restaurant for the rest of my life, so I pushed myself every day.\n\nInterviewer: What did you learn from your time as a manager at McDonald’s?\n\nKevin: I learned a lot and I am grateful to McDonald’s for the opportunity they gave me. During that time, I learned how to deal with all kinds of people. I also learned a lot about time management.\n\nInterviewer: It sounds like you got a lot of good experience.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What is your leadership style?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/30a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/27a.mp3",
-        "dialog": "Interviewer: What is your leadership style?\n\nGreg: I believe that people work best when they have a certain amount of freedom. I want to give my staff clear goals and direction, but I prefer to let them decide what is the best way to achieve that goal.\n\nInterviewer: Why do you think this style is effective?\n\nGreg: I think it helps motivate people to do their best. If you micromanage people or just order them to do things, then they will not feel valued and they will not produce solid work.\n\nInterviewer: What would you do if a staff member did something that you disagreed with?\n\nGreg: I would give them honest and direct feedback and I would listen to their ideas and opinions. Hopefully, we would be able to work together and come to an agreement about what should be done.\n\nInterviewer: I see. It seems like your management style would fit our company culture quite well.\n\nGreg: I am happy to hear that.",
+        "title": "Do you have any leadership experience?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/17a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/60a.mp3",
+        "dialog": "Interviewer: Do you have any leadership experience?\nAbby: I do have some leadership experience. Two years ago, my manager had a baby and she took six months off for maternity leave. During that time, I was the temporary manager of the sales team.\n\nInterviewer: How did it go?\n\nAbby: At first it was difficult. I had worked with many of the staff members as co-workers for a long time, but suddenly I was their boss. It took some time to get used to, but after a couple weeks, I settled into the position.\n\nInterviewer: What was the biggest challenge you faced and how did you deal with it?\n\nAbby: The biggest challenge was making decisions regarding our sales strategy. Every sales member had different ideas about what we should do, but it was my job to come up with a plan for the whole team. I listened to everybody, thought about it for a while, and then I made my decision. After I made my decision, I explained my reasons to everybody.\n\nInterviewer: How did everyone react?\n\nAbby: Of course, some people disagreed. I listened to what they had to say, but I was firm in my decision. I was the acting manager, so they needed to respect my decision.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "In your previous job, how much time did you spend working with foreign businesspeople?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/10a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/48a.mp3",
-        "dialog": "Interviewer: In your previous job, how much time did you spend working with foreign business people?\nSharon: At my previous company, I worked as a salesperson for overseas markets. I was in charge of the South American market. So, I have a lot of experience doing business with people from other countries.\n\nInterviewer: How did you communicate with your clients?\n\nSharon: I was in constant contact with all of my clients. I would send and receive emails with them daily and I had a conference call with each client at least once a week. On top of that, we would travel to South America to meet with our clients once or twice a year.\n\nInterviewer: What language did you use?\n\nSharon: We mostly used English, but sometimes I used Spanish.\n\nInterviewer: How many languages do you speak?\n\nSharon: My native language is Swedish, but I also speak English fluently. I can also speak some Spanish, but I am not a fluent speaker yet.",
+        "title": "Do you like working by yourself or on a team?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/9a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/29a.mp3",
+        "dialog": "Interviewer: Do you like working by yourself or on a team?\n\nMark: I prefer to work on a team, but I feel comfortable doing both.\n\nInterviewer: Why do you prefer working on a team?\n\nMark: Personally, it is more enjoyable to work on a team. Working with other people can help us create better ideas and it makes completing a project easier because team members can support each other.\n\nInterviewer: That’s true.\n\nMark: Also, when you work by yourself and are successful, it is great, but there is nobody to celebrate with. When you work on a team, you have a team spirit. When things are bad, you can support and encourage each other, and when things are good, team members can celebrate and feel proud together.\n\nInterviewer: That is good to hear because most of the time our employees need to work on teams to complete projects.\n\nMark: Well, that would be great for me. I know I can contribute to any team that I join.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What was your favorite job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/89a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/47a.mp3",
-        "dialog": "Interviewer: What was your favorite job?\nMark: My favorite job was working as a financial analyst. I loved looking at the data and information for certain companies and industries and trying to figure out what was going to happen in the future. The job was challenging and exciting. That is why I am applying for this financial consultant position.\n\nInterviewer: I see. What made working as a financial analyst challenging?\n\nMark: As you know, the financial industry is fast-paced and competitive. There is a lot a pressure to succeed and nobody wants to hear excuses about why you failed to reach your goals. But that is the kind of environment that I enjoy working in.\n\nInterviewer: Why is that?\n\nMark: I cannot stand to be bored and I do not want to do a job where every day is the same. I need a job that is fast-paced and exciting. I think that pressure and competition make a job more interesting.\n\nInterviewer: Well then, it sounds like the financial industry is a perfect fit for you.",
+        "title": "Do you work well under pressure?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/35a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/32a.mp3",
+        "dialog": "Interviewer: Do you work well under pressure?\n\nAbby: Yes, I work well under pressure. Things like tight deadlines or important presentations do not bother me. Actually, I enjoy them.\n\nInterviewer: Why do you enjoy them?\n\nAbby: I think that working under pressure is exciting and interesting. I would rather work at a job that had pressure and stress than a job that was boring and the same every day.\n\nInterviewer: I can understand that. Does your current job have a lot of pressure?\n\nAbby: There are many tight deadlines and stressful situations at my current job. And, I enjoy working there.\n\nInterviewer: Then, why are you trying to leave?\n\nAbby: There are no management positions currently available, and I feel that I am ready to become a manager.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "How would you describe yourself?",
+        "title": "During university, how did you spend your vacations?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/88a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/25a.mp3",
+        "dialog": "Interviewer: During university, how did you spend your vacations?\n\nBill: I worked every vacation in order to have enough money for the next semester.\n\nInterviewer: Where did you work?\n\nBill: I worked at a restaurant in my hometown as a dishwasher.\n\nInterviewer: That sounds like hard work.\n\nBill: It was hard, but I think that job taught me a lot of useful lessons. It showed me how hard it is to make money in this world. It also gave me the motivation to study harder because I knew that I did not want to wash dishes my whole life.\n\nInterviewer: And what did you do when you weren’t working?\n\nBill: I would either see my old friends from high school or I would prepare for my next semester’s classes. I always bought the textbooks early, so I could prepare.\n\nInterviewer: That must be why you got such great scores in university.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Have you ever been fired?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/14a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/52a.mp3",
+        "dialog": "Interviewer: Have you ever been fired?\nKaren: To be perfectly honest, yes, I have.\n\nInterviewer: Can you tell me about what happened?\n\nKaren: At my previous job, I had trouble working with my manager. My manager constantly micromanaged the staff and if any staff member made a mistake he would yell at them in front of everyone. One time, he started yelling at me and insulting my work, and I told him honestly that I didn’t think it was my fault. Later, he told me that if I argued with him again in front of other people that he would fire me.\n\nInterviewer: So, what happened?\n\nKaren: The next time he got angry with me, I argued with him again. I felt like he was a bully and that I needed to stand up to him.\n\nInterviewer: Do you regret how you handled the situation?\n\nKaren: Not at all. I refuse to be treated that way. Actually, after I was fired, 3 other staff members ended up quitting because they realized it was not a healthy work environment.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Have you ever been let go from a job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/13a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/51a.mp3",
+        "dialog": " \nInterviewer: Have you ever been let go from a job?\nKevin: Yes, I have been laid off from a job. I was laid off from the second company that I worked at after working there for 3 years.\n\nInterviewer: Can you tell me what happened?\n\nKevin: The company I worked for was bought by another company. The two companies merged together, so there were a lot of redundancies. The company offered to keep me, but they wanted me to take a 20% salary cut. I refused to take the salary cut, and I was let go.\n\nInterviewer: So, you weren’t let go for your performance or any disciplinary issues?\n\nKevin: No, I was not. My manager helped me find a new job and I still speak with him to this day. It was just one of those situations that couldn’t be avoided.\n\nInterviewer: I completely understand.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Have you ever done an internship?",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/4a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/9a.mp3",
-        "dialog": "Interviewer: How would you describe yourself?\n\nGreg: I would say that I am a very friendly person who is easy to work with, but I would say that I am not very talkative. I prefer to listen rather than speak.\n\nInterviewer: How do you think that affects your relationships with co-workers?\n\nGreg: I think it helps me create strong relationships with co-workers. My co-workers seem to like me because I listen to their ideas and feelings.\n\nInterviewer: Would you feel comfortable leading a meeting or giving a sales presentation?\n\nGreg: Of course. I said that I am quiet, but I am not shy. I feel comfortable talking with other people and speaking in public. I just think that it is very important to be a good listener.\n\nInterviewer: I agree with that and I am glad to hear that you feel comfortable speaking in public because giving presentations is a big part of this position.",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/44a.mp3",
+        "dialog": "Interviewer: Have you ever done an internship?\nCarly: Yes, I have. I did a summer internship at Standard Investment last summer before my final year of university.\n\nInterviewer: What were your responsibilities?\n\nCarly: The other interns and I were in charge of gathering data and preparing reports for the financial analysts.\n\nInterviewer: Did you learn a lot during your time as an intern?\n\nCarly: I think it was a great experience for me. It got a first-hand look at how a real business operates, and I was able to get some real-world experience. I also learned that I want to work in the finance industry.\n\nInterviewer: It sounds like you got a lot out of that internship. May I contact your manager from Standard Investment?\n\nCarly: Absolutely.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "In your previous position, how much time did you spend planning new projects?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/19a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/53a.mp3",
-        "dialog": "Interviewer: In your previous position, how much time did you spend planning new projects?\nBill: In my last position, I was often working on multiple projects at one time. As the online marketing specialist, I had to work with many of our product teams in order to create an online marketing strategy for each product. So, I spent a lot of time planning on my own and planning together with the product teams.\n\nInterviewer: What do you think is the key to making a successful plan?\n\nBill: I think the key to success when planning a project is open and honest communication. If every member of the team brings their ideas to the table and everyone openly discusses the ideas in an honest and respectful way, then creating a solid plan is possible. Also, it is important to learn from one’s mistakes and past projects. It is important to remember what worked and what didn’t work in the past.\n\nInterviewer: In your experience, what is something that can negatively affect a new project?\n\nBill: Something that really hurts the development of a new project is when people are being stubborn. Sometimes people become attached to their own ideas and they do not listen to other people. If this happens, the project’s results usually suffer.",
+        "title": "How can you overcome this weakness?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/40a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/73a.mp3",
+        "dialog": "Interviewer: You mentioned that your weakness is time management. How can you overcome this weakness?\nGreg: I think the best way to improve my time management is to make a schedule and then stick to it. I have read many books about time management, and most of them recommend making a schedule and following it as closely as possible.\n\nInterviewer: What do you do if something unexpected comes up?\n\nGreg: If that happens, then you simply add it to your schedule. At the end of each day, I sit down and look at my schedule for the next day. If there is anything that needs to be added, then I modify the schedule.\n\nInterviewer: Does this work for you?\n\nGreg: It has helped me very much. I have become much better at time management and many of the problems that I had before have disappeared.\n\nInterviewer: That’s good to hear. At our company, we think time management is extremely important.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How did you find out about this job opening?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/72a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/5a.mp3",
+        "dialog": " \nInterviewer: Kevin, how did you find out about this job opening?\n\nKevin: I have been interested in working for your company for a while, and I went to your company’s website to see if there were any available positions. That is when I saw the job posting for this job.\n\nInterviewer: Why have you been interested in working for our company?\n\nKevin: I know that your company has been an industry leader for a long time and you have a reputation for letting employees be creative.\n\nInterviewer: That is true. We like to give our employees the freedom to work in their own way. We believe it makes them more productive, more creative, and happier.\n\nKevin: That is exactly the kind of work environment that I prefer.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -135,19 +153,55 @@
         "enable": 1
     },
     {
-        "title": "What is something that you struggle with at work?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_35-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/68a.mp3",
-        "dialog": "Interviewer: What is something that you struggle with at work?\nAbby: One thing that I struggle with is asking for help. I like to solve problems on my own, and I do not want to be a burden to my co-workers or boss by asking them a lot of questions. But I have learned that this is not the best way.\n\nInterviewer: Why is it not the best way?\n\nAbby: Well, co-workers should help each other. When people work together, the results are usually better. Also, I have learned that most people like helping their co-workers. Whenever a co-worker asks me for help, I am always happy to assist them. So, I imagine that most other people feel the same way.\n\nInterviewer: Are you doing anything to correct this weakness?\n\nAbby: I’m just trying to communicate more with my co-workers and management. I ask for feedback and share ideas with them. I think that this has helped improve the quality of my work.\n\nInterviewer: That’s great. Our company encourages open communication between all employees.",
+        "title": "How did you learn about the job opening?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/103a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/4a.mp3",
+        "dialog": "Interviewer: How did you learn about the job opening?\n\nAbby: I found out about this job online.\n\nInterviewer: Did you see it on our website or a job search website?\n\nAbby: It was a website for job seekers.\n\nInterviewer: And what did you find attractive about this position?\n\nAbby: First, your company has a great reputation. That was a big reason why I applied for this job. But also, I thought that my skills and abilities fit the job requirements very well.\n\nInterviewer: How so?\n\nAbby: Well, the job posting mentioned that the person must be outgoing and comfortable dealing with all kinds of people. And that is exactly the kind of person that I am.\n\nInterviewer: Great.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What were your responsibilities at your last job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/18a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/56a.mp3",
-        "dialog": "Interviewer: What were your responsibilities at your last job?\nTina: As a store manager, I was in charge of making sure everything in the store was operating correctly. I supervised the employees to make sure everybody was working hard and staying on task. I interviewed and hired new staff when needed. I created the work schedule for the employees. And I was also in charge of finding new ways to improve the store’s design, service, and efficiency.\n\nInterviewer: You had a lot of responsibilities. Which one was the most difficult for you?\n\nTina: It might come as a surprise but making the employee schedule was the most difficult. It was impossible to make everybody happy. There were always times and days that people did not want to work.\n\nInterviewer: How did you handle it?\n\nTina: I just tried to be as fair as possible, and if somebody had a problem with the schedule, then I just explained the situation honestly and directly. I told them that everybody had to work some shifts that they did not want to work. Most people understood and there were never any major problems.\n\nInterviewer: I see. I think your management and leadership skills would be a good fit here.",
+        "title": "How do you deal with pressure?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/24a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/31a.mp3",
+        "dialog": "Interviewer: How do you deal with pressure?\n\nJon: I think dealing with pressure is one of my strengths. I work very well under pressure and in stressful situations. I think pressure or stress can help us work better and harder. People just need to realize that we can control our stress.\n\nInterviewer: What do you mean by control our stress?\n\nJon: I mean that stress only affects us negatively if we let it. If we remain calm and remember what is truly important in our lives like family and health, then we can handle these stressful situations much easier.\n\nInterviewer: That’s a good answer. Anything else?\n\nJon: Also, I believe that living a healthy lifestyle helps me work better under pressure. If I am healthy and active, then I feel better. And if I feel better, then I can handle stressful situations more effectively.\n\nInterviewer: I feel the same way.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How do you deal with stressful situations?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/30a.mp3",
+        "dialog": "Interviewer: How do you deal with stressful situations?\n\nSharon: I usually take a break in order to clear my mind. I try to separate myself from the stressful situation.\n\nInterviewer: How do you separate yourself?\n\nSharon: Usually I take a walk, but sometimes I do other things like enjoying a cup of coffee in the park, calling my mom, or going to the gym. Really, I try to do anything that takes my mind off the problem.\n\nInterviewer: Can you give me an example of when you did this?\n\nSharon: Sure. About six months ago I faced a major problem. My client was demanding that we complete their order by a certain date, but my production staff kept telling me that it was impossible. This was very stressful. So, I took a little break and gave everybody some time to calm down, and then I went back and talked to everybody again. In the end, we were able to reach a compromise that satisfied everybody.\n\nInterviewer: That’s great. Similar situations occur quite often at our company.\n\nSharon: Well, I have a lot of experience dealing with those situations.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How do you handle change?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/17a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/34a.mp3",
+        "dialog": "Interviewer: How do you handle change?\nKaren: I like to think of change as a new opportunity. It can help me grow and develop as a person.\n\nInterviewer: Was there ever a time at work when you had to make a change that you did not want?\n\nKaren: One situation comes to mind. About three years ago, I was very comfortable working in the marketing department at my previous company. Then one day, my former boss came to me and told me that the company needed me to move to the business planning team. I did not want to move because I liked my job and co-workers in the marketing department.\n\nInterviewer: How did you react?\n\nKaren: I took some time to think about it and I agreed to move to the business planning team. The business planning team offered me a chance to learn some new skills, gain some new experience, and it was what the company needed me to do.\n\nInterviewer: It sounds like you are a team player.\n\nKaren: I try to be.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How do you handle conflict?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/111a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/40a.mp3",
+        "dialog": "Interviewer: How do you handle conflict?\nSharon: I guess it depends on the situation, but in general I like to stay calm and avoid yelling or fighting. I think if two people have a disagreement, then first they should spend some time apart. Second, they should sit down and discuss the situation. After that, if they cannot come to a compromise, then they should ask their boss or another colleague to mediate.\n\nInterviewer: That is a very specific answer.\n\nSharon: Actually, I have a lot of experience dealing with this.\n\nInterviewer: That’s right. I see here on your resume that you spent two years working in the human resources department.\n\nSharon: That’s correct. One of my roles, when I was working in human resources, was to train the employees about how to handle conflict.\n\nInterviewer: That’s great.\n\nSharon: I learned a lot about people during that time, and what I learned in that job still helps me.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How do you make decisions?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/10a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/75a.mp3",
+        "dialog": "Interviewer: How do you make decisions?\nMark: When I make an important decision, I want to make sure that I have as much reliable information as possible. So, the first thing I do is gather information. I do research, talk to people, or whatever I have to do to get the information. Second, I like to make a list of the advantages and disadvantages. This helps me think and it makes the decision less subjective. Last, if I have time, then I like to give myself a couple of days to think about it before I make my final decision.\n\nInterviewer: Would you say that decision-making is one of your strengths?\n\nMark: Yes, I would. I have read many books and taken a few classes about how to make good decisions. I think the decision-making process is something that everyone can study and benefit from.\n\nInterviewer: Do you feel comfortable making quick decisions under pressure?\n\nMark: Yes, I have no problem working under pressure. You can follow the same basic steps that I mentioned earlier, but just shorten the time for each one when you have to make a quick decision.\n\nInterviewer: It seems like you have thought about this topic a great deal.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -162,6 +216,204 @@
         "enable": 1
     },
     {
+        "title": "How has your strength helped you succeed in your career?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/28a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/72a.mp3",
+        "dialog": "Interviewer: You mentioned that writing was your strength.\nCarly: Yes.\n\nInterviewer: How has your strength helped you succeed in your career?\n\nCarly: Writing has helped me in numerous ways. Most importantly, writing has helped me persuade consumers to use my company’s services.\n\nInterviewer: What kind of writing was it?\n\nCarly: I was able to persuade consumers through a few different mediums. I wrote a successful online advertisement that led to a 25% increase in sales. I helped write a radio advertisement that my company aired for over 6 months. And I often wrote blog posts for our company’s website to show customers how our services could positively affect their lives.\n\nInterviewer: That is very impressive. How did you become such a good writer?\n\nCarly: I have always been pretty good at writing, but I have also spent a lot of time practicing and studying how to be a great writer.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How long have you been looking for a job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/18a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/17a.mp3",
+        "dialog": "Interviewer: How long have you been looking for a job?\n\nBill: I left my previous job six months ago, but I have only been looking for a job for 2 months.\n\nInterviewer: What were you doing during the four months that you were out of work but not looking for a job?\n\nBill: I was spending time with my family. I have two kids, who are 7 and 10, and I wanted to spend some more time with them.\n\nInterviewer: I understand. Did you feel like you did not have enough time to spend with your family at your previous company?\n\nBill: Yes, and that is the main reason that I decided to leave. My previous company often asked employees to work up to 80 hours a week.\n\nInterviewer: Well, our company encourages employees to work no more than 60 hours per week. Working overtime is sometimes necessary, but we want our staff to have satisfying lives outside of work as well.\n\nBill: I heard about that, and it is a major reason why I applied for this position. Plus, your company has a great reputation in the industry.\n\n",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How long have you worked at your current job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/3a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/43a.mp3",
+        "dialog": "Interviewer: How long have you worked at your current job?\nBill: I have been working at the company for 12 years. I worked for 8 years as a sales associate, and I have been a sales manager for 4 years.\n\nInterviewer: And after 12 years, why are you thinking about leaving?\n\nBill: I think now is the right time for me to move on to my next challenge. I have accomplished a lot at my current job, but I am ready to take the next step in my career.\n\nInterviewer: And what would you hope to accomplish here?\n\nBill: I would like to have the opportunity to become the director of the sales department at your company. I want to turn this sales department into the most effective and successful in the industry.\n\nInterviewer: I like your ambition.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How often did you give presentations at your last job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/54a.mp3",
+        "dialog": "Interviewer: How often did you give presentations at your last job?\nCarly: I was required to give presentations quite often at my previous job. I gave sales presentations to potential clients in order to gain their business. I also gave presentations to existing customers to inform them of our results and to demonstrate how our firm added value to their business. On top of that, I gave weekly presentations to the sales director to inform her about our progress.\n\nInterviewer: You have a lot of experience giving presentations.\n\nCarly: Yes, I do. I feel very comfortable speaking in front of others and I can be quite persuasive. I think giving presentations is one of my strengths.\n\nInterviewer: Would you feel comfortable speaking in front of a large audience?\n\nCarly: Yes, I would feel comfortable doing that. Speaking in front of a large audience does not bother me at all.\n\nInterviewer: That is good to hear.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How often did you give sales presentations at your last job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/43a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/55a.mp3",
+        "dialog": "Interviewer: How often did you give sales presentations at your last job?\nGreg: I never gave sales presentations at my last job. I worked on the sales team and I helped prepare the presentations, but a more senior member always gave the presentation.\n\nInterviewer: This job requires that you make sales presentations often. Do you feel like you will be able to do that successfully?\n\nGreg: Absolutely. Like I said, I spent a lot of time preparing presentations, so I know exactly how to prepare an excellent and persuasive presentation. Also, I have watched experienced salespeople give many presentations, and I know that I have the ability to do it, too.\n\nInterviewer: Do you have any experience speaking in public?\n\nGreg: Of course. I was on the debate team when I was in university and I gave weekly presentations to management at my previous job. I feel comfortable speaking in front of other people, and I know that I would be able to do a good job.\n\nInterviewer: Well, I like your confidence. And it is good that you have some experience speaking in public.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How would you describe yourself?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/4a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/9a.mp3",
+        "dialog": "Interviewer: How would you describe yourself?\n\nGreg: I would say that I am a very friendly person who is easy to work with, but I would say that I am not very talkative. I prefer to listen rather than speak.\n\nInterviewer: How do you think that affects your relationships with co-workers?\n\nGreg: I think it helps me create strong relationships with co-workers. My co-workers seem to like me because I listen to their ideas and feelings.\n\nInterviewer: Would you feel comfortable leading a meeting or giving a sales presentation?\n\nGreg: Of course. I said that I am quiet, but I am not shy. I feel comfortable talking with other people and speaking in public. I just think that it is very important to be a good listener.\n\nInterviewer: I agree with that and I am glad to hear that you feel comfortable speaking in public because giving presentations is a big part of this position.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How would your family describe you?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/45a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/12a.mp3",
+        "dialog": "Interviewer: How would your family describe you?\n\nSharon: My family would say that I am generous, talkative, and goofy.\n\nInterviewer: How does this compare with how you are at work?\n\nSharon: At work, I am still generous and a bit talkative, but I tend to be more serious. I think that the workplace requires more seriousness than when I am at home with my family or out with my friends.\n\nInterviewer: Okay. And why would your family say that you are generous?\n\nSharon: I like to share. I think it is better to enjoy things with other people rather than alone. Also, making other people happy makes me happy too. This also applies to work as well.\n\nInterviewer. That’s great to hear. We try to create a family-like environment at our company. We want everyone to get along, help each other, and be generous.\n\nSharon: I would have no problem doing that.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How would your former boss describe your personality?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/15a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/10a.mp3",
+        "dialog": "Interviewer: How would your former boss describe your personality?\n\nTina: I think my former boss would describe me as active and helpful. She always used to say that I was a great team player.\n\nInterviewer: Why did she say that?\n\nTina: She said that because I enjoy working in a group, and I like helping my co-workers. For example, if I finish all of my work for the day and I am getting ready to head home, but then I see a co-worker working late, I will usually offer to stay late and help them.\n\nInterviewer: That is very kind of you.\n\nTina: I believe that co-workers should help each other whenever possible. It creates a better working environment for everyone and helps the group produce better results.\n\nInterviewer: I couldn’t agree with you more.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How would your former co-workers describe you?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/43a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/11a.mp3",
+        "dialog": "Interviewer: How would your former co-workers describe you?\n\nMark: I think that they would say that I am a hardworking person but also fun to work with.\n\nInterviewer: And why do think they would say that?\n\nMark: My colleagues always know that I take my work seriously. I want to do my best and I want my projects to have good results. However, I do like to joke around and have fun when it is appropriate. I think humor can improve results, productivity, and the work environment.\n\nInterviewer: Can you explain why you think that?\n\nMark: Humor helps people stay relaxed. I think a relaxed and fun working environment where people enjoy working together is better than an uptight and stressful working environment. If people are stressed and burnt out, I think they are more likely to make mistakes and less likely to come up with new and creative ideas.\n\nInterviewer: That’s an interesting point.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "How would your strengths help you succeed at our company?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/71a.mp3",
+        "dialog": "Interviewer: How would your strengths help you succeed at our company?\nBill: Your company is one of the global leaders in chemical sales. You are a market leader in many different countries all over the world. I have a lot of experience working with people from many different countries and I speak 5 languages.\n\nInterviewer: What languages do you speak?\n\nBill: My native language is Russian, but I am also fluent in English and Japanese. I am also proficient in Mandarin and German.\n\nInterviewer: That is impressive. Besides languages, how would your experience benefit our company?\n\nBill: As I mentioned earlier, I have a lot of experience working with people from other countries. I know how to behave and how to do business in many countries. I can make strong and lasting relationships with customers all over the world.\n\nInterviewer: That is a great skill to have in this business.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "In your previous job, how much time did you spend working with foreign businesspeople?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/10a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/48a.mp3",
+        "dialog": "Interviewer: In your previous job, how much time did you spend working with foreign business people?\nSharon: At my previous company, I worked as a salesperson for overseas markets. I was in charge of the South American market. So, I have a lot of experience doing business with people from other countries.\n\nInterviewer: How did you communicate with your clients?\n\nSharon: I was in constant contact with all of my clients. I would send and receive emails with them daily and I had a conference call with each client at least once a week. On top of that, we would travel to South America to meet with our clients once or twice a year.\n\nInterviewer: What language did you use?\n\nSharon: We mostly used English, but sometimes I used Spanish.\n\nInterviewer: How many languages do you speak?\n\nSharon: My native language is Swedish, but I also speak English fluently. I can also speak some Spanish, but I am not a fluent speaker yet.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "In your previous job, how often did you use English?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/49a.mp3",
+        "dialog": "Interviewer: In your previous job, how often did you use English?\nJon: To be honest, I did not use English a lot. Occasionally, I had to write an email in English or participate in a conference call in English.\n\nInterviewer: Well, in this job, you will need to use English daily. Would you feel comfortable doing that?\n\nJon: Absolutely. I have been preparing for a position like this for years. I’ve been taking an English class every weekday for 2 years, and I study English on my own every day. One of the main reasons that I am applying for this job is that I want a chance to use my English skills in business.\n\nInterviewer: I see. It seems like your English is perfect.\n\nJon: Thank you very much. I am happy to hear you say that because I have put a lot of time and effort into learning English.\n\nInterviewer: So, what is your native language?\n\nJon: I grew up in Colombia, so my first language is Spanish, but I have been learning English since I was in elementary school. I also speak some Mandarin.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "In your previous position, how much time did you spend in meetings?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/20a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/58a.mp3",
+        "dialog": "Interviewer: In your previous position, how much time did you spend in meetings?\nSharon: At my previous company, we had at least a few meetings each week. Each meeting lasted anywhere from 30 minutes to 3 hours. During the meetings, we planned new projects, discussed problems and issues, and assigned tasks and responsibilities.\n\nInterviewer: Did you find these meetings to be helpful?\n\nSharon: For the most part, the meetings were useful and productive. We were able to discuss ideas and work together to come up with strategies and plans. I think our team was successful because we worked well together in these meetings.\n\nInterviewer: How did you behave during these meetings?\n\nSharon: I listened with an open mind to everyone’s ideas and I shared my ideas and opinions whenever I thought they would be helpful.\n\nInterviewer: Would you feel comfortable leading a meeting?\n\nSharon: Yes, I would. Actually, I have led a couple of meetings before. Whenever my boss was sick or away on business, I was in charge of leading the meetings.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "In your previous position, how much time did you spend planning new projects?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/19a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/53a.mp3",
+        "dialog": "Interviewer: In your previous position, how much time did you spend planning new projects?\nBill: In my last position, I was often working on multiple projects at one time. As the online marketing specialist, I had to work with many of our product teams in order to create an online marketing strategy for each product. So, I spent a lot of time planning on my own and planning together with the product teams.\n\nInterviewer: What do you think is the key to making a successful plan?\n\nBill: I think the key to success when planning a project is open and honest communication. If every member of the team brings their ideas to the table and everyone openly discusses the ideas in an honest and respectful way, then creating a solid plan is possible. Also, it is important to learn from one’s mistakes and past projects. It is important to remember what worked and what didn’t work in the past.\n\nInterviewer: In your experience, what is something that can negatively affect a new project?\n\nBill: Something that really hurts the development of a new project is when people are being stubborn. Sometimes people become attached to their own ideas and they do not listen to other people. If this happens, the project’s results usually suffer.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Please describe yourself.",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/7a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/8a.mp3",
+        "dialog": "Interviewer: Please describe yourself.\n\nCarly: I grew up in Paris, France. I majored in chemistry with a minor in English. After I graduated from university, I got a job as a high school chemistry teacher, but now I am looking for a job at a company in the private sector.\n\nInterviewer: Why are you trying to leave your job as a high school teacher?\n\nCarly: I enjoy working with kids, but I think my skills are better suited for research.\n\nInterviewer: Why do you think that?\n\nCarly: I think working in research would allow me to work more creatively than working as a teacher. Also, I am interested in trying something new and having a chance to use my knowledge of chemistry.\n\nInterviewer: Then, why did you decide to become a high school teacher after you graduated?\n\nCarly: At the time, I thought it was the best choice for me and I wanted to help students enjoy chemistry as much as I do.\n\nInterviewer: I see.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Tell me about the best manager you ever had.",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/76a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/46a.mp3",
+        "dialog": "Interviewer: Tell me about the best manager you have ever had.\nTina: The best manager that I have ever had was Mary Washington. She was my manager at my first job and everybody liked and respected her. Not only was she smart and talented, but she was also kind.\n\nInterviewer: What do you think made her such an effective manager?\n\nTina: She was a great communicator. She was able to explain her goals and ideas clearly to the staff and everybody knew what was expected of them. But Mary Washington was also a great listener. If an employee had an idea, suggestion, or complaint, she would always listen and discuss the issue with the employee.\n\nInterviewer: What was the most important thing that you learned from her?\n\nTina: I would say that the most important thing that I learned from her was how to deal with people. If you listen to other people and speak to them honestly and respectfully, then you can make strong relationships.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Tell me about your educational background.",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/93a-390x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/21a.mp3",
+        "dialog": "Interviewer: Tell me about your educational background.\n\nJon: Well, I got my bachelor’s degree in electrical engineering from the University of North Carolina. I chose this major because I have always been interested in technology. Even when I was young, I used to like taking apart electronics to see what was inside.\n\nInterviewer: Interesting. Besides classes related to your major, what kinds of classes did you enjoy?\n\nJon: I always enjoyed English classes. Actually, English is not my first language. So, it was very important and interesting for me to continue to work to improve my English.\n\nInterviewer: Your English sounds perfect to me.\n\nJon: Thank you. By the time I got to university, my English was good enough that I could take regular English classes with native English speakers. It was a good way for me to gain credit and also continue to build my English skills.\n\nInterviewer: That’s great.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Tell us about your work background.",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/42a.mp3",
+        "dialog": "Interviewer: Tell me about your work background.\nKaren: I have only held one position. I worked as an IT specialist for a multinational corporation. I started that job immediately after graduating from university and I worked there for 6 years.\n\nInterviewer: And why did you decide to leave that position?\n\nKaren: To be honest, I feel like I am ready for a new challenge. I am hoping to use my skills and knowledge to help create tech products for consumers.\n\nInterviewer: How do you think your experience would help you in this job?\n\nKaren: I have in-depth knowledge of current technology and I know what features make technology easy to use and what features ruin the user’s experience. I believe I could contribute a lot to making great products.\n\nInterviewer: That’s great to hear.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What are you doing to improve your weakness?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/74a.mp3",
+        "dialog": "Interviewer: You said that your weakness is learning new technology. What are you doing to improve your weakness?\nTina: As you know, technology is constantly being updated and changing. So, it is important for people in our field to stay up to date with the latest technologies. I often fall behind on this because I become too focused on whatever project I am working on. In order to fix this, I set aside one hour every day to study new technology.\n\nInterviewer: What time of day do you do that?\n\nTina: I do it every morning from 8 to 9, right before I start work. I like to sit in the coffee shop on the 1st floor and have my morning coffee while I study a little bit.\n\nInterviewer: That’s great. Do you ever miss a day because you are too busy or too tired?\n\nTina: Of course, I do, but I have a rule. The rule is that if I miss a day during the week, then I need to make it up on the weekend. For example, I wasn’t able to study this Wednesday because I had a dentist appointment, so I will study for at least one hour this Saturday.\n\nInterviewer: That’s a good rule.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What are you interested in?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/108a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/16a.mp3",
+        "dialog": "Interviewer: What are you interested in?\n\nKaren: I have been interested in playing the guitar since I was young. And recently, I have started learning how to play the drums.\n\nInterviewer: That’s impressive. You must be very talented.\n\nKaren: No. I am just okay, but I think that music helps keep me balanced. Playing music relieves my stress and helps me forget about work.\n\nInterviewer: Do you get a lot of stress from work?\n\nKaren: Not really. But I think it is important to have a good work-life balance and to have hobbies outside of work. I don’t think that it is healthy to focus only on work.\n\nInterviewer: I agree with that. So, do you think you have a good work-life balance?\n\nKaren: Most of the time, I think I do a good job. Sometimes, I will become very focused on a project or some task and I need to remind myself to take a break and do something else.\n\nInterviewer: I am the same way.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What are your hobbies?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/106a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/13a.mp3",
+        "dialog": "Interviewer: What are your hobbies?\n\nJon: My hobbies are reading, studying English, and doing yoga.\n\nInterviewer: What kind of things do you enjoy reading?\n\nJon: I read the newspaper every morning, but that is for work and to stay up to date with the latest news. But for fun, I enjoy reading novels.\n\nInterviewer: Do you read novels in English?\n\nJon: Sometimes. But it definitely takes me a little longer to read books in English than in Spanish which is my native language.\n\nInterviewer: That’s natural. Did you also say that you do yoga?\n\nJon: Yes. I do yoga at least 3 times a week. I think it is great for staying fit and for relieving stress.\n\nInterviewer: That sounds good. Maybe I should start yoga.\n\nJon: I highly recommend it.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What are your interests?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/107a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/15a.mp3",
+        "dialog": "Interviewer: What are your interests?\n\nKevin: I am interested in many things, but I would say that my biggest interests are sports and psychology.\n\nInterviewer: Psychology?\n\nKevin: Yes. That is one of the reasons that I am applying for this marketing position. I am fascinated by why people act in certain ways and why they make certain decisions.\n\nInterviewer: Do you think this interest would help you in this position?\n\nKevin: Absolutely. If you can understand why a person makes a decision, then you can use that information to influence them. So, I think that psychology and marketing are connected.\n\nInterviewer: That’s very interesting. Can psychology also help you deal with your co-workers?\n\nKevin: It can, but I think it is harder because with a co-worker you are dealing with just one individual and every person has different traits and characteristics that make them unique.\n\nInterviewer. I see. I wish we had more time to talk about his. It is very interesting.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
         "title": "What are your strengths?",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_4-300x220.jpg",
         "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/61a.mp3",
@@ -171,10 +423,37 @@
         "enable": 1
     },
     {
-        "title": "What motivates you?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/23a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/33a.mp3",
-        "dialog": "Interviewer: What motivates you?\nKevin: Doing a good job and achieving my goals is what motivates me. I am a very results-driven person. I enjoy competition and I want to succeed.\n\nInterviewer: How do you feel if you do not achieve your goal?\n\nKevin: Well, of course, I feel somewhat disappointed. But I also think that failure is a great way to learn. I try to think about why I did not achieve my goal and figure out a way to improve, so the same thing does not happen again.\n\nInterviewer: Does your competitiveness ever affect your ability to work with your co-workers?\n\nKevin: Never. I like to compete, but I prefer to compete with my team members not against them. The best feeling is when my team succeeds and my company does well because of work that I was involved in.\n\nInterviewer: That is good to hear.",
+        "title": "What are your weaknesses?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_24-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/66a-1.mp3",
+        "dialog": "Interviewer: What are your weaknesses?\nSharon: I feel that my biggest weakness is not paying enough attention to detail. I enjoy creating overall strategies and plans. Sometimes, I am so focused on the big picture that I forget some details and this can affect the quality of the work.\n\nInterviewer: How are you trying to improve this weakness?\n\nSharon: I think the best way to improve this weakness is to just be aware of it. I constantly remind myself to focus not only on the big issues but also on the details.\n\nInterviewer: Is there any specific technique or method that you use?\n\nSharon: Yes. At the beginning of a project, I make a list of all the details that I need to check. And if I think of a new one during the project, I immediately add it to the list. This has helped me improve my attention to detail which has helped improve the overall quality of my projects.\n\nInterviewer: That’s a good method.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What can you tell me about yourself?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/8a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/6a.mp3",
+        "dialog": "Interviewer: What can you tell me about yourself?\n\nKaren: I am originally from Germany, but my family moved to Los Angeles when I was 15 years old and I have lived in Los Angeles since then. I am a very outgoing person who loves to be around other people, and I enjoy doing physical activities.\n\nInterviewer: What kind of physical activities do you like?\n\nKaren: I like to do anything outside like mountain biking, kayaking, or fishing. But I would have to say that my favorite activity is walking my dogs in the park near my house.\n\nInterviewer: Oh, you have dogs! What kind of dogs do you have?\n\nKaren: I have two golden retrievers.\n\nInterviewer: Does caring for two pets affect your ability to work late if needed?\n\nKaren: No, it doesn’t. My husband has a flexible schedule, so he is always able to take care of the dogs when I am busy.\n\nInterviewer: That’s good to hear.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What courses at university did you like the least?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/110a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/24a.mp3",
+        "dialog": "Interviewer: What courses at university did you like the least?\n\nKaren: I would have to say that my least favorite courses were English classes.\n\nInterviewer: And why is that?\n\nKaren: I like speaking and practicing my English, but I hate reading English novels. Actually, I do not even like reading novels in my native language which is German.\n\nInterviewer: So, you don’t enjoy reading?\n\nKaren: I like to read, but I prefer non-fiction books. But in English classes, we almost always had to read novels. On top of that, most of the novels were very old, so the English in the novels was a little strange to me.\n\nInterviewer: I know what you mean. I am a native English speaker, but sometimes the English in those old novels is hard for me to read.\n\nKaren: For me, Shakespeare was the worst.\n\nInterviewer: I agree. I hated reading Shakespeare when I was in school.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What do you consider your biggest strength?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_20-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/65a.mp3",
+        "dialog": " \nInterviewer: What do you consider your biggest strength?\nMark: I think that my attention to detail is my greatest strength. This has helped me greatly during my career as a project manager.\n\nInterviewer: How has it helped you?\n\nMark: My attention to detail helps me make sure that all parts of a project are completed correctly. I think that attention to detail can help make a good project into a great project.\n\nInterviewer: Can you give a specific example about this?\n\nMark: Many project managers do not pay enough attention to the quality of the images that they use in advertisements or on the company website. It may seem like a small part but having high-quality images can make a big difference.\n\nInterviewer: I completely agree with you. Sometimes certain aspects get overlooked.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -184,6 +463,15 @@
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_114-300x220.jpg",
         "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/70a.mp3",
         "dialog": "Interviewer: What do you consider your biggest weakness?\nKaren: I think that impatience is my biggest weakness. When colleagues do not finish their work on time, I can get a little annoyed and impatient.\n\nInterviewer: Did this happen a lot at your last job?\n\nKaren: It happened quite often. I am the kind of person who always finishes their work on time, but other people at my last job did not worry about deadlines very much.\n\nInterviewer: How did you handle that kind of situation?\n\nKaren: I just approached them in a friendly way and I explained that I was waiting for them to finish their work. I did not criticize them. I think it is important to avoid criticizing people because people often become defensive when you criticize them and it doesn’t help the situation.\n\nInterviewer: Did anyone ever get angry at you?\n\nKaren: Never. If I ever felt like somebody was becoming upset or defensive, then I ended the conversation. After a while, they usually calmed down and came to talk to me.",
+        "catalog": "English Interview",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "What do you like to do when you are not in the office?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/94a-390x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/20a.mp3",
+        "dialog": "Interviewer: What do you like to do when you are not in the office?\n\nTina: Honestly, I prefer to stay home.\n\nInterviewer: What do you like to do at home?\n\nTina: Quite a few things. First, I really enjoy reading at home. I go to the library and check out three or four books each month. Second, I like to work in my garden. I started a garden about three years ago and I grow all sorts of vegetables. And third, I like to play with my cats.\n\nInterviewer: All of those sound nice. How did you get into gardening?\n\nTina: One day, I was just looking at my backyard and I thought it looked really empty. Then suddenly, I had the idea to start a garden. I went to the store that day and I bought all the supplies and started planting.\n\nInterviewer: That’s amazing.\n\nTina: That is my style. I like to take action. When I decide to do something, I do it 100%.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -207,253 +495,28 @@
         "enable": 1
     },
     {
-        "title": "What was your salary at your last job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/12a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/50a.mp3",
-        "dialog": "Interviewer: What was your salary at your last job?\nAbby: The salary for my last job was $45,000 per year, but I felt that it was low.\n\nInterviewer: Can you explain why you felt that way?\n\nAbby: $45,000 is about the average salary for a sales associate in this industry, but my sales numbers were always way above average. I was in the top three of sales at my company every quarter.\n\nInterviewer: Then, why do you think your previous company did not give you a raise?\n\nAbby: It is because even though I was performing well, the company as a whole was not doing well. We were often outperformed by our competition and we were having a hard time gaining market share.\n\nInterviewer: Is salary the main reason that you left your last company?\n\nAbby: The main reason that I left my last company is that I want to have more responsibilities and I want more opportunities to advance my career. But salary was also a factor.\n\nInterviewer: I understand.",
+        "title": "What is something that you cannot do well?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_111-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/69a.mp3",
+        "dialog": "Interviewer: What is something that you cannot do well?\nKevin: To be honest, I am not very good at design. For example, I am not good at creating logos, visual advertisements, or picking colors for something.\n\nInterviewer: Does this affect your work since you are in marketing?\n\nKevin: No, it does not affect my work. My expertise is in creating the overall strategy, messaging, and writing for a marketing campaign. On a marketing team, there is usually a person who specializes in design, or the design work is outsourced to another company.\n\nInterviewer: I see. Are you trying to get better at design?\n\nKevin: To be honest, I am not. I know that I will never be good at design, so I let the people who are experts in design handle that work. I think that recognizing your own weaknesses and limitations is very important.\n\nInterviewer: I would agree with that. There is more than one way to contribute to a project.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "Please describe yourself.",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/7a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/8a.mp3",
-        "dialog": "Interviewer: Please describe yourself.\n\nCarly: I grew up in Paris, France. I majored in chemistry with a minor in English. After I graduated from university, I got a job as a high school chemistry teacher, but now I am looking for a job at a company in the private sector.\n\nInterviewer: Why are you trying to leave your job as a high school teacher?\n\nCarly: I enjoy working with kids, but I think my skills are better suited for research.\n\nInterviewer: Why do you think that?\n\nCarly: I think working in research would allow me to work more creatively than working as a teacher. Also, I am interested in trying something new and having a chance to use my knowledge of chemistry.\n\nInterviewer: Then, why did you decide to become a high school teacher after you graduated?\n\nCarly: At the time, I thought it was the best choice for me and I wanted to help students enjoy chemistry as much as I do.\n\nInterviewer: I see.",
+        "title": "What is something that you struggle with at work?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_35-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/68a.mp3",
+        "dialog": "Interviewer: What is something that you struggle with at work?\nAbby: One thing that I struggle with is asking for help. I like to solve problems on my own, and I do not want to be a burden to my co-workers or boss by asking them a lot of questions. But I have learned that this is not the best way.\n\nInterviewer: Why is it not the best way?\n\nAbby: Well, co-workers should help each other. When people work together, the results are usually better. Also, I have learned that most people like helping their co-workers. Whenever a co-worker asks me for help, I am always happy to assist them. So, I imagine that most other people feel the same way.\n\nInterviewer: Are you doing anything to correct this weakness?\n\nAbby: I’m just trying to communicate more with my co-workers and management. I ask for feedback and share ideas with them. I think that this has helped improve the quality of my work.\n\nInterviewer: That’s great. Our company encourages open communication between all employees.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "Who is your mentor?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/21a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/59a.mp3",
-        "dialog": "Interviewer: Who is your mentor?\nJon: My mentor is James Black. James is currently the editor of the Boston Globe newspaper. I met him when I was a junior reporter and he was a senior reporter for a financial magazine called Boom or Bust.\n\nInterviewer: How has he helped you in your career?\n\nJon: James has taught me a lot. He taught me how to do thorough research and how to make sure all the details of a story are correct before publishing it. Basically, he taught me how to be a professional reporter. Without him, I don’t think I would have been successful.\n\nInterviewer: Do you still keep in touch with him?\n\nJon: Yes, I do. I usually talk to him about once a week. We usually talk about current events and what is in the news, but I also still ask him for advice sometimes.\n\nInterviewer: You are lucky that you have somebody like James that you can go to for advice.\n\nJon: I agree. I’m lucky to have worked with James.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How long have you been looking for a job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/18a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/17a.mp3",
-        "dialog": "Interviewer: How long have you been looking for a job?\n\nBill: I left my previous job six months ago, but I have only been looking for a job for 2 months.\n\nInterviewer: What were you doing during the four months that you were out of work but not looking for a job?\n\nBill: I was spending time with my family. I have two kids, who are 7 and 10, and I wanted to spend some more time with them.\n\nInterviewer: I understand. Did you feel like you did not have enough time to spend with your family at your previous company?\n\nBill: Yes, and that is the main reason that I decided to leave. My previous company often asked employees to work up to 80 hours a week.\n\nInterviewer: Well, our company encourages employees to work no more than 60 hours per week. Working overtime is sometimes necessary, but we want our staff to have satisfying lives outside of work as well.\n\nBill: I heard about that, and it is a major reason why I applied for this position. Plus, your company has a great reputation in the industry.\n\n",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Why did you choose your major?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/26a.mp3",
-        "dialog": "Interviewer: I see on your resume that you majored in English, but you are applying for a marketing position. Why did you choose your major?\n\nCarly: English is not my first language. I am from France and my native language is French, but I have always enjoyed learning and studying English. So, when I went to university I decided to study what I enjoyed learning.\n\nInterviewer: I understand. And how do you think your English major could help you in this position?\n\nCarly: Well, English is all about communication. My classes taught me how to communicate effectively in English for both speaking and writing. Marketing is also about communication. We need to communicate effectively to consumers why they should use our product or service. I actually think the two are related more than people think.\n\nInterviewer: I think that is a very good answer. But do you feel like you have basic marketing skills?\n\nCarly: Yes, I do. I am also interested in marketing. I have read many marketing books and I also took 5 marketing classes when I was at university. I believe I have enough marketing skills and knowledge to do this job well.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Do you work well under pressure?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/35a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/32a.mp3",
-        "dialog": "Interviewer: Do you work well under pressure?\n\nAbby: Yes, I work well under pressure. Things like tight deadlines or important presentations do not bother me. Actually, I enjoy them.\n\nInterviewer: Why do you enjoy them?\n\nAbby: I think that working under pressure is exciting and interesting. I would rather work at a job that had pressure and stress than a job that was boring and the same every day.\n\nInterviewer: I can understand that. Does your current job have a lot of pressure?\n\nAbby: There are many tight deadlines and stressful situations at my current job. And, I enjoy working there.\n\nInterviewer: Then, why are you trying to leave?\n\nAbby: There are no management positions currently available, and I feel that I am ready to become a manager.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Are you a risk-taker?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/107a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/38a.mp3",
-        "dialog": "Interviewer: Are you a risk-taker?\nTina: That is a tough question to answer because it depends a lot on the situation.\n\nInterviewer: What do you mean?\n\nTina: Each situation is unique and has different risks and rewards. I am not afraid to take risks, but I want to make sure that what I am doing is a smart decision. I also don’t want to take any unnecessary risks.\n\nInterviewer: Can you tell about a time that you took a risk?\n\nTina: I think that quitting my job last month was a risk. There is no guarantee that I will find a better job. However, after I thought about it for a long time, I decided that I was confident enough in my abilities to take that risk.\n\nInterviewer: And what makes you so confident?\n\nTina: I have been successful at every job I have ever had and I know that I could do this job really well if given the chance.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What was your major?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/76a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/22a.mp3",
-        "dialog": "Interviewer: What was your major?\n\nAbby: When I was an undergraduate student, I majored in communications at Rutgers University. After a few years of working, I went back to school and got my MBA from Boston University.\n\nInterviewer: That is very impressive. Why did you decide to get a master’s degree in business?\n\nAbby: Well, after I graduated from Rutgers, I started working in the PR department of a large corporation. I liked the work environment and I decided that I wanted to become a manager. I thought that having an MBA would help me advance my career.\n\nInterviewer: Did you work while you were getting your MBA?\n\nAbby: During the first year, I took online courses and attended night school. But for the second year, I took a year off work to attend school full-time. It helped me finish the program faster and allowed me to focus solely on studying. I really enjoyed that time.\n\nInterviewer: And then after finishing the MBA course, did you go back to the same company?\n\nAbby: Yes, I did.\n\n",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How did you learn about the job opening?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/103a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/4a.mp3",
-        "dialog": "Interviewer: How did you learn about the job opening?\n\nAbby: I found out about this job online.\n\nInterviewer: Did you see it on our website or a job search website?\n\nAbby: It was a website for job seekers.\n\nInterviewer: And what did you find attractive about this position?\n\nAbby: First, your company has a great reputation. That was a big reason why I applied for this job. But also, I thought that my skills and abilities fit the job requirements very well.\n\nInterviewer: How so?\n\nAbby: Well, the job posting mentioned that the person must be outgoing and comfortable dealing with all kinds of people. And that is exactly the kind of person that I am.\n\nInterviewer: Great.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How did you find out about this job opening?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/72a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/5a.mp3",
-        "dialog": " \nInterviewer: Kevin, how did you find out about this job opening?\n\nKevin: I have been interested in working for your company for a while, and I went to your company’s website to see if there were any available positions. That is when I saw the job posting for this job.\n\nInterviewer: Why have you been interested in working for our company?\n\nKevin: I know that your company has been an industry leader for a long time and you have a reputation for letting employees be creative.\n\nInterviewer: That is true. We like to give our employees the freedom to work in their own way. We believe it makes them more productive, more creative, and happier.\n\nKevin: That is exactly the kind of work environment that I prefer.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Have you ever been let go from a job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/13a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/51a.mp3",
-        "dialog": " \nInterviewer: Have you ever been let go from a job?\nKevin: Yes, I have been laid off from a job. I was laid off from the second company that I worked at after working there for 3 years.\n\nInterviewer: Can you tell me what happened?\n\nKevin: The company I worked for was bought by another company. The two companies merged together, so there were a lot of redundancies. The company offered to keep me, but they wanted me to take a 20% salary cut. I refused to take the salary cut, and I was let go.\n\nInterviewer: So, you weren’t let go for your performance or any disciplinary issues?\n\nKevin: No, I was not. My manager helped me find a new job and I still speak with him to this day. It was just one of those situations that couldn’t be avoided.\n\nInterviewer: I completely understand.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Are you better at anticipating or reacting to problems?",
+        "title": "What is your leadership style?",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/30a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/37a.mp3",
-        "dialog": "Interviewer: Are you better at anticipating or reacting to problems?\nGreg: Honestly, I think that I am good at both. I try to think ahead and predict what problems will occur, and then I try to prevent them from happening. But I also prepare in order to handle potential problems if they do happen. At the same time, when an unexpected problem happens, I am able to stay calm and deal with the problem.\n\nInterviewer: That’s good to hear. Which one do you think is more important – anticipating or reacting?\n\nGreg: I definitely think that anticipating is more important than reacting. If you can anticipate problems, then you can stop them before they actually happen. As they say, an ounce of prevention is worth a pound of cure.\n\nInterviewer: That is one of my favorite proverbs.\n\nGreg: Me too. My mother used to say it a lot when I was young.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "In your previous position, how much time did you spend in meetings?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/20a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/58a.mp3",
-        "dialog": "Interviewer: In your previous position, how much time did you spend in meetings?\nSharon: At my previous company, we had at least a few meetings each week. Each meeting lasted anywhere from 30 minutes to 3 hours. During the meetings, we planned new projects, discussed problems and issues, and assigned tasks and responsibilities.\n\nInterviewer: Did you find these meetings to be helpful?\n\nSharon: For the most part, the meetings were useful and productive. We were able to discuss ideas and work together to come up with strategies and plans. I think our team was successful because we worked well together in these meetings.\n\nInterviewer: How did you behave during these meetings?\n\nSharon: I listened with an open mind to everyone’s ideas and I shared my ideas and opinions whenever I thought they would be helpful.\n\nInterviewer: Would you feel comfortable leading a meeting?\n\nSharon: Yes, I would. Actually, I have led a couple of meetings before. Whenever my boss was sick or away on business, I was in charge of leading the meetings.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What do you consider your biggest strength?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_20-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/65a.mp3",
-        "dialog": " \nInterviewer: What do you consider your biggest strength?\nMark: I think that my attention to detail is my greatest strength. This has helped me greatly during my career as a project manager.\n\nInterviewer: How has it helped you?\n\nMark: My attention to detail helps me make sure that all parts of a project are completed correctly. I think that attention to detail can help make a good project into a great project.\n\nInterviewer: Can you give a specific example about this?\n\nMark: Many project managers do not pay enough attention to the quality of the images that they use in advertisements or on the company website. It may seem like a small part but having high-quality images can make a big difference.\n\nInterviewer: I completely agree with you. Sometimes certain aspects get overlooked.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "During university, how did you spend your vacations?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/88a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/25a.mp3",
-        "dialog": "Interviewer: During university, how did you spend your vacations?\n\nBill: I worked every vacation in order to have enough money for the next semester.\n\nInterviewer: Where did you work?\n\nBill: I worked at a restaurant in my hometown as a dishwasher.\n\nInterviewer: That sounds like hard work.\n\nBill: It was hard, but I think that job taught me a lot of useful lessons. It showed me how hard it is to make money in this world. It also gave me the motivation to study harder because I knew that I did not want to wash dishes my whole life.\n\nInterviewer: And what did you do when you weren’t working?\n\nBill: I would either see my old friends from high school or I would prepare for my next semester’s classes. I always bought the textbooks early, so I could prepare.\n\nInterviewer: That must be why you got such great scores in university.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How would your former boss describe your personality?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/15a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/10a.mp3",
-        "dialog": "Interviewer: How would your former boss describe your personality?\n\nTina: I think my former boss would describe me as active and helpful. She always used to say that I was a great team player.\n\nInterviewer: Why did she say that?\n\nTina: She said that because I enjoy working in a group, and I like helping my co-workers. For example, if I finish all of my work for the day and I am getting ready to head home, but then I see a co-worker working late, I will usually offer to stay late and help them.\n\nInterviewer: That is very kind of you.\n\nTina: I believe that co-workers should help each other whenever possible. It creates a better working environment for everyone and helps the group produce better results.\n\nInterviewer: I couldn’t agree with you more.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Tell me about the best manager you ever had.",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/76a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/46a.mp3",
-        "dialog": "Interviewer: Tell me about the best manager you have ever had.\nTina: The best manager that I have ever had was Mary Washington. She was my manager at my first job and everybody liked and respected her. Not only was she smart and talented, but she was also kind.\n\nInterviewer: What do you think made her such an effective manager?\n\nTina: She was a great communicator. She was able to explain her goals and ideas clearly to the staff and everybody knew what was expected of them. But Mary Washington was also a great listener. If an employee had an idea, suggestion, or complaint, she would always listen and discuss the issue with the employee.\n\nInterviewer: What was the most important thing that you learned from her?\n\nTina: I would say that the most important thing that I learned from her was how to deal with people. If you listen to other people and speak to them honestly and respectfully, then you can make strong relationships.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How often did you give sales presentations at your last job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/43a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/55a.mp3",
-        "dialog": "Interviewer: How often did you give sales presentations at your last job?\nGreg: I never gave sales presentations at my last job. I worked on the sales team and I helped prepare the presentations, but a more senior member always gave the presentation.\n\nInterviewer: This job requires that you make sales presentations often. Do you feel like you will be able to do that successfully?\n\nGreg: Absolutely. Like I said, I spent a lot of time preparing presentations, so I know exactly how to prepare an excellent and persuasive presentation. Also, I have watched experienced salespeople give many presentations, and I know that I have the ability to do it, too.\n\nInterviewer: Do you have any experience speaking in public?\n\nGreg: Of course. I was on the debate team when I was in university and I gave weekly presentations to management at my previous job. I feel comfortable speaking in front of other people, and I know that I would be able to do a good job.\n\nInterviewer: Well, I like your confidence. And it is good that you have some experience speaking in public.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Tell us about your work background.",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/42a.mp3",
-        "dialog": "Interviewer: Tell me about your work background.\nKaren: I have only held one position. I worked as an IT specialist for a multinational corporation. I started that job immediately after graduating from university and I worked there for 6 years.\n\nInterviewer: And why did you decide to leave that position?\n\nKaren: To be honest, I feel like I am ready for a new challenge. I am hoping to use my skills and knowledge to help create tech products for consumers.\n\nInterviewer: How do you think your experience would help you in this job?\n\nKaren: I have in-depth knowledge of current technology and I know what features make technology easy to use and what features ruin the user’s experience. I believe I could contribute a lot to making great products.\n\nInterviewer: That’s great to hear.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How do you deal with stressful situations?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/30a.mp3",
-        "dialog": "Interviewer: How do you deal with stressful situations?\n\nSharon: I usually take a break in order to clear my mind. I try to separate myself from the stressful situation.\n\nInterviewer: How do you separate yourself?\n\nSharon: Usually I take a walk, but sometimes I do other things like enjoying a cup of coffee in the park, calling my mom, or going to the gym. Really, I try to do anything that takes my mind off the problem.\n\nInterviewer: Can you give me an example of when you did this?\n\nSharon: Sure. About six months ago I faced a major problem. My client was demanding that we complete their order by a certain date, but my production staff kept telling me that it was impossible. This was very stressful. So, I took a little break and gave everybody some time to calm down, and then I went back and talked to everybody again. In the end, we were able to reach a compromise that satisfied everybody.\n\nInterviewer: That’s great. Similar situations occur quite often at our company.\n\nSharon: Well, I have a lot of experience dealing with those situations.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What professional weakness do you have?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_41-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/67a.mp3",
-        "dialog": "Interviewer: What professional weakness do you have?\nJon: I think that I need to improve my Excel skills. As you know, it is very important to be proficient in Excel if you want to work in this industry.\n\nInterviewer: Are you saying that you are not good at using Excel?\n\nJon: Compared to most people, I am great at using Excel. I have a lot of experience working with it, but I think that I could be even better.\n\nInterviewer: So, how do you plan to improve?\n\nJon: I am currently taking an advanced Excel skills course online. It has been very helpful so far, and I hope to learn a lot of advanced techniques that I can use in my job.\n\nInterviewer: It is good that you being proactive about improving your weakness.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Do you have any leadership experience?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/17a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/60a.mp3",
-        "dialog": "Interviewer: Do you have any leadership experience?\nAbby: I do have some leadership experience. Two years ago, my manager had a baby and she took six months off for maternity leave. During that time, I was the temporary manager of the sales team.\n\nInterviewer: How did it go?\n\nAbby: At first it was difficult. I had worked with many of the staff members as co-workers for a long time, but suddenly I was their boss. It took some time to get used to, but after a couple weeks, I settled into the position.\n\nInterviewer: What was the biggest challenge you faced and how did you deal with it?\n\nAbby: The biggest challenge was making decisions regarding our sales strategy. Every sales member had different ideas about what we should do, but it was my job to come up with a plan for the whole team. I listened to everybody, thought about it for a while, and then I made my decision. After I made my decision, I explained my reasons to everybody.\n\nInterviewer: How did everyone react?\n\nAbby: Of course, some people disagreed. I listened to what they had to say, but I was firm in my decision. I was the acting manager, so they needed to respect my decision.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How would your former co-workers describe you?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/43a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/11a.mp3",
-        "dialog": "Interviewer: How would your former co-workers describe you?\n\nMark: I think that they would say that I am a hardworking person but also fun to work with.\n\nInterviewer: And why do think they would say that?\n\nMark: My colleagues always know that I take my work seriously. I want to do my best and I want my projects to have good results. However, I do like to joke around and have fun when it is appropriate. I think humor can improve results, productivity, and the work environment.\n\nInterviewer: Can you explain why you think that?\n\nMark: Humor helps people stay relaxed. I think a relaxed and fun working environment where people enjoy working together is better than an uptight and stressful working environment. If people are stressed and burnt out, I think they are more likely to make mistakes and less likely to come up with new and creative ideas.\n\nInterviewer: That’s an interesting point.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What are your weaknesses?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_24-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/66a-1.mp3",
-        "dialog": "Interviewer: What are your weaknesses?\nSharon: I feel that my biggest weakness is not paying enough attention to detail. I enjoy creating overall strategies and plans. Sometimes, I am so focused on the big picture that I forget some details and this can affect the quality of the work.\n\nInterviewer: How are you trying to improve this weakness?\n\nSharon: I think the best way to improve this weakness is to just be aware of it. I constantly remind myself to focus not only on the big issues but also on the details.\n\nInterviewer: Is there any specific technique or method that you use?\n\nSharon: Yes. At the beginning of a project, I make a list of all the details that I need to check. And if I think of a new one during the project, I immediately add it to the list. This has helped me improve my attention to detail which has helped improve the overall quality of my projects.\n\nInterviewer: That’s a good method.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What are you interested in?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/108a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/16a.mp3",
-        "dialog": "Interviewer: What are you interested in?\n\nKaren: I have been interested in playing the guitar since I was young. And recently, I have started learning how to play the drums.\n\nInterviewer: That’s impressive. You must be very talented.\n\nKaren: No. I am just okay, but I think that music helps keep me balanced. Playing music relieves my stress and helps me forget about work.\n\nInterviewer: Do you get a lot of stress from work?\n\nKaren: Not really. But I think it is important to have a good work-life balance and to have hobbies outside of work. I don’t think that it is healthy to focus only on work.\n\nInterviewer: I agree with that. So, do you think you have a good work-life balance?\n\nKaren: Most of the time, I think I do a good job. Sometimes, I will become very focused on a project or some task and I need to remind myself to take a break and do something else.\n\nInterviewer: I am the same way.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How do you handle conflict?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/111a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/40a.mp3",
-        "dialog": "Interviewer: How do you handle conflict?\nSharon: I guess it depends on the situation, but in general I like to stay calm and avoid yelling or fighting. I think if two people have a disagreement, then first they should spend some time apart. Second, they should sit down and discuss the situation. After that, if they cannot come to a compromise, then they should ask their boss or another colleague to mediate.\n\nInterviewer: That is a very specific answer.\n\nSharon: Actually, I have a lot of experience dealing with this.\n\nInterviewer: That’s right. I see here on your resume that you spent two years working in the human resources department.\n\nSharon: That’s correct. One of my roles, when I was working in human resources, was to train the employees about how to handle conflict.\n\nInterviewer: That’s great.\n\nSharon: I learned a lot about people during that time, and what I learned in that job still helps me.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What professional strengths do you have?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_10-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/62a.mp3",
-        "dialog": "Interviewer: What professional strengths do you have?\nCarly: I am very good at analyzing data. When I look at data, I can find trends and I am able to understand the reasons why those trends are happening. I think this is an essential skill for a marketing manager, and I think it is a major reason why I have been successful in this field.\n\nInterviewer: What would this strength bring to our company?\n\nCarly: Knowledge is power. I can identify short-term and long-term trends that affect your business greatly. I can find industry and consumer trends, and I can have a deep understanding of what is driving business. With this information, I can create the most effective marketing strategies that will help grow sales for the company.\n\nInterviewer: Where did you learn to do this?\n\nCarly: I learned how to analyze data when I attended university and at my first job, but I think I have a natural ability to find and understand the fundamental reasons why a trend is happening.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How long have you worked at your current job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/3a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/43a.mp3",
-        "dialog": "Interviewer: How long have you worked at your current job?\nBill: I have been working at the company for 12 years. I worked for 8 years as a sales associate, and I have been a sales manager for 4 years.\n\nInterviewer: And after 12 years, why are you thinking about leaving?\n\nBill: I think now is the right time for me to move on to my next challenge. I have accomplished a lot at my current job, but I am ready to take the next step in my career.\n\nInterviewer: And what would you hope to accomplish here?\n\nBill: I would like to have the opportunity to become the director of the sales department at your company. I want to turn this sales department into the most effective and successful in the industry.\n\nInterviewer: I like your ambition.",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/27a.mp3",
+        "dialog": "Interviewer: What is your leadership style?\n\nGreg: I believe that people work best when they have a certain amount of freedom. I want to give my staff clear goals and direction, but I prefer to let them decide what is the best way to achieve that goal.\n\nInterviewer: Why do you think this style is effective?\n\nGreg: I think it helps motivate people to do their best. If you micromanage people or just order them to do things, then they will not feel valued and they will not produce solid work.\n\nInterviewer: What would you do if a staff member did something that you disagreed with?\n\nGreg: I would give them honest and direct feedback and I would listen to their ideas and opinions. Hopefully, we would be able to work together and come to an agreement about what should be done.\n\nInterviewer: I see. It seems like your management style would fit our company culture quite well.\n\nGreg: I am happy to hear that.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -468,82 +531,73 @@
         "enable": 1
     },
     {
-        "title": "What courses at university did you like the least?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/110a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/24a.mp3",
-        "dialog": "Interviewer: What courses at university did you like the least?\n\nKaren: I would have to say that my least favorite courses were English classes.\n\nInterviewer: And why is that?\n\nKaren: I like speaking and practicing my English, but I hate reading English novels. Actually, I do not even like reading novels in my native language which is German.\n\nInterviewer: So, you don’t enjoy reading?\n\nKaren: I like to read, but I prefer non-fiction books. But in English classes, we almost always had to read novels. On top of that, most of the novels were very old, so the English in the novels was a little strange to me.\n\nInterviewer: I know what you mean. I am a native English speaker, but sometimes the English in those old novels is hard for me to read.\n\nKaren: For me, Shakespeare was the worst.\n\nInterviewer: I agree. I hated reading Shakespeare when I was in school.",
+        "title": "What motivates you?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/23a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/33a.mp3",
+        "dialog": "Interviewer: What motivates you?\nKevin: Doing a good job and achieving my goals is what motivates me. I am a very results-driven person. I enjoy competition and I want to succeed.\n\nInterviewer: How do you feel if you do not achieve your goal?\n\nKevin: Well, of course, I feel somewhat disappointed. But I also think that failure is a great way to learn. I try to think about why I did not achieve my goal and figure out a way to improve, so the same thing does not happen again.\n\nInterviewer: Does your competitiveness ever affect your ability to work with your co-workers?\n\nKevin: Never. I like to compete, but I prefer to compete with my team members not against them. The best feeling is when my team succeeds and my company does well because of work that I was involved in.\n\nInterviewer: That is good to hear.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What can you tell me about yourself?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/8a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/6a.mp3",
-        "dialog": "Interviewer: What can you tell me about yourself?\n\nKaren: I am originally from Germany, but my family moved to Los Angeles when I was 15 years old and I have lived in Los Angeles since then. I am a very outgoing person who loves to be around other people, and I enjoy doing physical activities.\n\nInterviewer: What kind of physical activities do you like?\n\nKaren: I like to do anything outside like mountain biking, kayaking, or fishing. But I would have to say that my favorite activity is walking my dogs in the park near my house.\n\nInterviewer: Oh, you have dogs! What kind of dogs do you have?\n\nKaren: I have two golden retrievers.\n\nInterviewer: Does caring for two pets affect your ability to work late if needed?\n\nKaren: No, it doesn’t. My husband has a flexible schedule, so he is always able to take care of the dogs when I am busy.\n\nInterviewer: That’s good to hear.",
+        "title": "What professional strengths do you have?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_10-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/62a.mp3",
+        "dialog": "Interviewer: What professional strengths do you have?\nCarly: I am very good at analyzing data. When I look at data, I can find trends and I am able to understand the reasons why those trends are happening. I think this is an essential skill for a marketing manager, and I think it is a major reason why I have been successful in this field.\n\nInterviewer: What would this strength bring to our company?\n\nCarly: Knowledge is power. I can identify short-term and long-term trends that affect your business greatly. I can find industry and consumer trends, and I can have a deep understanding of what is driving business. With this information, I can create the most effective marketing strategies that will help grow sales for the company.\n\nInterviewer: Where did you learn to do this?\n\nCarly: I learned how to analyze data when I attended university and at my first job, but I think I have a natural ability to find and understand the fundamental reasons why a trend is happening.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "How often did you give presentations at your last job?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/54a.mp3",
-        "dialog": "Interviewer: How often did you give presentations at your last job?\nCarly: I was required to give presentations quite often at my previous job. I gave sales presentations to potential clients in order to gain their business. I also gave presentations to existing customers to inform them of our results and to demonstrate how our firm added value to their business. On top of that, I gave weekly presentations to the sales director to inform her about our progress.\n\nInterviewer: You have a lot of experience giving presentations.\n\nCarly: Yes, I do. I feel very comfortable speaking in front of others and I can be quite persuasive. I think giving presentations is one of my strengths.\n\nInterviewer: Would you feel comfortable speaking in front of a large audience?\n\nCarly: Yes, I would feel comfortable doing that. Speaking in front of a large audience does not bother me at all.\n\nInterviewer: That is good to hear.",
+        "title": "What professional weakness do you have?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_41-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/67a.mp3",
+        "dialog": "Interviewer: What professional weakness do you have?\nJon: I think that I need to improve my Excel skills. As you know, it is very important to be proficient in Excel if you want to work in this industry.\n\nInterviewer: Are you saying that you are not good at using Excel?\n\nJon: Compared to most people, I am great at using Excel. I have a lot of experience working with it, but I think that I could be even better.\n\nInterviewer: So, how do you plan to improve?\n\nJon: I am currently taking an advanced Excel skills course online. It has been very helpful so far, and I hope to learn a lot of advanced techniques that I can use in my job.\n\nInterviewer: It is good that you being proactive about improving your weakness.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "Are you a leader or a follower?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/46a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/39a.mp3",
-        "dialog": "Interviewer: Are you a leader or a follower?\nMark: I think I am more of a follower, but I can lead if I need to.\n\nInterviewer: Can you explain a little more, please?\n\nMark: Sure. Well, if I am working with people who have more experience or who are natural leaders, then I feel very comfortable following them. I still speak my mind and share my opinion, but I’ll let them take charge.\n\nInterviewer: I see.\n\nMark: But on the other hand, if there is a situation in which nobody is leading but a leader is required, then I will fill that role.\n\nInterviewer: Why do you think that is the best way?\n\nMark: I think that the most qualified person should be the leader. If I am the most qualified person, then I will be the leader, but I won’t force my way into being the leader if I am not the best person for the job.\n\nInterviewer: I think that is very reasonable.",
+        "title": "What was your favorite job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/89a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/47a.mp3",
+        "dialog": "Interviewer: What was your favorite job?\nMark: My favorite job was working as a financial analyst. I loved looking at the data and information for certain companies and industries and trying to figure out what was going to happen in the future. The job was challenging and exciting. That is why I am applying for this financial consultant position.\n\nInterviewer: I see. What made working as a financial analyst challenging?\n\nMark: As you know, the financial industry is fast-paced and competitive. There is a lot a pressure to succeed and nobody wants to hear excuses about why you failed to reach your goals. But that is the kind of environment that I enjoy working in.\n\nInterviewer: Why is that?\n\nMark: I cannot stand to be bored and I do not want to do a job where every day is the same. I need a job that is fast-paced and exciting. I think that pressure and competition make a job more interesting.\n\nInterviewer: Well then, it sounds like the financial industry is a perfect fit for you.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "Can you tell me a little about yourself?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/7a.mp3",
-        "dialog": "Interviewer: Can you tell me a little about yourself?\n\nBill: I am a hardworking guy who likes to compete. At work, I want to do the best work possible, and I want my team, department, and company to do well and to beat the competition.\n\nInterviewer: Outside of work, what kind of competitive things do you do?\n\nBill: I enjoy playing sports. I play on a baseball team with my friends every weekend and recently I have taken up golf.\n\nInterviewer: I love golf!\n\nBill: I haven’t been playing long, so I am still terrible at it.\n\nInterviewer: That is how everyone is at first. If you keep practicing, you will get better and it will be more enjoyable.\n\nBill: I hope so.\n\nInterviewer: Anyway, it is good that you are competitive because our industry is very competitive and we need people who are driven to succeed.",
+        "title": "What was your major?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/76a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/22a.mp3",
+        "dialog": "Interviewer: What was your major?\n\nAbby: When I was an undergraduate student, I majored in communications at Rutgers University. After a few years of working, I went back to school and got my MBA from Boston University.\n\nInterviewer: That is very impressive. Why did you decide to get a master’s degree in business?\n\nAbby: Well, after I graduated from Rutgers, I started working in the PR department of a large corporation. I liked the work environment and I decided that I wanted to become a manager. I thought that having an MBA would help me advance my career.\n\nInterviewer: Did you work while you were getting your MBA?\n\nAbby: During the first year, I took online courses and attended night school. But for the second year, I took a year off work to attend school full-time. It helped me finish the program faster and allowed me to focus solely on studying. I really enjoyed that time.\n\nInterviewer: And then after finishing the MBA course, did you go back to the same company?\n\nAbby: Yes, I did.\n\n",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What do you like to do when you are not in the office?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/94a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/20a.mp3",
-        "dialog": "Interviewer: What do you like to do when you are not in the office?\n\nTina: Honestly, I prefer to stay home.\n\nInterviewer: What do you like to do at home?\n\nTina: Quite a few things. First, I really enjoy reading at home. I go to the library and check out three or four books each month. Second, I like to work in my garden. I started a garden about three years ago and I grow all sorts of vegetables. And third, I like to play with my cats.\n\nInterviewer: All of those sound nice. How did you get into gardening?\n\nTina: One day, I was just looking at my backyard and I thought it looked really empty. Then suddenly, I had the idea to start a garden. I went to the store that day and I bought all the supplies and started planting.\n\nInterviewer: That’s amazing.\n\nTina: That is my style. I like to take action. When I decide to do something, I do it 100%.",
+        "title": "What was your salary at your last job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/12a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/50a.mp3",
+        "dialog": "Interviewer: What was your salary at your last job?\nAbby: The salary for my last job was $45,000 per year, but I felt that it was low.\n\nInterviewer: Can you explain why you felt that way?\n\nAbby: $45,000 is about the average salary for a sales associate in this industry, but my sales numbers were always way above average. I was in the top three of sales at my company every quarter.\n\nInterviewer: Then, why do you think your previous company did not give you a raise?\n\nAbby: It is because even though I was performing well, the company as a whole was not doing well. We were often outperformed by our competition and we were having a hard time gaining market share.\n\nInterviewer: Is salary the main reason that you left your last company?\n\nAbby: The main reason that I left my last company is that I want to have more responsibilities and I want more opportunities to advance my career. But salary was also a factor.\n\nInterviewer: I understand.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "What are your interests?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/107a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/15a.mp3",
-        "dialog": "Interviewer: What are your interests?\n\nKevin: I am interested in many things, but I would say that my biggest interests are sports and psychology.\n\nInterviewer: Psychology?\n\nKevin: Yes. That is one of the reasons that I am applying for this marketing position. I am fascinated by why people act in certain ways and why they make certain decisions.\n\nInterviewer: Do you think this interest would help you in this position?\n\nKevin: Absolutely. If you can understand why a person makes a decision, then you can use that information to influence them. So, I think that psychology and marketing are connected.\n\nInterviewer: That’s very interesting. Can psychology also help you deal with your co-workers?\n\nKevin: It can, but I think it is harder because with a co-worker you are dealing with just one individual and every person has different traits and characteristics that make them unique.\n\nInterviewer. I see. I wish we had more time to talk about his. It is very interesting.",
+        "title": "What were your responsibilities at your last job?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/18a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/56a.mp3",
+        "dialog": "Interviewer: What were your responsibilities at your last job?\nTina: As a store manager, I was in charge of making sure everything in the store was operating correctly. I supervised the employees to make sure everybody was working hard and staying on task. I interviewed and hired new staff when needed. I created the work schedule for the employees. And I was also in charge of finding new ways to improve the store’s design, service, and efficiency.\n\nInterviewer: You had a lot of responsibilities. Which one was the most difficult for you?\n\nTina: It might come as a surprise but making the employee schedule was the most difficult. It was impossible to make everybody happy. There were always times and days that people did not want to work.\n\nInterviewer: How did you handle it?\n\nTina: I just tried to be as fair as possible, and if somebody had a problem with the schedule, then I just explained the situation honestly and directly. I told them that everybody had to work some shifts that they did not want to work. Most people understood and there were never any major problems.\n\nInterviewer: I see. I think your management and leadership skills would be a good fit here.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
     },
     {
-        "title": "Why haven’t you gotten any offers yet?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/14a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/18a.mp3",
-        "dialog": "Interviewer: Why haven’t you gotten any offers yet?\n\nCarly: What do you mean?\n\nInterviewer: You said that you have been out of work for 3 months. I was curious why you haven’t received any offers yet.\n\nCarly: Well, I have only been interviewing for jobs for the past couple of weeks. And actually, I have received callbacks from 2 different companies asking for a second interview.\n\nInterviewer: I see. And will you go back for a second interview?\n\nCarly: I have interviews scheduled for next week, but I wanted to see how this interview went first.\n\nInterviewer: Why is that?\n\nCarly: To be honest, this position would be my first choice. I feel that I am a perfect fit for your company and for the position.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "In your previous job, how often did you use English?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/49a.mp3",
-        "dialog": "Interviewer: In your previous job, how often did you use English?\nJon: To be honest, I did not use English a lot. Occasionally, I had to write an email in English or participate in a conference call in English.\n\nInterviewer: Well, in this job, you will need to use English daily. Would you feel comfortable doing that?\n\nJon: Absolutely. I have been preparing for a position like this for years. I’ve been taking an English class every weekday for 2 years, and I study English on my own every day. One of the main reasons that I am applying for this job is that I want a chance to use my English skills in business.\n\nInterviewer: I see. It seems like your English is perfect.\n\nJon: Thank you very much. I am happy to hear you say that because I have put a lot of time and effort into learning English.\n\nInterviewer: So, what is your native language?\n\nJon: I grew up in Colombia, so my first language is Spanish, but I have been learning English since I was in elementary school. I also speak some Mandarin.",
+        "title": "When you attended university, what courses did you like the most?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/79a-390x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/23a.mp3",
+        "dialog": "Interviewer: When you attended university, what courses did you like the most?\n\nKevin: I was fascinated by all of my finance courses. Finance was my major, and I spent most of my time either studying finance or discussing finance with my classmates.\n\nInterviewer: Were there any classes not related to your major that interested you?\n\nKevin: Besides the finance classes, I would have to say that I liked classes about health and nutrition.\n\nInterviewer: That’s interesting. What made you interested in that?\n\nKevin: I am into health and exercise, so I found classes about health and nutrition to be very helpful. I liked learning about different methods to be healthy and how certain diets affect your body. I believe that if you take care of your body, then it will take care of you.\n\nInterviewer: I agree with that 100%. I am also into health and fitness.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -558,28 +612,10 @@
         "enable": 1
     },
     {
-        "title": "Could you briefly tell me about your work history?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/41a.mp3",
-        "dialog": "Interviewer: Could you briefly tell me about your work history?\nKevin: Sure. After I graduated high school, I got my first job at McDonald’s. I was promoted to manager after two years. Around the same time that I became a manager, I also started attending classes at the local college. In 2009, I got my bachelor’s degree in marketing, and I left my position at McDonald’s and I started working for Ford Motors in the marketing department. And I have been working there ever since.\n\nInterviewer: Was it difficult to work full time and go to school?\n\nKevin: To be honest, it was difficult. But I was highly motivated. I knew that I did not want to work in a fast food restaurant for the rest of my life, so I pushed myself every day.\n\nInterviewer: What did you learn from your time as a manager at McDonald’s?\n\nKevin: I learned a lot and I am grateful to McDonald’s for the opportunity they gave me. During that time, I learned how to deal with all kinds of people. I also learned a lot about time management.\n\nInterviewer: It sounds like you got a lot of good experience.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Have you ever done an internship?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/4a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/44a.mp3",
-        "dialog": "Interviewer: Have you ever done an internship?\nCarly: Yes, I have. I did a summer internship at Standard Investment last summer before my final year of university.\n\nInterviewer: What were your responsibilities?\n\nCarly: The other interns and I were in charge of gathering data and preparing reports for the financial analysts.\n\nInterviewer: Did you learn a lot during your time as an intern?\n\nCarly: I think it was a great experience for me. It got a first-hand look at how a real business operates, and I was able to get some real-world experience. I also learned that I want to work in the finance industry.\n\nInterviewer: It sounds like you got a lot out of that internship. May I contact your manager from Standard Investment?\n\nCarly: Absolutely.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How would your family describe you?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/45a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/12a.mp3",
-        "dialog": "Interviewer: How would your family describe you?\n\nSharon: My family would say that I am generous, talkative, and goofy.\n\nInterviewer: How does this compare with how you are at work?\n\nSharon: At work, I am still generous and a bit talkative, but I tend to be more serious. I think that the workplace requires more seriousness than when I am at home with my family or out with my friends.\n\nInterviewer: Okay. And why would your family say that you are generous?\n\nSharon: I like to share. I think it is better to enjoy things with other people rather than alone. Also, making other people happy makes me happy too. This also applies to work as well.\n\nInterviewer. That’s great to hear. We try to create a family-like environment at our company. We want everyone to get along, help each other, and be generous.\n\nSharon: I would have no problem doing that.",
+        "title": "Who is your mentor?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/21a-390x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/59a.mp3",
+        "dialog": "Interviewer: Who is your mentor?\nJon: My mentor is James Black. James is currently the editor of the Boston Globe newspaper. I met him when I was a junior reporter and he was a senior reporter for a financial magazine called Boom or Bust.\n\nInterviewer: How has he helped you in your career?\n\nJon: James has taught me a lot. He taught me how to do thorough research and how to make sure all the details of a story are correct before publishing it. Basically, he taught me how to be a professional reporter. Without him, I don’t think I would have been successful.\n\nInterviewer: Do you still keep in touch with him?\n\nJon: Yes, I do. I usually talk to him about once a week. We usually talk about current events and what is in the news, but I also still ask him for advice sometimes.\n\nInterviewer: You are lucky that you have somebody like James that you can go to for advice.\n\nJon: I agree. I’m lucky to have worked with James.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -594,46 +630,10 @@
         "enable": 1
     },
     {
-        "title": "Have you ever been fired?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/14a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/52a.mp3",
-        "dialog": "Interviewer: Have you ever been fired?\nKaren: To be perfectly honest, yes, I have.\n\nInterviewer: Can you tell me about what happened?\n\nKaren: At my previous job, I had trouble working with my manager. My manager constantly micromanaged the staff and if any staff member made a mistake he would yell at them in front of everyone. One time, he started yelling at me and insulting my work, and I told him honestly that I didn’t think it was my fault. Later, he told me that if I argued with him again in front of other people that he would fire me.\n\nInterviewer: So, what happened?\n\nKaren: The next time he got angry with me, I argued with him again. I felt like he was a bully and that I needed to stand up to him.\n\nInterviewer: Do you regret how you handled the situation?\n\nKaren: Not at all. I refuse to be treated that way. Actually, after I was fired, 3 other staff members ended up quitting because they realized it was not a healthy work environment.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What is something that you cannot do well?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/02/w_111-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/02/69a.mp3",
-        "dialog": "Interviewer: What is something that you cannot do well?\nKevin: To be honest, I am not very good at design. For example, I am not good at creating logos, visual advertisements, or picking colors for something.\n\nInterviewer: Does this affect your work since you are in marketing?\n\nKevin: No, it does not affect my work. My expertise is in creating the overall strategy, messaging, and writing for a marketing campaign. On a marketing team, there is usually a person who specializes in design, or the design work is outsourced to another company.\n\nInterviewer: I see. Are you trying to get better at design?\n\nKevin: To be honest, I am not. I know that I will never be good at design, so I let the people who are experts in design handle that work. I think that recognizing your own weaknesses and limitations is very important.\n\nInterviewer: I would agree with that. There is more than one way to contribute to a project.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "How do you handle change?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/17a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/34a.mp3",
-        "dialog": "Interviewer: How do you handle change?\nKaren: I like to think of change as a new opportunity. It can help me grow and develop as a person.\n\nInterviewer: Was there ever a time at work when you had to make a change that you did not want?\n\nKaren: One situation comes to mind. About three years ago, I was very comfortable working in the marketing department at my previous company. Then one day, my former boss came to me and told me that the company needed me to move to the business planning team. I did not want to move because I liked my job and co-workers in the marketing department.\n\nInterviewer: How did you react?\n\nKaren: I took some time to think about it and I agreed to move to the business planning team. The business planning team offered me a chance to learn some new skills, gain some new experience, and it was what the company needed me to do.\n\nInterviewer: It sounds like you are a team player.\n\nKaren: I try to be.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "Do you like working by yourself or on a team?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/9a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/29a.mp3",
-        "dialog": "Interviewer: Do you like working by yourself or on a team?\n\nMark: I prefer to work on a team, but I feel comfortable doing both.\n\nInterviewer: Why do you prefer working on a team?\n\nMark: Personally, it is more enjoyable to work on a team. Working with other people can help us create better ideas and it makes completing a project easier because team members can support each other.\n\nInterviewer: That’s true.\n\nMark: Also, when you work by yourself and are successful, it is great, but there is nobody to celebrate with. When you work on a team, you have a team spirit. When things are bad, you can support and encourage each other, and when things are good, team members can celebrate and feel proud together.\n\nInterviewer: That is good to hear because most of the time our employees need to work on teams to complete projects.\n\nMark: Well, that would be great for me. I know I can contribute to any team that I join.",
-        "catalog": "English Interview",
-        "thumbenable": 1,
-        "enable": 1
-    },
-    {
-        "title": "What are your hobbies?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/106a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/13a.mp3",
-        "dialog": "Interviewer: What are your hobbies?\n\nJon: My hobbies are reading, studying English, and doing yoga.\n\nInterviewer: What kind of things do you enjoy reading?\n\nJon: I read the newspaper every morning, but that is for work and to stay up to date with the latest news. But for fun, I enjoy reading novels.\n\nInterviewer: Do you read novels in English?\n\nJon: Sometimes. But it definitely takes me a little longer to read books in English than in Spanish which is my native language.\n\nInterviewer: That’s natural. Did you also say that you do yoga?\n\nJon: Yes. I do yoga at least 3 times a week. I think it is great for staying fit and for relieving stress.\n\nInterviewer: That sounds good. Maybe I should start yoga.\n\nJon: I highly recommend it.",
+        "title": "Why did you choose your major?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/25a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/26a.mp3",
+        "dialog": "Interviewer: I see on your resume that you majored in English, but you are applying for a marketing position. Why did you choose your major?\n\nCarly: English is not my first language. I am from France and my native language is French, but I have always enjoyed learning and studying English. So, when I went to university I decided to study what I enjoyed learning.\n\nInterviewer: I understand. And how do you think your English major could help you in this position?\n\nCarly: Well, English is all about communication. My classes taught me how to communicate effectively in English for both speaking and writing. Marketing is also about communication. We need to communicate effectively to consumers why they should use our product or service. I actually think the two are related more than people think.\n\nInterviewer: I think that is a very good answer. But do you feel like you have basic marketing skills?\n\nCarly: Yes, I do. I am also interested in marketing. I have read many marketing books and I also took 5 marketing classes when I was at university. I believe I have enough marketing skills and knowledge to do this job well.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
@@ -648,10 +648,10 @@
         "enable": 1
     },
     {
-        "title": "Are you an organized person?",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/28a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/36a.mp3",
-        "dialog": "Interviewer: Are you an organized person?\nCarly: Actually, I am both organized and unorganized. At work, I am very organized because I know that being organized is important to do a good job. But at home, I am not very organized. In my home, I don’t really mind if things are a little messy or out of place.\n\nInterviewer: So, what are some ways that you are organized at work?\n\nCarly: Well, I put all of my meetings, deadlines, and other events in my calendar. As soon as I get a new task or set up a meeting, the first thing I do is put it in my calendar.\n\nInterviewer: That’s a good habit to have.\n\nCarly: Also, I like to make a list every morning to figure out what I need to accomplish that day. I think that this helps me be more productive throughout the day.\n\nInterviewer: Do you keep your desk neat?\n\nCarly: Some people might think my desk looks messy, but there is a system.\n\nInterviewer: Don’t feel bad about that. I am the same way.",
+        "title": "Why haven’t you gotten any offers yet?",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/14a-300x220.jpg",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/11/18a.mp3",
+        "dialog": "Interviewer: Why haven’t you gotten any offers yet?\n\nCarly: What do you mean?\n\nInterviewer: You said that you have been out of work for 3 months. I was curious why you haven’t received any offers yet.\n\nCarly: Well, I have only been interviewing for jobs for the past couple of weeks. And actually, I have received callbacks from 2 different companies asking for a second interview.\n\nInterviewer: I see. And will you go back for a second interview?\n\nCarly: I have interviews scheduled for next week, but I wanted to see how this interview went first.\n\nInterviewer: Why is that?\n\nCarly: To be honest, this position would be my first choice. I feel that I am a perfect fit for your company and for the position.",
         "catalog": "English Interview",
         "thumbenable": 1,
         "enable": 1
