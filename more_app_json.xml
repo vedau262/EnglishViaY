@@ -4,13 +4,7 @@
 		"description":"0",
 		"url":"https://play.google.com/store/apps/details?id=com.video.kidvideo",		
 		"thumb_url":"https://lh3.googleusercontent.com/x2KhSopLl387dOm7c7mIi8qNn-5Fn6R08bqEnY2gk_wCyDDaSjZIEM76L7BTEM3KGvOz=s180-rw"
-	}, 
-	{
-		"title":"Việt TV",
-		"description":"3",
-		"url":"https://play.google.com/store/apps/details?id=com.tv.viettv",		
-		"thumb_url":"https://www.dropbox.com/s/fcakhe7ns2tsggt/VietTv.png?dl=1"
-	},
+	}
 	{
 		"title":"English Grammar",
 		"description":"1",
@@ -27,11 +21,5 @@
 		"description":"4",
 		"url":"https://play.google.com/store/apps/details?id=com.german.germantest",		
 		"thumb_url":"https://www.dropbox.com/s/f917n0e0fmcditj/icon-germany144x144.png?dl=1"
-	},  
-	{
-		"title":"Sách nói 2020",
-		"description":"2",
-		"url":"https://play.google.com/store/apps/details?id=com.glex.bestbookonline",		
-		"thumb_url":"https://www.dropbox.com/s/bidhzk4441upxk4/ic_launcher.png?dl=1"
 	}
 ]   
