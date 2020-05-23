@@ -46,7 +46,7 @@
     },
     {
         "title": "Be in Hot Water",
-        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/32a.mp3",
+        "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/97a-390x220.jpg",
         "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/41a.mp3",
         "dialog": "Trisha: You look worried Ryan. Is everything okay?\n\nRyan: Not really. I am in hot water because I lost a major client. The sales manager and sales director are both really upset with me. I’m kind of worried that I might get fired.\n\nTrisha: Do you think it is really that serious?\n\nRyan: It could be. My company is very competitive and unforgiving when it comes to results.\n\nTrisha: But you have been a good employee there for so long. Surely, they would give you another chance.\n\nRyan: I think they will, but I can’t be sure. I’ve seen people fired for less.\n\nTrisha: Well, try not to worry about it too much. Whatever happens, happens. You will be okay.\n\nRyan: Thanks, Trisha.",
         "catalog": "English Conversation Practice",
@@ -74,7 +74,7 @@
     {
         "title": "Be one’s Last Resort",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/8a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp",
+        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp3",
         "dialog": "Suzy: Our new product has been doing terrible. We launched it over three weeks ago, and our sales numbers have been awful so far.\r\n\r\nPete: Are we going to stop production of the product?\r\n\r\nSuzy: I think it is a little early for that. Stopping production is our last resort. We will try some other things first before we even think about doing that.\r\n\r\nPete: I see. Why do you think the product hasn’t been selling well?\r\n\r\nSuzy: I’m not really sure. Some people think it is because we haven’t done a good job of marketing the product, but other people think it is because the product is poorly made and it is getting bad reviews.\r\n\r\nPete: I hope it’s the former. It would be a lot easier to adjust our marketing strategy than fixing or redesigning the product.\r\n\r\nSuzy: I couldn’t agree more.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
