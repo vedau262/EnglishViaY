@@ -1,8 +1,8 @@
 [
     {
-        "catalogtitle": "Let's Learn English - Level 1",
-        "catalogthumb": "https:
-        "catalogdes": "Let's Learn English - Level 1",
+        "catalogtitle": "Beginning Level - Learn English - Level 1",
+        "catalogthumb": "https://gdb.voanews.com/59BE814D-FFA4-46E8-B424-8D22999808B6_w408_r0_s.png",
+        "catalogdes": "Beginning Level - Learn English - Level 1",
         "catalognumberbook": 52,
         "enablethumbnail": 1,
         "enablecatalog": 1,
