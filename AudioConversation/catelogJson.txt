@@ -1,6 +1,6 @@
 [
     {
-        "catalogtitle": "Beginning Level - Learn English - Level 1",
+        "catalogtitle": "Beginning Level - Learn English - Level 1 - VOA",
         "catalogthumb": "https://gdb.voanews.com/59BE814D-FFA4-46E8-B424-8D22999808B6_w408_r0_s.png",
         "catalogdes": "Beginning Level - Learn English - Level 1",
         "catalognumberbook": 52,
@@ -10,7 +10,7 @@
         "key": "LearnEnglishLevel1"
     },
     {
-        "catalogtitle": "Beginning Level - Learn English - Level 2",
+        "catalogtitle": "Beginning Level - Learn English - Level 2 - VOA",
         "catalogthumb": "https://gdb.voanews.com/59BE814D-FFA4-46E8-B424-8D22999808B6_w408_r0_s.png",
         "catalogdes": "Beginning Level - Learn English - Level 2",
         "catalognumberbook": 30,
@@ -18,6 +18,16 @@
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/VOA_BeginningLevel_LearnEnglishLevel2",
         "key": "LearnEnglishLevel2"
+    },
+    {
+        "catalogtitle": "Health & Lifestyle - VOA",
+        "catalogthumb": "https://gdb.voanews.com/0CB2C870-AEC9-4BB3-83F5-9B40546B65A9_cx0_cy7_cw0_w1023_r1_s.jpg",
+        "catalogdes": "Health & Lifestyle - VOA",
+        "catalognumberbook": 10,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/Health_Lifestyle.txt",
+        "key": "Health_Lifestyle"
     },
     {
         "catalogtitle": "200 English Conversations",
