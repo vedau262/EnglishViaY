@@ -1,5 +1,61 @@
 	[	
 		{	
+			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Z3VRSx7aO2A/maxresdefault.jpg",
+			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/100%20English%20conversation%20with%20subtitle",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Learn And Practice English",
+			"LIST_VIDEO_SIZE": "16",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTftnj12BSO3L5u0oz2fPWxdGAW-H0Fl164tf8gc8FWpSSkTHZ&s",
+			"LIST_VIDEO_ID": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Learn%20and%20Practice%20English",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/a4z1ss6hhksuerl/Learn%20and%20Practice%20English.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Daily English Conversation",
+			"LIST_VIDEO_SIZE": "22",
+			"LIST_VIDEO_ICON": "https://live-english.net/wp-content/uploads/2018/06/Adding-Daily-English-Conversation-To-Your-Routine-750x315.png",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71RWbgct33qQZx3qLU4PI1S",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Daily%20English%20conversation",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/iosl5dhb0in776s/Daily%20English%20conversation.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Communication Skil In The Offfice",
+			"LIST_VIDEO_SIZE": "15",
+			"LIST_VIDEO_ICON": "https://enovatelab.org/wp-content/uploads/2018/09/EnSkill_Business_communication-e1538325090772-1030x396.jpg",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Communication%20skil%20in%20the%20offfice",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ow7wxsjp22sk2ga/Communication%20skil%20in%20the%20offfice.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Traveling Abroad",
+			"LIST_VIDEO_SIZE": "13",
+			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzBV_slVR86R09z7nD5vase17yXPGZTL2hLEtjDulckgol6f5Cg&s",
+			"LIST_VIDEO_ID": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Traveling%20abroad",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4m26mjspu87n3ky/Traveling%20abroad.txt?dl=1"			
+		},
+		{	
+			"LIST_VIDEO_NAME": "Conversation with Easy English",
+			"LIST_VIDEO_SIZE": "32",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/SesCepncmJ8/maxresdefault.jpg",
+			"LIST_VIDEO_ID": "PLhPfBpTj6VpT1lPC_dGwj1Zip_4dQQP_c",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ConversationEasyEnglish.json",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/xf6r9jce9bhbyah/ConversationEasyEnglish.json?dl=1"		
+		},
+		{	
+			"LIST_VIDEO_NAME": "Trips, Eating, Friends",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
+			"LIST_VIDEO_ID": "https://www.youtube.com/watch?v=D_KbXbNtQbc&list=PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any&index=19",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/TripEatingFriend",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/grneygd4ua5yln6/TripEatingFriend?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "English For Beginner Levels",
 			"LIST_VIDEO_SIZE": "30",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/7oOX48NOyTQ/maxresdefault.jpg",
@@ -86,61 +142,6 @@
 			"LIST_VIDEO_ID": "PL46706B4B3D2E6C5E",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/VOA%20-%20Agriculture%20Report",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/y1vpbby5lwdf2gm/VOA%20-%20Agriculture%20Report.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
-			"LIST_VIDEO_SIZE": "20",
-			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Z3VRSx7aO2A/maxresdefault.jpg",
-			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/100%20English%20conversation%20with%20subtitle",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Learn And Practice English",
-			"LIST_VIDEO_SIZE": "16",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTftnj12BSO3L5u0oz2fPWxdGAW-H0Fl164tf8gc8FWpSSkTHZ&s",
-			"LIST_VIDEO_ID": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Learn%20and%20Practice%20English",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/a4z1ss6hhksuerl/Learn%20and%20Practice%20English.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Daily English Conversation",
-			"LIST_VIDEO_SIZE": "22",
-			"LIST_VIDEO_ICON": "https://live-english.net/wp-content/uploads/2018/06/Adding-Daily-English-Conversation-To-Your-Routine-750x315.png",
-			"LIST_VIDEO_ID": "PLsqTu51IRC71RWbgct33qQZx3qLU4PI1S",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Daily%20English%20conversation",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/iosl5dhb0in776s/Daily%20English%20conversation.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Communication Skil In The Offfice",
-			"LIST_VIDEO_SIZE": "15",
-			"LIST_VIDEO_ICON": "https://enovatelab.org/wp-content/uploads/2018/09/EnSkill_Business_communication-e1538325090772-1030x396.jpg",
-			"LIST_VIDEO_ID": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Communication%20skil%20in%20the%20offfice",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ow7wxsjp22sk2ga/Communication%20skil%20in%20the%20offfice.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Traveling Abroad",
-			"LIST_VIDEO_SIZE": "13",
-			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzBV_slVR86R09z7nD5vase17yXPGZTL2hLEtjDulckgol6f5Cg&s",
-			"LIST_VIDEO_ID": "PLsqTu51IRC71hQsTuGfSk1ckFV1E4O-sR",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Traveling%20abroad",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/4m26mjspu87n3ky/Traveling%20abroad.txt?dl=1"			
-		},
-		{	
-			"LIST_VIDEO_NAME": "Conversation with Easy English",
-			"LIST_VIDEO_SIZE": "32",
-			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/SesCepncmJ8/maxresdefault.jpg",
-			"LIST_VIDEO_ID": "PLhPfBpTj6VpT1lPC_dGwj1Zip_4dQQP_c",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ConversationEasyEnglish.json",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/xf6r9jce9bhbyah/ConversationEasyEnglish.json?dl=1"		
-		},
-		{	
-			"LIST_VIDEO_NAME": "Trips, Eating, Friends",
-			"LIST_VIDEO_SIZE": "50",
-			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
-			"LIST_VIDEO_ID": "https://www.youtube.com/watch?v=D_KbXbNtQbc&list=PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any&index=19",			
-			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/TripEatingFriend",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/grneygd4ua5yln6/TripEatingFriend?dl=1"			
 		}
+		
 	]
