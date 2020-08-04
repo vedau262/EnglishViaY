@@ -133,6 +133,14 @@
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/SesCepncmJ8/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLhPfBpTj6VpT1lPC_dGwj1Zip_4dQQP_c",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/ConversationEasyEnglish.json",	
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/xf6r9jce9bhbyah/ConversationEasyEnglish.json?dl=1"			
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/xf6r9jce9bhbyah/ConversationEasyEnglish.json?dl=1"		
+		},
+		{	
+			"LIST_VIDEO_NAME": "Trips, Eating, Friends",
+			"LIST_VIDEO_SIZE": "50",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
+			"LIST_VIDEO_ID": "https://www.youtube.com/watch?v=D_KbXbNtQbc&list=PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any&index=19",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/TripEatingFriend",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/grneygd4ua5yln6/TripEatingFriend?dl=1"			
 		}
 	]

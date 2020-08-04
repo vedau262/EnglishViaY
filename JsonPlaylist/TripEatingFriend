@@ -1,0 +1,2260 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "G8lXEtVsTK5D-mvdnMlXXJQ8q3E",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "an3z8AlvmWfFj9BHa4YMY1eAJ9s",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-07-11T13:49:07Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 1 - Level 3 | ACES Education",
+        "description": "Chapter 1: Going to the Zoo\nGREG: \"Hey Steve. My family and I want to do something fun this weekend? Do you have any suggestions?\"\nSTEVE: \"The weather is going to be nice. You should do something outdoors.\"\nGREG: \"Yeah, it's supposed to be sunny all weekend.\"\nSTEVE: \"How about a picnic at the park?\"\nGREG: \"We do that often. I want to do something more fun.\"\nSTEVE: \"How about the city zoo? I heard that bear cubs were recently born there.\"\nGREG: \"That's a good idea. We haven't been to the zoo in a long time.\"\nSTEVE: \"Then you should definitely go this weekend.\"\nGREG: \"The last time we were there, it started raining. None of the animals wanted to come out.\"\nSTEVE: \"That must've been boring.\"\nGREG: \"It was boring. The kids wanted to go home early.\"\nSTEVE: \"The animals should be more visible since the weather is going to be sunny this weekend.\"\nGREG: \"Yeah. I think we will go to the zoo. Hopefully, this time it'll be more fun.\"\nSTEVE: \"Actually, I have four tickets to the zoo. You can have them. Our family won't be able to go. The tickets expire this weekend.\"\nGREG: \"Thanks, Steve! Let me pay you for them. Zoo tickets are expensive.\"\nSTEVE: \"Don't worry about it. It's my gift to you since your last visit was not fun.\"\nGREG: \"Are you sure! This is very generous of you.\"\nSTEVE: \"Also, you mowed my lawn a few times after I had back surgery last year. I really appreciated that.\"\nGREG: \"I'm glad we're neighbors.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABM6REWyZR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABM6REWyZR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABM6REWyZR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABM6REWyZR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ABM6REWyZR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ABM6REWyZR8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BZQYro_K48FMYNoJKxVjxJCbMnU",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-07-11T14:17:04Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 2 - Level 3 | ACES Education",
+        "description": "Chapter 2: Afternoon Picnic\nCATHY: \"Mom, can we have a picnic this afternoon?\"\nMOM: \"Sure, Cathy. Where should we have it?\"\nCATHY: \"How about the lake?\"\nMOM: \"That's a great idea.\"\nCATHY: \"What should we pack for lunch?\"\nMOM: \"I can make ham sandwiches and potato salad.\"\nCATHY: \"Yummy. I love ham sandwiches and potato salad.\"\nMOM: \"Tell your sisters about the picnic.\"\nCATHY: \"Ok. I think it is going to get hot later today.\"\nMOM: \"That's good. It will be a good day for a swim in the lake.\"\nCATHY: \"I'll tell Cindy and Alison to wear their swimsuits.\"\nMOM: \"Don't forget to pack your life jackets too.\"\nCATHY: \"Ok. Will Andy be joining us?\"\nMOM: \"Of course, your brother will be joining us. Where is he?\"\nCATHY: \"He's taking a nap on the couch.\"\nMOM: \"Let's wake him up.\"\nCATHY: \"You can wake him up. I'll get my sisters.\"\nMOM: \"Andy, wake up. We're going to the lake.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUrgfMxOWaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUrgfMxOWaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUrgfMxOWaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUrgfMxOWaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUrgfMxOWaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SUrgfMxOWaQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JH5gELtdIjVwavb0RYk5WbIezeg",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-07-17T04:57:56Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 3  - Level 3 | ACES Education",
+        "description": "Chapter 3: Picnic by the Lake\nJOE: \"Hi Mike. What are you doing today?\"\nMIKE: \"Hi Joe. My family and I are going to the lake. We're going to have picnic.\"\nJOE: \"That sounds like fun.\"\nMIKE: \"Do you want to join us?\"\nJOE: \"May I? I would love to join.\"\nMIKE: \"Sure. We are leaving at 10:30.\"\nJOE: \"Ok. Let me ask my parents. What should I bring?\"\nMIKE: \"You should pack swim trunks and a life jacket.\"\nJOE: \"Ok. How about food?\"\nMIKE: \"My parents are going to pack some food. There will be plenty for you too.\"\nJOE: \"Thanks. I'll be back as soon as possible.\"\nMIKE: \"Try to come back before 10:30.\"\nJOE: \"I will. If I can't go, I will call you.\"\nMIKE: \"I hope you can come with us.\"\nJOE: \"Me too. I have no plans today.\"\nMIKE: \"See you soon.\"\nJOE: \"I hope so!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iaPb-51LPEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iaPb-51LPEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iaPb-51LPEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iaPb-51LPEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iaPb-51LPEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iaPb-51LPEI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A5E22_y_5fWjIBQxtn6yGYy-pAM",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-07-20T09:58:48Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 4 - Level 3 | ACES Education",
+        "description": "Chapter 4: Going to the Lake\nCATHY: \"Dad, what are we doing today?\"\nDAD: \"Cathy, it's a surprise.\"\nCATHY: \"Is it a special occasion?\"\nDAD: \"No. Just a short family trip.\"\nCATHY: \"Does Mom know?\"\nDAD: \"Of course. It was her idea.\"\nCATHY: \"Where is Mom?\"\nDAD: \"She is at the store getting things for our trip.\"\nCATHY: \"I'm so curious. Can you please tell me?\"\nDAD: \"No. You have to be patient.\"\nCATHY: \"Ok. Can I help you with anything?\"\nDAD: \"Sure. Why don't you pack your swimsuit and life jacket?\"\nCATHY: \"I know what we're doing!\"\nDAD: \"You do?\"\nCATHY: \"Yes. We're going to the lake!\"\nDAD: \"How did you know?\"\nCATHY: \"You asked me to pack a swimsuit and a life jacket. Also, you are pulling out the canoe from the garage.\"\nDAD: \"It looks like I can't keep a secret.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZAGdeNoshhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZAGdeNoshhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZAGdeNoshhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZAGdeNoshhw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZAGdeNoshhw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZAGdeNoshhw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cvc2ZgPWEbjmXMYhNFjVbn3hWc4",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-07-20T09:58:48Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 5 - Level 3 | ACES Education",
+        "description": "Chapter 5: Fishing with Dad\nTIMOTHY: \"Dad, what are we doing this weekend?\"\nDAD: \"I have a surprise for you, Timothy.\"\nTIMOTHY: \"What is it?\"\nDAD: \"Here. Open it.\"\nTIMOTHY: \"I think I know what it is?\"\nDAD: \"Can you tell by the shape?\"\nTIMOTHY: \"Yeah. Is it a fishing pole?\"\nDAD: \"Well, open it up and find out.\"\nTIMOTHY: \"It is! I love it. I've never gone fishing before.\"\nDAD: \"Your grandfather and I used to go fishing when I was a child. Now, I can take you.\"\nTIMOTHY: \"I can't wait!\"\nDAD: \"You also need a life jacket.\"\nTIMOTHY: \"Why?\"\nDAD: \"You should always wear a life jacket if you're going in a boat.\"\nTIMOTHY: \"Ok, dad.\"\nDAD: \"Now let's go to the fishing store and buy some bait.\"\nTIMOTHY: \"What's bait?\"\nDAD: \"Things that will attract the fish to the hook.\"\nTIMOTHY: \"Like worms?\"\nDAD: \"Exactly!\"\nTIMOTHY: \"This is going to be so much fun!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qf_oTEaSPiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qf_oTEaSPiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qf_oTEaSPiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qf_oTEaSPiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qf_oTEaSPiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qf_oTEaSPiE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mv7Lo2L3fH7_9C84Wu8jY2_QEmE",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-07-20T10:01:55Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 6 - Level 3 | ACES Education",
+        "description": "Chapter 6: Fishing with Buddies\nJAMES: \"Hey Phil, I'm so glad it's Friday.\"\nPHIL: \"I agree, James. It was a stressful work week.\"\nJAMES: \"Have any fun plans this weekend?\"\nPHIL: \"Yeah, I'm going fishing with my buddies.\"\nJAMES: \"Lucky!\"\nPHIL: \"Do you want to join us?\"\nJAMES: \"I can't. I'm helping my brother move. He recently bought a house.\"\nPHIL: \"That's too bad. We're going to have beautiful weather too.\"\nJAMES: \"I'm glad we're going to have good weather. I don't want to move boxes and furniture in the rain.\"\nPHIL: \"That's true. When are you going to be done?\"\nJAMES: \"I don't know. He has a lot of stuff. It could be all day.\"\nPHIL: \"Well, if you get done early, why don't you meet us at the lake?\"\nJAMES: \"Are you going out on a boat?\"\nPHIL: \"No, we're going to fish on the lake shore. None of us have a boat.\"\nJAMES: \"My brother has a boat. I can ask him if we can borrow it sometime.\"\nPHIL: \"That would be awesome! Thanks!\"\nJAMES: \"Well, I'm going to head home now. I'm tired.\"\nPHIL: \"Yeah. Me too. Call me this weekend if you get done early.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4IBeqMHnGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4IBeqMHnGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4IBeqMHnGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t4IBeqMHnGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t4IBeqMHnGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t4IBeqMHnGg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YEIv-7ZFWc31tjfnjkvOXj3VYVE",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-07-24T08:18:25Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 7 - Level 3 | ACES Education",
+        "description": "Chapter 7: Talking about Fishing\nSTEVE: \"Hey John! Did you see the fish Sam just caught?\"\nJOHN: \"No. What did he catch? How big was it?\"\nSTEVE: \"A 20 pound salmon.\"\nJOHN: \"Wow! I've been here all day and have caught nothing. Have you caught anything?\"\nSTEVE: \"Yeah, just a couple of small trout.\"\nJOHN: \"That's better than me. I just want to give up and go home.\"\nSTEVE: \"Don't give up. You might catch something soon.\"\nJOHN: \"My wife told me to bring home dinner.\"\nSTEVE: \"Fish?\"\nJOHN: \"Yeah. I may have to go to the market and buy one.\"\nSTEVE: \"That's silly. Just wait.\"\nJOHN: \"The sun is starting to set and I'm tired of being out here.\"\nSTEVE: \"At least it didn't rain today. We had clear skies all day.\"\nJOHN: \"That's true. It was nice today. Hey, can you hold my fishing pole? I need to go to the restroom.\"\nSTEVE: \"Sure. Wait, John!\"\nJOHN: \"Steve, what?\"\nSTEVE: \"Something is pulling on your fishing pole! Here, grab it!\"\nJOHN: \"Wow! That's a huge salmon!\"\nSTEVE: \"I told you to be patient and you would catch something.\"\nJOHN: \"Now I can take home dinner. Want to come over and have salmon with us?\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X-Xz71SeK84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X-Xz71SeK84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X-Xz71SeK84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X-Xz71SeK84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X-Xz71SeK84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X-Xz71SeK84"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p-1_d6Rmfd_oiaEgVtuFOWK0UHo",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-07-27T02:04:49Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 8 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 8: Hiking for Beginners\nSANDY: \"Hey Sue. What are you doing this weekend?\"\nSUE: \"Hi Sandy. I'm going hiking with some friends. Do you want join?\"\nSANDY: \"No, that's ok. I've never gone hiking before.\"\nSUE: \"Really? It's a lot of fun and great exercise.\"\nSANDY: \"It sounds fun and good for you.\"\nSUE: \"It is. You should come.\"\nSANDY: \"I don't even have the correct shoes.\"\nSUE: \"I have an extra pair. What size do you wear?\"\nSANDY: \"I wear a size 7.\"\nSUE: \"What a coincidence! Me too!\"\nSANDY: \"What else do I need?\"\nSUE: \"Comfortable clothes, a jacket, a water bottle, snacks, a flashlight, and a map.\"\nSANDY: \"Wow! That's a lot of stuff to bring.\"\nSUE: \"Do you have a small backpack to put these items in?\"\nSANDY: \"Yeah.\"\nSUE: \"Well then, you are ready to go.\"\nSANDY: \"How long are you going to be hiking?\"\nSUE: \"We usually hike about 10 miles, but this weekend we're going to hike a much shorter distance.\"\nSANDY: \"Why?\"\nSUE: \"My friend is bringing her sister. She has never gone hiking before either. So, it'll be a fun experience for the both of you.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLXtsHahoCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLXtsHahoCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLXtsHahoCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CLXtsHahoCM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CLXtsHahoCM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CLXtsHahoCM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uQ5XmOSJ_y7KFW33Q2zjgCBzIzo",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-07-27T05:16:39Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 9 - Level 3 | ACES Education",
+        "description": "#EnglishDaily #EnglishConversation\nChapter 9: Borrowing Things from a Friend\nMIKE: \"Hello?\"\nDAN: \"Mike. This is Dan. Do you have a lantern I can borrow?\"\nMIKE: \"I think so. I have to check.\"\nDAN: \"Our lantern is broken.\"\nMIKE: \"What do you need a lantern for?\"\nDAN: \"We are going camping this weekend.\"\nMIKE: \"We went camping last month.\"\nDAN: \"How was the weather last month?\"\nMIKE: \"It was great! Sunny all weekend.\"\nDAN: \"I think it is going to rain this weekend.\"\nMIKE: \"That's not good. Why are you going camping if it's going to rain?\"\nDAN: \"The kids still want to go.\"\nMIKE: \"I'm sure you will still have fun.\"\nDAN: \"I hope so. We're going to pack some extra clothes.\"\nMIKE: \"Let me check on that lantern.\"\nDAN: \"Mike.\"\nMIKE: \"What's wrong, Dan?\"\nDAN: \"Do you have a tent I can borrow?\"\nMIKE: \"Sure. Why?\"\nDAN: \"I just discovered a hole in our tent.\"\n\n#LearnEnglish #English Conversation #EnglishDaily",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FBVE53hSCp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FBVE53hSCp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBVE53hSCp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FBVE53hSCp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FBVE53hSCp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FBVE53hSCp4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bOvDracmLhMPonM4f-SYlYeWojg",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-07-27T13:57:06Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 10 - Level 3 | ACES Education",
+        "description": "Chapter 10: Family Camping\nHENRY: \"Susan, what should we do this weekend?\"\nSUSAN: \"I don't know. What would you like to do?\"\nHENRY: \"Should we take the kids camping.\"\nSUSAN: \"That sounds like a fun plan.\"\nHENRY: \"Do you know what the weather forecast for this weekend?\"\nSUSAN: \"No. I have to check.\"\nHENRY: \"I think it is supposed to be sunny and clear.\"\nSUSAN: \"That's perfect weather for camping.\"\nHENRY: \"We can go fishing too.\"\nSUSAN: \"The kids are going to love it.\"\nHENRY: \"Let's not tell them yet.\"\nSUSAN: \"Why?\"\nHENRY: \"I need to make a reservation. There may not be space available.\"\nSUSAN: \"Oh yeah. We better think of another option just in case.\"\nHENRY: \"Yeah. How about going to the beach?\"\nSUSAN: \"That would be fun too.\"\nHENRY: \"Let me try to make a reservation for camping first.\"\nSUSAN: \"Ok. Here's the number.\"\n\n\n#LearnEnglish #EnglishDaily #EnglishConversation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mBkUqvriGnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mBkUqvriGnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mBkUqvriGnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mBkUqvriGnc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mBkUqvriGnc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mBkUqvriGnc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xr90MV2VlP_BQ2HZ6aPf7p1VOE8",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-08-16T02:58:46Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 11 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 11: Going Fishing\nDAD: \"Billy, are you all packed?\"\nBILLY: \"No, Dad. I can't find my fishing pole.\"\nDAD: \"Where did you see it last?\"\nBILLY: \"In the garage. I'll look again.\"\nDAD: \"Ok. I'm almost done packing too. I just need to load the tents into the car.\"\nBILLY: \"I found my fishing pole. It was behind the skis.\"\nDAD: \"Good. What is your mom doing?\"\nBILLY: \"She is packing food and snacks into the ice chest.\"\nDAD: \"Hopefully, we will catch some fish to eat too.\"\nBILLY: \"Yeah. Dad, where is your fishing pole?\"\nDAD: \"I forgot it. Thanks for reminding me.\"\nBILLY: \"Are we going to the same campsite?\"\nDAD: \"No. I want to try a new place.\"\nBILLY: \"Cool. Can I bring my camera?\"\nDAD: \"Of course. But be careful not to lose it.\"\nBILLY: \"I'll be careful. I want to take a lot of pictures.\"\nDAD: \"Make sure to take pictures of our fish.\"\nBILLY: \"I hope we catch big ones. I love camping and fishing.\"\nDAD: \"I love spending time as a family.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhGFVW9t9EM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhGFVW9t9EM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhGFVW9t9EM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KhGFVW9t9EM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KhGFVW9t9EM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KhGFVW9t9EM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EpTBSygGK57up7I-uXSnbg36Pqo",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-11-05T07:22:47Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 12 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 12: Looking for Airline Deals\nRUTH: \"Hi Carol. Have you seen any airline deals lately?\"\nCAROL: \"Hi Ruth. No, I haven't. Are you planning a trip?\"\nRUTH: \"Yeah. Stan and I want to visit our daughter in London. She moved there last year.\"\nCAROL: \"Why?\"\nRUTH: \"Her job was transferred there.\"\nCAROL: \"Does she like living there?\"\nRUTH: \"She loves living in England. She wants us to visit, but the airfare is very expensive.\"\nCAROL: \"Have you called any travel agencies? Sometimes they have special deals.\"\nRUTH: \"I've called travel agencies and looked online, but everything is expensive.\"\nCAROL: \"Yeah, airfare is getting more and more expensive every year.\"\nRUTH: \"I know. You travel a lot. Where do you buy your airplane tickets?\"\nCAROL: \"My traveling is for work. My company pays for the tickets.\"\nRUTH: \"That's nice.\"\nCAROL: \"Yeah. One of my business trips was to Hawaii. I got to fly in First Class.\"\nRUTH: \"That's amazing! We rarely travel by plane. I'd rather take the train.\"\nCAROL: \"Well, you can't take the train across the ocean.\"\nRUTH: \"I wish we could.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tm9DpihrWn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tm9DpihrWn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tm9DpihrWn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tm9DpihrWn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tm9DpihrWn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tm9DpihrWn4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uo49u6G2HbM5C6Cuhh56ZPOesOI",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-11-06T14:17:00Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 13 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 13: Planning a Boat Trip\nSARAH: \"Hi Jane. Isn't it a beautiful day?\"\nJANE: \"Hi Sarah. Yeah, it's sunny and clear. I think we're going to take our boat out.\"\nSARAH: \"It's a great day for it.\"\nJANE: \"Would you and Paul like to join us?\"\nSARAH: \"I would love to. I need to ask Paul. He's at the store. He should be home in a few minutes.\"\nJANE: \"Great! We can pack a lunch and eat on the boat.\"\nSARAH: \"Sounds like fun. I've never been on a boat before.\"\nJANE: \"You haven't? Do you get seasick?\"\nSARAH: \"I've never been on a boat so I wouldn't know.\"\nJANE: \"Do you get airsick? Do you have any kind of motion sickness?\"\nSARAH: \"I don't think so. I don't get sick on planes or trains or long car rides.\"\nJANE: \"That's good. Then you'll probably be ok on the boat.\"\nSARAH: \"Are you really worried about me being seasick?\"\nJANE: \"Yes and there is a reason why.\"\nSARAH: \"What is it?\"\nJANE: \"Tom and I took my friend out on our boat once and she got very sick. I felt terrible for her.\"\nSARAH: \"Oh, I see. I should be ok.\"\nJANE: \"What about Paul?\"\nSARAH: \"He used to be a fisherman. He is definitely not going to be seasick.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKIXRem_O70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKIXRem_O70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKIXRem_O70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pKIXRem_O70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pKIXRem_O70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pKIXRem_O70"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pfkys4VpwLTwx-QDU5M24ohiGDk",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-12-18T09:40:58Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 14 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 14: Train Ride\nLINDA: \"What are you doing this weekend?\"\nKATHY: \"We're going to take the train to my mother's house.\"\nLINDA: \"That should be fun.\"\nKATHY: \"Yeah. We usually drive, but we decided to take the train this time.\"\nLINDA: \"Why?\"\nKATHY: \"My son loves trains, so I thought it would be a good idea to take the train up there.\"\nLINDA: \"Does he have a train set?\"\nKATHY: \"Oh yes. He has several trains and Jason built him a big wooden train track.\"\nLINDA: \"Then he's going to love this ride.\"\nKATHY: \"I know. We haven't told him yet. It's going to be a surprise.\"\nLINDA: \"I remember riding the train as a child. It was a lot of fun.\"\nKATHY: \"One of his toy trains looks just like the train we're going to take.\"\nLINDA: \"Make sure to take a picture of it.\"\nKATHY: \"That's a great idea. I'll frame it and hang it on his bedroom wall.\"\nLINDA: \"Have a great train ride!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xV-QiPO9Wo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xV-QiPO9Wo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xV-QiPO9Wo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xV-QiPO9Wo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xV-QiPO9Wo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xV-QiPO9Wo4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z3TB4nBhhCCyHh3Mjf2W4NeqGMU",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-12-19T04:22:46Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 15 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 15: Lost Reservation\nSUSAN: \"Mary, I am so angry!\"\nMARY: \"What happened, Susan?\"\nSUSAN: \"Our hotel lost our reservations?\"\nMARY: \"How did that happen?\"\nSUSAN: \"I don't know. They didn't have a reasonable explanation.\"\nMARY: \"Well, can't you just make another reservation?\"\nSUSAN: \"No. They said there are no more rooms available.\"\nMARY: \"Oh no! That's terrible.\"\nSUSAN: \"We are attending my niece's wedding this weekend and everyone is staying at that hotel.\"\nMARY: \"What about another hotel in that area.\"\nSUSAN: \"There's going to be a big doctor's conference this weekend. There are no rooms available at any of the nearby hotels.\"\nMARY: \"Did the hotel apologize?\"\nSUSAN: \"Yes and they offered us a discount on our next visit.\"\nMARY: \"Did you accept it?\"\nSUSAN: \"No. I was so mad. I told them that I would never stay at a place that lost our original reservations.\"\nMARY: \"What did they say?\"\nSUSAN: \"They just kept apologizing.\"\nMARY: \"What are you going to do?\"\nSUSAN: \"I don't know. My niece is very upset. Our daughter is the photographer.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f7x9jCay8Uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f7x9jCay8Uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f7x9jCay8Uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f7x9jCay8Uc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f7x9jCay8Uc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f7x9jCay8Uc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ky-8jZcdvKwS7wRSg6h0FpWUM9c",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-12-21T03:44:29Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 16 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 16: Great Hotel Experience\nBARBARA: \"Hi Alice. How did you like the hotel?\"\nALICE: \"It was lovely, Barbara. The rooms were spacious and clean.\"\nBARBARA: \"Did you get a good deal on it?\"\nALICE: \"Yeah. They had an online special. If you reserved a room three weeks early, you got 20% off the regular room rate.\"\nBARBARA: \"That's a good deal.\"\nALICE: \"The swimming pool and spa were really nice too. The swimming pool was warm. There was also a sauna.\"\nBARBARA: \"Oh, that's very nice. Joe loves saunas. I need to tell him about this place.\"\nALICE: \"The parking is free and so is the Wi-Fi.\"\nBARBARA: \"That's good to know.\"\nALICE: \"There's a shuttle bus that takes you to the downtown area where all of the shops and restaurants are. It was very convenient.\"\nBARBARA: \"Anything else?\"\nALICE: \"The concierge was very helpful and the front desk clerks were very nice.\"\nBARBARA: \"Sounds like it was a wonderful place to stay.\"\nALICE: \"It was. I would recommend this place to everyone.\"\nBARBARA: \"Is there a restaurant in the hotel?\"\nALICE: \"Yes. They have great food. It's a little expensive, but very delicious. They have a fantastic breakfast buffet every morning too.\"\nBARBARA: \"Wow! I'm definitely going to make a reservation here.\"\nALICE: \"I can't wait to go back.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8K9yWxHnuRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8K9yWxHnuRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8K9yWxHnuRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8K9yWxHnuRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8K9yWxHnuRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8K9yWxHnuRA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2bDxi_ofhaPJH2Q6ltr6PxPMdQc",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-12-21T03:47:38Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 17 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 17: Bad Hotel Experience\nTHOMAS: \"How was the hotel?\"\nSAM: \"It was awful. We had to switch rooms a couple of times.\"\nTHOMAS: \"Why?\"\nSAM: \"Well, we found bugs in the carpet in one room. We had already unpacked. So, we had to re-pack everything and ask for another room.\"\nTHOMAS: \"What was wrong with the second room?\"\nSAM: \"We paid for a garden room and it was a view of the parking lot.\"\nTHOMAS: \"That's terrible. Did you finally get a good room?\"\nSAM: \"They were out of garden view rooms, so they upgraded us to an ocean view room.\"\nTHOMAS: \"That's nice! So, why was it so awful?\"\nSAM: \"Our next door neighbor snored so loudly. He kept us awake every night.\"\nTHOMAS: \"Did you ask for another room?\"\nSAM: \"Yes, but they said that there were no more rooms available.\"\nTHOMAS: \"I'm sorry you had a terrible time.\"\nSAM: \"That's ok. The manager was really nice about it. He offered us a free stay next time.\"\nTHOMAS: \"Are you going to go back there?\"\nSAM: \"Of course. It'll be free.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lrczfCOCoFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lrczfCOCoFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lrczfCOCoFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lrczfCOCoFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lrczfCOCoFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lrczfCOCoFo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v1svxyuvhYhN0G2Y2fmAaSfEGGc",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-12-24T06:14:49Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 18 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nMOM: \"Lucy, can you help me with breakfast?\"\nLUCY: \"Sure, Mom? Is someone coming over this morning?\"\nMOM: \"Your grandparents are coming.\"\nLUCY: \"Oh, how nice. What are we making?\"\nMOM: \"Pancakes, eggs, bacon, and hash browns.\"\nLUCY: \"Yummy! That sounds delicious.\"\nMOM: \"I hope so. Your grandfather has a big appetite. I hope there's enough food.\"\nLUCY: \"Mom, you always make too much food. It looks like a breakfast buffet every time they come over.\"\nMOM: \"I want to make sure there is enough food. Breakfast is the most important meal of the day.\"\nLUCY: \"Should I make freshly-squeezed orange juice?\"\nMOM: \"That would be great. Do you know where the juicer is?\"\nLUCY: \"Yeah, it's on the top shelf of the pantry.\"\nMOM: \"Oh no!\"\nLUCY: \"What's wrong, Mom?\"\nMOM: \"I'm all out of eggs. Tell your Dad to go to the store and buy some eggs. I'll start on the bacon and hash browns.\"\nLUCY: \"Dad! Mom needs you to buy some eggs!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVb98ukZXiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVb98ukZXiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVb98ukZXiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IVb98ukZXiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IVb98ukZXiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IVb98ukZXiU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GPZspmbXR49rQSnineY1CT9UydQ",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-12-25T06:00:51Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 19 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 19: Breakfast at Home or the Diners\nJANE: \"Hey Kevin, do you want to try the new diner down the street?\"\nKEVIN: \"Sure. I hear they have really good food especially their omelets.\"\nJANE: \"Susan went their last weekend and said it was the best breakfast place in town.\"\nKEVIN: \"Yeah, I heard the same thing from Janet. She waited an hour for a table.\"\nJANE: \"I don't think I can wait an hour. I'm hungry right now.\"\nKEVIN: \"Do you want to make breakfast at home?\"\nJANE: \"Ok. What do you want to eat?\"\nKEVIN: \"I'd like a ham and cheese omelet.\"\nJANE: \"That sounds good. Do we have all of the ingredients?\"\nKEVIN: \"Well, we only need eggs, ham, and cheese.\"\nJANE: \"I think we may be out of ham. I used the last few slices for a sandwich yesterday.\"\nKEVIN: \"Ok. How about a vegetable omelet?\"\nJANE: \"That's good too. We have green peppers, mushrooms, and onions.\"\nKEVIN: \"That's perfect.\"\nJANE: \"Great! I'll brew some coffee and you make the omelet.\"\nKEVIN: \"I don't know how to make an omelet.\"\nJANE: \"You don't? Well, I don't either.\"\nKEVIN: \"Let's just go to the new diner.\"\nJANE: \"That sounds like a better plan.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_KbXbNtQbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_KbXbNtQbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_KbXbNtQbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D_KbXbNtQbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D_KbXbNtQbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D_KbXbNtQbc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CQ-NPwHxbgEkuSGTvQ_utJBfm5g",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-12-26T06:32:11Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 20 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nChapter 20: Pancake Breakfast\nMARY: \"Hi Sally. My kids want to go out for breakfast this weekend. Do you have a favorite restaurant?\"\nSALLY: \"Hi Mary. Yeah, our favorite place is the pancake house on Main Street.\"\nMARY: \"Oh, I haven't been there yet.\"\nSALLY: \"We love it. Kids eat free on their birthdays too.\"\nMARY: \"What do your kids like there?\"\nSALLY: \"They love the chocolate chip pancakes.\"\nMARY: \"Oh, my children would love those. They like anything with chocolate.\"\nSALLY: \"I like their waffles. They're thick and fluffy. They put fresh strawberries over them.\"\nMARY: \"I may want to try that. I'm getting hungry now.\"\nSALLY: \"Me too.\"\nMARY: \"Would you like to join us on Saturday morning?\"\nSALLY: \"I can't on Saturday. Joanne has a soccer game in the morning. What about Sunday?\"\nMARY: \"We have church in the morning, but we are free around 10 am.\"\nSALLY: \"10 am is good for us too.\"\nMARY: \"Ok. Let's meet on Sunday at 10 am at the restaurant.\"\nSALLY: \"That sounds wonderful.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xj5RQzfb4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xj5RQzfb4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xj5RQzfb4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2xj5RQzfb4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2xj5RQzfb4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2xj5RQzfb4E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jyc6Z0xCU56e-Uf0qR28KsqHPn8",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-12-27T05:27:15Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 21 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\n\nALICE: \"Hey Sue. What are you doing today?\"\nSUE: \"Hey Alice. I'm going to the market later. My husband's boss and his wife are coming over for dinner tonight.\"\nALICE: \"Wow! What are you making?\"\nSUE: \"I don't know. His wife is a vegetarian, so I need to make one dish without meat.\"\nALICE: \"My mother-in-law is a vegetarian. I can ask her for some recipes.\"\nSUE: \"That would be great. I'm a little nervous about hosting dinner.\"\nALICE: \"You shouldn't worry. You're a great cook.\"\nSUE: \"I've never cooked for Jeff's boss before. I want to make sure everything is perfect.\"\nALICE: \"I understand. I cooked for my boss once. It was a disaster. I burned the roast beef.\"\nSUE: \"Oh no! What happened?\"\nALICE: \"I was too busy talking and forgot to take it out of the oven. We all laughed, but I was so embarrassed.\"\nSUE: \"I'll make sure to use a timer.\"\nALICE: \"Great idea!\"\nSUE: \"I think I will make lasagna.\"\nALICE: \"Your lasagna is delicious. My mother-in-law makes great vegetarian lasagna. I'll call her right now.\"\nSUE: \"Thank you so much! I'll go the market after you talk to her.\"\nALICE: \"Good luck tonight.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4sJmjlq59eE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4sJmjlq59eE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4sJmjlq59eE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4sJmjlq59eE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4sJmjlq59eE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4sJmjlq59eE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0lYfTgyd48CcqWRA_Vf4Uhd0azM",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2019-02-08T10:53:33Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 22 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 22: Dinner with Grandparents\nMOM: \"Ethan, get ready. We're going to your grandparents' house for dinner.\"\nETHAN: \"Again? We went there last weekend.\"\nMOM: \"That's right. Remember we go every Sunday evening.\"\nETHAN: \"But grandma's food tastes weird.\"\nMOM: \"Don't be rude. She loves to cook for us.\"\nETHAN: \"I know. I love them. But she always makes the same dish, chicken pot pie.\"\nMOM: \"Your grandfather likes it. It's his favorite, so we're going to eat it too.\"\nETHAN: \"Ok, Mom. Sorry for being rude.\"\nMOM: \"Why don't we pick up a dessert on the way to their house?\"\nETHAN: \"Ok! Can we get ice cream?\"\nMOM: \"Sure. We can make ice cream sundaes after dinner.\"\nETHAN: \"Mom, that's funny.\"\nMOM: \"What's funny?\"\nETHAN: \"Sundaes on Sundays.\"\nMOM: \"That is funny. This will be our new tradition.\"\nETHAN: \"Grandpa will love it. He loves ice cream too.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZpEmVtvJ4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZpEmVtvJ4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZpEmVtvJ4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zZpEmVtvJ4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zZpEmVtvJ4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zZpEmVtvJ4A"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tDU7hzVKn91y4nLcBdh0aIaBrOc",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 23 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 23: No Time to Eat\nMOM: \"Hey Jane. Did you eat lunch?\"\nJANE: \"No, I don't have time. I have a big test today at 1 pm.\"\nMOM: \"You still need to eat or you won't have energy for the test.\"\nJANE: \"I know. I'll grab something on the way to class.\"\nMOM: \"Fast food?\"\nJANE: \"Yeah, I'll grab a burger.\"\nMOM: \"That's not healthy for you. Let me make you something to eat.\"\nJANE: \"Thanks. But I don't have time.\"\nMOM: \"You never have the time to eat a proper meal anymore.\"\nJANE: \"I like fast food meals anyway. They're quick and easy.\"\nMOM: \"Let me pack you some fruits.\"\nJANE: \"Mom, please. I'm in college now. I can cut my own fruits.\"\nMOM: \"But you won't do it.\"\nJANE: \"I'll take this banana. It's quick and easy. See you later, Mom.\"\nMOM: \"Eat something nutritious!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iADl50IkEXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iADl50IkEXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iADl50IkEXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iADl50IkEXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iADl50IkEXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iADl50IkEXM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WEw_XmCnkr6eNgXbdgnAiWuH80Q",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 24 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 24: Quick Bite to Eat\nCHARLIE: \"Hey Jesse, should we grab a bite to eat before the concert?\"\nJESSE: \"Yeah, I'm getting a little hungry.\"\nCHARLIE: \"Let's get some fast food here.\"\nJESSE: \"Burgers and fries?\"\nCHARLIE: \"Yeah, that sounds good.\"\nJESSE: \"Why is the drive-thru line so long?\"\nCHARLIE: \"It's dinner time. Should we go inside?\"\nJESSE: \"It might be busier inside?\"\nCHARLIE: \"Looks like the line is really long inside too.\"\nJESSE: \"Let's head to another place.\"\nCHARLIE: \"Can we go to one closer to the concert arena?\"\nJESSE: \"That's a good idea!\"\nCHARLIE: \"There are many fast food places around there.\"\nJESSE: \"Yeah, we should be able to find one that's not too crowded.\"\nCHARLIE: \"Fast food is great. Fast and cheap.\"\nJESSE: \"But not very healthy.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njfQa3b2FM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njfQa3b2FM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njfQa3b2FM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njfQa3b2FM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njfQa3b2FM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "njfQa3b2FM4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zg_iRTCdZ41vDc2DdrP4cMXVOAw",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 25 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 25: Working at a Fast Food Place\nSCOTT: \"Hey Sam. What was your first job?\"\nSAM: \"I worked at a fast food restaurant.\"\nSCOTT: \"Did you like it?\"\nSAM: \"It was ok. It was always busy.\"\nSCOTT: \"What did you do there?\"\nSAM: \"I took orders at the counter and sometimes at the drive-thru window.\"\nSCOTT: \"Was it fun?\"\nSAM: \"It wasn't fun. It was just a job. We had to work fast.\"\nSCOTT: \"I need to find a job. I was thinking about applying at a fast food restaurant.\"\nSAM: \"It's a good place to learn how to work quickly.\"\nSCOTT: \"I'm a fast learner and I can move pretty quickly.\"\nSAM: \"Also, it's a good place to learn how to handle customers.\"\nSCOTT: \"I don't have any customer service experience.\"\nSAM: \"They will train you. You just have to be polite and listen well.\"\nSCOTT: \"I can do that.\"\nSAM: \"You should apply then.\"\nSCOTT: \"Did you get to eat a lot of the food?\"\nSAM: \"I ate too much fast food working there. I got sick of it.\"\nSCOTT: \"I love fast food. I may eat it every day.\"\nSAM: \"That's probably not a good thing.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpxUhGL-ymg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpxUhGL-ymg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpxUhGL-ymg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZpxUhGL-ymg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZpxUhGL-ymg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZpxUhGL-ymg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JF__Jgw-j8lcSWUHka3AxpZ3tlc",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 26 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 26: Planning for Lunch with Friend\nJOAN: \"Hello?\"\nKAREN: \"Hi Joan. This is Karen. Are you free for lunch today?\"\nJOAN: \"Hi Karen. No, I'm having lunch with my mom. It's her birthday today.\"\nKAREN: \"What about tomorrow?\"\nJOAN: \"I'm free tomorrow. Where should we go?\"\nKAREN: \"There's a new Chinese restaurant downtown.\"\nJOAN: \"I love Chinese food! Let's check it out.\"\nKAREN: \"Do you think we should make reservations.\"\nJOAN: \"Yeah, that might be a good idea.\"\nKAREN: \"Should we invite anyone else?\"\nJOAN: \"Sure. How about Cathy and Lisa?\"\nKAREN: \"Lisa is out of town. Let's invite Cathy and Sharon.\"\nJOAN: \"Ok. What time should we meet tomorrow?\"\nKAREN: \"Noon?\"\nJOAN: \"Noon is perfect.\"\nKAREN: \"Good. I'll call Cathy and Sharon right now.\"\nJOAN: \"Hopefully, then can meet at noon too.\"\nKAREN: \"If they can't, I'll let you know",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZO0gJn89bJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZO0gJn89bJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZO0gJn89bJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZO0gJn89bJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZO0gJn89bJE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZO0gJn89bJE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E1dVVZZuv6e4AlnJ_NMvD-SxLq4",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 27 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 27: Talking about your Lunch\nBOBBY: \"Hey Steve, what did your mom pack for your lunch today?\"\nSTEVE: \"Hey Bobby. She packs me the same lunch every day. A peanut butter and jelly sandwich, cookies, and milk.\"\nBOBBY: \"I got something new today. It looks like a tuna sandwich. I'm not sure I like it.\"\nSTEVE: \"I love tuna sandwiches. Do you want to trade?\"\nBOBBY: \"Sure! But will your mom get mad?\"\nSTEVE: \"No. She won't know. I won't tell her.\"\nBOBBY: \"Do you ever buy the school lunch?\"\nSTEVE: \"No, it looks gross.\"\nBOBBY: \"It's actually not bad. Some dishes are pretty good.\"\nSTEVE: \"Which ones have you tried?\"\nBOBBY: \"The spaghetti and pizza are good. But the hamburgers and burritos are terrible. They taste like cardboard.\"\nSTEVE: \"That's awful! Maybe I'll buy lunch when the cafeteria serves spaghetti and pizza. Those are my favorite dishes at home.\"\nBOBBY: \"They're pretty good, but not as good as our moms' cooking.\"\nSTEVE: \"Are you done with lunch? Let's go out to recess.\"\nBOBBY: \"Yeah. Let's go!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wq9f-54FOsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wq9f-54FOsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wq9f-54FOsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wq9f-54FOsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wq9f-54FOsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wq9f-54FOsE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3-kI9ac0hM3wswEvVkjoV3hxErc",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 28 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 28: Lunch Decisions\nKATHY: \"Hey Bill, are you hungry?\"\nBILL: \"Oh, hi Kathy. Yeah. Let's have lunch.\"\nKATHY: \"What do you want to eat?\"\nBILL: \"How about pizza?\"\nKATHY: \"We always have pizza. Let's try something different.\"\nBILL: \"Ok. Do you have any suggestions?\"\nKATHY: \"How about sushi?\"\nBILL: \"I don't like raw fish.\"\nKATHY: \"All sushi isn't raw.\"\nBILL: \"I know. I just don't feel like having sushi today.\"\nKATHY: \"Ok. Then what should we eat?\"\nBILL: \"Maybe we should just order take-out. You get sushi and I'll get pizza.\"\nKATHY: \"That's a good idea. But I think I want Chinese food instead.\"\nBILL: \"Chinese food sounds yummy.\"\nKATHY: \"Hey, we agree on something. Let's go out to a Chinese restaurant.\"\nBILL: \"I'd rather eat at home.\"\nKATHY: \"We never agree on anything.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OupPwUlGuMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OupPwUlGuMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OupPwUlGuMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OupPwUlGuMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OupPwUlGuMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OupPwUlGuMc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m1jrAy_05STx7vMNeWhRUDuGr_g",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 29 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 29: Trying Different Restaurants\nJENNIFER: \"Do you want to try a new restaurant tonight?\"\nLINDA: \"Sure. I'm kind of getting sick of the same place.\"\nJENNIFER: \"Me too. What kind of food do you want to eat?\"\nLINDA: \"Do you want to try Indian?\"\nJENNIFER: \"Ok. I've never had Indian food before, so you'll have to choose the place.\"\nLINDA: \"I've never had it before either.\"\nJENNIFER: \"Then why do you want to go there?\"\nLINDA: \"To try something different.\"\nJENNIFER: \"Let's check out the reviews online.\"\nLINDA: \"That's a good idea.\"\nJENNIFER: \"There are many restaurants we haven't tried.\"\nLINDA: \"Should we try a new one each week?\"\nJENNIFER: \"Yeah. That will be fun.\"\nLINDA: \"Ok, so we'll have Indian tonight.\"\nJENNIFER: \"What about next week?\"\nLINDA: \"Let's decide that next week. One place at a time.\"\nJENNIFER: \"I'm hungry.\"\nLINDA: \"Me too. Let's find a restaurant soon.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l1sro9U9fgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l1sro9U9fgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l1sro9U9fgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l1sro9U9fgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l1sro9U9fgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l1sro9U9fgA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aIzgXYwfjxUdHLk9X-qL-b_XCUY",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 30 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 30: Opening up a Restaurant\nSTANLEY: \"Hi Bill. What are you doing tonight?\"\nBILL: \"I'm not sure. Carol and I are thinking about going out to dinner.\"\nSTANLEY: \"I'm opening a restaurant soon.\"\nBILL: \"Where?\"\nSTANLEY: \"Downtown.\"\nBILL: \"What kind of food are you going to serve?\"\nSTANLEY: \"Chinese cuisine.\"\nBILL: \"That's great! Carol and I love Chinese food.\"\nSTANLEY: \"It's been my dream to open a restaurant in America.\"\nBILL: \"What made you finally do it?\"\nSTANLEY: \"I finally saved up enough money to open my own restaurant.\"\nBILL: \"When will it be open?\"\nSTANLEY: \"I don't know yet. It's a very old building and I need to make some repairs first.\"\nBILL: \"Do you have experience running a restaurant?\"\nSTANLEY: \"Yes, I owned a restaurant in China many years ago.\"\nBILL: \"Wow! I didn't know that.\"\nSTANLEY: \"Would you and Carol like to come over and try some of my dishes tonight? I want to create a menu of my best dishes.\"\nBILL: \"We would love to! We were thinking about going to a Chinese restaurant tonight.\"\nSTANLEY: \"Perfect! You can tell me what you think of my food.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6273rQtvnos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6273rQtvnos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6273rQtvnos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6273rQtvnos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6273rQtvnos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6273rQtvnos"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tZVtGpQcKvmsRldyyP2NODXnzFY",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 31 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 31: Delicious Restaurant\nJANE: \"We went to the best restaurant in town.\"\nMARY: \"How was the food?\"\nJANE: \"The food was delicious. It was the best seafood I ever had.\"\nMARY: \"How was the service?\"\nJANE: \"The service was excellent. The waiter was attentive and very polite.\"\nMARY: \"We should go back together.\"\nJANE: \"Definitely. I will take you next time.\"\nMARY: \"I wish I could've joined you tonight.\"\nJANE: \"Me too. Are you feeling any better?\"\nMARY: \"A little, but I still feel sick.\"\nJANE: \"Are you hungry?\"\nMARY: \"Yes.\"\nJANE: \"The clam chowder was delicious, so I brought you some.\"\nMARY: \"Thank you! I love clam chowder.\"\nJANE: \"I hope you feel better soon, so I can take you there.\"\nMARY: \"Me too. I love good seafood.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hzljvz-FF14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hzljvz-FF14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hzljvz-FF14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hzljvz-FF14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hzljvz-FF14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hzljvz-FF14"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uSHp2hzr84-X5FgkY76Bu4E90RA",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 32 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 32: New Friend at School\nMOM: \"Jane, how was school today?\"\nJANE: \"Mom, it was fun. I made a new friend.\"\nMOM: \"That's nice. What's her name?\"\nJANE: \"Her name is Cindy.\"\nMOM: \"Is she new to your school?\"\nJANE: \"Yeah, she's a new student. She moved here from Seattle, Washington.\"\nMOM: \"You have an aunt who lives in Seattle.\"\nJANE: \"I know. I like Seattle. It's beautiful there, but it rains too much.\"\nMOM: \"Yeah. That's why we're staying in sunny California.\"\nJANE: \"Cindy and I have a lot in common. We both like drawing, playing with dogs, and eating pizza.\"\nMOM: \"You should invite her over for dinner one night.\"\nJANE: \"Can we, Mom?\"\nMOM: \"Sure. We can order pizza.\"\nJANE: \"Maybe I'll ask her if she can come over on Friday.\"\nMOM: \"Ok. Let's invite her parents too. We can get to know them.\"\nJANE: \"That's a good idea. They don't have any friends here, yet.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MOFejsQ9rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MOFejsQ9rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MOFejsQ9rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4MOFejsQ9rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4MOFejsQ9rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4MOFejsQ9rU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bo9BmLybEDokBh4Bv6bVu9ASWiI",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 33 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 33: Meeting Someone at the Apartment\nPAUL: \"Hi. Are you new to the apartment building?\"\nMONICA: \"Yes. My name is Monica.\"\nPAUL: \"Nice to meet you, Monica. My name is Paul. I live on the third floor, apartment number 305.\"\nMONICA: \"I live on the fourth floor in 405.\"\nPAUL: \"Hey, you live right above me.\"\nMONICA: \"That's funny. I hope I'm not too noisy. I've been moving furniture around.\"\nPAUL: \"That's ok. It doesn't bother me. Have you met any of the other neighbors?\"\nMONICA: \"I met a few people. Everyone seems friendly here.\"\nPAUL: \"Yeah. Every month, we have a party on the rooftop. It's a potluck, so you can bring a dish to share.\"\nMONICA: \"That sounds fun! I love parties and potlucks.\"\nPAUL: \"Our next one is on Saturday at 5 pm. You should come. I'm bringing my famous pasta salad.\"\nMONICA: \"Sounds delicious. I'll make a chocolate cake.\"\nPAUL: \"I love chocolate cake. I can't wait to try it.\"\nMONICA: \"Thanks for letting me know about the party.\"\nPAUL: \"There should be an invitation in your mailbox. Everyone gets one.\"\nMONICA: \"I better check the mailbox then. I still have so much unpacking to do.\"\nPAUL: \"Do you need help moving any more furniture?\"\nMONICA: \"No. My brother helped me last night. I'm done with the big items. I just need to unpack pots and pans and dishes now.\"\nPAUL: \"Ok. Let me know if you need help. See you at the party.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glXrlQJKzu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glXrlQJKzu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glXrlQJKzu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glXrlQJKzu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glXrlQJKzu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "glXrlQJKzu4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kk6XPFvBulBLQ-5DwBBKsGuhrPA",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 34 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 34: Riding School Bus with Friend\nMOM: \"Hi Billy, how was your first day at a new school?\"\nBILLY: \"It was ok, Mom.\"\nMOM: \"Did you make any new friends?\"\nBILLY: \"Yeah. A boy in my class.\"\nMOM: \"Is he nice? What's his name?\"\nBILLY: \"He's cool. His name is Brian. He plays soccer.\"\nMOM: \"You love soccer. You were on the soccer team at your old school.\"\nBILLY: \"Yeah, I miss my old team with Ted, Mark, and Richard.\"\nMOM: \"I know you do. Do you want to invite Brian over to play one day?\"\nBILLY: \"Sure. He rides the school bus on our street.\"\nMOM: \"Do you want to start riding the school bus too.\"\nBILLY: \"Yeah. Then I can meet more of the neighborhood kids.\"\nMOM: \"Ok. Let's plan for you to ride the bus tomorrow morning.\"\nBILLY: \"Brian said the bus comes at 7:45.\"\nMOM: \"Then you need to wake up at 7 o'clock.\"\nBILLY: \"I know. I'll set my alarm.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-JR1EHlnC9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-JR1EHlnC9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-JR1EHlnC9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-JR1EHlnC9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-JR1EHlnC9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-JR1EHlnC9E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EaVDsu1W9BDyIt4o4B2RpQluqIU",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 35 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 35: Misunderstanding\nBILL: \"Hey Joe. Have you seen Sandy?\"\nJOE: \"No, Bill. Why?\"\nBILL: \"We had a misunderstanding and she is not talking to me.\"\nJOE: \"Oh. I'm sorry to hear that.\"\nBILL: \"Yeah. I said something silly and hurt her feelings.\"\nJOE: \"What did you say?\"\nBILL: \"It's not important. I don't want to discuss it. I just want to apologize to her.\"\nJOE: \"She always hangs out at Linda's house or the library.\"\nBILL: \"I've already checked both places.\"\nJOE: \"How about her house.\"\nBILL: \"Her roommate said she wasn't home.\"\nJOE: \"Have you called her cell phone.\"\nBILL: \"Yeah, several times.\"\nJOE: \"She must really be mad at you.\"\nBILL: \"She was! She stormed off and I didn't get to explain what I meant.\"\nJOE: \"I'm really curious now. What did you say to her?\"\nBILL: \"I told her to exercise.\"\nJOE: \"Well, that probably wasn't a smart thing to say to a woman.\"\nBILL: \"I meant that she should exercise to stay healthy.\"\nJOE: \"That sounds better. Hope you find her.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jk1yaeRnvQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jk1yaeRnvQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jk1yaeRnvQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jk1yaeRnvQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jk1yaeRnvQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jk1yaeRnvQ0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bjWQ74al7zZwYOYxqubxJIfA5gE",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 36 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 36: Buying a New Necklace\nSUSIE: \"Hi Sally. What are you doing here?\"\nSALLY: \"Hey Susie. I need to buy my sister a new necklace. I accidentally lost her necklace and she is really mad at me now.\"\nSUSIE: \"But you said it was an accident.\"\nSALLY: \"Yeah, but I didn't ask if I could borrow it.\"\nSUSIE: \"Oh, that's not good.\"\nSALLY: \"She wasn't home and it looked nice with my outfit, so I wore it.\"\nSUSIE: \"That's like stealing.\"\nSALLY: \"I know. I feel terrible. I was going to put it back when I got home.\"\nSUSIE: \"How did you lose it?\"\nSALLY: \"I don't know. I was on my way home and I noticed it was gone.\"\nSUSIE: \"Was it an expensive necklace?\"\nSALLY: \"I don't know. I'm looking for a replacement here.\"\nSUSIE: \"What does it look like?\"\nSALLY: \"It's a gold butterfly.\"\nSUSIE: \"Like this one?\"\nSALLY: \"That's it! That's exactly like hers? How much is it?\"\nSUSIE: \"The price tag says $100.\"\nSALLY: \"Wow! That's expensive. Now I see why she was really mad.\"\nSUSIE: \"Are you going to buy it?\"\nSALLY: \"Yeah. That's all the money I have until my next paycheck.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5eVMhOjjlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5eVMhOjjlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5eVMhOjjlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O5eVMhOjjlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O5eVMhOjjlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O5eVMhOjjlU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5wYCuqGy3XInNnFvCRcHz2DDTrA",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 37 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 37: Argument with Roommate\nBETTY: \"Hey Nancy, why do you look so worried?\"\nNANCY: \"Oh, hi Betty. Christine and I had a big argument and she has decided to move out.\"\nBETTY: \"What did you argue about?\"\nNANCY: \"I told her that she needs to help clean up around the apartment.\"\nBETTY: \"What happened after you told her that?\"\nNANCY: \"She got upset and said she is moving out. But it's the truth. She never helps around house.\"\nBETTY: \"Yeah, that could be a problem.\"\nNANCY: \"I had to say something since we're roommates and I'm tired of cleaning her mess.\"\nBETTY: \"I totally understand. I like things neat and organized too.\"\nNANCY: \"But the bigger problem is that she never pays her rent on time. She is late every month.\"\nBETTY: \"What are you going to do?\"\nNANCY: \"I need to find a roommate soon. I can't afford the rent by myself. Do you know anyone looking for a roommate?\"\nBETTY: \"Yes, I do.\"\nNANCY: \"Who?\"\nBETTY: \"Me.\"\nNANCY: \"That would be awesome!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FJCNM0ETJFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FJCNM0ETJFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FJCNM0ETJFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FJCNM0ETJFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FJCNM0ETJFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FJCNM0ETJFQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D_esn4LmU1vhZd60OnNSrrDz8g4",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 38 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 38: Planning to Hangout\nJOHN: \"Hello?\"\nSTEVEN: \"Hi John. This is Steven. What are you doing tonight?\"\nJOHN: \"Hey Steven. Nothing much. I don't have any plans yet.\"\nSTEVEN: \"Do you want to hang out?\"\nJOHN: \"Sure. What did you have in mind?\"\nSTEVEN: \"I don't know. It's Friday and I'm bored.\"\nJOHN: \"Want to go to the movies?\"\nSTEVEN: \"Is there a good movie to see?\"\nJOHN: \"Let's check the Internet.\"\nSTEVEN: \"Ok. Let me log onto my computer.\"\nJOHN: \"Do you want to see a comedy or a drama?\"\nSTEVEN: \"Nothing sad or depressing. I had a hard work week. I want to see something funny.\"\nJOHN: \"I agree. Work was stressful for me too.\"\nSTEVEN: \"There aren't any new comedies right now. I only see dramas and horror movies.\"\nJOHN: \"Yeah, that's all I see too.\"\nSTEVEN: \"Hey, let's go to comedy club. My favorite comedian is performing tonight at the local theater.\"\nJOHN: \"That sounds great. What time?\"\nSTEVEN: \"It starts at 7 pm. Let's do dinner too.\"\nJOHN: \"Good idea! I'll meet you at your house at 5 pm.\"\nSTEVEN: \"See you tonight.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQh0itZ1Ca0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQh0itZ1Ca0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQh0itZ1Ca0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oQh0itZ1Ca0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oQh0itZ1Ca0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oQh0itZ1Ca0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLM335phVJGdMzPfqD5WFQMyB_c",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 39 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 39: Going to the Mall\nJANE: \"Hey Carol, are you done with your final exams?\"\nCAROL: \"Yes, Jane! I had my last one this morning. How about you?\"\nJANE: \"Yeah, I got done an hour ago.\"\nCAROL: \"Do you want to celebrate?\"\nJANE: \"Sure! What should we do?\"\nCAROL: \"I don't know. Should we throw a party?\"\nJANE: \"What if our friends are not done with exams.\"\nCAROL: \"Yeah, you're right. Do you want to go dancing?\"\nJANE: \"I don't know how to dance.\"\nCAROL: \"You don't? It's easy. Just move your body to music.\"\nJANE: \"I look silly when I dance.\"\nCAROL: \"Me too. I don't care.\"\nJANE: \"Let's do something else.\"\nCAROL: \"Ok. Do you have any ideas?\"\nJANE: \"Do you want to go see a play?\"\nCAROL: \"That sounds boring. I want to do something active.\"\nJANE: \"I think we have different ideas of fun.\"\nCAROL: \"Yeah. How about shopping? Do you want to go to the mall?\"\nJANE: \"I love shopping. Let's do that. We can eat dinner there too.\"\nCAROL: \"Great! Let's meet at the department store at 4 pm.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H200DuWArSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H200DuWArSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H200DuWArSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H200DuWArSg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H200DuWArSg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H200DuWArSg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y9qx16dFr-lc0Vf9hNT4pVZHOSM",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 40 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nAmerican Cambodian English School\nChapter 40: Sleepover\nLINDA: \"Hello?\"\nSTACY: \"Hi Linda. This is Stacy. Are you free tomorrow night?\"\nLINDA: \"No, I'm not. Why?\"\nSTACY: \"I'm inviting a couple of friends to sleep over.\"\nLINDA: \"I wish I could go, but I have to babysit my younger sister.\"\nSTACY: \"That's too bad. We were going to rent a movie and order pizza.\"\nLINDA: \"Now I really wish I could go. That sounds like so much fun.\"\nSTACY: \"Can your parents find another babysitter?\"\nLINDA: \"No. Our regular babysitter got sick, so they asked me.\"\nSTACY: \"I see. What time will your parents be back?\"\nLINDA: \"9 o'clock pm.\"\nSTACY: \"Do you want to come over after you finish babysitting?\"\nLINDA: \"Will you still be awake?\"\nSTACY: \"Of course! It's a sleepover party. We're all going to sleep late.\"\nLINDA: \"Ok! Please save me some pizza.\"\nSTACY: \"I will. See you tomorrow night.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2cNgK_YUds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2cNgK_YUds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2cNgK_YUds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2cNgK_YUds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2cNgK_YUds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C2cNgK_YUds"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8diAFxlJJtjiRRhHHAILoRlTuww",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 41 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 41: Coworker Moving Away\nKAREN: \"Hello?\"\nJANET: \"Hi Karen. This is Janet. Did you hear that Joanne is moving to England?\"\nKAREN: \"Yeah, what a great opportunity for her.\"\nJANET: \"I'm thinking about throwing her a going-away party. What do you think?\"\nKAREN: \"I think that's wonderful idea. She is such a good co-worker.\"\nJANET: \"Would you like to help me plan it?\"\nKAREN: \"Sure. Let's make it a potluck, so everyone can bring a dish to share.\"\nJANET: \"That's a great idea. Less stress if I don't have to cook.\"\nKAREN: \"Right! How many people do you want to invite?\"\nJANET: \"How about all of the people she works with. How many is that?\"\nKAREN: \"I think there are about 30 people in our department, including us.\"\nJANET: \"Should we keep it a secret or let her know?\"\nKAREN: \"She doesn't like people making a big fuss over her, so let's keep it a secret.\"\nJANET: \"When should we have the party?\"\nKAREN: \"When is she moving?\"\nJANET: \"Next month, I think.\"\nKAREN: \"Then we should do it soon. She'll be busy packing and getting ready for the move.\"\nJANET: \"How about next Friday? It's her last day at work too.\"\nKAREN: \"Perfect!\"\nJANET: \"I'll send out an email to everyone tonight. Thanks for your help.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TSf6_v8R9Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TSf6_v8R9Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSf6_v8R9Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TSf6_v8R9Hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TSf6_v8R9Hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TSf6_v8R9Hg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QAg72mrfVsxPgzwmGewCXWpRfQk",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 42 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 42: Daughter's friend Moving Away\nMOM: \"Sally, what's wrong? Why do you look so sad?\"\nSALLY: \"Mom, Candace is moving away.\"\nMOM: \"Oh, I'm sorry to hear that. Why is she moving?\"\nSALLY: \"Her dad got a job in another state.\"\nMOM: \"Where is she moving?\"\nSALLY: \"To California. That's across the country.\"\nMOM: \"There are many ways you can still keep in touch. You can e-mail, text, and call each other on the phone.\"\nSALLY: \"But it won't be the same as seeing each other every day. She is my best friend. I'm going to miss her.\"\nMOM: \"I know you will. When are they moving?\"\nSALLY: \"At the end of June when the school year ends. In two months.\"\nMOM: \"Would you like to invite her over this weekend? You can have a sleepover.\"\nSALLY: \"Yes, please. That would be great. We're going to try to hang out as much as possible before she moves.\"\nMOM: \"That sounds like a good plan.\"\nSALLY: \"Can we visit her in California?\"\nMOM: \"It's pretty far from us. We don't know anyone there.\"\nSALLY: \"Yes, we do. Candace and her family.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wqghK1d9uYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wqghK1d9uYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqghK1d9uYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wqghK1d9uYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wqghK1d9uYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wqghK1d9uYA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WtJpz4DwIDDa-z2Vz2ydsM-qvL8",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 43 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 43: Selling the House\nDAD: \"Hey Jeff. Are you ok?\"\nJEFF: \"Hi Dad. Yeah, I'm just a little sad that we are selling my childhood home.\"\nDAD: \"I know. I'm sad too. But it's just too big for your mother and me.\"\nJEFF: \"I understand. I just have a lot of memories here.\"\nDAD: \"Me too. This is the first home your mother and I bought.\"\nJEFF: \"Do you remember all of our holiday parties here? Everyone came to our house.\"\nDAD: \"Of course I remember them. Those were the best times.\"\nJEFF: \"Now I'm married and have a family of my own.\"\nDAD: \"I wish we didn't have to sell it, but we can no longer take care of it. We're getting old and it's too much work.\"\nJEFF: \"Do you know who bought our house?\"\nDAD: \"A young couple with two kids. They seem like a loving family.\"\nJEFF: \"Where will you and mom go?\"\nDAD: \"We found a beautiful, small condo a few blocks away.\"\nJEFF: \"That's nice. Will there be enough room when the grandchildren visit?\"\nDAD: \"Yes. We have an extra room for guests, so your kids can stay over any time.\"\nJEFF: \"Where's Mom?\"\nDAD: \"She's at the fabric store. She wants to sew new curtains for the condo.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VFCqb7XtyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VFCqb7XtyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VFCqb7XtyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_VFCqb7XtyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_VFCqb7XtyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_VFCqb7XtyY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uNivAFGTH0TfEjOPtZKGE5439UI",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 44 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 44: Loud Dog Barking\nKATHY: \"Hi Carol. You look tired today.\"\nCAROL: \"I am tired. I didn't get any sleep last night.\"\nKATHY: \"Why?\"\nCAROL: \"Our neighbor's dog would not stop barking. He barked all night long.\"\nKATHY: \"That's awful! Did you complain to your neighbor?\"\nCAROL: \"I knocked on his door, but he didn't answer. I don't think he was home.\"\nKATHY: \"What did you do all night?\"\nCAROL: \"I couldn't sleep, so I tried to read a book. But the dog's barking kept distracting me. So, I just watched TV.\"\nKATHY: \"I would be so angry. You should've called the police.\"\nCAROL: \"I didn't want to bother the police with a barking dog.\"\nKATHY: \"I would have called them. What if there was an emergency at your neighbor's house and the dog was trying to alert someone.\"\nCAROL: \"That's true. I didn't think about that. But this dog usually barks because he's bored.\"\nKATHY: \"That's annoying.\"\nCAROL: \"I know.\"\nKATHY: \"Hey Carol. Is that your neighbor? He's walking towards us.\"\nCAROL: \"What is he holding?\"\nKATHY: \"It looks like a plate of cookies.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IAtkzvx2ezk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IAtkzvx2ezk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IAtkzvx2ezk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IAtkzvx2ezk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IAtkzvx2ezk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IAtkzvx2ezk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QGfR0bAd_-43YSdX4z6LeCNI-1U",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 45 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 45: Loud Neighborhood Music\nJOAN: \"Hi Helen. What's wrong?\"\nHELEN: \"I couldn't sleep until 3 o'clock in the morning.\"\nJOAN: \"Why? What happened?\"\nHELEN: \"Our neighbors' children threw a big party last night. The music was so loud.\"\nJOAN: \"Wow! Where were their parents?\"\nHELEN: \"They are on vacation. They left the kids home.\"\nJOAN: \"How old are the kids?\"\nHELEN: \"They're teenagers. They're old enough to be home alone.\"\nJOAN: \"Did you complain to them?\"\nHELEN: \"Yes! I went over there three times. I told them that their music was too loud and we were trying to sleep.\"\nJOAN: \"What did they do?\"\nHELEN: \"Nothing. They wouldn't turn the music down.\"\nJOAN: \"That is so rude! Why didn't you call the police?\"\nHELEN: \"I finally did. The police found some of the teens drinking alcohol.\"\nJOAN: \"I bet that ended the party.\"\nHELEN: \"Yeah. Now my neighbors are heading back home from their vacation.\"\nJOAN: \"Do they know what happened?\"\nHELEN: \"Yes. They are not happy. Those kids are in big trouble.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iXRIshuYHfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iXRIshuYHfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iXRIshuYHfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iXRIshuYHfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iXRIshuYHfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iXRIshuYHfQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HxXx2QYAS4E3-BUlc1PPZoRU9NQ",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 46 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 46: Helping a Neighbor\nJANET: \"I feel so bad for Mary.\"\nSARAH: \"Me too. I can't believe her husband died. They were married for a long time.\"\nJANET: \"I know. What is she going to do now?\"\nSARAH: \"I don't know. Does she have any children?\"\nJANET: \"No, I don't think they had any children.\"\nSARAH: \"How about other family members?\"\nJANET: \"I think she had one sister, but she passed away several years ago.\"\nSARAH: \"So, she's all alone now?\"\nJANET: \"Yeah. Isn't that sad?\"\nSARAH: \"Yes, it is very sad.\"\nJANET: \"She is always so nice to everyone. I think we should all get together and do something nice for her.\"\nSARAH: \"I like that idea. What should we do?\"\nJANET: \"Let's take turns helping her around the house?\"\nSARAH: \"Great idea! We can take care of her yard, help clean her house, and bring her meals.\"\nJANET: \"I love this. Let's talk to the other neighbors soon.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMf1GN8MsqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMf1GN8MsqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMf1GN8MsqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMf1GN8MsqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMf1GN8MsqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vMf1GN8MsqU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qEdQDDtwHkuVL59NJ5igMUZzqko",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 47 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 47: Small Talk at the Bus Stop\nALICE: \"Has Bus 47 come yet?\"\nTOM: \"No. I think it's late today.\"\nALICE: \"Do you ride this bus every day?\"\nTOM: \"Yeah. Do you?\"\nALICE: \"Not every day. Only a couple of times a week.\"\nTOM: \"Well, I think the bus is late today because of the rain.\"\nALICE: \"Oh. Does the weather make a difference?\"\nTOM: \"Yes. The bus is usually several minutes late when it rains.\"\nALICE: \"Because of bad traffic?\"\nTOM: \"Yeah and probably because of car accidents.\"\nALICE: \"That makes sense. I must have picked the wrong day to ride the bus.\"\nTOM: \"Actually, I think riding the bus on rainy days is better.\"\nALICE: \"Why?\"\nTOM: \"Then you don't have to drive in bad traffic. Someone is driving for you.\"\nALICE: \"You are totally right! I'm going to check the weather from now on. I'm going to take the bus when it rains.\"\nTOM: \"Then I'll see you here at the bus stop.\"\nALICE: \"Great! It was nice talking with you.\"\nTOM: \"Yes, it was. I think our bus is coming now.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weAAvXcLXdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weAAvXcLXdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weAAvXcLXdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/weAAvXcLXdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/weAAvXcLXdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "weAAvXcLXdQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tZHJHePJrCeV5pq3cMgS-1xEo04",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 48 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 48: Small Talk about Sports\nMATTHEW: \"I like your sports jersey.\"\nKAREN: \"Thanks! You must be a fan too.\"\nMATTHEW: \"I am. I went to that college.\"\nKAREN: \"Really? Me too.\"\nMATTHEW: \"What year did you graduate?\"\nKAREN: \"2000.\"\nMATTHEW: \"I graduated in 2004.\"\nKAREN: \"What was your major?\"\nMATTHEW: \"I studied Law.\"\nKAREN: \"I studied Law, too!\"\nMATTHEW: \"I'm Matthew, by the way.\"\nKAREN: \"I'm Karen. Nice to meet you, Matthew.\"\nMATTHEW: \"Are you going to the game tonight?\"\nKAREN: \"No. I'm going to watch it at home.\"\nMATTHEW: \"I have an extra ticket. Would you like to go to the game with me?\"\nKAREN: \"I'd love to. We can watch our college football team win tonight!\"\nMATTHEW: \"Ok! What about dinner first?\"\nKAREN: \"Sounds great.\"\nMATTHEW: \"I'll meet you at this coffee shop at 5 pm.\"\nKAREN: \"Ok. See you tonight, Matthew.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SjO6h2Z9hIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SjO6h2Z9hIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SjO6h2Z9hIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SjO6h2Z9hIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SjO6h2Z9hIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SjO6h2Z9hIc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XvejrQq1k9j_dUXxKGgdIGHFy8s",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 49 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 49: Taxi Small Talk\nSUE: \"Can we share this cab?\"\nMARK: \"Where are you going?\"\nSUE: \"To 5th Avenue and Main Street.\"\nMARK: \"That's where I'm going too.\"\nSUE: \"Great! It's so hard to catch a cab at this time.\"\nMARK: \"I know! Are you going to work?\"\nSUE: \"No, I'm meeting some friends at a restaurant.\"\nMARK: \"Is it the new Thai place?\"\nSUE: \"Yes. Have you been there?\"\nMARK: \"Yeah.\"\nSUE: \"How is it?\"\nMARK: \"It's pretty good.\"\nSUE: \"Oh good. It's my first time trying Thai food.\"\nMARK: \"Really? Everything is freshly made.\"\nSUE: \"That's good to hear. I'm a little picky about food.\"\nMARK: \"I hope you like it.\"\nSUE: \"Thanks. Where are you going?\"\nMARK: \"Work.\"\nSUE: \"Where do you work?\"\nMARK: \"I'm a chef at the new Thai restaurant.\"\nSUE: \"That's awesome!\"\nMARK: \"Let the chef know what you think later. If you liked it, you may get a free dessert.\"\nSUE: \"You're funny!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygjPceWekDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygjPceWekDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygjPceWekDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ygjPceWekDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ygjPceWekDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ygjPceWekDU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hXD_86YthiCjp8zrvCwUl8EA4oQ",
+      "id": "UEx3ZXM4QkZNQmxMRVVDcWNTWVpwY25aSk1vNU81MEFueS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2019-09-12T14:55:32Z",
+        "channelId": "UCgsoVsRIOwN-57IBJIsMf_w",
+        "title": "English Conversation Chapter 50 - Level 3 | ACES Education",
+        "description": "#LearnEnglish #EnglishDaily #EnglishConversation\nChapter 50: Family Reunion\nROBERT: \"Mom, are we having a big party tonight?\"\nMOM: \"Yes, Robert. All of our relatives are coming. Did you forget?\"\nROBERT: \"Oh yeah. It's our annual family reunion.\"\nMOM: \"How could you forget? We have a big party every year. This year it is at our house.\"\nROBERT: \"I remember it was at Uncle Walter's house last year. That was fun.\"\nMOM: \"Do you need any help?\"\nROBERT: \"Yes. Could you please go to the store and buy some ice?\"\nMOM: \"I made some lemonade and I want to keep it cold during the party.\"\nROBERT: \"That's a good idea. It's going to be hot today.\"\nMOM: \"I hope the food stays fresh.\"\nROBERT: \"I'm sure it will be fine. What are you making?\"\nMOM: \"It's going to be a potluck. I am serving barbeque ribs and potatoes.\"\nROBERT: \"Do you know what other people are bringing.\"\nMOM: \"I think some people are going to bring salads, appetizers, and desserts.\"\nROBERT: \"Sounds like a feast.\"\nMOM: \"I think everyone is coming, except Aunt Linda. She's feeling sick today.\"\nROBERT: \"That's too bad. She is my favorite aunt.\"\nMOM: \"I know. She's my favorite sister.\"\nROBERT: \"I can't wait to see all of my cousins.\"\nMOM: \"They're excited to see you too. But right now, please go buy some ice.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-Otmm7b-Yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-Otmm7b-Yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-Otmm7b-Yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-Otmm7b-Yc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-Otmm7b-Yc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACES Education",
+        "playlistId": "PLwes8BFMBlLEUCqcSYZpcnZJMo5O50Any",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C-Otmm7b-Yc"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}
