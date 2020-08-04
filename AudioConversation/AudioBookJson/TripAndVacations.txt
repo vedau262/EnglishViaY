@@ -308,7 +308,7 @@
     {
         "title": "Misunderstanding",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/misunderstanding.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/breakfast_grandparents.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/misunderstanding.mp3",
         "dialog": "BILL: \"Hey Joe. Have you seen Sandy?\"\nJOE: \"No, Bill. Why?\"\nBILL: \"We had a misunderstanding and she is not talking to me.\"\nJOE: \"Oh. I'm sorry to hear that.\"\nBILL: \"Yeah. I said something silly and hurt her feelings.\"\nJOE: \"What did you say?\"\nBILL: \"It's not important. I don't want to discuss it. I just want to apologize to her.\"\nJOE: \"She always hangs out at Linda's house or the library.\"\nBILL: \"I've already checked both places.\"\nJOE: \"How about her house.\"\nBILL: \"Her roommate said she wasn't home.\"\nJOE: \"Have you called her cell phone.\"\nBILL: \"Yeah, several times.\"\nJOE: \"She must really be mad at you.\"\nBILL: \"She was! She stormed off and I didn't get to explain what I meant.\"\nJOE: \"I'm really curious now. What did you say to her?\"\nBILL: \"I told her to exercise.\"\nJOE: \"Well, that probably wasn't a smart thing to say to a woman.\"\nBILL: \"I meant that she should exercise to stay healthy.\"\nJOE: \"That sounds better. Hope you find her.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
