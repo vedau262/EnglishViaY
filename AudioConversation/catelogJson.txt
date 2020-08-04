@@ -11,7 +11,7 @@
     },
     {
         "catalogtitle": "Eating Related Topics",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/breakfast_grandparents.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/EatingRelatedTopics.jpg",
         "catalogdes": "Eating Related Topics",
         "catalognumberbook": 14,
         "enablethumbnail": 1,
@@ -21,7 +21,7 @@
     },
     {
         "catalogtitle": "Family And Friends",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/coworker_moving.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/FamilyAndFriends.jpg",
         "catalogdes": "Family And Friends",
         "catalognumberbook": 19,
         "enablethumbnail": 1,
