@@ -80,6 +80,14 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/zzddc88jcbt69st/ENGLISH%20FOR%20INTERMEDIATE%20LEVELS.txt?dl=1"			
 		},
 		{	
+			"LIST_VIDEO_NAME": "20 Basic Topics",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/maxresdefault.jpg",
+			"LIST_VIDEO_ID": "https://www.youtube.com/watch?v=Ix6Ae_fYqP4&list=PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0&index=2",			
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/20BasicTopics",	
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ggd0wx2fctlatl5/20BasicTopics?dl=1"			
+		},
+		{	
 			"LIST_VIDEO_NAME": "VOA - English in a Minute",
 			"LIST_VIDEO_SIZE": "47",
 			"LIST_VIDEO_ICON": "https://pbs.twimg.com/media/Dg3oor3XUAI5VJL.jpg",

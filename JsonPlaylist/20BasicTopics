@@ -1,0 +1,910 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "X2QxwWyw5HDPeAG42FSJJRa_VUU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IE0RG-tnD6m3hXTEFRa-TRYw-ls",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-05-09T07:37:32Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Greetings - Greeting an Old Friend",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Hi, I haven't seen you in a while.\nB: Yes, it has been a long time!\nA: How long has it been since we last saw each other?\nB: I think that we last saw each other two years ago.\nA: What have you been doing for the past two years?\nB: I have been going to graduate school at USC.\nA: What are you majoring in?\nB: I am studying international communications.\nA: You should easily be able to find a job with that major.\nB: I am counting on being able to get a good job.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6cu-nAU8SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6cu-nAU8SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6cu-nAU8SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V6cu-nAU8SA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V6cu-nAU8SA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V6cu-nAU8SA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_0b7FVw9s7i5Vi2S8EM_znb9alU",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-05-09T08:17:36Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Goodbye - Saying goodbye",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: I had fun talking to you.\nB: It was really nice talking to you also.\nA: I think we should really do something sometime.\nB: That should be loads of fun.\nA: What do you want to do next time?\nB: Would you like to go to dinner or something?\nA: Yeah, let's do that.\nB: Okay, until next time then.\nA: I'll call you so we can set that up.\nB: Talk to you then.\nA: All right, see you.\nB: See you.\"\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ix6Ae_fYqP4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ix6Ae_fYqP4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FF_6reBv47Pvcz6lR0PLyVBIcNU",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-05-10T06:46:39Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Time and Date - Time and Date Trip",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: When are we leaving for our field trip?\nB: Our science field trip is next Monday at 8:00 in the morning. Can you mark that on your calendar?\nA: Yes, I will write that down.\nB: That will be Monday, December 2nd. We need to start loading the buses half an hour early, so plan to arrive at 7:30.\nA: Yes, I will be there on time.\nB: We will return 6 days later on December 8th. Will someone be picking you up?\nA: Yes, someone is coming to get me.\nB: The return bus will leave the campground at 5:00 p.m. and return to campus 3 hours later at 8:00 p.m.\nA: What should we bring with us?\nB: I am going to post all of that information on the geology club web page. Check it out when you get a chance. See you Monday!\"\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E31Xmkb4_cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E31Xmkb4_cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E31Xmkb4_cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E31Xmkb4_cQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E31Xmkb4_cQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E31Xmkb4_cQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F4lFYf7r-tApBfoChw11zvbDDJw",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-05-11T06:27:46Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Self-Description",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nI am a new student in school. I tell the class about myself. I am from Canada, but now I live in Nevada. I live with my mom, dad, and brother. My brother is five years younger than me. Music is very important to me. I like to sing and dance. I also play the saxophone. One day, I hope to be a music teacher.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vp7pFNQ0y68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vp7pFNQ0y68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vp7pFNQ0y68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vp7pFNQ0y68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vp7pFNQ0y68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vp7pFNQ0y68"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YSgRHqsVX_HNKG8COCNdbiH5jQM",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-05-11T06:27:54Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Weather",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: It doesn't look very nice outside today.\nB: You're right. I think it's going to rain later.\nA: In the middle of the summer, it shouldn't be raining.\nB: That wouldn't seem right.\nA: Considering that it's over ninety degrees outside, that would be weird.\nB: Exactly, it wouldn't be nice if it started raining. It's too hot.\nA: I know, you're absolutely right.\nB: I wish it would cool off one day.\nA: That's how I feel, I want winter to come soon.\nB: I enjoy the winter, but it gets really cold sometimes.\nA: I know what you mean, but I'd rather be cold than hot.\nB: That's exactly how I feel.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgJmFDk7NAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgJmFDk7NAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgJmFDk7NAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HgJmFDk7NAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HgJmFDk7NAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HgJmFDk7NAQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PbGD7F2VNUtA-ZbE69qWDYOYlqk",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-05-11T15:19:06Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Job - Job Interview",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Good morning, I am here for my interview. \nB: Hello, nice to meet you. I'm Mr. Gotcha. Have any trouble finding the place? \nA: No problem. \nB: So why don't you tell me why you are interested in changing positions? \nA: Unfortunately, our company is shutting down due to the economy. \nB: What would you consider your strengths? \nA: I am probably best at researching for marketing purposes. \nB: What is your biggest weakness? \nA: I tend to get bored easily and so love to keep myself challenged. \nB: We have a position where that could work out well. \n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNYcaFKse3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNYcaFKse3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNYcaFKse3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KNYcaFKse3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KNYcaFKse3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KNYcaFKse3g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DoSRWxDqTAHhP7q_jnsAiJTLcBU",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-05-11T15:19:13Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Places - Where to Find Places to Eat",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: I'm new to the neighborhood.\nB: Have you been able to find everything okay?\nA: Actually, could you help me with that?\nB: What can I help you with?\nA: I'm trying to find a nice restaurant to eat at.\nB: What kind of food do you want?\nA: I wouldn't mind some good Chinese food.\nB: There's a great Chinese restaurant right down the street.\nA: Could you tell me how to get there?\nB: It's a few blocks down. You'll find it on the right-hand side.\nA: Would you like to come eat lunch with me?\nB: I would love to. Thanks.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdXaUjBt_yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdXaUjBt_yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdXaUjBt_yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vdXaUjBt_yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vdXaUjBt_yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vdXaUjBt_yo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pTY0M7BPjoeZejCoqZxhlKNiXLg",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-05-11T15:19:20Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Giving directions",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: I need to find a bus that'll take me to the Gold Line.\nB: Where do you live?\nA: I live up in Altadena.\nB: The 264 will take you there.\nA: It goes all the way there?\nB: I know for a fact that it goes to the station.\nA: What street would I catch it on?\nB: If you go to Altadena Drive, you can catch it there.\nA: I didn't know that bus went to the Gold Line station.\nB: Yup, it does.\nA: Thanks for letting me know.\nB: It was my pleasure\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_lYSb3-4Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_lYSb3-4Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_lYSb3-4Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_lYSb3-4Lc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P_lYSb3-4Lc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P_lYSb3-4Lc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PBKasUbR7WQZjHndcdjJO0hBzZM",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-05-13T15:12:50Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Daily Routines - Waking Up for School",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Hello, is this the Smith residence?\nA: Sarah! Hurry up and get out of bed!\nB: I can't, the blankets won't let me go.\nA: Quit being lazy and get up!\nB: No, I have to finish my awesome dream!\nA: I can't believe you turned off your alarm this morning.\nB: Why? I do it every morning.\nA: If you don't get out of bed, you'll get to school late.\nB: That's not so bad.\nA: How is it not so bad?\nB: Sleep is good for growing children.\nA: Yes, but you have a math test this morning!\nB: I completely forgot! I'm up, I'm up!\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DDWIsnIvxlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DDWIsnIvxlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DDWIsnIvxlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DDWIsnIvxlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DDWIsnIvxlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DDWIsnIvxlE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ztevAGPqy6UrxXrQXo-l_YI9p5U",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-05-13T15:12:58Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Hobby - Asking about the Swimming Pool",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Is there a swimming pool in this hotel?\nB: We don't have a full-sized swimming pool, but we do have individual swim stations.\nA: What exactly does that mean?\nB: Basically, a swim station is like a treadmill, except instead of running, you swim.\nA: That sounds really neat. Is there an extra charge for these swim stations?\nB: If you're a registered guest, you have free access to our swim stations.\nA: Are the swim stations open 24 hours, like the rest of the gym?\nB: To conserve electricity, the stations operate only from 7:00 a.m. till 10:00 p.m. \nA: I'll go down there as soon as I can!\nB: I don't think you'll be disappointed. People really seem to like the swim stations.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P2_TmYTIk-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P2_TmYTIk-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2_TmYTIk-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P2_TmYTIk-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P2_TmYTIk-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P2_TmYTIk-4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kLraLJiAP9tl8rhTHJMj64VxWno",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-05-15T03:31:42Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Holiday - Traveled to Singapo",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Why did you choose that destination?\nB: I love to travel to Asian countries and Singapore was my best choice because of its beauty and culture.\nA: How long did it last?\nB: I stayed there for 2 weeks.\nA: Who went with you?\nB: I traveled to Singapore with my best friends.\nA: How did you travel?\nB: We flew there of course. During the time there, we moved mostly by MRT and taxi.\nA: What did you pack up?\nB: I only brought some necessary items such as money, clothes, medicine, a map and a digital camera.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F-3SH18Xo2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F-3SH18Xo2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F-3SH18Xo2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F-3SH18Xo2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F-3SH18Xo2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F-3SH18Xo2g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UrvysAzQjXvbfV8L9c20YrH79B0",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-05-16T03:51:10Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Sports -  I Love Baseball",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Baseball is fun.\nB: I like to hit the ball.\nA: I like to run around the bases.\nB: I like to slide into the bases.\nA: Yeah. It’s a lot of fun to slide.\nB: I want to be a baseball player when I grow up.\nA: Me too. I want to play for the Yankees.\nB: Not me. I want to play for the Dodgers.\nA: We have to practice every day.\nB: I don’t like practice.\nA: Me neither. It’s boring.\nB: But practice makes perfect.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMXQ6ll4gpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMXQ6ll4gpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMXQ6ll4gpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PMXQ6ll4gpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PMXQ6ll4gpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PMXQ6ll4gpA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F-OVHBguwLL2dW5TwIZ3zQYqKqI",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2019-05-17T07:00:44Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Clothes  - Shopping for a Sweater",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Excuse me. Could you help me with something?\nB: I'll certainly try.\nA: I'm looking for a nice sweater.\nB: What size do you wear in a sweater?\nA: Medium is my size for shirts and sweaters.\nB: Here's a medium. What do you think?\nA: I like it. Where can I try it on?\nB: We have a large fitting room in that corner.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x1K7XvL7cHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x1K7XvL7cHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x1K7XvL7cHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x1K7XvL7cHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x1K7XvL7cHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x1K7XvL7cHY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7BVtCaG00s4ZGALwRN16yyV77gU",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2019-05-17T07:12:09Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Shopping - Shopping for New Clothes",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: What are you doing here?\nB: I'm just shopping.\nA: What are you shopping for?\nB: Some new clothes. How about you? \nA: Same here.\nB: Have you found anything nice yet?\nA: I found a few pairs of pants.\nB: Where'd you get those?\nA: I found them at JCPennies.\nB: Those are really cute.\nA: Do you want me to show you where I found them?\nB: I would like that. Thank you.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhsFAA1-qzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhsFAA1-qzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhsFAA1-qzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UhsFAA1-qzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UhsFAA1-qzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UhsFAA1-qzU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MYDHJhVNYRCBVkPQyQiEACJefgs",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-05-17T07:14:21Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Family - Family Reunions",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Do you want to come to my house tomorrow?\nB: My mother says I'm not allowed to go out this week.\nA: Why are you not allowed to go out?\nB: We are having a family reunion.\nA: Your whole extended family is staying over at your house?\nB: Yes. I'm looking forward to seeing my cousins.\nA: Are they fun to play with?\nB: Yes. Last year, we played a trick on my grandpa.\nA: What did you do?\nB: We replaced his denture glue with toothpaste.\nA: I don't think that's very funny.\nB: It was when his teeth fell into the mashed potatoes!\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LBy6Yth99xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LBy6Yth99xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBy6Yth99xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LBy6Yth99xo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LBy6Yth99xo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LBy6Yth99xo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v3HAGmO9S5q0RuXMvZTPOr9fhTE",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-05-19T03:08:43Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Ordering food",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nWaiter: Hello, I’ll be your waiter today. Can I start you off with something to drink?\nRalph: Yes. I’ll have iced tea, please.\nAnna: And I’ll have lemonade.\nWaiter: OK. Are you ready to order, or do you need a few minutes?\nRalph: I think we’re ready. I’ll have the tomato soup to start, and the roast beef with mashed potatoes and peas.\nWaiter: How do you want the beef — rare, medium or well done?\nRalph: Well done, please.\nAnna: And I’ll just have the fish, with potatoes and a salad.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDF_AwTZnMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDF_AwTZnMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDF_AwTZnMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iDF_AwTZnMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iDF_AwTZnMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iDF_AwTZnMs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WCLB5cA9DwofrRcS0kDogQ4rOpM",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2019-05-19T03:11:34Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Making a date",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: I think you're very pretty.\nB: Thank you.\nA: Would you have dinner with me?\nB: I would like to.\nA: Can I pick you up Friday night?\nB: What time?\nA: Eight o'clock.\nB: That sounds great.\nA: We'll go to a French restaurant.\nB: I've never been to a French restaurant.\nA: I think you'll love the food.\nB: I'm not going to eat any snails!\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4b1h5DEYaJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4b1h5DEYaJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4b1h5DEYaJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4b1h5DEYaJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4b1h5DEYaJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4b1h5DEYaJY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xbbQB3Dlz5aOfUGb30Us8J3pAfY",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-05-19T03:14:42Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Arranging atrip",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\n\"A: I was wondering if you could help me book a few tours.\nB: You have come to the right place. How many days will you be visiting here?\nA: I will be here for a week.\nB: Have you ever visited our city before?\nA: This is my first time visiting this city.\nB: What are you interested in? Do you enjoy museums and buildings, or would you rather hit some outdoor hotspots and venues?\nA: I really enjoy visiting museums and art galleries.\nB: We have tours for all interests.\nA: Do you have a city tour?\nB: Yes, in fact, I usually suggest that to visitors.\"\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_UrjLpZZNNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_UrjLpZZNNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_UrjLpZZNNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_UrjLpZZNNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_UrjLpZZNNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_UrjLpZZNNk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BrUPmyKPQbcZEVPpKNyevFRr9HQ",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-05-21T06:36:02Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic At the hotel - Checking into the Hotel",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: I have a reservation. My name is John Sandals.\nB: May I see your ID, please, Mr. Sandals?\nA: Certainly. Here it is.\nB: Thank you. Do you have a credit card, Mr. Sandals?\nA: Yes, I do. Do you accept American Express?\nB: Sorry, sir, just VISA or MasterCard.\nA: Here's my VISA card.\nB: Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?\nA: Yes, it sounds like everything I expected.\nB: Here's your key, sir. If you need anything, just dial 0 on your room phone.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7ERBOQzvxzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7ERBOQzvxzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ERBOQzvxzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7ERBOQzvxzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7ERBOQzvxzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7ERBOQzvxzc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ed4ZSm7xWp3h6qe8ugjSVatCZlA",
+      "id": "UEw5eFJvaFZwOG5OVWs5V1NLaGNnS2JiWjBJUDZhV3d2MC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-05-21T06:38:18Z",
+        "channelId": "UCSlGOlpnPXOfrM-s3Xoo8cg",
+        "title": "[Conversation English] Topic Vacation - Making Plans for the Weekend",
+        "description": "#Channel_Giáo_dục \n Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n▶ Contents\nA: Do you have any plans for the weekend?\nB: I haven't given it much thought. What were you thinking of doing?\nA: I was planning on taking a trip up the coast to the beach.\nB: What a perfect thing to do on a beautiful weekend!\nA: Would you like to come along?\nB: I think I would enjoy that a lot. When would we leave?\nA: Saturday morning around 8:00.\nB: Good. That would get us there with time to look around. There is a music festival in Santa Barbara on the beach that day.\nA: Yes, I was hoping to be able to go to the festival.\nB: I am so glad we talked. Thank you for inviting me to the beach with you.\n\n▶ Speak English With ABBA helps English learners to speak American English fluently, naturally, and confidently. To become a fluent English speaker and have English conversations with a native English speaker\n\n▶ Gmail: abba.language@gmail.com\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PN1zkl5XWqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PN1zkl5XWqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PN1zkl5XWqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PN1zkl5XWqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PN1zkl5XWqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Channel Giáo Dục",
+        "playlistId": "PL9xRohVp8nNUk9WSKhcgKbbZ0IP6aWwv0",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PN1zkl5XWqI"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  }
+}
