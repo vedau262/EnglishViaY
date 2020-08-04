@@ -123,10 +123,30 @@
         "catalogtitle": "Trip & Vacations",
         "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
         "catalogdes": "Trip & Vacations",
-        "catalognumberbook": 50,
+        "catalognumberbook": 17,
         "enablethumbnail": 1,
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TripAndVacations.txt",
         "key": "TripAndVacations"
+    },
+    {
+        "catalogtitle": "Eating Related Topics",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/breakfast_grandparents.jpg",
+        "catalogdes": "Eating Related Topics",
+        "catalognumberbook": 14,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TripAndVacations.txt",
+        "key": "EatingRelatedTopics"
+    },
+    {
+        "catalogtitle": "Family And Friends",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/coworker_moving.jpg",
+        "catalogdes": "Family And Friends",
+        "catalognumberbook": 19,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TripAndVacations.txt",
+        "key": "FamilyAndFriends"
     }
 ]
