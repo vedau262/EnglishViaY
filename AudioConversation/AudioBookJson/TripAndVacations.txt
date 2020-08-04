@@ -187,5 +187,104 @@
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
         "enable": 1
+    },
+    {
+        "title": "Dinner with Grandparents",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/dinner_grandparents.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/dinner_grandparents.mp3",
+        "dialog": "MOM: \"Ethan, get ready. We're going to your grandparents' house for dinner.\"\nETHAN: \"Again? We went there last weekend.\"\nMOM: \"That's right. Remember we go every Sunday evening.\"\nETHAN: \"But grandma's food tastes weird.\"\nMOM: \"Don't be rude. She loves to cook for us.\"\nETHAN: \"I know. I love them. But she always makes the same dish, chicken pot pie.\"\nMOM: \"Your grandfather likes it. It's his favorite, so we're going to eat it too.\"\nETHAN: \"Ok, Mom. Sorry for being rude.\"\nMOM: \"Why don't we pick up a dessert on the way to their house?\"\nETHAN: \"Ok! Can we get ice cream?\"\nMOM: \"Sure. We can make ice cream sundaes after dinner.\"\nETHAN: \"Mom, that's funny.\"\nMOM: \"What's funny?\"\nETHAN: \"Sundaes on Sundays.\"\nMOM: \"That is funny. This will be our new tradition.\"\nETHAN: \"Grandpa will love it. He loves ice cream too.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "No Time to Eat",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/no_time_eat.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/no_time_eat.mp3",
+        "dialog": "MOM: \"Hey Jane. Did you eat lunch?\"\nJANE: \"No, I don't have time. I have a big test today at 1 pm.\"\nMOM: \"You still need to eat or you won't have energy for the test.\"\nJANE: \"I know. I'll grab something on the way to class.\"\nMOM: \"Fast food?\"\nJANE: \"Yeah, I'll grab a burger.\"\nMOM: \"That's not healthy for you. Let me make you something to eat.\"\nJANE: \"Thanks. But I don't have time.\"\nMOM: \"You never have the time to eat a proper meal anymore.\"\nJANE: \"I like fast food meals anyway. They're quick and easy.\"\nMOM: \"Let me pack you some fruits.\"\nJANE: \"Mom, please. I'm in college now. I can cut my own fruits.\"\nMOM: \"But you won't do it.\"\nJANE: \"I'll take this banana. It's quick and easy. See you later, Mom.\"\nMOM: \"Eat something nutritious!\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Quick Bite to Eat",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/quick_bite.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/quick_bite.mp3",
+        "dialog": "CHARLIE: \"Hey Jesse, should we grab a bite to eat before the concert?\"\nJESSE: \"Yeah, I'm getting a little hungry.\"\nCHARLIE: \"Let's get some fast food here.\"\nJESSE: \"Burgers and fries?\"\nCHARLIE: \"Yeah, that sounds good.\"\nJESSE: \"Why is the drive-thru line so long?\"\nCHARLIE: \"It's dinner time. Should we go inside?\"\nJESSE: \"It might be busier inside?\"\nCHARLIE: \"Looks like the line is really long inside too.\"\nJESSE: \"Let's head to another place.\"\nCHARLIE: \"Can we go to one closer to the concert arena?\"\nJESSE: \"That's a good idea!\"\nCHARLIE: \"There are many fast food places around there.\"\nJESSE: \"Yeah, we should be able to find one that's not too crowded.\"\nCHARLIE: \"Fast food is great. Fast and cheap.\"\nJESSE: \"But not very healthy.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Working at a Fast Food Place",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/working_fast_food.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/working_fast_food.mp3",
+        "dialog": "SCOTT: \"Hey Sam. What was your first job?\"\nSAM: \"I worked at a fast food restaurant.\"\nSCOTT: \"Did you like it?\"\nSAM: \"It was ok. It was always busy.\"\nSCOTT: \"What did you do there?\"\nSAM: \"I took orders at the counter and sometimes at the drive-thru window.\"\nSCOTT: \"Was it fun?\"\nSAM: \"It wasn't fun. It was just a job. We had to work fast.\"\nSCOTT: \"I need to find a job. I was thinking about applying at a fast food restaurant.\"\nSAM: \"It's a good place to learn how to work quickly.\"\nSCOTT: \"I'm a fast learner and I can move pretty quickly.\"\nSAM: \"Also, it's a good place to learn how to handle customers.\"\nSCOTT: \"I don't have any customer service experience.\"\nSAM: \"They will train you. You just have to be polite and listen well.\"\nSCOTT: \"I can do that.\"\nSAM: \"You should apply then.\"\nSCOTT: \"Did you get to eat a lot of the food?\"\nSAM: \"I ate too much fast food working there. I got sick of it.\"\nSCOTT: \"I love fast food. I may eat it every day.\"\nSAM: \"That's probably not a good thing.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Planning for Lunch with Friend",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/plan_lunch.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/plan_lunch.mp3",
+        "dialog": "JOAN: \"Hello?\"\nKAREN: \"Hi Joan. This is Karen. Are you free for lunch today?\"\nJOAN: \"Hi Karen. No, I'm having lunch with my mom. It's her birthday today.\"\nKAREN: \"What about tomorrow?\"\nJOAN: \"I'm free tomorrow. Where should we go?\"\nKAREN: \"There's a new Chinese restaurant downtown.\"\nJOAN: \"I love Chinese food! Let's check it out.\"\nKAREN: \"Do you think we should make reservations.\"\nJOAN: \"Yeah, that might be a good idea.\"\nKAREN: \"Should we invite anyone else?\"\nJOAN: \"Sure. How about Cathy and Lisa?\"\nKAREN: \"Lisa is out of town. Let's invite Cathy and Sharon.\"\nJOAN: \"Ok. What time should we meet tomorrow?\"\nKAREN: \"Noon?\"\nJOAN: \"Noon is perfect.\"\nKAREN: \"Good. I'll call Cathy and Sharon right now.\"\nJOAN: \"Hopefully, then can meet at noon too.\"\nKAREN: \"If they can't, I'll let you know",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Talking about your Lunch",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/talking_lunch.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/talking_lunch.mp3",
+        "dialog": "BOBBY: \"Hey Steve, what did your mom pack for your lunch today?\"\nSTEVE: \"Hey Bobby. She packs me the same lunch every day. A peanut butter and jelly sandwich, cookies, and milk.\"\nBOBBY: \"I got something new today. It looks like a tuna sandwich. I'm not sure I like it.\"\nSTEVE: \"I love tuna sandwiches. Do you want to trade?\"\nBOBBY: \"Sure! But will your mom get mad?\"\nSTEVE: \"No. She won't know. I won't tell her.\"\nBOBBY: \"Do you ever buy the school lunch?\"\nSTEVE: \"No, it looks gross.\"\nBOBBY: \"It's actually not bad. Some dishes are pretty good.\"\nSTEVE: \"Which ones have you tried?\"\nBOBBY: \"The spaghetti and pizza are good. But the hamburgers and burritos are terrible. They taste like cardboard.\"\nSTEVE: \"That's awful! Maybe I'll buy lunch when the cafeteria serves spaghetti and pizza. Those are my favorite dishes at home.\"\nBOBBY: \"They're pretty good, but not as good as our moms' cooking.\"\nSTEVE: \"Are you done with lunch? Let's go out to recess.\"\nBOBBY: \"Yeah. Let's go!\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Lunch Decisions",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/decide_lunch.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/decide_lunch.mp3",
+        "dialog": "KATHY: \"Hey Bill, are you hungry?\"\nBILL: \"Oh, hi Kathy. Yeah. Let's have lunch.\"\nKATHY: \"What do you want to eat?\"\nBILL: \"How about pizza?\"\nKATHY: \"We always have pizza. Let's try something different.\"\nBILL: \"Ok. Do you have any suggestions?\"\nKATHY: \"How about sushi?\"\nBILL: \"I don't like raw fish.\"\nKATHY: \"All sushi isn't raw.\"\nBILL: \"I know. I just don't feel like having sushi today.\"\nKATHY: \"Ok. Then what should we eat?\"\nBILL: \"Maybe we should just order take-out. You get sushi and I'll get pizza.\"\nKATHY: \"That's a good idea. But I think I want Chinese food instead.\"\nBILL: \"Chinese food sounds yummy.\"\nKATHY: \"Hey, we agree on something. Let's go out to a Chinese restaurant.\"\nBILL: \"I'd rather eat at home.\"\nKATHY: \"We never agree on anything.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Trying Different Restaurants",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/trying_restaurant.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/trying_restaurant.mp3",
+        "dialog": "JENNIFER: \"Do you want to try a new restaurant tonight?\"\nLINDA: \"Sure. I'm kind of getting sick of the same place.\"\nJENNIFER: \"Me too. What kind of food do you want to eat?\"\nLINDA: \"Do you want to try Indian?\"\nJENNIFER: \"Ok. I've never had Indian food before, so you'll have to choose the place.\"\nLINDA: \"I've never had it before either.\"\nJENNIFER: \"Then why do you want to go there?\"\nLINDA: \"To try something different.\"\nJENNIFER: \"Let's check out the reviews online.\"\nLINDA: \"That's a good idea.\"\nJENNIFER: \"There are many restaurants we haven't tried.\"\nLINDA: \"Should we try a new one each week?\"\nJENNIFER: \"Yeah. That will be fun.\"\nLINDA: \"Ok, so we'll have Indian tonight.\"\nJENNIFER: \"What about next week?\"\nLINDA: \"Let's decide that next week. One place at a time.\"\nJENNIFER: \"I'm hungry.\"\nLINDA: \"Me too. Let's find a restaurant soon.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Opening up a Restaurant",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/opening_restaurant.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/opening_restaurant.mp3",
+        "dialog": "STANLEY: \"Hi Bill. What are you doing tonight?\"\nBILL: \"I'm not sure. Carol and I are thinking about going out to dinner.\"\nSTANLEY: \"I'm opening a restaurant soon.\"\nBILL: \"Where?\"\nSTANLEY: \"Downtown.\"\nBILL: \"What kind of food are you going to serve?\"\nSTANLEY: \"Chinese cuisine.\"\nBILL: \"That's great! Carol and I love Chinese food.\"\nSTANLEY: \"It's been my dream to open a restaurant in America.\"\nBILL: \"What made you finally do it?\"\nSTANLEY: \"I finally saved up enough money to open my own restaurant.\"\nBILL: \"When will it be open?\"\nSTANLEY: \"I don't know yet. It's a very old building and I need to make some repairs first.\"\nBILL: \"Do you have experience running a restaurant?\"\nSTANLEY: \"Yes, I owned a restaurant in China many years ago.\"\nBILL: \"Wow! I didn't know that.\"\nSTANLEY: \"Would you and Carol like to come over and try some of my dishes tonight? I want to create a menu of my best dishes.\"\nBILL: \"We would love to! We were thinking about going to a Chinese restaurant tonight.\"\nSTANLEY: \"Perfect! You can tell me what you think of my food.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Delicious Restaurant",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/delicious_restaurant.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/delicious_restaurant.mp3",
+        "dialog": "JANE: \"We went to the best restaurant in town.\"\nMARY: \"How was the food?\"\nJANE: \"The food was delicious. It was the best seafood I ever had.\"\nMARY: \"How was the service?\"\nJANE: \"The service was excellent. The waiter was attentive and very polite.\"\nMARY: \"We should go back together.\"\nJANE: \"Definitely. I will take you next time.\"\nMARY: \"I wish I could've joined you tonight.\"\nJANE: \"Me too. Are you feeling any better?\"\nMARY: \"A little, but I still feel sick.\"\nJANE: \"Are you hungry?\"\nMARY: \"Yes.\"\nJANE: \"The clam chowder was delicious, so I brought you some.\"\nMARY: \"Thank you! I love clam chowder.\"\nJANE: \"I hope you feel better soon, so I can take you there.\"\nMARY: \"Me too. I love good seafood.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "New Friend at School",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/new_friend.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/new_friend.mp3",
+        "dialog": "MOM: \"Jane, how was school today?\"\nJANE: \"Mom, it was fun. I made a new friend.\"\nMOM: \"That's nice. What's her name?\"\nJANE: \"Her name is Cindy.\"\nMOM: \"Is she new to your school?\"\nJANE: \"Yeah, she's a new student. She moved here from Seattle, Washington.\"\nMOM: \"You have an aunt who lives in Seattle.\"\nJANE: \"I know. I like Seattle. It's beautiful there, but it rains too much.\"\nMOM: \"Yeah. That's why we're staying in sunny California.\"\nJANE: \"Cindy and I have a lot in common. We both like drawing, playing with dogs, and eating pizza.\"\nMOM: \"You should invite her over for dinner one night.\"\nJANE: \"Can we, Mom?\"\nMOM: \"Sure. We can order pizza.\"\nJANE: \"Maybe I'll ask her if she can come over on Friday.\"\nMOM: \"Ok. Let's invite her parents too. We can get to know them.\"\nJANE: \"That's a good idea. They don't have any friends here, yet.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
     }
 ]
