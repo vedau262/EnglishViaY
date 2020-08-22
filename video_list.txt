@@ -9,7 +9,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "Learn And Practice English",
-			"LIST_VIDEO_SIZE": "16",
+			"LIST_VIDEO_SIZE": "12",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTftnj12BSO3L5u0oz2fPWxdGAW-H0Fl164tf8gc8FWpSSkTHZ&s",
 			"LIST_VIDEO_ID": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Learn%20and%20Practice%20English",	

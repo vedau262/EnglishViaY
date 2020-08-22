@@ -1,730 +1,550 @@
 {
- "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/k4YBtq6Q9bV8-9S3VdMutO4IIbI\"",
- "pageInfo": {
-  "totalResults": 16,
-  "resultsPerPage": 50
- },
- "items": [
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/iBj1jgh2zydOl4tQzs9pyBdKqvI\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4xMkVGQjNCMUM1N0RFNEUx",
-   "snippet": {
-    "publishedAt": "2018-08-20T01:54:48.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Speaking English Practice Conversation | Questions and Answers English Conversation With Subtitle",
-    "description": "Speaking English conversation practice, Questions and answers english conversation, English speaking lessons with subtitle.\n\n▶ Link download file text: https://goo.gl/p1Z3DI\n\n-=TOPICS=-\n1.    At Home (1) - 00:07\n2.    At Home (2) - 00:51\n3.    My Favorite Photographs (1) - 01:41\n4.    Location (1) - 02:21\n5.    Location (2) - 03:17\n6.    Color (1) - 03:53\n7.    Color (2) - 04:39\n8.    No Questions - 05:07\n9.    Short Answer - 05:59\n10.   Telephone Call (2) - 06:51\n11.   What's A Grant? - 07:37\n12.   I'm Busy On Friday - 08:23\n13.   Bless You - 08:58\n14.   I Don't Feel Well - 09:38\n15.   Can You Help Me? - 10:20\n16.   Taking a Cab - 11:00\n17.   I Hate to Get Up - 11:41\n18.   A Hot Day  - 12:17\n19.   Phone Out of Order (1) - 13:05\n20.   Phone Out of Order (2) - 13:53\n21.   Getting A Visa - 14:48\n22.   Employing a new member - 15:21\n23.   A Date (1) - 16:17\n24.   What did you do yesterday? - 17:35\n25.   Travelling by Air - 18:38\n26.   At the Customs - 19:49\n27.   A New Baby - 21:07\n28.   Is English Difficult? - 21:55\n29.   Washing His Car - 22:45\n30.   At the Restaurant - 23:25\n31.   When's the Baby Due? - 24:07\n32.   Bus Stop - 24:47\n33.   Gardening - 26:12\n34.   A Lazy Boy - 26:57\n35.   Can I Drive There? - 27:55\n36.   A New Dress - 28:40\n37.   A Picnic - 29:20\n38.   I'm Going Skiing - 29:58\n39.   Traffic Rules (1) - 30:34\n40.   Housework - 31:12\n41.   Oral Exams - 32:40\n42.   Would You Call me? - 34:28\n43.   Can I Let You Know? - 35:29\n44.   On the Phone-A Less Formal Call - 36:53\n45.   A Cup of Coffee - 37:36\n46.   How About a Drink? - 38:32\n47.   I Have a Sore Throat - 39:10\n48.   On Sale - 39:58\n49.   Not a Cloud in the Sky - 40:48\n50.   Cold and Windy - 41:34\n51.   It's Beginning to Snow. - 42:24\n52.   A House at the Shore - 43:23\n53.   A Soccer Game - 44:03\n54.   Not So Young - 44:47\n55.   Is She Single? - 45:37\n56.   To Buy a Birthday Present - 46:27\n57.   Telephone - 47:15\n58.   A Light Eater - 47:49\n59.   A Nice Flat (1) - 48:35\n60.   A Nice Flat (2) - 49:22\n61.   Afraid of Flying - 50:18\n62.   A Plane Reservation - 51:00\n63.   Getting Together - 51:38\n64.   How's Your New Job Going? - 52:30\n65.   We Eat a Lot - 53:26\n66.   I'll Take You - 54:20\n67.   We Must be Out of Them - 55:08\n68.   Doctor's Appointment - 56:18\n69.   Traffic Rules (2) - 57:10\n70.   Eating out - 58:15\n71.   To Buy a Bus Ticket - 58:59 \n72.   On the Phone - 59:41\n73.   Operating Room - 1:00:51\n74.   A Car Loan - 1:01:43\n75.   A Cashier - 1:02:31\n76.   Settling Down - 1:03:19\n77.   Will You Get Some Bread For Me? - 1:04:14\n78.   Buying a Present - In a Jeweller's shop - 1:05:00\n79.   Buying a Present - In a Toy Shop - 1:06:06\n80.   Making a Reservation - 1:07:21\n81.   Ready to Go - 1:08:43\n82.   An Interesting Movie - 1:09:35\n83.   In the Bus - 1:10:27 \n84.   A New Job - 1:11:21\n85.   A Date (2) - 1:12:53 \n86.   Smoking - 1:14:10\n87.   A Death - 1:15:14\n88.   A Birth - 1:16:18\n89.   A Coincidence - 1:17:10\n90.   How have you been? - 1:18:34\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "f5wWfUcWcyJeZ-2TbxXO3akv_uQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NuNdPDI_ONQK7N4bGKHau9OR_EE",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-07-15T13:16:03Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Conversation Topics for Elementary & Intermediate Level Learners | Listen English Daily Practice",
+        "description": "Advanced English Conversation Practice - Conversation Topics for Elementary & Intermediate Level Learners.\n\nEnglish Listening Practice Daily.\n\n#EnglishConversation #EnglishListening #ListeningEnglish #DailyEnglish #EnglishPractice\n\n+ English Conversation: https://youtu.be/RCseemNc2zw\n+ English Listening Practice: https://youtu.be/l-eqs1QsE04\n\n─────────────────\n☆ Thank you for watching!\n☆ Please share and like if you enjoyed the video! ♥\n\n↪ Please subscribe to update new videos:  @Daily English Conversation  https://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n✉️ Email: DailyEnglishConversationTV@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l-eqs1QsE04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l-eqs1QsE04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-eqs1QsE04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l-eqs1QsE04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l-eqs1QsE04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l-eqs1QsE04"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "XVQlnP5Yu2A"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5kPNz1S7C8BftIthFeZ6wC4IrpQ\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4yMUQyQTQzMjRDNzMyQTMy",
-   "snippet": {
-    "publishedAt": "2019-10-22T13:44:52.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Basic English Speaking Conversation Practice for Beginners | Daily Speaking English Conversation",
-    "description": "Daily Speaking English Conversation. Basic English Speaking Conversation Practice for Beginners.\n\n#BasicEnglish #EnglishSpeaking #EnglishConversation #LearnEnglish\n\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/LPn-hnH-yA0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/LPn-hnH-yA0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/LPn-hnH-yA0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/LPn-hnH-yA0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/LPn-hnH-yA0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CNEMgn3nByEHNJHZTatZds8luv4",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-08-20T01:54:48Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "English Conversation Practice Easy To Speak English Fluently - Daily English Conversation",
+        "description": "Daily English Conversation Topics. Learn English Conversation Practice for Beginners - Easy To Speak English Fluently. Copyright Lessons: http://basicenglishspeaking.com/daily-english-conversation-topics/\n\n☞ Link videos Daily English Convesation Topcis: https://youtu.be/RCseemNc2zw\n\nDaily English Conversation Topics:\n1. Family - 00:06\n2. Restaurant - 01:25\n3. Books - 02:53\n4. Travel - 04:00\n5. Website - 05:50\n6. Accident - 06:53\n7. Childhood memory - 08:05\n8. Favorite rooms - 09:23\n9. Presents - 10:35\n10. Historical place - 12:02\n11. Newspaper/ Magazine - 13:41\n12. A memorable event - 15:07\n13. A favorite subject - 16:24\n14. A museum - 17:51\n15. A favorite movie - 18:59\n16. A foreign country - 20:29\n17. Parties - 21:48\n18. A teacher - 23:23\n19. A friend - 24:34\n20. A hotel - 25:54\n21. A letter - 27:24\n22. Hobbies - 28:37\n23. Music - 30:01\n24. Shopping - 31:24\n25. Holiday - 32:18\n26. Animals - 33:45\n27. A practical skill - 35:03\n28. Sport - 36:42\n29. A School - 38:04\n30. Festival - 39;32\n31. Food - 41:13\n32. Household appliance - 42:37\n33. A music band - 43:44\n34. Weather - 44:59\n35. Neighbor - 46:23\n36. Natural scenery - 47:44\n37. Outdoor activities - 49:03\n38. Law - 50:14\n39. Pollution - 51:21\n40. Traffic jam - 52:34\n41. TV program - 53:35\n42. Architect/ Building - 55:10\n43. Electronic Media - 56:09\n44. Job/ Career - 57:19\n45. Competition/ contest - 58:51\n46. A garden - 1:00:07\n47. Hometown - 1:01:19\n48. Clothing - 1:02:36\n49. Advertisement - 1:03:58\n50. A project - 1:05:14\n51. A wedding - 1:06:23\n52. A Coffee shop - 1:07:54\n53. Culture - 1:09:10\n54. Transport - 1:10:24\n55. Politician - 1:11:49\n56. Communication - 1:13:00\n57. Business - 1:14:36\n58. Computer - 1:15:41\n59. Exercise - 1:16:48\n60. Goal/ ambition - 1:18:08\n61. Art - 1:19:13\n62. Fashion - 1:20:26\n63. Jewelry - 1:21:54\n64. Cosmetic - 1:22:58\n65. Indoor Game - 1:24:25\n66. Phone conversation - 1:25:42\n67. Learning A Second language - 1:27:05\n68. A Creative Person - 1:28:24\n69. A celebrity - 1:29:36\n70. A Health Problem - 1:30:35\n71. Technological advancements - 1:31:50\n72. A Landmark - 1:32:59\n73. Handcraft Items - 1:34:05\n74. Plastic Surgery - 1:35:30\n75. Success - 1:36:59\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCseemNc2zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCseemNc2zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCseemNc2zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RCseemNc2zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RCseemNc2zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RCseemNc2zw"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "LPn-hnH-yA0"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4iFYa7AJhvtJuAwYv9HaKtKzDX0\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5ENDU4Q0M4RDExNzM1Mjcy",
-   "snippet": {
-    "publishedAt": "2019-11-08T13:39:27.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Easy Speaking English lessons Everyday to Speak English fluently: English Questions and Answers",
-    "description": "100+ Most Common Questions and Answers in English. Basic Speaking English Lessons for Beginners. Everyday to Speaking English fluently and naturally.\n\n#EnglishSpeak #EnglishLessons  #EnglishFluently #EasyEnglish\n\n↪ Basic English Speaking Conversation: https://youtu.be/LPn-hnH-yA0\n↪ Simple English Sentences: https://youtu.be/W50Jj9hKWnk\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n\n↪ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1\n✉️ Email: BasicEnglishSpeak@gmail.com",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/DGroWznzacM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/DGroWznzacM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/DGroWznzacM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/DGroWznzacM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/DGroWznzacM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nXQlOowVQwA4D7IdMyLLziE3e2E",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-08-20T01:54:48Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Speaking English Practice Conversation | Questions and Answers English Conversation With Subtitle",
+        "description": "Speaking English conversation practice, Questions and answers english conversation, English speaking lessons with subtitle.\n\n▶ Link download file text: https://goo.gl/p1Z3DI\n\n-=TOPICS=-\n1.    At Home (1) - 00:07\n2.    At Home (2) - 00:51\n3.    My Favorite Photographs (1) - 01:41\n4.    Location (1) - 02:21\n5.    Location (2) - 03:17\n6.    Color (1) - 03:53\n7.    Color (2) - 04:39\n8.    No Questions - 05:07\n9.    Short Answer - 05:59\n10.   Telephone Call (2) - 06:51\n11.   What's A Grant? - 07:37\n12.   I'm Busy On Friday - 08:23\n13.   Bless You - 08:58\n14.   I Don't Feel Well - 09:38\n15.   Can You Help Me? - 10:20\n16.   Taking a Cab - 11:00\n17.   I Hate to Get Up - 11:41\n18.   A Hot Day  - 12:17\n19.   Phone Out of Order (1) - 13:05\n20.   Phone Out of Order (2) - 13:53\n21.   Getting A Visa - 14:48\n22.   Employing a new member - 15:21\n23.   A Date (1) - 16:17\n24.   What did you do yesterday? - 17:35\n25.   Travelling by Air - 18:38\n26.   At the Customs - 19:49\n27.   A New Baby - 21:07\n28.   Is English Difficult? - 21:55\n29.   Washing His Car - 22:45\n30.   At the Restaurant - 23:25\n31.   When's the Baby Due? - 24:07\n32.   Bus Stop - 24:47\n33.   Gardening - 26:12\n34.   A Lazy Boy - 26:57\n35.   Can I Drive There? - 27:55\n36.   A New Dress - 28:40\n37.   A Picnic - 29:20\n38.   I'm Going Skiing - 29:58\n39.   Traffic Rules (1) - 30:34\n40.   Housework - 31:12\n41.   Oral Exams - 32:40\n42.   Would You Call me? - 34:28\n43.   Can I Let You Know? - 35:29\n44.   On the Phone-A Less Formal Call - 36:53\n45.   A Cup of Coffee - 37:36\n46.   How About a Drink? - 38:32\n47.   I Have a Sore Throat - 39:10\n48.   On Sale - 39:58\n49.   Not a Cloud in the Sky - 40:48\n50.   Cold and Windy - 41:34\n51.   It's Beginning to Snow. - 42:24\n52.   A House at the Shore - 43:23\n53.   A Soccer Game - 44:03\n54.   Not So Young - 44:47\n55.   Is She Single? - 45:37\n56.   To Buy a Birthday Present - 46:27\n57.   Telephone - 47:15\n58.   A Light Eater - 47:49\n59.   A Nice Flat (1) - 48:35\n60.   A Nice Flat (2) - 49:22\n61.   Afraid of Flying - 50:18\n62.   A Plane Reservation - 51:00\n63.   Getting Together - 51:38\n64.   How's Your New Job Going? - 52:30\n65.   We Eat a Lot - 53:26\n66.   I'll Take You - 54:20\n67.   We Must be Out of Them - 55:08\n68.   Doctor's Appointment - 56:18\n69.   Traffic Rules (2) - 57:10\n70.   Eating out - 58:15\n71.   To Buy a Bus Ticket - 58:59 \n72.   On the Phone - 59:41\n73.   Operating Room - 1:00:51\n74.   A Car Loan - 1:01:43\n75.   A Cashier - 1:02:31\n76.   Settling Down - 1:03:19\n77.   Will You Get Some Bread For Me? - 1:04:14\n78.   Buying a Present - In a Jeweller's shop - 1:05:00\n79.   Buying a Present - In a Toy Shop - 1:06:06\n80.   Making a Reservation - 1:07:21\n81.   Ready to Go - 1:08:43\n82.   An Interesting Movie - 1:09:35\n83.   In the Bus - 1:10:27 \n84.   A New Job - 1:11:21\n85.   A Date (2) - 1:12:53 \n86.   Smoking - 1:14:10\n87.   A Death - 1:15:14\n88.   A Birth - 1:16:18\n89.   A Coincidence - 1:17:10\n90.   How have you been? - 1:18:34\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XVQlnP5Yu2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XVQlnP5Yu2A"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "DGroWznzacM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9JrDXJxSsFHHCHVZEuJyKNMX39c\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC40NzZCMERDMjVEN0RFRThB",
-   "snippet": {
-    "publishedAt": "2019-03-19T15:53:58.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Easy Learning English Conversation Practice - Listening English Lessons with Native English Speakers",
-    "description": "Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n* Easy learning English conversation [Dowload Text]: https://goo.gl/jVvG1T\n* Listen Anytime, Anywhere! [Download MP3]: https://goo.gl/sGFpJH\n\n#LearningEnglish #EnglishLessons #ListeningEnglish #EnglishConversation\n\n[[ Contents ]]\n\n1. On the Phone-A Less Formal Call - 00:06\n\n2. A Cup of Coffee - 00:28\n\n3. How About a Drink? - 00:59\n\n4. I Have a Sore Throat - 01:19\n\n5. On Sale - 01:45\n\n6. Not a Cloud in the Sky - 02:13\n\n7. Cold and Windy - 02:38\n\n8. It's Beginning to Snow - 03:05\n\n9. A House at the Shore - 03:36\n\n10. A Soccer Game - 03:59\n\n11. Not So Young - 04:23\n\n12. Is She Single? - 04:50\n\n13. To Buy a Birthday Present - 05:18\n\n14. Telephone - 05:44\n\n15. A Light Eater - 06:03\n\n16. A Nice Flat (1) - 06:28\n\n17. A Nice Flat (2) - 06:53\n\n18. Afraid of Flying - 07:23\n\n19. A Plane Reservation - 07:46\n\n20. Getting Together - 08:07\n\n21. How's Your New Job Going? - 08:35\n\n22. We Eat a Lot - 09:05\n\n23. I'll Take You - 09:34\n\n24. We Must be Out of Them - 10:00\n\n25. Doctor's Appointment - 10:38\n\n26. Traffic Rules (2) - 11:06\n\n27. Eating out - 11:40\n\n28. To Buy a Bus Ticket - 12:04\n\n29. On the Phone - 12:27\n\n30. Operating Room - 13:04\n\n31. A Car Loan - 13:32\n\n32. A Cashier - 13:59 \n\n33. Settling Down - 14:25\n\n34. Will You Get Some Bread For Me? - 14:54\n\n35. Buying a Present - In a Jeweller's shop - 15:18\n\n36. Buying a Present - In a Toy Shop - 15:52\n\n37. Making a Reservation - 16:30\n\n38. Ready to Go - 17:13\n\n39. An Interesting Movie - 17:41\n\n40. In the Bus - 18:10 \n\n41. A New Job - 18:39\n\n42. A Date (2) - 19:27\n\n43. Smoking - 20:06 \n\n44. A Death - 20:40\n\n45. A Birth - 21:14\n\n46. A Coincidence - 21:43\n\n47. How have you been? - 22:28\n\n48. Telephone Call (2) - 23:22\n\n49. What's A Grant? - 23:47\n\n50. I'm Busy On Friday - 24:12\n\n51. Bless You - 24:32\n\n52. I Don't Feel Well - 24:54\n\n53. Can You Help Me? - 25:17\n\n54. Taking a Cab - 25:40\n\n55. I Hate to Get Up - 26:02\n\n56. A Hot Day - 26:23\n\n57. Phone Out of Order (1) - 26:50\n \n58. Phone Out of Order (2) - 27:16\n\n59. Getting A Visa - 27:45\n\n60. Employing a new member - 28:04\n\n61. A Date (1) - 28:35\n\n62. What did you do yesterday? - 29:17\n\n63. Travelling by Air - 29:55\n\n64. At the Customs - 30:37\n\n65. A New Baby - 31:04\n\n66. Is English Difficult? - 31:31\n\n67. Washing His Car - 31:53\n\n68. At the Restaurant - 32:17\n\n69. When's the Baby Due? - 32:38\n\n70. Bus Stop - 33:23\n\n71. Gardening - 33:48\n\n72. A Lazy Boy - 34:20\n\n73. Can I Drive There? - 34:45\n\n74. A New Dress - 35:07\n\n75. A Picnic - 35:28\n\n76. I'm Going Skiing - 35:48\n\n77. Traffic Rules (1) - 36:10\n\n78. Housework - 36:31\n\n79. Oral Exams - 37:17\n\n80. Would You Call me? - 38:14\n\n81. Can I Let You Know? - 38:46\n\n82. At Home (1) - 39:31\n\n83. At Home (2) - 39:54\n\n84. My Favorite Photographs (1) - 40:22\n\n85. Location (1) - 40:42\n\n86. Location (2) - 41:12\n\n87. Color (1) - 41:32\n\n88. Color (2) - 41:57\n\n89. No Questions - 42:13\n\n90. Short Answer - 42:41\n\n▶ Gmail: DailyEnglishConversation@gmail.com\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bHwlnuAkNsPKycR-bO03cpYjEio",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-03-06T09:23:33Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Spoken English Sentences Everyday - Learn English Phrases",
+        "description": "Spoken English Sentences Everyday - Learn English Phrases.\n\n***English Phrases***\n\n- Beginner Phrases: 00:01\n\n- Intermediate Phrases: 14:10\n\n- Advanced: 28:11\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVWFK4QOaQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVWFK4QOaQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVWFK4QOaQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NVWFK4QOaQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NVWFK4QOaQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NVWFK4QOaQQ"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "1kM5RfnJ-lI"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5zY1Hx7t7p-vGOUmniWHyZWnNmA\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC45RTgxNDRBMzUwRjQ0MDhC",
-   "snippet": {
-    "publishedAt": "2019-10-31T01:45:42.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Simple Sentences in English - 450 Most Used Phrases in English Conversation with Subtitles",
-    "description": "450 Most Used Phrases in English Conversation with Subtitles. Simple Sentences in English for Beginners.\n\n#SimpleEnglish #EnglishPhrases #EnglishSentences #BasicEnglishSpeaking\n\nSimple English Sentences: https://youtu.be/W50Jj9hKWnk\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/W50Jj9hKWnk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/W50Jj9hKWnk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/W50Jj9hKWnk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/W50Jj9hKWnk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/W50Jj9hKWnk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ze1djPmMX1JOuARFecPS1niOn6U",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-06-15T12:44:31Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Daily English Conversation | English Conversation Lessons for English Speaking & English Listening",
+        "description": "Conversations English Lessons for English Speaking & English Listening - @Daily English Conversation \nImprove your listening & speaking skills to communicate with confidence to speak with real people in real English conversations.\n\n☆ Conversation lessons:\nPart 1| GETTING TO KNOW YOU - 00:01\nLesson 1: Introducing people - 00:05\nLesson 2: What do you do every day? - 01:15\nLesson 3: Talk about your family - 02:13\nLesson 4: What can you do? - 03:09\n\nPart 2| ON THE MOVE - 05:37\nLesson 1: Giving Directions - 05:42\nLesson 2: Telling the time - 07:14\nLesson 3: What are you going to do? - 08:14\nLesson 4: Asking about places - 10:02\nLesson 5: Finding out about cities - 11:51\nLesson 6: Dealing with travel situations - 13:37\n\nPart 3| SHOPPING - 15:36\nLesson 1: How much are they? - 15:40\nLesson 2: Let’s have a takeaway! - 17:09\nLesson 3: Convenience shopping - 19:19\nLesson 4: Renting a room - 20:22\nLesson 5: Hiring a car - 22:13\nLesson 6: How do you lie to shop? - 23:36\nLesson 7: Checking in - 27:06\nLesson 8: Making a complaint - 28:38\nLesson 9: Checking out - 30:10\nLesson 10: Exchanging goods - 32:08\nLesson 11: Sending things by post - 33:05\n\nPart 4| PEOPLE WATCHING - 34:42\nLesson 1: Identifying People - 34:47\nLesson 2: Is this yours? - 36:38\nLesson 3: What do they want? - 38:29\nLesson 4: Comparing People - 39:55\nLesson 5: What are they doing? - 41:31\nLesson 6: Personalities - 44:29\nLesson 7: What was it like? - 46:46\nLesson 8: Then and now - 49:30\nLesson 9: Party People - 52:59\n\nPart 5| ATTENTION! - 56:10\nLesson 1: Giving orders and making requests - 56:13\nLesson 2: Following and Giving Instructions - 57:47\nLesson 3: Giving advice - 1:00:19\nLesson 4: Giving advice - 1:02:22\nLesson 5: Talking about obligation - 1:04:03\nLesson 6: Saying how to do things - 1:08:02\nLesson 7: Talking about quantity - 1:10:42\nLesson 8: Making suggestions and talking about probability - 1:11:48\nLesson 9: Describing something that is happening now - 1:12:55\nLesson 10: Tell me about them - 1:14:58\n\nPart 6| TELL ME ABOUT IT - 1:17:02\nLesson 1: Asking about past events - 1:17:05\nLesson 2: What were they doing? - 1:18:34\nLesson 3: Telling a story - 1:19:54\nLesson 4: What did you do next? - 1:25:21\nLesson 5: Talking about obligations - 1:26:18\nLesson 6: Famous lives - 1:27:27\nLesson 7: Promises and Resolutions - 1:29:36\n\n#DailyEnglishConversation #EnglishSpeaking #EnglishListening #EnglishConversation #DailyEnglish\n\n─────────────────\n☆ Thank you for watching!\n☆ Please share and like if you enjoyed the video! ♥\n\n↪ Please subscribe to update new videos: @Daily English Conversation https://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n✉️ Email: DailyEnglishConversationTV@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qxlmpf83vxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qxlmpf83vxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qxlmpf83vxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qxlmpf83vxE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qxlmpf83vxE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qxlmpf83vxE"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "W50Jj9hKWnk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vyNET4DtXyCdNUfrnWFg8QI8mf4\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2018-08-20T01:54:48.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Conversation Practice Easy To Speak English Fluently - Daily English Conversation",
-    "description": "Daily English Conversation Topics. Learn English Conversation Practice for Beginners - Easy To Speak English Fluently. Copyright Lessons: http://basicenglishspeaking.com/daily-english-conversation-topics/\n\n☞ Link videos Daily English Convesation Topcis: https://youtu.be/RCseemNc2zw\n\nDaily English Conversation Topics:\n1. Family - 00:06\n2. Restaurant - 01:25\n3. Books - 02:53\n4. Travel - 04:00\n5. Website - 05:50\n6. Accident - 06:53\n7. Childhood memory - 08:05\n8. Favorite rooms - 09:23\n9. Presents - 10:35\n10. Historical place - 12:02\n11. Newspaper/ Magazine - 13:41\n12. A memorable event - 15:07\n13. A favorite subject - 16:24\n14. A museum - 17:51\n15. A favorite movie - 18:59\n16. A foreign country - 20:29\n17. Parties - 21:48\n18. A teacher - 23:23\n19. A friend - 24:34\n20. A hotel - 25:54\n21. A letter - 27:24\n22. Hobbies - 28:37\n23. Music - 30:01\n24. Shopping - 31:24\n25. Holiday - 32:18\n26. Animals - 33:45\n27. A practical skill - 35:03\n28. Sport - 36:42\n29. A School - 38:04\n30. Festival - 39;32\n31. Food - 41:13\n32. Household appliance - 42:37\n33. A music band - 43:44\n34. Weather - 44:59\n35. Neighbor - 46:23\n36. Natural scenery - 47:44\n37. Outdoor activities - 49:03\n38. Law - 50:14\n39. Pollution - 51:21\n40. Traffic jam - 52:34\n41. TV program - 53:35\n42. Architect/ Building - 55:10\n43. Electronic Media - 56:09\n44. Job/ Career - 57:19\n45. Competition/ contest - 58:51\n46. A garden - 1:00:07\n47. Hometown - 1:01:19\n48. Clothing - 1:02:36\n49. Advertisement - 1:03:58\n50. A project - 1:05:14\n51. A wedding - 1:06:23\n52. A Coffee shop - 1:07:54\n53. Culture - 1:09:10\n54. Transport - 1:10:24\n55. Politician - 1:11:49\n56. Communication - 1:13:00\n57. Business - 1:14:36\n58. Computer - 1:15:41\n59. Exercise - 1:16:48\n60. Goal/ ambition - 1:18:08\n61. Art - 1:19:13\n62. Fashion - 1:20:26\n63. Jewelry - 1:21:54\n64. Cosmetic - 1:22:58\n65. Indoor Game - 1:24:25\n66. Phone conversation - 1:25:42\n67. Learning A Second language - 1:27:05\n68. A Creative Person - 1:28:24\n69. A celebrity - 1:29:36\n70. A Health Problem - 1:30:35\n71. Technological advancements - 1:31:50\n72. A Landmark - 1:32:59\n73. Handcraft Items - 1:34:05\n74. Plastic Surgery - 1:35:30\n75. Success - 1:36:59\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/RCseemNc2zw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/RCseemNc2zw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/RCseemNc2zw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/RCseemNc2zw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/RCseemNc2zw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gB6fA9jSS2YfZ6q5MmLATl_HJnA",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-03-19T15:53:58Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Easy Learning English Conversation Practice - Listening English Lessons with Native English Speakers",
+        "description": "Listening English Lessons with Native English Speakers. Easy Learning English Conversation Practice.\n\n* Easy learning English conversation [Dowload Text]: https://goo.gl/jVvG1T\n* Listen Anytime, Anywhere! [Download MP3]: https://goo.gl/sGFpJH\n\n#LearningEnglish #EnglishLessons #ListeningEnglish #EnglishConversation\n\n[[ Contents ]]\n\n1. On the Phone-A Less Formal Call - 00:06\n\n2. A Cup of Coffee - 00:28\n\n3. How About a Drink? - 00:59\n\n4. I Have a Sore Throat - 01:19\n\n5. On Sale - 01:45\n\n6. Not a Cloud in the Sky - 02:13\n\n7. Cold and Windy - 02:38\n\n8. It's Beginning to Snow - 03:05\n\n9. A House at the Shore - 03:36\n\n10. A Soccer Game - 03:59\n\n11. Not So Young - 04:23\n\n12. Is She Single? - 04:50\n\n13. To Buy a Birthday Present - 05:18\n\n14. Telephone - 05:44\n\n15. A Light Eater - 06:03\n\n16. A Nice Flat (1) - 06:28\n\n17. A Nice Flat (2) - 06:53\n\n18. Afraid of Flying - 07:23\n\n19. A Plane Reservation - 07:46\n\n20. Getting Together - 08:07\n\n21. How's Your New Job Going? - 08:35\n\n22. We Eat a Lot - 09:05\n\n23. I'll Take You - 09:34\n\n24. We Must be Out of Them - 10:00\n\n25. Doctor's Appointment - 10:38\n\n26. Traffic Rules (2) - 11:06\n\n27. Eating out - 11:40\n\n28. To Buy a Bus Ticket - 12:04\n\n29. On the Phone - 12:27\n\n30. Operating Room - 13:04\n\n31. A Car Loan - 13:32\n\n32. A Cashier - 13:59 \n\n33. Settling Down - 14:25\n\n34. Will You Get Some Bread For Me? - 14:54\n\n35. Buying a Present - In a Jeweller's shop - 15:18\n\n36. Buying a Present - In a Toy Shop - 15:52\n\n37. Making a Reservation - 16:30\n\n38. Ready to Go - 17:13\n\n39. An Interesting Movie - 17:41\n\n40. In the Bus - 18:10 \n\n41. A New Job - 18:39\n\n42. A Date (2) - 19:27\n\n43. Smoking - 20:06 \n\n44. A Death - 20:40\n\n45. A Birth - 21:14\n\n46. A Coincidence - 21:43\n\n47. How have you been? - 22:28\n\n48. Telephone Call (2) - 23:22\n\n49. What's A Grant? - 23:47\n\n50. I'm Busy On Friday - 24:12\n\n51. Bless You - 24:32\n\n52. I Don't Feel Well - 24:54\n\n53. Can You Help Me? - 25:17\n\n54. Taking a Cab - 25:40\n\n55. I Hate to Get Up - 26:02\n\n56. A Hot Day - 26:23\n\n57. Phone Out of Order (1) - 26:50\n \n58. Phone Out of Order (2) - 27:16\n\n59. Getting A Visa - 27:45\n\n60. Employing a new member - 28:04\n\n61. A Date (1) - 28:35\n\n62. What did you do yesterday? - 29:17\n\n63. Travelling by Air - 29:55\n\n64. At the Customs - 30:37\n\n65. A New Baby - 31:04\n\n66. Is English Difficult? - 31:31\n\n67. Washing His Car - 31:53\n\n68. At the Restaurant - 32:17\n\n69. When's the Baby Due? - 32:38\n\n70. Bus Stop - 33:23\n\n71. Gardening - 33:48\n\n72. A Lazy Boy - 34:20\n\n73. Can I Drive There? - 34:45\n\n74. A New Dress - 35:07\n\n75. A Picnic - 35:28\n\n76. I'm Going Skiing - 35:48\n\n77. Traffic Rules (1) - 36:10\n\n78. Housework - 36:31\n\n79. Oral Exams - 37:17\n\n80. Would You Call me? - 38:14\n\n81. Can I Let You Know? - 38:46\n\n82. At Home (1) - 39:31\n\n83. At Home (2) - 39:54\n\n84. My Favorite Photographs (1) - 40:22\n\n85. Location (1) - 40:42\n\n86. Location (2) - 41:12\n\n87. Color (1) - 41:32\n\n88. Color (2) - 41:57\n\n89. No Questions - 42:13\n\n90. Short Answer - 42:41\n\n▶ Gmail: DailyEnglishConversation@gmail.com\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1kM5RfnJ-lI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1kM5RfnJ-lI"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "RCseemNc2zw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qeUg_pIrMYBJp5ZWOviMLXSUUEc\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5GNjNDRDREMDQxOThCMDQ2",
-   "snippet": {
-    "publishedAt": "2019-01-09T17:43:41.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Dialogues - Everyday Conversation Speaking English Practice - Daily English",
-    "description": "Everyday Conversation Speaking English Practice. Learning English Dialogues for ESL Beginners.\n\n+++Lessons:\n1. Greetings - 00:06\n\n2. Introductions - 01:53\n\n3. Gratitude - 04:01\n\n4. Apologies - 06:05\n\n5. Departure and Faewell - 08:41\n\n6. Likes and Dislikes - 10:52\n\n7. Hopes and Desires - 12:50\n\n8. Delights and Surpries - 15:02\n\n9. Advice and Suggestions - 18:24\n\n10. Wishes and Congratulations - 22:21\n\n11. Complaints - 25:39\n\n12. Invitations - 29:54\n\n13. Requests - 33:00\n\n14. Plans and Decisions - 36:26\n\n15. Certainty and Uncertainty - 39:46\n\n16. Agreement and Disagreement - 43:42\n\n17. Belief and Disbelief - 47:31\n\n#EnglishDialogues #DailyEnglish #SpeakingEnglish #EnglishConversation\n\n*Email: DailyEnglishConversationTV@gmail.com\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1P4Bk6nAqplmLqlP1BrmJ-0J3ps",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-01-09T17:43:41Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "English Dialogues - Everyday Conversation Speaking English Practice - Daily English",
+        "description": "Everyday Conversation Speaking English Practice. Learning English Dialogues for ESL Beginners.\n\n+++Lessons:\n1. Greetings - 00:06\n\n2. Introductions - 01:53\n\n3. Gratitude - 04:01\n\n4. Apologies - 06:05\n\n5. Departure and Faewell - 08:41\n\n6. Likes and Dislikes - 10:52\n\n7. Hopes and Desires - 12:50\n\n8. Delights and Surpries - 15:02\n\n9. Advice and Suggestions - 18:24\n\n10. Wishes and Congratulations - 22:21\n\n11. Complaints - 25:39\n\n12. Invitations - 29:54\n\n13. Requests - 33:00\n\n14. Plans and Decisions - 36:26\n\n15. Certainty and Uncertainty - 39:46\n\n16. Agreement and Disagreement - 43:42\n\n17. Belief and Disbelief - 47:31\n\n#EnglishDialogues #DailyEnglish #SpeakingEnglish #EnglishConversation\n\n*Email: DailyEnglishConversationTV@gmail.com\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e6FuQGCMBOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e6FuQGCMBOA"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "e6FuQGCMBOA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_Qar7G_7t4PdBCdC0q69PnaaWkI\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC45NDk1REZENzhEMzU5MDQz",
-   "snippet": {
-    "publishedAt": "2018-11-07T16:31:05.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Conversation A 30-Day Practice English Speaking Fluently Basic English Conversation",
-    "description": "Learn English Conversation A 30-Day Practice - English Speaking fluently - Basic English Conversation.\n\n- Link download file MP3 & Text English Conversation A 30-day Practice: https://goo.gl/5AcS7T\n\nTOPICS:\n\nUnit 1. Greeting - 00:01\n\nUnit 2. Introduction - 00:54\n\nUnit 3. Job - 01:56\n\nUnit 4. Family - 02:52\n\nUnit 5. Invitation - 03:53\n\nUnit 6. Welcome - 04:45\n\nUnit 7. Thanks - 05:34\n\nUnit 8. Parting - 06:14\n\nUnit 9. Shopping - 07:01\n\nUnit 10. Asking Price - 07:37\n\nUnit 11. Asking the Way - 08:26\n\nUnit 12. Taking a Taxi / Bus - 09:21\n\nUnit 13. Eating - 10:08\n\nUnit 14. Telephone - 11:03\n\nUnit 15. Weather - 12:00\n\nUnit 16. Illness - 12:59\n\nUnit 17. Interests - 13:50\n\nUnit 18. Language - 14:38\n\nUnit 19. Appointment - 15:42\n\nUnit 20. Agreement - 16:31\n\nUnit 21. Acceptance and declining - 17:23\n\nUnit 22. Compliment - 18:17\n\nUnit 23. Apology - 19:00\n\nUnit 24. Suggestions - 19:46\n\nUnit 25. Comparison and Choice - 20:51\n\nUnit 26. Request - 21:45\n\nUnit 27. Hotel - 22:30\n\nUnit 28. Post Office - 23:30\n\nUnit 29. Bank - 24:19\n\nUnit 30. Airport - 25:26\n\n#EnglishConversation #SpeakingEnglish #LearnEnglish #DailyEnglishConversation\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n\n▶ Email: DailyEnglishConversationTV@gamil.com",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/jYkITW3dGfY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/jYkITW3dGfY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/jYkITW3dGfY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/jYkITW3dGfY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/jYkITW3dGfY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0SwQRwgmJPsorQICo_zaOnoaTX0",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-11-07T16:31:05Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "English Conversation A 30-Day Practice English Speaking Fluently Basic English Conversation",
+        "description": "Learn English Conversation A 30-Day Practice - English Speaking fluently - Basic English Conversation.\n\n- Link download file MP3 & Text English Conversation A 30-day Practice: https://goo.gl/5AcS7T\n\nTOPICS:\n\nUnit 1. Greeting - 00:01\n\nUnit 2. Introduction - 00:54\n\nUnit 3. Job - 01:56\n\nUnit 4. Family - 02:52\n\nUnit 5. Invitation - 03:53\n\nUnit 6. Welcome - 04:45\n\nUnit 7. Thanks - 05:34\n\nUnit 8. Parting - 06:14\n\nUnit 9. Shopping - 07:01\n\nUnit 10. Asking Price - 07:37\n\nUnit 11. Asking the Way - 08:26\n\nUnit 12. Taking a Taxi / Bus - 09:21\n\nUnit 13. Eating - 10:08\n\nUnit 14. Telephone - 11:03\n\nUnit 15. Weather - 12:00\n\nUnit 16. Illness - 12:59\n\nUnit 17. Interests - 13:50\n\nUnit 18. Language - 14:38\n\nUnit 19. Appointment - 15:42\n\nUnit 20. Agreement - 16:31\n\nUnit 21. Acceptance and declining - 17:23\n\nUnit 22. Compliment - 18:17\n\nUnit 23. Apology - 19:00\n\nUnit 24. Suggestions - 19:46\n\nUnit 25. Comparison and Choice - 20:51\n\nUnit 26. Request - 21:45\n\nUnit 27. Hotel - 22:30\n\nUnit 28. Post Office - 23:30\n\nUnit 29. Bank - 24:19\n\nUnit 30. Airport - 25:26\n\n#EnglishConversation #SpeakingEnglish #LearnEnglish #DailyEnglishConversation\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n\n▶ Email: DailyEnglishConversationTV@gamil.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jYkITW3dGfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jYkITW3dGfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYkITW3dGfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jYkITW3dGfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jYkITW3dGfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jYkITW3dGfY"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "jYkITW3dGfY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/w7dZkuy-KABncAZI5KcXamk8c5U\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5DQUNERDQ2NkIzRUQxNTY1",
-   "snippet": {
-    "publishedAt": "2018-09-26T13:36:15.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Listening Practice - Listen to Free Conversations in English",
-    "description": "Listen to Free Conversations in English - English Listening Practice.\n\nIf you want to learn English fast, then you need to listen more. Listen as much as you can. It is one of the best ways to improve quickly.\n\nLink download English Listening Practice MP3: http://bit.ly/2OfaLQb\n\n(CONTENT)\n1. Greetings – 00:07\n2. Goodbyes – 00:57\n3. On the Telephone – 01:55\n4. Invitations – 02:59\n5. Excuses – 04:07\n6. Apologies – 04:59\n7. Giving Good News – 06:19\n8. Talking about People – 07:23\n9. Saying What’s Wrong – 08:37\n10. Going to a Show – 09:51\n11. At a Restaurant – 10:39\n12. Arranging a Meeting – 11:40\n13. Giving Bad News – 12:25\n14. Giving Directions, Part I – 13:23\n15. Offering Help – 14:41\n16. Giving on Opinion – 15:24\n17. Making Complaints – 16:24\n18. Indicating Position – 18:06\n19. Shopping, Part I – 19:17\n20. Shopping, Part II – 20:15\n21. Office Phone Etiquette – 20:57\n22. Asking a Favor – 21:54\n23. Complimenting/Criticizing – 23:02\n24. Stating One’s Position – 24:24\n25. Shapes – 25:52\n26. Prepositional Phrases – 27:09\n27. Giving Directions, Part II – 28:14\n\n#EnglishListening #ListeningEnglish #EnglishPractice\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n\n♥ Email: DailyEnglishConversationTV@gmail.com",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iiibJ7ODX7GIt_dExV13AITeQNY",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-26T13:36:15Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "English Listening Practice - Listen to Free Conversations in English",
+        "description": "Listen to Free Conversations in English - English Listening Practice.\n\nIf you want to learn English fast, then you need to listen more. Listen as much as you can. It is one of the best ways to improve quickly.\n\nLink download English Listening Practice MP3: http://bit.ly/2OfaLQb\n\n(CONTENT)\n1. Greetings – 00:07\n2. Goodbyes – 00:57\n3. On the Telephone – 01:55\n4. Invitations – 02:59\n5. Excuses – 04:07\n6. Apologies – 04:59\n7. Giving Good News – 06:19\n8. Talking about People – 07:23\n9. Saying What’s Wrong – 08:37\n10. Going to a Show – 09:51\n11. At a Restaurant – 10:39\n12. Arranging a Meeting – 11:40\n13. Giving Bad News – 12:25\n14. Giving Directions, Part I – 13:23\n15. Offering Help – 14:41\n16. Giving on Opinion – 15:24\n17. Making Complaints – 16:24\n18. Indicating Position – 18:06\n19. Shopping, Part I – 19:17\n20. Shopping, Part II – 20:15\n21. Office Phone Etiquette – 20:57\n22. Asking a Favor – 21:54\n23. Complimenting/Criticizing – 23:02\n24. Stating One’s Position – 24:24\n25. Shapes – 25:52\n26. Prepositional Phrases – 27:09\n27. Giving Directions, Part II – 28:14\n\n#EnglishListening #ListeningEnglish #EnglishPractice\n\n☞ Thanks for watching!\n☞ Please share and like if you enjoyed the video :) thanks so much ♥\n\n───────────────────\n▶ Please subscribe to update new videos.\n   Subscribe To Update New Lesson:\nhttps://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw?sub_confirmation=1\n\n♥ Email: DailyEnglishConversationTV@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BfWuXJh_5Ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BfWuXJh_5Ko"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "BfWuXJh_5Ko"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AbLji1DzxCh5OWEhaflfIlv6Bko\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC45ODRDNTg0QjA4NkFBNkQy",
-   "snippet": {
-    "publishedAt": "2019-09-04T13:41:44.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Speaking Practice English Conversations About Travel and Holidays | Practice English",
-    "description": "Basic English Speaking 2: Speaking English Conversation Practice | Travel and Holidays.\n\n☆ Basic English Speaking Part 1: https://youtu.be/bXc__JCeU0c\n\n#SpeakingEnglish #EnglishConversation #PracticeEnglish #LearnEnglish\n\n☆ English Conversations About Travel and Holidays:\n\nUnit 1 - Before Travel - 00:04\n+ Inquiring about a Journey - 00:07\n+ Sign up - 01:35\n+ Arrange Luggage - 03:09\n+ Apply for Passports and Visas - 04:25\n+ Book Tickets and Hotels - 05:59\n\nUnit 2 - At the Airport - 07:27\n+ Check in - 07:29\n+ Transport Luggage - 08:46\n+ Immigration and Customs - 10:09\n+ Duty-Free Store - 11:33\n+ Luggage Claim - 12:50\n\nUnit 3 - On the Plane - 14:15\n+ Find the Seat - 14:17\n+ Requiring Help - 15:28\n+ Food on the Plane - 16:50\n+ Duty-Free Articles - 18:01\n\n+ Feel Uncomfortable - 19:18\nUnit 4 - At the Hotel - 20:32\n+ Check in - 20:36\n+ Room Service - Order - 21:52\n+ Room Service - Ask for Articles - 23:17\n+ Change rooms - 24:45\n+ Check out - 26:20\n\nUnit 5 - Traffic - 27:57\n+ Take the Bus - 27:58\n+ Take the Subway - 29:13\n+ Take a Taxi - 30:45\n+ Ask for Schedules - 32:03\n+ Buy Tickets - 33:29\n\n☆ Speaking English: https://youtu.be/lyhXysYZzXA\n☆ Playlist Basic English Speaking: https://www.youtube.com/watch?v=bXc__JCeU0c&list=PL2U4SoXMd-Zvji8_s8oW1xr48WMNXfkrg\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/lyhXysYZzXA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/lyhXysYZzXA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/lyhXysYZzXA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/lyhXysYZzXA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/lyhXysYZzXA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SlRjV466Iq005FJnwVd7HQWxBGM",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-03-02T13:22:58Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Learning English Lessons for Beginners | Basic English Speaking Course Online",
+        "description": "Simple English  Speaking Course Online. Learning English Lessons for Beginners (ABCD English, English 123, Basic Conversation, ...)\n\n↪ Simple English Conversation: https://youtu.be/Gg8PN-11ZdA\n\n#EnglishforBeginners #BasicEnglish #EnglishSpeakingCourse #SimpleEnglish #EnglishSpeaking\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video! Thanks so much ♥\n\n↪ Please subscribe to update new videos: https://www.youtube.com/channel/UCU4wD66gg6h2S0UTtOc9Tdg\n\n☆ If there are any copyright issues with any videos posted here i will remove added, please contact my email: BasicEnglishSpeak@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78DPQMcocJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78DPQMcocJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78DPQMcocJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/78DPQMcocJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/78DPQMcocJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "78DPQMcocJ8"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 9,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "lyhXysYZzXA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yf8GZW6KbkILpyxDTAeToRDJxXY\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4zMDg5MkQ5MEVDMEM1NTg2",
-   "snippet": {
-    "publishedAt": "2019-09-18T14:06:18.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Daily English Listening Practice | English Listening & Conversation Practice: Listen to Everyday",
-    "description": "English Listening Practice: Listen to Everyday. Daily English Conversation Practice.\n\n☆ Link download TEXT & MP3 English Listening Practice: http://bit.ly/DailyEnglishListeningPractice\n\n☆ TOPICS ☆\n\n1. Taking a Cab - 00:04\n\n2. What did you do yesterday? - 00:43\n\n3. A New Baby - 01:45\n\n4. Bless You - 02:32\n\n5. I Don't Feel Well - 03:13\n\n6. Can You Help Me? - 03:55\n\n7. Phone Out of Order (1) - 04:36\n\n8. Phone Out of Order (2) - 05:23\n\n9. I Hate to Get Up - 06:17\n\n10. Telephone Call (2) - 06:54\n\n11. What's A Grant? - 07:40\n\n12. I'm Busy On Friday - 08:26\n\n13. A Hot Day - 09:00 \n\n14. Getting A Visa - 09:49\n\n15. Employing a new member - 10:23\n\n16. A Date (1) - 11:20\n\n17. Travelling by Air - 12:40\n\n18. At the Customs - 13:51\n\n#EnglishListening #EnglishListeningPractice #ListentoEveryday #EnglishConversation\n\n☆ Basic English Speaking: https://www.youtube.com/watch?v=bXc__JCeU0c&list=PL2U4SoXMd-Zvji8_s8oW1xr48WMNXfkrg\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/djte1rBkYhw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/djte1rBkYhw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/djte1rBkYhw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/djte1rBkYhw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/djte1rBkYhw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pGtf0OUOA_dygTGk2hhyvTaI4fM",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-02-21T14:16:09Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Conversation in English Speaking Practice for Beginners with Subtitle | Simple English Conversation",
+        "description": "Practice your English Conversations. English conversation practice into your day every day.\n\nConversation in English Speaking Practice for Beginners with Subtitle.\n\n#SimpleEnglish  #EnglishConversation #EnglishSpeaking #EnglishPractice \n\n↪ Simple English Conversation: https://youtu.be/v7rwfUJM5R4\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video! Thanks so much ♥\n\n↪ Please subscribe to update new videos: https://www.youtube.com/channel/UCU4wD66gg6h2S0UTtOc9Tdg\n\n☆ If there are any copyright issues with any videos posted here i will remove added, please contact my email: BasicEnglishSpeak@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gg8PN-11ZdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gg8PN-11ZdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gg8PN-11ZdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gg8PN-11ZdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gg8PN-11ZdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gg8PN-11ZdA"
+        }
+      }
     },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 10,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "djte1rBkYhw"
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c_Nd9c2eNh3NUqaMEla_4Vx2GF0",
+      "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-02-04T13:53:07Z",
+        "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
+        "title": "Easy English Conversation | Free Conversation Topics for Simple English Speaking Practice",
+        "description": "Free Conversation Topics for Simple English Speaking Practice. Easy English conversation topics for teachers and students learning to speak the language.\n\n☆ Easy English Conversation Topics:\n1| Greetings - 00:05\n2| Meeting people - 01:19\n3| Saying goodbye - 02:32\n4| Please, Thank you, Sorry - 03:49\n5| Identifying and describing people - 04:59\n6| Age - 06:04\n7| Places and Directions - 07:34\n8| Family Relationships - 08:50\n9| Science - 10:57\n10| Talking about the weather - 12:49\n11| Animals  - 14:30\n12| Calamities and Pollution - 16:10\n13| Housework - 17:36\n14| Function and Malfunction - 19:34\n15| Duration - 21:37\n16| Size, Quantity and Weight - 23:51\n17| Time and Date - 25:53\n18| Shopping - 27:45\n19| Offers and Invitations - 29:55\n20| Congratulations and Celebrations - 31:23\n21| Telephone calls - 33:10\n22| Food and Dining - 34:40\n23| Culture and Art - 36:14\n24| Literature - 38:32\n25| Sports and Games - 40:13\n26| Entertainment - 41:37\n27| Hobbies and Pastimes - 44:10\n28| Likes and Dislikes - 45:50\n29| Cause and Effect - 47:33\n30| Doubting and Believing - 49:36\n31| Difficulty - 51:03\n32| Suggestions and Complaints - 52:51\n33| Praising and Comforting - 54:23\n34| Comparison, Differences and Similarities - 56:07\n35| Agreement and Disagreement - 58:41\n36| Importance and Value, Possession - 1:00:59\n37| Transportation - 1:03:12\n38| Health and Illness - 1:05:09\n39| Education - 1:07:45\n40| Work - 1:10:18\n41| Economy - 1:12:17\n42| Food - 1:14:59\n43| Plans and Intentions - 1:17:01\n44| Talents and Abilities - 1:19:51\n45| Making appointments - 1:22:17\n46| Feelings and Emotions - 1:23:52\n47| Clothing - 1:25:35\n48| Household Objects and Tools - 1:28:47\n49| Politics - 1:30:22\n50| Media - 1:32:40\n\n#SimpleEnglish #EasyEnglish #EnglishConversation #EnglishPractice #BasicEnglish\n\n↪ Simple English Conversation: https://youtu.be/v7rwfUJM5R4\n_______________________\n☆ Thank you for watching!\n☆ Please share and like if you enjoyed the video! ♥\n\n↪ Please subscribe to update new videos: https://www.youtube.com/channel/UCU4wD66gg6h2S0UTtOc9Tdg\n✉️ Email: BasicEnglishSpeak@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7rwfUJM5R4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7rwfUJM5R4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7rwfUJM5R4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v7rwfUJM5R4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v7rwfUJM5R4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Daily English Conversation",
+        "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v7rwfUJM5R4"
+        }
+      }
     }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/duFmdk6OZ9tw5P6LtAr65_VWx30\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC41Mzk2QTAxMTkzNDk4MDhF",
-   "snippet": {
-    "publishedAt": "2019-09-21T13:44:07.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Speaking Practice and Improve your Spoken English Conversation | Speak English Fluently",
-    "description": "Speak English Fluently - Improve your Spoken English Essay and Speaking English Conversation Practice.\n\n☆ English Speaking Practice (MP3 & TEXT): http://bit.ly/EnglishSpeakingPractice\n☆ English Listening Practice: https://www.youtube.com/watch?v=djte1rBkYhw\n\n#EnglishSpeaking #SpokenEnglish #EnglishSpeakingPractice #SpeakEnglishFluently\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/gN_UgU9AtFE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/gN_UgU9AtFE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/gN_UgU9AtFE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/gN_UgU9AtFE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/gN_UgU9AtFE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 11,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "gN_UgU9AtFE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2T1fpqu78jAikhAY1ajfHDbOJ0o\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5EQUE1NTFDRjcwMDg0NEMz",
-   "snippet": {
-    "publishedAt": "2019-09-26T14:29:17.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Learn English Conversation to Help You in an Emergency - Basics of English Speaking for Beginners",
-    "description": "Learning English: Getting help in an Emergency - Basics of English Speaking for Beginners. \n\nLearn English Conversation to Help You in an Emergency -  Emergency in English.\n\n[CONTENTS]\n☆ Emergency English ☆ \n\nUnit 1: Robbery - 00:09\n- Call for Help - 00:11\n- Call the Police - 01:31\n- Be Robbed - 02:58\n- Act Heroically - 04:14\n- Help Victims - 05:35\n\nUnit 2: Car Accident - 07:03\n- Crash - 07:06\n- Accicdents - 08:32\n- Witness - 10:00\n- Call 911 - 11:35\n- Helping the Wounded - 13:01\n\nUnit 3: Get Sick - 14:41\n- Register - 14:43\n- See a Doctor - 16:10\n- Take Medicine - 17:48\n- Surgery - 19:18\n- Be Hospitalized 20:47\n\nUnit 4: Lose Way - 22:10\n- Ask for Directions - 22:13\n- Lose Directions - 23:44\n- Take the Wrong Way - 25:11\n- Take the Wrong Bus - 26:37\n- Read the Map - 28:05\n\nUnit 5: Lose Something - 29:23\n- Miss Items - 29:27\n- Register Loss - 30:38\n- Call the Police - 32:17\n- Lost-and-Found Office - 33:28\n- Thefts - 35:01\n\n#EnglishConversation #EmergencyEnglish #BasicEnglish #EnglishForBeginners\n\n☆ Basic English Speaking Part 1: https://youtu.be/bXc__JCeU0c\n☆ Basic English Speaking Part 2: https://youtu.be/lyhXysYZzXA\n☆ Basic English Speaking Part 3: https://youtu.be/Sya3WllmxJw\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Sya3WllmxJw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Sya3WllmxJw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Sya3WllmxJw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Sya3WllmxJw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Sya3WllmxJw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 12,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Sya3WllmxJw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3l2B-q2qAl7UMJdhennv4ebL4M8\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC41QTY1Q0UxMTVCODczNThE",
-   "snippet": {
-    "publishedAt": "2019-10-09T13:25:16.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Learn to speak English Fluently Basic English Conversation | 90 Topics Daily English Conversation",
-    "description": "90 Topics Daily Life English Conversation. Learn to speak English Fluently Basic English Conversation.\n\n#SpaekEnglish #EnglishFluently #EnglishConversation #EnglishSpeaking\n\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/IzkUIqb606w/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/IzkUIqb606w/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/IzkUIqb606w/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/IzkUIqb606w/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/IzkUIqb606w/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 13,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "IzkUIqb606w"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/BHOCxcuN85vMidd6D2GYwC2M5DQ\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC5EMEEwRUY5M0RDRTU3NDJC",
-   "snippet": {
-    "publishedAt": "2019-08-28T15:12:18.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "Basic English Speaking: English Speaking Dialogues & Conversation",
-    "description": "Basic English Conversation and English Dialogues for Beginners - Speaking English Fluently.\n\n#BasicEnglish #EnglishDialogues #EnglishConversation\n\n☆ Contents ☆\n\nUnit 1 | Get New Friends 00:02\n- Introduce Oneself 00:07\n- Talk about Interests 01:14\n- Talk about Others 02:22\n- Have a Chat 03:33\n\nUnit 2 | Have Dinner 04:45\n- Talk about Restaurants 04:50\n- Wait for a Table 06:15\n- Order 07:30\n- Pay the Bill 08:49\n- Complain about the Dish 09:56\n\nUnit 3 | See a movie 11:15\n- Buy the Tickets 11:17\n- Talk about Movies 12:35\n- Order 13:58\n- Be Led 15:16\n- Find the Hall 16:41\n\nUnit 4 | Shopping Time 18:03\n- Look for Goods 18:05\n- Try on 19:14\n- Bargaining 20:27\n- Pay the Bill 21:35\n- Return and Change Goods 22:50\n\nUnit 5 | In the Bar 24:09\n- Order 24:13\n- Conversing with Strangers 25:25\n- Dance 26:44\n- Check ID 27:53\n- Standing in Line 29:13\n\n+ Basic English Speaking: https://www.youtube.com/BasicEnglishSpeaking\n+ English Conversation & Dialogues: https://youtu.be/bXc__JCeU0c\n\n--------------------------------------\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n☆ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/bXc__JCeU0c/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/bXc__JCeU0c/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/bXc__JCeU0c/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/bXc__JCeU0c/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/bXc__JCeU0c/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 14,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "bXc__JCeU0c"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8axdS-DNHhARWXnqoOECgwNtj5w\"",
-   "id": "UExUeXZBdGo5T1liMXNOX01XMVh3azR1YWNHM2pqRlZFNC4yMDhBMkNBNjRDMjQxQTg1",
-   "snippet": {
-    "publishedAt": "2019-11-13T14:27:30.000Z",
-    "channelId": "UCV1h_cBE0Drdx19qkTM0WNw",
-    "title": "English Listening and Speaking Practice Topics for Speaking in English Improve Your Spoken English",
-    "description": "Learn English speaking and listening practice. How to improve your spoken English practice.\n\n☆ Topics for Speaking in English: \n\n1) My First Pet - 00:02\n\n2) My Flower Garden - 01:05\n\n3) Joe's First Car - 02:04\n\n4) Learning How to Drive - 03:15\n\n5) Summer Vacation - 04:19\n\n6) Cleaning Up Leaves - 05:27\n\n7) Susan's Wedding Day - 06:31\n\n8) My House - 07:33\n\n9) First Snow Fall - 08:45\n\n10) Jessica's First Day of School - 09:53\n\n11) Going Camping - 11:42\n\n12) Jennifer the Firefighter - 12:48\n\n13) Mark's Big Game - 13:47\n\n14) The Easter Egg Hunt - 14:55\n\n15) Remembrance Day - 16:07\n\n16) Halloween Night - 16:58\n\n17) Christmas Eve - 18:14\n\n18) Thanksgiving - 19:38\n\n#EnglishListening #SpokenEnglish #SpeakingEnglish #LearnEnglish\n\n|Easy Speaking English Lessons: https://www.youtube.com/watch?v=DGroWznzacM\n|Spoken English: https://youtu.be/C4jJ06Nl-ks\n\n_______________________\n☆ Thanks for watching!\n☆ Please share and like if you enjoyed the video :) thanks so much ♥\n\n↪ Please subscribe to update new videos: https://www.youtube.com/channel/UCX0G6sv6W0UZGXW0y0nCUKw?sub_confirmation=1\n✉️ Email: BasicEnglishSpeak@gmail.com",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/C4jJ06Nl-ks/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/C4jJ06Nl-ks/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/C4jJ06Nl-ks/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/C4jJ06Nl-ks/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/C4jJ06Nl-ks/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Daily English Conversation",
-    "playlistId": "PLTyvAtj9OYb1sN_MW1Xwk4uacG3jjFVE4",
-    "position": 15,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "C4jJ06Nl-ks"
-    }
-   }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 50
   }
- ]
 }
