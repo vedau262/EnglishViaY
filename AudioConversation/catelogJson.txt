@@ -1,7 +1,7 @@
 [
     {
         "catalogtitle": "Trip & Vacations",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations.jpg",
         "catalogdes": "Trip & Vacations",
         "catalognumberbook": 20,
         "enablethumbnail": 1,
