@@ -169,5 +169,50 @@
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
         "enable": 1
+    },
+    {
+        "title": "Boring Family Reunion",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/boring_family_reunion.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/boring_family_reunion.mp3",
+        "dialog": "SAM: \"Mom, do I have to go to the family reunion?\"\nMOM: \"Yes, Sam. Why don't you want to go?\"\nSAM: \"It's boring and I have no one to talk to.\"\nMOM: \"You have a lot of cousins.\"\nSAM: \"I know, but they are all younger than me.\"\nMOM: \"So, you could entertain them.\"\nSAM: \"Ok.\"\nMOM: \"Your grandparents will be very disappointed if you do not attend.\"\nSAM: \"Ok. Where is it going to be?\"\nMOM: \"It is going to be at an Italian restaurant. Italian food is your favorite.\"\nSAM: \"I know. How long is it going to be?\"\nMOM: \"Probably a few hours.\"\nSAM: \"Can I leave early?\"\nMOM: \"If you can find a ride home, you can leave early.\"\nSAM: \"I wish I knew how to drive.\"\nMOM: \"You will learn someday. But tonight you are going to the reunion.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Unhappy Family Reunion",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/unhappy_reunion.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/unhappy_reunion.mp3",
+        "dialog": "JANE: \"Hello?\"\nSUSAN: \"Hi Jane. This is Susan.\"\nJANE: \"Hi Susan. How are you?\"\nSUSAN: \"Did you receive an invitation to the family reunion?\"\nJANE: \"Yeah.\"\nSUSAN: \"Are you going to go?\"\nJANE: \"I don't think so.\"\nSUSAN: \"Why?\"\nJANE: \"Remember our cousin Bill and I had a disagreement at the last reunion?\"\nSUSAN: \"Yes. But it was all a misunderstanding.\"\nJANE: \"I know, but I still feel uncomfortable about it.\"\nSUSAN: \"I would really like to see you there. I haven't seen you in a while.\"\nJANE: \"I know. I feel the same way.\"\nSUSAN: \"If you don't go to the reunion, maybe I can visit you.\"\nJANE: \"That sounds like a great idea. Have you ever been to New York?\"\n\n \n\nSUSAN: \"No. I would love to visit you and check out the city.\"\nJANE: \"Let's plan to do that.\"\nSUSAN: \"I still want you to come to the reunion.\"\nJANE: \"I'll think about it.\"\nSUSAN: \"Ok. I hope to see you there.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Having a Baby",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/having_baby.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/having_baby.mp3",
+        "dialog": "MOM: \"Hello.\"\nLINDA: \"Hi Mom. This is Linda.\"\nMOM: \"Hi Linda. Why are you calling so early in the morning? Is something wrong?\"\nLINDA: \"No, not at all. Actually, I have some good news.\"\nMOM: \"What is it?\"\nLINDA: \"I'm having a baby.\"\nMOM: \"That's great news! When did you find out?\"\nLINDA: \"Last night. It was too late to call you. I thought you might be sleeping.\"\nMOM: \"You can call me anytime, Linda. How does Dan feel?\"\nLINDA: \"He's so happy. He went out this morning to buy the baby a gift?\"\nMOM: \"Already? That is funny! When is the baby due?\"\nLINDA: \"In June. I am 3 months pregnant.\"\nMOM: \"How are you feeling? Do you feel sick at all?\"\nLINDA: \"Just a little.\"\nMOM: \"Are you able to eat anything?\"\nLINDA: \"Yeah, I'm actually really hungry right now.\"\nMOM: \"Let me come over and make you something to eat.\"\nLINDA: \"Mom, let's go out for breakfast. I'll treat you.\"\nMOM: \"Don't be silly. I'll buy you breakfast. I'll be there in 30 minutes.\"\nLINDA: \"Ok, Mom. See you at 8 am.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Grandchildren",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/grandchildren.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/grandchildren.mp3",
+        "dialog": "JOAN: \"Why do you look so happy, Carol?\"\nCAROL: \"I was just on the phone with my daughter. She is having a baby.\"\nJOAN: \"How exciting!\"\nCAROL: \"This will be our first grandchild.\"\nJOAN: \"Is the baby a boy or a girl?\"\nCAROL: \"She doesn't know yet. She is only three months pregnant.\"\nJOAN: \"Three months? So, the baby is due in June?\"\nCAROL: \"Yes. I'm going to be a grandmother in June. How many grandchildren do you have, Joan?\"\nJOAN: \"I have three. Two grandsons and one granddaughter.\"\nCAROL: \"Yes, I remember now. They visit you often.\"\nJOAN: \"Yes, they do. I love when they visit.\"\nCAROL: \"I'm so excited. I'm going to go shopping to buy my grandchild some clothes.\"\nJOAN: \"But the baby hasn't been born yet.\"\nCAROL: \"I know. But I love looking at baby clothes. Do you want to go with me?\"\nJOAN: \"Sure. Maybe I'll get something for my grandkids too. Let me grab my purse.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
+    },
+    {
+        "title": "Sister's Baby",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/sister_baby.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/sister_baby.mp3",
+        "dialog": "JENNIFER: \"Hi Susie. Where are you going? Are you taking a trip?\"\nSUSIE: \"Yeah, I'm going to Chicago. My sister just had a baby. I'm going to be helping her for a couple of weeks.\"\n\n \n\nJENNIFER: \"That's so nice of you. Did she have a boy or a girl?\"\nSUSIE: \"A girl. Her name is Rose.\"\nJENNIFER: \"What a beautiful name!\"\nSUSIE: \"Yeah. She is named after our grandmother.\"\nJENNIFER: \"My daughter is also named after my grandmother. Her name is Marie.\"\nSUSIE: \"That's also a beautiful name.\"\nJENNIFER: \"Thanks. Is this your sister's first child?\"\nSUSIE: \"Yeah. This is my first niece too. She's also the first grandchild in the family.\"\nJENNIFER: \"How special!\"\nSUSIE: \"I know. My mother is so excited. She's only lives a few blocks away from my sister. So, she will be helping a lot too.\"\nJENNIFER: \"That's wonderful. It's nice to have a lot of help with your first child.\"\n\n \n\nSUSIE: \"Yeah. I agree. Well, I better go now. I have to be at the airport by 1 pm.\"\nJENNIFER: \"Ok. See you in two weeks.\"",
+        "catalog": "Trip & Vacations",
+        "thumbenable": 1,
+        "enable": 1
     }
 ]
