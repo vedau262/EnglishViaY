@@ -2,406 +2,451 @@
     {
         "title": "Be a Far Cry from",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/20a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/23a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/0.mp3",
         "dialog": "Suzy: How is your new company?\n\nTony: So far so good. I love the open and relaxed working environment. It is a far cry from my last job.\n\nSuzy: What do you mean?\n\nTony: At my last company, there were many rules and regulations that employees had to follow. The company was not very flexible when it came to workers taking time off or leaving work early.\n\nSuzy: But your new company is better?\n\nTony: Much better. All the employees seem happy and satisfied with their jobs. I’m glad that I made the change. Right before I started this new job I was starting to have second thoughts. I almost changed my mind a few times.\n\nSuzy: Well, it’s a good thing that you didn’t.\n\nTony: You can say that again.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/23a.mp3"
     },
     {
         "title": "Be desperate for",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/112a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/22a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/1.mp3",
         "dialog": "Klay: I’m having a hard time these days.\n\nPete: Why is that?\n\nKlay: I am trying to quit smoking, but I am having terrible cravings. I am desperate for a cigarette.\n\nPete: That’s great that you are quitting.\n\nKlay: It doesn’t feel great now.\n\nPete: You will be so happy you quit after this tough period has passed. Even though you are desperate for a cigarette now, you have to stay strong. Think about your kids and your health.\n\nKlay: You are right. I need to quit for my kids.\n\nPete: If you ever feel like you are going to smoke, come and talk to me first.\n\nKlay: Thanks, Pete. You’re a good guy.\n\nPete: No problem. I quit smoking a few years back, so I know how hard it is to quit.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/22a.mp3"
     },
     {
         "title": "Be Down to Earth",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/6a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/3a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/2.mp3",
         "dialog": "Erin: It seems like Tim’s music career is really taking off. I heard his song on the radio last weekend.\n\nRyan: Yes. His band is doing really well these days. But do you know the best thing about Tim?\n\nErin: What’s that?\n\nRyan: The best thing about him is that even though he is becoming famous he is still down to earth.\n\nErin: That’s true. I met him a couple weeks ago and he seemed like the same nice guy that he has always been. He didn’t brag or boast about his career at all.\n\nRyan: That’s exactly what I am saying. Even though he is successful, he doesn’t act like he is better than anyone. That’s why everybody likes him.\n\nErin: You’re right about that. Plus, he is an amazing musician.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/3a.mp3"
     },
     {
         "title": "Be Hungry for",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/21a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/3.mp3",
         "dialog": "Kyle: I hope my favorite basketball team wins the championship this year. All of the fans are hungry for a championship. And I know the players are hungry to win a championship, too.\n\nWendy: Do you think they have a good chance to win?\n\nKyle: I’m not sure. I think that the other team is better, but if my team plays well, then they can win.\n\nWendy: When is the game?\n\nKyle: The game is tonight. I am going to watch it at home.\n\nWendy: Do you want to get some dinner before you watch the game?\n\nKyle: Sure. I’m hungry. What do you want to eat?\n\nWendy: Honestly, I am hungry for Mexican food.\n\nKyle: That sounds good to me.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/21a.mp3"
     },
     {
         "title": "Be in a Bind",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/86a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/42a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/4.mp3",
         "dialog": "Carrie: What’s up, Stacey? You look like you are thinking hard about something.\n\nStacey: I am in a bind, and I don’t know what to do.\n\nCarrie: What’s going on?\n\nStacey: My sister’s birthday party is the same day that my favorite band is playing a concert downtown. I already have tickets for the concert, and my boyfriend and I have been looking forward to it for a long time.\n\nCarrie: That’s a tough situation. You really are in a bind. So, what are you going to do?\n\nStacey: I’m not sure yet. If I go to my sister’s birthday, then I miss the concert, and my boyfriend will be very angry. But if I go to the concert, then my sister will feel bad because I didn’t come to her party.\n\nCarrie: Why don’t you explain the situation to your sister, and then take her out for a special birthday dinner on a different night?\n\nStacey: That’s a great idea. Thank you so much!",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/42a.mp3"
     },
     {
         "title": "Be in Hot Water",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/97a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/41a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/5.mp3",
         "dialog": "Trisha: You look worried Ryan. Is everything okay?\n\nRyan: Not really. I am in hot water because I lost a major client. The sales manager and sales director are both really upset with me. I’m kind of worried that I might get fired.\n\nTrisha: Do you think it is really that serious?\n\nRyan: It could be. My company is very competitive and unforgiving when it comes to results.\n\nTrisha: But you have been a good employee there for so long. Surely, they would give you another chance.\n\nRyan: I think they will, but I can’t be sure. I’ve seen people fired for less.\n\nTrisha: Well, try not to worry about it too much. Whatever happens, happens. You will be okay.\n\nRyan: Thanks, Trisha.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/41a.mp3"
     },
     {
         "title": "Be into",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/96a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/10a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/6.mp3",
         "dialog": "Pete: What are you into these days?\n\nNick: I am really into basketball these days. I am crazy about the NBA. It’s the playoffs, so there are many exciting games on TV.\n\nPete: I thought you were a baseball fan. You used to talk about baseball all the time.\n\nNick: I am still kind of into baseball, but these days, I am way more into basketball.\n\nPete: How did you get into basketball?\n\nNick: My brother took me to a game for my birthday, and I had such an amazing time. After that, I’ve been obsessed with the NBA.\n\nPete: Well, who is your favorite team?\n\nNick: I’d have to say the Cleveland Cavaliers because they are my hometown team, but I also like the Minnesota Timberwolves.\n\nPete: That’s cool. We should watch a game together sometime.\n\nNick: That’s a good idea.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/10a.mp3"
     },
     {
         "title": "Be on a Roll",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/3a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/32a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/7.mp3",
         "dialog": "Suzy: I used to play a lot when I was young. I was on a team and we practiced every day after school for a couple hours.\n\nWendy: That explains it.\n\nSuzy: What about you? Did you play any sports when you were young?\n\nWendy: Nope. I wasn’t into organized sports. I was in the school band. I really enjoyed playing the flute.\n\nSuzy: That’s cool. I didn’t know that you played the flute.\n\nWendy: I haven’t played for a long time. These days, I mostly just play the guitar.\n\nSuzy: I wish I could play the guitar, but I have no musical talent at all.\n\nWendy: That’s nonsense. Anybody can learn. It just takes time.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/32a.mp3"
     },
     {
         "title": "Be one’s Last Resort",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/8a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/8.mp3",
         "dialog": "Suzy: Our new product has been doing terrible. We launched it over three weeks ago, and our sales numbers have been awful so far.\r\n\r\nPete: Are we going to stop production of the product?\r\n\r\nSuzy: I think it is a little early for that. Stopping production is our last resort. We will try some other things first before we even think about doing that.\r\n\r\nPete: I see. Why do you think the product hasn’t been selling well?\r\n\r\nSuzy: I’m not really sure. Some people think it is because we haven’t done a good job of marketing the product, but other people think it is because the product is poorly made and it is getting bad reviews.\r\n\r\nPete: I hope it’s the former. It would be a lot easier to adjust our marketing strategy than fixing or redesigning the product.\r\n\r\nSuzy: I couldn’t agree more.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp3"
     },
     {
         "title": "Be out of one’s Mind",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/91a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/15a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/9.mp3",
         "dialog": "Trisha: I’m going to buy a monkey.\n\nKyle: Are you out of your mind? Why on earth would you do that?\n\nTrisha: They are cute, and I want to get a pet because I get lonely at home sometimes.\n\nKyle: But monkeys are very hard to take care of, cost a lot of money, and can be dangerous. Why don’t you just get a cat?\n\nTrisha: Cats are not as fun as monkeys.\n\nKyle: But what are you going to do with the monkey when you travel or stay out late?\n\nTrisha: Actually, I hadn’t thought about that.\n\nKyle: Well, please think about it more before you make any rash decision. I promise that you will regret buying a monkey.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/15a.mp3"
     },
     {
         "title": "Be Scared to Death",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/93a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/13a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/10.mp3",
         "dialog": "Devin: Hey Angela. I heard you went to an amusement park during your vacation.\n\nAngela: That’s right. I went there with my whole family.\n\nDevin: How was it? Did you ride any roller coasters?\n\nAngela: Unfortunately, yes. I hate riding roller coasters, but my family made me ride them. I was scared to death the whole time that I was riding.\n\nDevin: Really? I love roller coasters. They are so thrilling.\n\nAngela: Well, I’m scared to death of heights, so roller coasters are not good for me.\n\nDevin: That makes sense. If you don’t like heights, then you should avoid roller coasters.\n\nAngela: If I never ride another roller coaster again, I will be happy.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/13a.mp3"
     },
     {
         "title": "Be Soul-Crushing",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/35a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/39a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/11.mp3",
         "dialog": "Rachel: Why did you quit your job at the library?\r\n\r\nDevin: Honestly, it was just too boring and quiet for me. For me, that kind of work is soul-crushing. I get very depressed when I work in an environment like that.\r\n\r\nRachel: So, what are you going to do next?\r\n\r\nDevin: I think I am going to get a job in construction. This way I can work in a busy and fast-paced environment.\r\n\r\nRachel: That is probably a better fit for you. You don’t seem like the kind of guy who likes to sit quietly for a long time.\r\n\r\nDevin: No. I definitely prefer to be active.\r\n\r\nRachel: Well, I guess construction would be a better fit for you. My brother works in construction. I can ask him if his company has any job openings.\r\n\r\nDevin: Thank you so much. That would be amazing.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/39a.mp3"
     },
     {
         "title": "Be Stuffed",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/97a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/9a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/12.mp3",
         "dialog": "Greg: Do you want to get some dessert?\n\nAmy: No way. I couldn’t eat another bite. I am stuffed.\n\nGreg: Are you sure? There is always room for dessert. I know a café that has great coffee and delicious cake.\n\nAmy: I don’t know if I can eat any cake, but I could drink some coffee. Where is it?\n\nGreg: It’s about a twenty-minute walk from here. Or we can take a taxi if you want?\n\nAmy: No. Let’s walk. I need to walk a little to digest, and it will give us a chance to enjoy the wonderful weather we are having today.\n\nGreg: Great. Let’s go.\n\nAmy: Alright. Lead the way.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/9a.mp3"
     },
     {
         "title": "Bend over Backward for",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/14a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/28a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/13.mp3",
         "dialog": "Amy: I’m so angry at my manager right now.\n\nRachel: Why? What did she do?\n\nAmy: She just doesn’t appreciate all of the things that I do. I bend over backward for her, but she never encourages me or tells me that I did a good job.\n\nRachel: That’s tough. Does she ask you to do a lot of unreasonable things?\n\nAmy: I wouldn’t say unreasonable, but she often asks me to do things that are not actually part of my job. For example, last week she asked me to take some clients out for dinner because she didn’t want to do it. I did it without complaining, but she didn’t even say thank you.\n\nRachel: That seems kind of rude. But I don’t know if there is anything you can do about it. Maybe your boss is just the type of person who can’t express her feelings or appreciation.\n\nAmy: Maybe. But, it still doesn’t make me feel good.\n\nRachel: Hang in there. In a few more years, you will be the boss.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/28a.mp3"
     },
     {
         "title": "Cannot Take Anymore",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/92a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/14a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/14.mp3",
         "dialog": "Ryan: I can’t take it anymore. I’m going to quit my job.\n\nJacob: Why? What’s wrong?\n\nRyan: My boss keeps promising to give me a promotion, but he never does. Last month, he promised to give me the next available promotion, but yesterday, he gave it to Tammy. I’m so ticked off right now.\n\nJacob: That’s terrible, but are you sure that you want to quit? If you go to a new company, you will have to start all over again with a new boss.\n\nRyan: That’s true, but how can I stay at a company with a boss who doesn’t keep his promises?\n\nJacob: Maybe you should talk to your boss first before you make any decisions. He might have a reason for promoting Tammy instead of you. After you talk to him, you can decide what to do.\n\nRyan: I’ll do that, but I better calm down first. I’m so angry right now.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/14a.mp3"
     },
     {
         "title": "Cannot Wait",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/103a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/24a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/15.mp3",
         "dialog": "Stacey: I can’t wait for the weekend.\n\nErin: Why is that? Do you have special plans?\n\nStacey: Yes. My sister is flying in from New York, and we are going to spend the weekend together.\n\nErin: That’s awesome. What are the two of you going to do?\n\nStacey: We are going to go downtown and do some shopping. After that, we will go out for a nice dinner. I made a reservation at a new French restaurant near the park. I can’t remember the name of it.\n\nErin: I know what restaurant you are talking about. I heard it is really good. I am jealous that you are going there. I can’t wait until I get a chance to try it.\n\nStacey: I will let you know how it is on Monday.\n\nErin: Sounds good. Have fun with your sister this weekend.\n\nStacey: Thanks.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/24a.mp3"
     },
     {
         "title": "Crack Up",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/94a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/12a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/16.mp3",
         "dialog": "Rachel: Have you seen this video before?\n\nErin: Yes. I saw it a few days ago. It is hilarious. The first time that I saw it I was cracking up the whole time.\n\nRachel: I know. It is so funny. This comedian always cracks me up. I think she is the funniest person alive.\n\nErin: I heard she is coming out with a new TV show later this year.\n\nRachel: Really? That would be amazing. Do you know what it is called?\n\nErin: I forget the name, but I can’t wait for it to come out. I bet it’s going to be hilarious.\n\nRachel: I agree. When it comes out, let’s watch it together.\n\nErin: Definitely.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/12a.mp3"
     },
     {
         "title": "Cram for a Test",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/3a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/4a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/17.mp3",
         "dialog": "Angela: I’m in big trouble.\n\nTrisha: What’s up?\n\nAngela: I have a big chemistry test tomorrow, but I haven’t studied at all. I guess I have to stay up all night and cram for the test tomorrow.\n\nTrisha: Why didn’t you start studying earlier? I’m sure you knew about it.\n\nAngela: I’ve known about it for a long time. I just kept putting it off.\n\nTrisha: Well, that was a mistake, but there is nothing you can do about it now. Your only choice is to cram for the test all day and hope for the best.\n\nAngela: I know.\n\nTrisha: Call me after you finish the test tomorrow and let me know how it went.\n\nAngela: I will. I better go get some coffee now. It’s going to be a long night.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/4a.mp3"
     },
     {
         "title": "Feel Blue",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/9a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/1a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/18.mp3",
         "dialog": "Nick: How are you doing today, Rachel?\n\nRachel: Actually, I’m feeling kind of blue today.\n\nNick: I thought so. You look like you are feeling a little blue today. What’s going on?\n\nRachel: I’m not really sure. I just woke up and felt bad. What do you usually do when you are feeling down?\n\nNick: I exercise and get a good night’s sleep. Honestly, that is the best way. If you do that, then you will wake up tomorrow feeling like a hundred bucks.\n\nRachel: I was just planning on going home after work tonight, but I guess I will go to the gym instead if you say it will make me feel better.\n\nNick: I swear that it works.\n\nRachel: I trust you. Thanks for the advice.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/1a.mp3"
     },
     {
         "title": "Get on one’s Nerves",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/95a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/11a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/19.mp3",
         "dialog": "Stacey: It gets on my nerves when people smoke in public places. They should be considerate and use designated smoking areas.\n\nTony: I couldn’t agree more. That really gets on my nerves too, especially when people smoke at a bus stop.\n\nStacey: That is the worst. A couple of days ago, one man was smoking right in the middle of a group of people at the bus stop. Everyone was looking at him angrily, but he didn’t seem to notice.\n\nTony: Some people have no common sense. That guy could have easily walked a little bit away from the bus stop and smoked.\n\nStacey: Exactly. Anyway, talking about this is making me upset. Let’s talk about something else.\n\nTony: I agree.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/11a.mp3"
     },
     {
         "title": "Get out of Hand",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/88a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/18a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/20.mp3",
         "dialog": "Klay: The protests are starting to get out of hand.\n\nGreg: What happened? I didn’t hear anything about the protests.\n\nKlay: People have been protesting the new law for the past week. The protests have been downtown. The first days were peaceful, but yesterday, some protestors started throwing things and causing trouble.\n\nGreg: That’s not good. Peaceful protests are fine, but once people start breaking and throwing things, then it can get out of hand very quickly.\n\nKlay: That’s what I am saying. I think the police should break up the protest before things get even more out of hand.\n\nGreg: I think protesting is a good thing, but you may be right. Let’s check the news now and see if anything is going on.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/18a.mp3"
     },
     {
         "title": "Give Something a Shot",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/40a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/26a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/21.mp3",
         "dialog": "Jacob: I thought you were going to quit your job and start your own company. Whatever happened to that?\n\nStephen: I was going to, but I got scared. What if the business fails?\n\nJacob: I think that you shouldn’t worry too much about that. Give it a shot and see what happens. If it fails, you can always find a job at a different company.\n\nStephen: I know you’re right, but it is easier said than done.\n\nJacob: Don’t overthink it. Just do it.\n\nStephen: Okay. I’m going to give it a shot. I’m going to submit my letter of resignation tomorrow. And if my new business fails, then I’m going to blame you.\n\nJacob: What?\n\nStephen: I’m just joking.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/26a.mp3"
     },
     {
         "title": "Give the Cold Shoulder",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/8a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/2a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/22.mp3",
         "dialog": "Tony: I think that Jill is ticked off at me.\n\nDevin: Why do you say that?\n\nTony: She has been giving me the cold shoulder all day. Every time I walk past her or try to talk to her, she just pretends like she doesn’t see me and walks right by me.\n\nDevin: Are you serious? That is strange. Jill is one of the nicest people that I know.\n\nTony: I know. That is why I’m shocked by this.\n\nDevin: I will talk to her and find out what’s going on. I’ll call you later and let you know.\n\nTony: Thanks. I appreciate it.\n\nDevin: Don’t worry about it.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/2a.mp3"
     },
     {
         "title": "Go through Hell",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/112a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/35a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/23.mp3",
         "dialog": "Erin: How was your trip last weekend?\n\nJacob: It was terrible.\n\nErin: What happened?\n\nJacob: First, on our way there, our car broke down. We were stuck on the side of the road for 5 hours.\n\nErin: What was wrong with your car?\n\nJacob: The battery died. Anyway, after we fixed the battery, and finally arrived, it started to rain. We checked into our room and realized that there was a hole in the ceiling and water was leaking into the room. But we couldn’t change our room because all the rooms were full.\n\nErin: That’s awful.\n\nJacob: On top of that, my daughter got sick and cried all night.\n\nErin: Sounds like you went through hell.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/35a.mp3"
     },
     {
         "title": "Have Guts",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/107a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/30a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/24.mp3",
         "dialog": "Devin: I want to start investing in the stock market, but I don’t have the guts to do it.\n\nKyle: Why not? Investing in the stock market is not scary. You don’t need courage to do it.\n\nDevin: It is scary to me. What if I lose all of my money?\n\nKyle: Investing in stocks doesn’t take guts. It takes brains. Just pick different companies and investments that you think will perform well in the long-run. If you diversify your money and invest wisely, then you can earn a lot of money.\n\nDevin: It sounds like you know a lot about this.\n\nKyle: I’ve been investing for about 5 years, and I’ve done pretty well.\n\nDevin: How about I buy you dinner tonight and you give me some advice?\n\nKyle: I’ve got plans tonight. How about this Friday?\n\nDevin: Perfect.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/30a.mp3"
     },
     {
         "title": "Have one’s Work Cut Out for one",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/35a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/29a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/25.mp3",
         "dialog": "Nick: I just bought a new house.\n\nAngela: Congratulations. That is exciting.\n\nNick: Yeah. I got it for a really low price because it is kind of old and run down. My wife and I plan to fix it up together.\n\nAngela: That’s interesting. What do you need to fix?\n\nNick: Honestly, the house needs a lot of work. We need to redo all of the floors, put up new wallpaper, fix some leaking in the pipes, and do a little electrical work.\n\nAngela: Wow! That’s a lot to do. It seems like you have your work cut out for you.\n\nNick: That’s true, but this is something that my wife and I have always wanted to do. I think it will be a good experience for us.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/29a.mp3"
     },
     {
         "title": "Kick Out",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/90a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/16a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/26.mp3",
         "dialog": "Megan: Have you ever been kicked out of a place?\n\nWendy: No, I haven’t. Have you?\n\nMegan: Never. But my brother told me that he and his friends got kicked out of a restaurant last night.\n\nWendy: Why did they get booted from the restaurant?\n\nMegan: He said that they had to leave because they were being too noisy. He claims that they were not being that noisy and that the manager of the restaurant overreacted.\n\nWendy: Do you believe your brother?\n\nMegan: Not at all. I know him and his friends. They are very noisy when they get together. I’m sure the manager had a good reason for kicking them out.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/16a.mp3"
     },
     {
         "title": "Look up to",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/98a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/43a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/27.mp3",
         "dialog": "Stephen: Who did you look up to when you were young?\r\n\r\nAngela: When I was young, I really looked up to my older sister. I wanted to be just like her. She was very pretty, smart, and good at everything she tried.\r\n\r\nStephen: That’s interesting. I thought you were going to say some famous actress or singer. Anyway, what is your sister doing these days?\r\n\r\nAngela: She has her own restaurant in New York City, and she is the chef. It is doing pretty well these days.\r\n\r\nStephen: That is amazing. What kind of restaurant is it?\r\n\r\nAngela: It is an Italian bistro. They serve many kinds of dishes. It is really cute.\r\n\r\nStephen: Well, if I ever go to New York City, I’ll be sure to check it out.\r\n\r\nAngela: You wouldn’t regret it.\r\n\r\nKey Vocabu",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/43a.mp3"
     },
     {
         "title": "Meet Halfway",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/42a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/01/27a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/28.mp3",
         "dialog": "Carrie: We need to work on this project together. How do you think we should divide the work?\n\nGreg: I think you should handle the research and presentation. I will support you with whatever you need.\n\nCarrie: Are you saying that I should do all the work?\n\nGreg: Well, this work is more related to your job. It makes sense that you should have a greater responsibility than I do.\n\nCarrie: That doesn’t make sense to me. Our boss told us to work on this together. So, you need to meet me halfway.\n\nGreg: Fine. Let’s do the research and create the presentation together. But I think you should give the presentation because you have more knowledge about this work.\n\nCarrie: Okay. That is fair enough.\n\n",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/27a.mp3"
     },
     {
         "title": "Pig Out",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/116a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/7a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/29.mp3",
         "dialog": "Wendy: What are your plans for this weekend?\n\nKlay: There is a Star Wars movie marathon on TV. So, I am going to pig out and watch Star Wars all day Saturday.\n\nWendy: That sounds fun. What are you going to eat?\n\nKlay: I’m probably going to order some pizza, and I am going to go to the store after work to get some snacks and drinks.\n\nWendy: You’re probably going to gain about 5 pounds.\n\nKlay: You’re right but once in a while I enjoy just being lazy and eating tons of food. I will exercise hard and eat healthy next week.\n\nWendy: Well, have fun.\n\nKlay: Thank you. I will.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/7a.mp3"
     },
     {
         "title": "Play a Joke on somebody",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/45a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/30.mp3",
         "dialog": "Wendy: Did you hear about the joke that Jim played on Bill?\r\n\r\nKyle: No, but I am not surprised to hear that. Jim loves to play jokes on other people. What did he do?\r\n\r\nWendy: He bought Bill a fake lottery ticket for his birthday.\r\n\r\nKyle: What is a fake lottery ticket?\r\n\r\nWendy: It looks like a real lottery ticket, but when you scratch it off, it says that you won a million dollars. But it is just a joke ticket, so it is not real.\r\n\r\nKyle: So, what happened?\r\n\r\nWendy: Bill did the lottery ticket, and he thought that he won a lot of money. So, he started yelling and celebrating. But then, everybody started to laugh because they all knew the truth.\r\n\r\nKyle: That’s funny. How did Bill react?\r\n\r\nWendy: At first, he was kind of angry, but after he calmed down, he started laughing about it, too.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/45a.mp3"
     },
     {
         "title": "Pull an All-Nighter",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/11a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/31a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/31.mp3",
         "dialog": "Megan: I’m in big trouble.\n\nKlay: What’s wrong?\n\nMegan: I forgot to prepare a report that my manager asked me to do.\n\nKlay: When is it due?\n\nMegan: First thing tomorrow.\n\nKlay: What are you going to do?\n\nMegan: I’m going to pull an all-nighter and try to finish it. I know a lot about the topic, but I still need to collect and organize a lot of data. On top of that, I need to explain the data and make conclusions about it.\n\nKlay: Wow! You got a lot of work to do. You should start right away. I will go down to the coffee shop and get you a big coffee and a sandwich.\n\nMegan: Thanks a lot. That would be great.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/31a.mp3"
     },
     {
         "title": "Pull oneself Together",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/86a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/20a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/32.mp3",
         "dialog": "Amy: Stacey, why are you crying?\n\nStacey: I’m just really stressed out because this project is so hard. There is a lot of pressure on me to succeed.\n\nAmy: Well, pull yourself together. It is not professional to be crying at your desk. If you feel that overwhelmed, then you should take a walk or go somewhere private. I’m sorry to be so direct with you, but I think you need to hear it.\n\nStacey: I know. You are right. I will pull myself together.\n\nAmy: There you go. Let’s go get some coffee, and we can talk about it. You will feel better after that.\n\nStacey: Thanks.\n\nAmy: Of course. Trust me, there have been times when I have felt just like you do now.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/20a.mp3"
     },
     {
         "title": "School somebody",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/94a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/38a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/33.mp3",
         "dialog": "Greg: I played golf with Mr. White last Sunday.\n\nNick: The vice president of the company?\n\nGreg: Yes. He took me to this amazing course. It was a good time.\n\nNick: How did you do? Did you win?\n\nGreg: Not even close. He schooled me. I think I only won one hole.\n\nNick: That is not surprising. He plays almost every weekend, and he plays a lot during the week with clients.\n\nGreg: Anyway, it was just for fun. It also gave me some facetime with him so I could share my ideas for the company.\n\nNick: That’s great. Good for you.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/38a.mp3"
     },
     {
         "title": "Screw Up",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/100a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/6a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/34.mp3",
         "dialog": "Kyle: What’s going on, Stephen? You look worried.\n\nStephen: I screwed up big time. I was supposed to prepare a presentation for our new clients, but I completely forgot to do it.\n\nKyle: Are you serious? How could you forget something like that?\n\nStephen: I got distracted by other work, and it just slipped my mind. What am I going to do?\n\nKyle: How much time do you have before the presentation?\n\nStephen: I only have two hours.\n\nKyle: Okay. Let’s use one of my old presentations and just change a few things to make it fit for your client.\n\nStephen: Thank you so much. You are a lifesaver!\n\nKyle: Don’t worry about it. Let’s get to work.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/6a.mp3"
     },
     {
         "title": "Sit Around Collecting Dust",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/40a-300x220.jpgg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/44a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/35.mp3",
         "dialog": "Pete: Is that a rowing machine?\r\n\r\nDevin: Yes. I bought it about a year ago. I had planned to exercise with it every day after work. I thought it would be better than going to the gym.\r\n\r\nPete: Do you use it a lot?\r\n\r\nDevin: Honestly, I have only used it once since I bought it. It just sits around collecting dust.\r\n\r\nPete: Why don’t you sell it?\r\n\r\nDevin: I don’t know who to sell it to. Who wants a rowing machine?\r\n\r\nPete: I’ll take it for 50 bucks.\r\n\r\nDevin: Done. Do you think you’re actually going to use it?\r\n\r\nPete: I’m going to put it in my basement and use it whenever it rains and I can’t go running.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/44a.mp3"
     },
     {
         "title": "Sleep on",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/89a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/17a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/36.mp3",
         "dialog": "Stephen: I heard about an interesting investment opportunity. Would you be interested?\n\nCarrie: Well, what is it?\n\nStephen: It’s a real estate investment. You buy shares in an apartment building, and you will get part of the profit each month.\n\nCarrie: I see. Where are the apartments, and how much do I need to invest?\n\nStephen: The apartments are being built near the airport, and there is a minimum investment of $50,000. I can send you the full investment report if you’d like.\n\nCarrie: Sure. Please send it to me. I will read the report tonight and sleep on it. I will let you know tomorrow.\n\nStephen: Sounds good. Take your time deciding.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/17a.mp3"
     },
     {
         "title": "Splurge on",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2019/09/57-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/37a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/37.mp3",
         "dialog": "Stephen: What are you going to do with your holiday bonus?\n\nAmy: I think I am going to splurge on a new home entertainment system.\n\nStephen: That sounds cool. What does it include?\n\nAmy: The set includes a large flat screen TV, surround sound speakers, and a bunch of other things. What are you going to do with your bonus?\n\nStephen: Well, originally, I was going to save my money, but after listening to you, I think that I am going to splurge on something for myself. I think I might get a couple of new pairs of sneakers.\n\nAmy: Sneakers?\n\nStephen: Yes. I like to collect sneakers.\n\nAmy: I didn’t know that.\n\nStephen: I guess that is due to the fact that you only see me at work. And at work, I only wear dress shoes.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/37a.mp3"
     },
     {
         "title": "Suck up to",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/2a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/04/40a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/38.mp3",
         "dialog": "Angela: Kevin always sucks up to our manager, Jim. It is kind of annoying.\r\n\r\nMegan: I know what you mean. This morning Kevin kept talking about how Jim had lost so much weight and how good he looked.\r\n\r\nAngela: I know. That made me roll my eyes. Also, during this afternoon’s meeting, he kept talking about how smart and great Jim is.\r\n\r\nMegan: Do you think Jim realizes what Kevin is doing?\r\n\r\nAngela: I think Jim knows that Kevin is sucking up to him, but I think that Jim likes it. He likes having someone always say nice things to him even if they are not completely true.\r\n\r\nMegan: I guess you’re right, but it is annoying to everyone else.\r\n\r\nAngela: You can say that again.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/40a.mp3"
     },
     {
         "title": "Sugarcoat",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/97a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/12/25a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/39.mp3",
         "dialog": "Ryan: Do you like your boss?\n\nTrisha: I have mixed feelings about her.\n\nRyan: What do you mean?\n\nTrisha: Well, on the one hand, she can be kind of mean, and she is always serious. But on the other hand, she doesn’t sugarcoat anything, so I always get direct feedback from her. Her direct feedback is sometimes tough to hear, but it helps me do my job better and helps me improve.\n\nRyan: What do you mean by ‘sugarcoat’?\n\nTrisha: If a person sugarcoats something, they make something bad or negative sound better than it is. It’s like putting sugar on top of disgusting food to make it taste better. It is the same thing as that but with words.\n\nRyan: I think I get it. It is basically exaggerating the positives of something to make a person feel better.\n\nTrisha: That’s right.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/25a.mp3"
     },
     {
         "title": "Talk into",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/76a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/33a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/40.mp3",
         "dialog": "Pete: I just bought a dog.\n\nStacey: Really? Your wife let you get a dog.\n\nPete: At first, she didn’t want to get a dog, but I talked her into getting a puppy.\n\nStacey: How did you talk her into it?\n\nPete: I told her that it would good for our children, and it would teach them about responsibility. I also showed her some recent studies that show that dogs reduce stress in children and make them happier.\n\nStacey: That was a smart approach. I wish I could get a dog.\n\nPete: Why don’t you? You could talk your husband into it if you tried.\n\nStacey: That’s impossible. My husband is allergic to dogs. If he is near a dog, he starts to sneeze and his nose starts to run.\n\nPete: That’s too bad.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/33a.mp3"
     },
     {
         "title": "Talk out of",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/98a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/34a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/41.mp3",
         "dialog": "Tony: I thought you were going to buy a motorcycle last weekend. What happened?\n\nRyan: My wife talked me out of it.\n\nTony: You were sure that you were going to get one. How did she talk you out of buying a motorcycle?\n\nRyan: She just told me about all of the costs and maintenance required when you have a motorcycle. And more importantly, she told me that she was pregnant. I’m going to be a father. So, I can’t be riding around on a dangerous motorcycle.\n\nTony: She is pregnant! Congratulations! That is amazing.\n\nRyan: Thanks, man. I’m very excited.\n\nTony: Do you know if it is a boy or girl yet?\n\nRyan: It is too early to tell, but I will let you know as soon as I find out.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/34a.mp3"
     },
     {
         "title": "Talk Trash",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/65a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2020/03/36a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/42.mp3",
         "dialog": "Trisha: I hate playing any sport or game with Chris.\n\nCarrie: Why? Chris seems likes such a nice guy.\n\nTrisha: He is usually nice, but he is very competitive. So, he is not that nice when he plays games or sports.\n\nCarrie: What does he do?\n\nTrisha: He gets very serious, and he yells a lot. Also, he talks a lot of trash.\n\nCarrie: What does he say?\n\nTrisha: He just says a lot of mean things, and he always mocks or teases other people whenever they make a mistake. It’s just not that fun to play with him.\n\nCarrie: I see. I’ll be sure to avoid doing anything competitive with him.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/36a.mp3"
     },
     {
         "title": "Unwind",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/98a-390x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/8a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/43.mp3",
         "dialog": "Carrie: What do you usually do to unwind after work?\n\nSuzy: I like to go to a yoga class at the gym. It helps me relax, and I always feel better after. On top of that, I feel more energized the next day.\n\nCarrie: Exercising doesn’t sound very relaxing. I like to just watch TV and eat some snacks to unwind.\n\nSuzy: But you always complain that you are tired in the morning. That is probably because you don’t get enough exercise. You can always watch TV after you exercise.\n\nCarrie: I guess that’s true. I probably should try to be a little healthier.\n\nSuzy: Why don’t you come with me to a yoga class? If you hate it, I will never ask you to come again.\n\nCarrie: Fine. I will go with you tomorrow.\n\nSuzy: Great. I can’t wait.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/8a.mp3"
     },
     {
         "title": "Wrap Up",
         "thumburl": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
-        "mediaurl": "https://convoenglish.co/wp-content/uploads/2019/09/5a.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EnglishConversationPractice/44.mp3",
         "dialog": "Jacob: Hey Megan. A few of us are going out to dinner now. Do you want to come?\n\nMegan: I can’t. I have to wrap up a few things before I leave today.\n\nJacob: What do you have to do?\n\nMegan: I have to finish this presentation for tomorrow and send out a few emails.\n\nJacob: How long is that going to take?\n\nMegan: Probably a couple hours or so.\n\nJacob: Well, if you want to meet up later, just give me a call. We will probably still be out.\n\nMegan: I’ll probably just head home after but thanks for the offer. I’ll join you guys next time.\n\nJacob: Sounds good. Have a good night.\n\nMegan: You too.",
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/5a.mp3"
     }
 ]
