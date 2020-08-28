@@ -6,7 +6,9 @@
         "dialog": "SUE: \"Hello?\"\nLINDA: \"Hi Sue. This is Linda. Are you free for lunch today?\"\nSUE: \"No, David is sick today. He couldn't go to school.\"\nLINDA: \"That's terrible. Is it a cold?\"\nSUE: \"Yeah, I think so. He has a cough and a sore throat.\"\nLINDA: \"My son, Billy, was sick last week too. He missed four days of school.\"\nSUE: \"Wow! I hope David isn't sick that long.\"\nLINDA: \"There's a virus going around. We need to stay healthy too.\"\nSUE: \"I know. I've been taking extra Vitamin C to stay healthy.\"\nLINDA: \"Good idea! I think I'll buy some today. Do you need anything at the store?\"\nSUE: \"Actually, I do. I couldn't go to the store because I didn't want to leave David alone.\"\nLINDA: \"I understand. What do you need?\"\nSUE: \"Could you please buy me a whole chicken? I want to make David some chicken soup.\"\nLINDA: \"That's a great idea! I'll drop it off on my way home.\"\nSUE: \"Thank you so much! I will pay you back when you drop off the chicken.\"\nLINDA: \"Ok! I'm going to go to the store after lunch. I will be at your house around 2 pm.\"\nSUE: \"Great! See you then. Don't forget to buy Vitamin C!\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/sick-child.html",
+        "quiz": "1. Who is sick today?\n Sue\n Linda\n Billy\n David(x)\n\n2. How long was Billy out of school?\n 2 days\n 3 days\n 4 days(x)\n 1 week\n\n3. What is Sue doing to stay healthy?\n Staying away from sick people\n Taking Vitamin C(x)\n Getting a flu shot\n Exercising\n\n4. What is Linda buying at the market?\n Vitamin C\n Chicken\n Neither A or B\n Both A and B(x)"
     },
     {
         "title": "Flu Shot",
@@ -15,7 +17,9 @@
         "dialog": "SUE: \"Hello?\"\nLINDA: \"Hi Sue. This is Linda. I have a question about the flu shot.\"\nSUE: \"What is it?\"\nLINDA: \"Are your kids getting the flu shot this year?\"\nSUE: \"They already did.\"\nLINDA: \"They did?\"\nSUE: \"Yeah. We went to the doctor's office last week. They both got them.\"\nLINDA: \"What about you?\"\nSUE: \"I got one too. So did Jeff.\"\nLINDA: \"Really? Bill won't get one.\"\nSUE: \"Why?\"\nLINDA: \"He says he never gets sick.\"\nSUE: \"Well, that could be true. But we don't want to risk it this year.\"\nLINDA: \"I completely understand that.\"\nSUE: \"Both of my kids got really sick last year. I just want to give them extra protection just in case.\"\nLINDA: \"Yeah. I think I'm going to make an appointment for all of us.\"\nSUE: \"Even Bill?\"\nLINDA: \"No. He won't go. He'll just cancel his appointment.\"\nSUE: \"Well, at least the three of you will be protected.\"\nLINDA: \"That's true. Ok, I better call the doctor's office now.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/flu-shot.html",
+        "quiz": "1. Who got the flu shot this year?\n Sue\n Jeff\n Sue and Jeff's children\n All of the above(x)\n\n2. Who will not get a flu shot?\n Sue\n Linda\n Jeff\n Bill(x)\n\n3. What happened to Sue's kids last year?\n They got really sick(x)\n They broke their arms\n They got the chicken pox\n They dropped out of high school\n\n4. What is Linda going to do after talking to Sue?\n Call Bill\n Have lunch\n Call the doctor's office(x)\n Go to work"
     },
     {
         "title": "Stomach Ache",
@@ -24,7 +28,9 @@
         "dialog": "SUSIE: \"Mommy, I don't feel very well.\"\nMOMMY: \"What's wrong, Susie? Didn't you have a good time at the birthday party?\"\nSUSIE: \"Yeah. It was a lot of fun. But now my tummy hurts.\"\nMOMMY: \"Did you eat too much food at the party?\"\nSUSIE: \"I think so.\"\nMOMMY: \"What did you eat?\"\nSUSIE: \"Pizza, cake, ice cream, and potato chips.\"\nMOMMY: \"That is a lot of food.\"\nSUSIE: \"I also had soda, cookies, and popcorn.\"\nMOMMY: \"Susie, that's why your stomach hurts. You ate too much. Why did you eat so much?\"\nSUSIE: \"I was hungry and everything looked delicious.\"\nMOMMY: \"Susie, I think you should go lie down for a while?\"\nSUSIE: \"Ok, mommy.\"\nMOMMY: \"Susie, where are you going?\"\nSUSIE: \"I need to go to the bathroom first.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/stomach-ache.html",
+        "quiz": "1. Where did Susie go today?\n School\n Friend's house\n Birthday party(x)\n Dinner with her parents\n\n2. How is Susie feeling?\n Sad\n Sick(x)\n Happy\n Angry\n\n3. What did Susie do?\n She ate too much(x)\n She overslept\n She fought with a friend\n She lied to her parents\n\n4. What does Susie's mom tell her to do?\n Lie down(x)\n Do her homework\n Watch TV\n Check the mail"
     },
     {
         "title": "Spring Cleaning",
@@ -33,7 +39,9 @@
         "dialog": "SHARON: \"Hi Jill. What are you doing today?\"\nJILL: \"Hi Sharon. Today we are doing our annual spring cleaning.\"\nSHARON: \"What is that?\"\nJILL: \"It's the day we thoroughly clean the whole house. We throw away things we don't need, pack up things to donate, clean all of the rooms, and wash all of the windows.\"\nSHARON: \"Wow! That's a lot to do.\"\nJILL: \"Yeah. It takes all day.\"\nSHARON: \"Do your kids help too.\"\nJILL: \"Of course. They look through their closets and toy bins to find clothes and toys to donate or throw away.\"\nSHARON: \"That's a great idea! But why is it called spring cleaning?\"\nJILL: \"Because it's done in the spring season.\"\nSHARON: \"I see. I think we're going to start doing this too. Our house is so cluttered.\"\nJILL: \"After we have the things ready for donation, Jim takes them to the local homeless shelter. This makes the house easier to clean.\"\nSHARON: \"That's great! I'm going to tell my family about this.\"\nJILL: \"Well, I better get started. I have a lot to do. Talk to you later, Sharon.\"\nSHARON: \"Bye, Jill. Thanks for the cleaning tip.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/spring-cleaning.html",
+        "quiz": "1. What is Jill doing today?\n Going to the mall\n Working at the office\n Thoroughly cleaning her house(x)\n Taking the kids to the zoo\n\n2. What season is it?\n Spring(x)\n Summer\n Fall\n Winter\n\n3. What are her kids doing today?\n Doing their homework\n Cleaning out their closets and toy bins(x)\n Riding their bikes to the park\n Going to the movie theater\n\n4. Where is Jim going later today?\n Local homeless shelter(x)\n Golfing\n Post office\n Work"
     },
     {
         "title": "Busy Day Cleaning",
@@ -42,7 +50,9 @@
         "dialog": "KAREN: \"Hi Sally. How are you today?\"\nSALLY: \"Hi Karen. I have so many things to do today.\"\nKAREN: \"What do you have to do?\"\nSALLY: \"I have to do several loads of laundry, vacuum the whole house, and clean the kitchen.\"\nKAREN: \"Wow! That's a lot of stuff to do. Why don't you do some of that tomorrow?\"\nSALLY: \"My mother-in-law is coming tonight.\"\nKAREN: \"I completely understand.\"\nSALLY: \"She likes a very neat and tidy house.\"\nKAREN: \"I know what you mean. My mom is very clean and organized too.\"\nSALLY: \"I should've started a few days ago, but I was so busy at work.\"\nKAREN: \"Why doesn't your husband help you?\"\nSALLY: \"He did help me. He mowed the lawn, cleaned all of the bathrooms, and set up the guest room yesterday.\"\nKAREN: \"Wow! He did a lot too.\"\nSALLY: \"I also have to go grocery shopping.\"\nKAREN: \"What a busy day! Do you need any help?\"\nSALLY: \"No, that's ok.\"\nKAREN: \"I'm not busy today. I can help you.\"\nSALLY: \"Really? Could you go grocery shopping for me? I already made my shopping list.\"\nKAREN: \"Of course! You can pay me back when I drop off the groceries.\"\nSALLY: \"Thank you so much! I really appreciate it.\"\nKAREN: \"That's what friends and neighbors are for.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/busy-day-cleaning.html",
+        "quiz": "1. What does Sally have to do today?\n Household chores(x)\n Get a haircut\n Wash her car\n Work on her yard\n\n2. Who is visiting?\n Sally's mom\n Sally's dad\n Sally's mother-in-law(x)\n Sally's daughter\n\n3. What did Sally's husband do yesterday?\n Mow the lawn\n Clean the bathrooms\n Set up the guest room\n All of the above(x)\n\n4. How is Karen going to help Sally?\n Go grocery shopping for her(x)\n Vacuum her house\n Clean her kitchen\n Do her laundry"
     },
     {
         "title": "Cleaning the Attic",
@@ -51,7 +61,9 @@
         "dialog": "GARY: \"Hey Ted. Do you have any boxes you're not using?\"\nTED: \"I think so. I have to check my garage.\"\nGARY: \"Great. Thanks.\"\nTED: \"Are you moving?\"\nGARY: \"No. I need to clean out my attic today. It's getting full up there.\"\nTED: \"That's a big chore.\"\nGARY: \"I know. I don't even remember what's in there anymore.\"\nTED: \"Well, if you don't know what's in there, you probably don't need it.\"\nGARY: \"That's what my wife said.\"\nTED: \"I had to clean out my attic last month and my wife said the same thing to me.\"\nGARY: \"They must be talking to each other.\"\nTED: \"What are you going to do with all the stuff?\"\nGARY: \"I think I'm going to have a garage sale next weekend. What did you do with all of your stuff?\"\nTED: \"I threw half of it away and donated the other half.\"\nGARY: \"That's a good idea. Maybe I'll donate the things I don't need.\"\nTED: \"What about the garage sale?\"\nGARY: \"That's just going to be another chore to do. I'd rather go golfing.\"\nTED: \"Good thinking!\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/cleaning-attic.html",
+        "quiz": "1. What is Gary going to do today?\n Golf\n Clean out his attic(x)\n Wash his car\n Go to work\n\n2. What does Gary ask Ted for?\n Boxes(x)\n Tools\n Money\n Golf tees\n\n3. What did Ted's and Gary's wives say?\n If you don't know what's in there, you probably don't need it(x)\n Can you go to the market\n Let's go out to dinner\n Can you take out the trash\n\n4. What would Gary rather do next weekend?\n Go golfing(x)\n Go cycling\n Play soccer\n Wash his car"
     },
     {
         "title": "Kids Chores",
@@ -60,7 +72,9 @@
         "dialog": "MARK: \"Hey Billy. Do you want to come over after school?\"\nBILLY: \"Hey Mark. No. I have to finish my chores. I didn't do them all week, so now I have to do them all today.\"\nMARK: \"What do you have to do?\"\nBILLY: \"Rake the yard and clean my room.\"\nMARK: \"Is that going to take a long time?\"\nBILLY: \"Have you seen my room? It looks like a tornado went through it.\"\nMARK: \"Why didn't you clean it before?\"\nBILLY: \"I hate cleaning. Do you have chores?\"\nMARK: \"Yeah, but I try to finish them as soon as possible.\"\nBILLY: \"You're smart! Now, I have to spend Friday afternoon doing chores.\"\nMARK: \"That's too bad. I got a new video game I wanted to show you.\"\nBILLY: \"Do you want to help me with my chores?\"\nMARK: \"No way! I'm going to enjoy my Friday afternoon.\"\nBILLY: \"Well, I better get to work or I'll be doing it after dinner too.\"\nMARK: \"Finish your chores earlier next time.\"\nBILLY: \"I know. I say that every week.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/kids-chores.html",
+        "quiz": "1. What does Mark ask Billy to do after school?\n Come over to his house(x)\n Help him with his homework\n Do chores together\n Ride bikes\n\n2. What does Billy have to do after school?\n Rake the yard\n Clean his room\n Neither A or B\n Both A and B(x)\n\n3. What does Mark want to show Billy?\n His new video game(x)\n His new bike\n His new toy truck\n His homework assignment\n\n4. What does Billy tell himself every week?\n Finish chores earlier(x)\n Study harder\n Sleep earlier\n Finish homework on time"
     },
     {
         "title": "Chores for Money",
@@ -69,7 +83,9 @@
         "dialog": "ALAN: \"Mom, are there any more chores to do around the house?\"\nMOM: \"There are always chores to do. Why?\"\nALAN: \"I want to make more money. I'm saving up for something.\"\nMOM: \"What is it?\"\nALAN: \"It's a secret.\"\nMOM: \"Ok. There are a couple of loads of laundry that need to be done.\"\nALAN: \"Ok! I can do that.\"\nMOM: \"They need to be washed, folded, and put away.\"\nALAN: \"Got it!\"\nMOM: \"Let me know if you want more to do after that.\"\nALAN: \"Ok. I need a lot more to do.\"\nMOM: \"I'm curious. What are you saving up for?\"\nALAN: \"Do you promise not to say anything?\"\nMOM: \"I promise.\"\nALAN: \"I want to buy Dad a new watch for his birthday.\"\nMOM: \"That's very sweet of you. He would love it!\"\nALAN: \"I only have a couple of weeks to save until his birthday.\"\nMOM: \"You're a good kid, Alan.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/chores-for-money.html",
+        "quiz": "1. What is Alan looking for?\n His shoes\n His wallet\n More chores to do(x)\n Something to eat\n\n2. What chore does his mom give him?\n Doing the laundry(x)\n Washing the dishes\n Cleaning the bathroom\n Vacuuming\n\n3. What is Alan saving up for?\n A video game\n A gift for his dad(x)\n A drum set\n A gift for his brother\n\n4. How long does he have to save up enough money?\n A week\n A couple of weeks(x)\n A month\n One year"
     },
     {
         "title": "Chores and Allowance",
@@ -78,7 +94,9 @@
         "dialog": "DAD: \"Greg, I think it's time for you to start helping around the house.\"\nGREG: \"Ok, Dad.\"\nDAD: \"Your mom and I want you to start doing some chores.\"\nGREG: \"Will I get an allowance like Susie?\"\nDAD: \"Of course you will. First, let's start with cleaning up the playroom when it gets messy.\"\nGREG: \"Ok. What else?\"\nDAD: \"How about setting and clearing the dinner table.\"\nGREG: \"These are easy.\"\nDAD: \"And, loading and unloading the dishwasher.\"\nGREG: \"Ok. Do I have to do all of these things every day?\"\nDAD: \"No. I want you to share these chores with your sister. You can both decide which ones you want to do.\"\nGREG: \"That's not fair.\"\nDAD: \"Why isn't this fair?\"\nGREG: \"She's going to pick the easiest ones for herself and give me the harder chores to do.\"\nDAD: \"No, she won't.\"\nGREG: \"You don't know Susie. I think I want a raise in my allowance.\"\nDAD: \"We haven't told you how much you're getting yet.\"\n\n \n\nGREG: \"If I have to share chores with my sister, I'm going to be doing most of the work.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/chores-and-allowance.html",
+        "quiz": "1. What kind of chores do Greg's parents want him to do?\n Clean the playroom\n Set and clear the dinner table\n Load and unload the dishwasher\n All of the above(x)\n\n2. Who does Greg have to share chores with?\n No one. Greg is doing them alone\n Susie, his sister(x)\n Their family dog\n Greg's mom\n\n3. Why does Greg want a raise in his allowance?\n He thinks he will be doing most of the work by himself(x)\n He wants to buy a new bike\n He thinks he deserves more\n He wants to buy more baseball cards\n\n4. How much allowance does Greg receive?\n $10 a week\n $20 a week\n $3 an hour\n He doesn't know(x)"
     },
     {
         "title": "Lost Dog",
@@ -87,7 +105,9 @@
         "dialog": "MARK: \"What's wrong Phil?\"\nPHIL: \"Hi Mark. Our dog, Rusty, is lost. Someone left the backyard gate open and he got out.\"\nMARK: \"Oh no. Let me help you find him.\"\nPHIL: \"Thanks. My daughter is so upset right now.\"\nMARK: \"Have you called the local dog shelters?\"\nPHIL: \"Yeah, they haven't seen him. They said they would call me if they find our dog.\"\nMARK: \"Does he have any identification on him?\"\nPHIL: \"Yeah. He's wearing his dog tag and he's also microchipped.\"\nMARK: \"That's good. Should we make some flyers to post around the neighborhood?\"\nPHIL: \"My wife is doing that right now.\"\nMARK: \"How old is Rusty?\"\nPHIL: \"He's four years old and he's brown with white spots.\"\nMARK: \"I know what he looks like.\"\nPHIL: \"Oh, that's right. I'm not thinking straight. I'm just worried he was stolen or is injured somewhere.\"\nMARK: \"I understand. He's part of your family.\"\nPHIL: \"Yeah, he's a big part of our family. We got him when he was a little puppy.\"\nMARK: \"Hey Phil! There he is!\"\nPHIL: \"Rusty! Come here, boy!\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/lost-dog.html",
+        "quiz": "1. How did Rusty get lost?\n Someone left a gate open(x)\n He jumped over a fence\n He jumped out of a car window\n He ran out the front door\n\n2. What kind of identification does Rusty have?\n Dog tag\n Microchip\n Neither A or B\n Both A and B(x)\n\n3. What does Rusty look like?\n He's all black\n He's brown with white spots(x)\n He is white with brown spots\n He's all white\n\n4. What does Phil give Mark just in case Mark sees Rusty first?\n A leash\n Dog treats(x)\n A flyer\n A ball"
     },
     {
         "title": "Asking for a Dog",
@@ -96,7 +116,9 @@
         "dialog": "DANIEL: \"Dad, can we get a dog?\"\nDAD: \"Daniel, are we talking about this again?\"\nDANIEL: \"You promised we could get one when I got older.\"\nDAD: \"Having a dog is a big responsibility.\"\nDANIEL: \"I know. I promise to help take care of it.\"\nDAD: \"You have to walk him, feed him, bathe him, clean his messes, and play with him.\"\nDANIEL: \"I promise to do all of those things.\"\nDAD: \"I need to talk to your mom first.\"\nDANIEL: \"But mom doesn't want a dog. She doesn't like them.\"\nDAD: \"It's because she is afraid of them.\"\nDANIEL: \"Why is she afraid of dogs?\"\nDAD: \"She was bitten by a dog when she was a child.\"\nDANIEL: \"Oh, I see. But if we get a puppy, we can train it not to bite.\"\nDAD: \"That's true.\"\nDANIEL: \"Dad, did you have a dog when you were a kid?\"\nDAD: \"Yes. But I was old enough to help take care of him.\"\nDANIEL: \"How old were you?\"\nDAD: \"Ten years old.\"\nDANIEL: \"Dad, I'm eleven years old.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/asking-for-dog.html",
+        "quiz": "1. When did Daniel's dad promise to get a dog?\n When Daniel got older(x)\n On Daniel's birthday\n On Christmas\n Next week\n\n2. What does Daniel promise to do?\n Walk him and feed him\n Bathe and clean up his messes\n Play with him\n All of the above(x)\n\n3. Who is afraid of dogs?\n Daniel\n Daniel's mom(x)\n Daniel's dad\n Daniel's neighbor\n\n4. How old was Daniel's dad when he got a dog?\n Ten years old\n Eleven years old(x)\n Twelve years old\n Thirteen years old"
     },
     {
         "title": "Giving up a Dog",
@@ -105,7 +127,9 @@
         "dialog": "JANET: \"Hi Alice. Do you know anyone who wants a dog?\"\nALICE: \"What kind of dog? Yours?\"\nJANET: \"Yeah. We have to give our dog away.\"\nALICE: \"Why? You love Buster.\"\nJANET: \"I know. But we just discovered that our son is allergic to dogs.\"\nALICE: \"Really?\"\nJANET: \"Yeah, he sneezes and gets a rash every time he pets him.\"\nALICE: \"That's terrible.\"\nJANET: \"When Steven was a baby, we didn't know he was allergic. But now he's crawling around and playing with Buster. His symptoms get really bad.\"\nALICE: \"I'm so sorry to hear that. You and Charlie have had Buster since he was a puppy. I remember when all three of you moved in next door.\"\nJANET: \"I know. We got Buster before our son was born. Charlie is so sad.\"\nALICE: \"How about your relatives? Are there any family members that could take Buster? Then you can still see him whenever you want.\"\nJANET: \"I asked my sister and Charlie asked his brothers. But no one is able to take a dog right now.\"\nALICE: \"Well, our kids are all grown up and living on their own. Stan and I get lonely sometimes. Would you like us to adopt Buster?\"\nJANET: \"Really? You would do that?\"\nALICE: \"Stan and I really like Buster. He's housetrained and well-behaved. He rarely barks too.\"\nJANET: \"Don't you need to talk to Stan first!\"\nALICE: \"Oh, he'll say yes. He's been talking about getting a dog lately. He'll be happy it's Buster.\"\nJANET: \"Thank you so much!\"\nALICE: \"You can come see him anytime.\"\nJANET: \"You're the best neighbor anyone could have.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/giving-up-dog.html",
+        "quiz": "1. Why does Janet's family have to give their dog away?\n Their dog barks all night long\n Their dog bit someone\n Their son is allergic to dogs(x)\n Her husband doesn't like their dog\n\n2. What happens when Steven pets Buster?\n He sneezes\n He gets a rash\n Neither A or B\n Both A and B(x)\n\n3. Why do Alice and Stan like Buster?\n He's housetrained\n He's well-behaved\n He rarely barks\n All of the above(x)\n\n4. Who is going to adopt Buster?\n Janet's sister\n Charlie's brother\n Alice and Stan(x)\n No one. Janet and Charlie are going to keep him"
     },
     {
         "title": "Sister's Birthday Party",
@@ -114,7 +138,9 @@
         "dialog": "CINDY: \"Hello?\"\nSALLY: \"Hi Cindy. This is Sally. Are you busy this Saturday?\"\nCINDY: \"I will be working until 5 o'clock.\"\nSALLY: \"I'm throwing a birthday party for my sister, Alison. Would you like to come?\"\nCINDY: \"Sure. I would love to. What time is the party?\"\nSALLY: \"It starts at 5 o'clock.\"\nCINDY: \"Ok. I will be a little late. I'll try to be there as soon as possible.\"\nSALLY: \"Great!\"\nCINDY: \"Where is the party going to be?\"\nSALLY: \"At my house.\"\nCINDY: \"What can I bring?\"\nSALLY: \"No need to bring anything.\"\nCINDY: \"I'd like to get her a gift. What does she like?\"\nSALLY: \"That isn't t necessary.\"\nCINDY: \"I really want to. Does she like music?\"\nSALLY: \"She loves music.\"\nCINDY: \"What kind of music does she like? Pop, jazz, hip hop, classical?\"\nSALLY: \"She likes pop music.\"\nCINDY: \"Ok. I have an idea.\"\nSALLY: \"Thanks. That's really nice of you. See you on Saturday.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/sisters-birthday-party.html",
+        "quiz": "1. Why did Sally call Cindy?\n To invite her to Alison's birthday party(x)\n To invite her to Sally's birthday party\n To invite her to Alison's retirement party\n To invite her to a sleepover\n\n2. What time does the party start?\n 4 o'clock\n 5 o'clock(x)\n 6 o'clock\n 7 o'clock\n\n3. Where is the party going to be?\n At Cindy's house\n At Sally's house(x)\n At Alison's house\n At a bar\n\n4. What is Alison's favorite music?\n Pop(x)\n Jazz\n Hip hop\n Classical"
     },
     {
         "title": "Birthday Party Planning",
@@ -123,7 +149,9 @@
         "dialog": "CAROL: \"Hi Anne. What are you doing?\"\nANNE: \"Hi Carol. I'm planning a birthday party for Tim.\"\nCAROL: \"How is that going?\"\nANNE: \"Not well. I can't think of anything to do.\"\nCAROL: \"How many kids do you want to invite?\"\nANNE: \"He wants to invite all of the boys in his classroom. That's 12 boys.\"\nCAROL: \"No girls?\"\nANNE: \"He doesn't want to invite any girls.\"\nCAROL: \"How about an outdoor party?\"\nANNE: \"We did that last year and it rained.\"\nCAROL: \"Oh. That's not fun.\"\nANNE: \"I was thinking about taking the kids to a pizza place.\"\nCAROL: \"Kids like pizza. How about taking them to a movie theater, too?\"\nANNE: \"That's too expensive.\"\nCAROL: \"Yeah. How about renting a movie and watching it at home after the pizza place?\"\nANNE: \"I love that idea! Then they can play in our backyard if it doesn't rain.\"\nCAROL: \"That sounds like a great party.\"\nANNE: \"Thanks for your help.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/birthday-party-planning.html",
+        "quiz": "1. Who is the Anne planning a birthday party for?\n Carol\n Anne\n Her dog\n Tim(x)\n\n2. Who are invited to the party?\n 12 boys and 12 girls\n 12 boys and no girls\n 12 girls and no boys(x)\n 24 boys\n\n3. What kind of food will be served?\n Pizza(x)\n Hamburgers\n Steaks\n Tacos\n\n4. What other activity is planned for the party?\n Laser tag\n Video games\n Movie(x)\n Baseball game"
     },
     {
         "title": "Surprise Birthday Party",
@@ -132,7 +160,9 @@
         "dialog": "DIANE: \"Hello?\"\nHELEN: \"Hi Diane. This is Helen.\"\nDIANE: \"Hi Helen. What's up?\"\nHELEN: \"I want to throw Mom a surprise birthday party.\"\nDIANE: \"That's wonderful idea. How can I help?\"\nHELEN: \"Do you know who we should invite?\"\nDIANE: \"Her friends and co-workers?\"\nHELEN: \"Do you have their phone numbers or e-mail addresses?\"\nDIANE: \"No, I don't. Why don't we ask Dad? He should have them.\"\nHELEN: \"Do you think Dad can keep a secret?\"\nDIANE: \"Yeah. Remember he surprised her with a trip to France a couple of years ago?\"\nHELEN: \"Oh yeah. Mom was so surprised.\"\nDIANE: \"What kind of food should we serve?\"\nHELEN: \"Let's serve Mom's favorite food, pasta. I can cook.\"\nDIANE: \"Ok. I can take care of the party decorations.\"\nHELEN: \"Perfect. Should we get together to discuss all of the plans?\"\nDIANE: \"Sure. Do you want to meet right now?\"\nHELEN: \"No. I have some things to do. Can I meet you at 5 pm?\"\nDIANE: \"Ok. That sounds good.\"\nHELEN: \"Why don't you come to my house? I can make us dinner.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/surprise-birthday-party.html",
+        "quiz": "1. What kind of party does Helen want to throw her mom?\n A surprise birthday party(x)\n A costume party\n A gift-exchange party\n A pool party\n\n2. Who are Diane and Helen going to ask for help?\n Their grandparents\n Their children\n Their dad(x)\n Their boss\n\n3. What do they need?\n Phone numbers\n E-mail addresses\n Neither A or B\n Both A and B(x)\n\n4. What their mom's favorite kind of food?\n Pasta(x)\n Chinese\n Seafood\n Sushi"
     },
     {
         "title": "Finding a Babysitter",
@@ -141,7 +171,9 @@
         "dialog": "SARAH: \"Hello?\"\nKATHY: \"Hi Sarah. This is Kathy. I have a huge favor to ask.\"\nSARAH: \"What is it?\"\nKATHY: \"Are you free tonight? I need a babysitter to watch Michael.\"\nSARAH: \"I'm so sorry. I'm not available. We have tickets to the play tonight.\"\nKATHY: \"We do too. Our regular babysitter is sick and the tickets are non-refundable.\"\nSARAH: \"Jenny is home from college this weekend. Would you like me to ask her if she is available?\"\nKATHY: \"That would be wonderful!\"\nSARAH: \"I'll ask her when she gets home. She went to the store. She should be back in a few minutes.\"\nKATHY: \"Thank you! We will pay her, of course. I know she is great with kids. I remember her playing with Michael before. He really liked her.\"\nSARAH: \"Yeah, she loves children. She is studying to become a teacher.\"\nKATHY: \"That's great! She will be a good teacher.\"\nSARAH: \"If Michael has homework, she can help him with it.\"\nKATHY: \"Great idea! But I'm not sure Michael will like this idea.\"\nSARAH: \"That's true. He may not like Jenny after tonight.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/finding-babysitter.html",
+        "quiz": "1. What does Kathy need tonight?\n Tickets to a play\n A babysitter for Michael(x)\n A ride to the store\n A tutor for Michael\n\n2. Where are Sarah and Kathy going tonight?\n To a play(x)\n To the movies\n To a restaurant\n To the store\n\n3. What is Jenny studying to be?\n A doctor\n A nurse\n A lawyer\n A teacher(x)\n\n4. What will Michael not like?\n Watching a movie\n Playing video games\n Doing his homework(x)\n Eating pizza"
     },
     {
         "title": "First time with Babysitter",
@@ -150,7 +182,9 @@
         "dialog": "SANDY: \"Hi Janice. Why do you look so nervous?\"\nJANICE: \"Oh, hi Sandy. Bill and I are going out to dinner without the kids.\"\nSANDY: \"That sounds fun! So, why do you look nervous?\"\nJANICE: \"We hired a babysitter. This will be our first time leaving the kids with a babysitter.\"\nSANDY: \"Really? Who did you hire?\"\nJANICE: \"Our friend's daughter, Natalie. She is 18 years old.\"\nSANDY: \"Natalie? Carol's daughter?\"\nJANICE: \"Yes. Do you know her?\"\nSANDY: \"Yeah. She used to babysit my children a couple of years ago.\"\nJANICE: \"Did you like her as a babysitter?\"\nSANDY: \"Yes. She was a very responsible girl.\"\nJANICE: \"That's great to hear.\"\nSANDY: \"You can trust her. She babysits for a few people I know.\"\nJANICE: \"Yeah, I heard she has a lot of babysitting experience.\"\nSANDY: \"She loves children. She wants to go to medical school and become a pediatric doctor.\"\nJANICE: \"Wow! She must be a smart girl.\"\nSANDY: \"She is. She was a straight A student in high school and she has been accepted to many colleges.\"\nJANICE: \"That's awesome!\"\nSANDY: \"She's babysitting a lot to save money for college tuition.\"\nJANICE: \"Now I feel a lot better about hiring her as a babysitter.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/first-time-with-babysitter.html",
+        "quiz": "1. What is Janice doing tonight?\n Going out to dinner with Bill(x)\n Babysitting her friend's daughter\n Staying and watching television\n Doing her homework\n\n2. Who is Natalie?\n Sandy's daughter\n Janice's daughter\n Carol's daughter(x)\n Bill's daughter\n\n3. What does Natalie want to be?\n A teacher\n A librarian\n A pediatric doctor(x)\n An actor\n\n4. What is Natalie saving money for?\n A car\n College tuition(x)\n A house\n A trip to Europe"
     },
     {
         "title": "Babysitting Neighbor's Kid",
@@ -159,7 +193,9 @@
         "dialog": "TOM: \"Hey Alison. Are you free for dinner tonight?\"\nALISON: \"Hi Tom. No, I'm not. I'm babysitting a neighbor's kid.\"\nTOM: \"What time?\"\nALISON: \"From 5 pm to 9 pm.\"\nTOM: \"What about next Friday?\"\nALISON: \"I'm babysitting again next Friday.\"\nTOM: \"Why are you babysitting so much?\"\nALISON: \"It's a good way to make money.\"\nTOM: \"Do you like children?\"\nALISON: \"Yeah, I love kids. They're fun to play with.\"\nTOM: \"I don't like them. They're noisy and they smell weird.\"\nALISON: \"You're so funny. You would make a terrible babysitter.\"\nTOM: \"You're right. I'd rather babysit dogs.\"\nALISON: \"Dogs are noisy and they smell weird too.\"\nTOM: \"I know. But they're cuter than kids.\"\nALISON: \"You're silly.\"\nTOM: \"Then when are you free for dinner?\"\nALISON: \"Tomorrow night.\"\nTOM: \"OK. I'm free tomorrow too. I'll pick you up at 6 pm at your house.\"\nALISON: \"Great! I'll see you then.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/babysitting-neighbors-kid.html",
+        "quiz": "1. What does Alison have to do tonight?\n Babysit a neighbor's kid(x)\n Work at the office\n Study for a test\n Visit her grandparents\n\n2. What does Tom think of children?\n They're noisy\n They smell weird\n Neither A or B\n Both A and B(x)\n\n3. What does tom like more than children?\n Dogs(x)\n Cats\n Birds\n Hamsters\n\n4. What are Tom and Alison doing tomorrow night?\n Study together\n Watching a movie\n Having dinner together(x)\n Riding to work together"
     },
     {
         "title": "Broken Arm",
@@ -168,7 +204,9 @@
         "dialog": "HANNAH: \"Hi Teresa. Is David home from school?\"\nTERESA: \"Yeah, we just got back from the hospital.\"\nHANNAH: \"What happened?\"\nTERESA: \"David fell at school and broke his arm.\"\nHANNAH: \"Are you serious? That's terrible!\"\nTERESA: \"Yeah, the school called an ambulance and they took him to the hospital.\"\nHANNAH: \"Wow! Is he in a lot of pain?\"\nTERESA: \"Just a little. The doctor gave him some pain medication.\"\nHANNAH: \"That's good.\"\nTERESA: \"He's so upset though.\"\nHANNAH: \"Because of the pain?\"\nTERESA: \"No. His soccer team is playing the championship game this weekend and he's the goalie.\"\nHANNAH: \"That must really hurt more than the arm.\"\nTERESA: \"I think it does. He's been practicing so much for this game.\"\nHANNAH: \"Is he going to go to the game?\"\nTERESA: \"Of course. He has to go and cheer his team on.\"\nHANNAH: \"Hopefully, his team will win!\"\nTERESA: \"I hope so. They were undefeated all season.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/broken-arm.html",
+        "quiz": "1. What happened to David?\n He got the flu\n He broke his arm(x)\n He sprained his ankle\n He hit his head on the ground\n\n2. Why is David so upset?\n He's in a lot of pain\n He hates school\n He doesn't like doctors\n He has a big game this weekend(x)\n\n3. What sport does David play?\n Soccer(x)\n Baseball\n Basketball\n Rugby\n\n4. What is David going to do this weekend?\n Get surgery\n Study for a history test\n Cheer his team on(x)\n Stay home because he's in pain"
     },
     {
         "title": "Bad Injury",
@@ -177,7 +215,9 @@
         "dialog": "JOAN: \"Hey Carol, have you seen Tom lately?\"\nCAROL: \"Didn't you hear the news?\"\nJOAN: \"No. What happened?\"\nCAROL: \"He got into a car accident last week.\"\nJOAN: \"Is he ok?\"\nCAROL: \"No. He's in the hospital. He broke both of his legs and ribs. He also has a head injury.\"\nJOAN: \"That's terrible. I had the flu, so I haven't seen or talked to anyone lately. How's Judy?\"\nCAROL: \"Judy has come home a couple of times to get a change of clothes.\"\nJOAN: \"She must be devastated.\"\nCAROL: \"She is a very worried wife.\"\nJOAN: \"Have you seen him?\"\nCAROL: \"Bob and I visited him in the hospital a couple of days ago. He is on so much medication.\"\nJOAN: \"Wow! That's serious.\"\nCAROL: \"Yeah.\"\nJOAN: \"Does Judy know how long he's going to be in the hospital?\"\nCAROL: \"The doctors told her he may be there for several months.\"\nJOAN: \"Oh my goodness. What is she going to do?\"\nCAROL: \"Their children are helping her right now. They're taking turns staying at the hospital.\"\nJOAN: \"That's good. I better visit him soon. Thanks for the information.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/bad-injury.html",
+        "quiz": "1. What happened to Tom?\n He fell off the roof\n He was in a car accident(x)\n He was attacked on the street\n He as in a boating accident\n\n2. Why is he in a hospital?\n He has two broken legs\n He has broken ribs\n He has a head injury\n All of the above(x)\n\n3. How long is he going to be in the hospital?\n A few days\n A couple of weeks\n A month\n Several months(x)\n\n4. Who is taking turns staying with Tom?\n Judy\n His children(x)\n Joan\n Carol"
     },
     {
         "title": "Talking about Stitches",
@@ -186,6 +226,8 @@
         "dialog": "ANNE: \"Hi Kate. Why do you look so tired?\"\nKATE: \"Oh hi Anne. We just got back from the emergency room.\"\nANNE: \"Why? What happened?\"\nKATE: \"Jason had to get stitches.\"\nANNE: \"Why? Did he cut himself?\"\nKATE: \"Yeah, he was slicing some onions and the knife slipped. He got a really deep cut on his finger.\"\nANNE: \"That sounds painful.\"\nKATE: \"The painful part was waiting at the emergency room. There was only one doctor working tonight. We waited three hours.\"\nANNE: \"What about his finger?\"\nKATE: \"The nurse wrapped it with a bandage to stop the bleeding.\"\nANNE: \"I hate the ER. It is always crowded and takes too long.\"\nKATE: \"I know. But, I knew he had to have stitches. It was a really bad cut, so we had to stay.\"\nANNE: \"How many stitches did he get?\"\nKATE: \"Nine. He won't be able to play video games for a few weeks.\"\nANNE: \"Is that a good thing?\"\nKATE: \"Actually, it is. But he's not happy about it.\"",
         "catalog": "Talking about Kids",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/talking-about-stitches.html",
+        "quiz": "1. Why was Jason at the Emergency room?\n He cut himself with a knife(x)\n He fell off his bike\n He was in a car accident\n He was visiting Kate\n\n2. What did the doctor do to Jason?\n Gave him stitches(x)\n Put a cast on his arm\n Relocated his shoulder\n Did a chest x-ray\n\n3. How long did they wait at the Emergency Room?\n One hour\n Two hours\n Three hours(x)\n 45 minutes\n\n4. What is Jason unhappy about?\n He can't play golf\n He can't write\n He can't play the guitar\n He can't play Video games(x)"
     }
 ]
