@@ -2,127 +2,155 @@
     {
         "title": "Breakfast with Grandparents",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/breakfast_grandparents.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/breakfast_grandparents.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/breakfast_grandparents.mp3",
         "dialog": "MOM: \"Lucy, can you help me with breakfast?\"\nLUCY: \"Sure, Mom? Is someone coming over this morning?\"\nMOM: \"Your grandparents are coming.\"\nLUCY: \"Oh, how nice. What are we making?\"\nMOM: \"Pancakes, eggs, bacon, and hash browns.\"\nLUCY: \"Yummy! That sounds delicious.\"\nMOM: \"I hope so. Your grandfather has a big appetite. I hope there's enough food.\"\nLUCY: \"Mom, you always make too much food. It looks like a breakfast buffet every time they come over.\"\nMOM: \"I want to make sure there is enough food. Breakfast is the most important meal of the day.\"\nLUCY: \"Should I make freshly-squeezed orange juice?\"\nMOM: \"That would be great. Do you know where the juicer is?\"\nLUCY: \"Yeah, it's on the top shelf of the pantry.\"\nMOM: \"Oh no!\"\nLUCY: \"What's wrong, Mom?\"\nMOM: \"I'm all out of eggs. Tell your Dad to go to the store and buy some eggs. I'll start on the bacon and hash browns.\"\nLUCY: \"Dad! Mom needs you to buy some eggs!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/breakfast-with-grandparents.html",
+        "quiz": "1. Who's coming over for breakfast?\n Lucy's friend\n Lucy's grandparents(x)\n Lucy's boyfriend\n Lucy's teacher\n\n2. What is for breakfast?\n Pancakes\n Eggs\n Hash browns\n All of the above(x)\n\n3. What is Lucy going to make?\n Orange juice(x)\n French toast\n Crepes\n Coffee\n\n4. What did Lucy's mom run out of?\n Milk\n Coffee\n Eggs(x)\n Butter"
     },
     {
         "title": "Breakfast at Home or the Diners",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/breakfast_home_diner.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/breakfast_home_diner.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/breakfast_home_diner.mp3",
         "dialog": "JANE: \"Hey Kevin, do you want to try the new diner down the street?\"\nKEVIN: \"Sure. I hear they have really good food especially their omelets.\"\nJANE: \"Susan went their last weekend and said it was the best breakfast place in town.\"\nKEVIN: \"Yeah, I heard the same thing from Janet. She waited an hour for a table.\"\nJANE: \"I don't think I can wait an hour. I'm hungry right now.\"\nKEVIN: \"Do you want to make breakfast at home?\"\nJANE: \"Ok. What do you want to eat?\"\nKEVIN: \"I'd like a ham and cheese omelet.\"\nJANE: \"That sounds good. Do we have all of the ingredients?\"\nKEVIN: \"Well, we only need eggs, ham, and cheese.\"\nJANE: \"I think we may be out of ham. I used the last few slices for a sandwich yesterday.\"\nKEVIN: \"Ok. How about a vegetable omelet?\"\nJANE: \"That's good too. We have green peppers, mushrooms, and onions.\"\nKEVIN: \"That's perfect.\"\nJANE: \"Great! I'll brew some coffee and you make the omelet.\"\nKEVIN: \"I don't know how to make an omelet.\"\nJANE: \"You don't? Well, I don't either.\"\nKEVIN: \"Let's just go to the new diner.\"\nJANE: \"That sounds like a better plan.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/breakfast-at-home-or-diners.html",
+        "quiz": "1. Where is the new diner located?\n Across town\n Down the street(x)\n In another city\n Three blocks away\n\n2. What is the diner's specialty?\n Omelets(x)\n Waffles\n Pancakes\n Crepes\n\n3. How long did Janet wait for a table?\n 10 minutes\n 30 minutes\n 45 minutes\n One hour(x)\n\n4. What ingredient are Kevin and Jane missing?\n Eggs\n Ham(x)\n Cheese\n Mushrooms"
     },
     {
         "title": "Pancake Breakfast",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/pancake_breakfast.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/pancake_breakfast.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/pancake_breakfast.mp3",
         "dialog": "MARY: \"Hi Sally. My kids want to go out for breakfast this weekend. Do you have a favorite restaurant?\"\nSALLY: \"Hi Mary. Yeah, our favorite place is the pancake house on Main Street.\"\nMARY: \"Oh, I haven't been there yet.\"\nSALLY: \"We love it. Kids eat free on their birthdays too.\"\nMARY: \"What do your kids like there?\"\nSALLY: \"They love the chocolate chip pancakes.\"\nMARY: \"Oh, my children would love those. They like anything with chocolate.\"\nSALLY: \"I like their waffles. They're thick and fluffy. They put fresh strawberries over them.\"\nMARY: \"I may want to try that. I'm getting hungry now.\"\nSALLY: \"Me too.\"\nMARY: \"Would you like to join us on Saturday morning?\"\nSALLY: \"I can't on Saturday. Joanne has a soccer game in the morning. What about Sunday?\"\nMARY: \"We have church in the morning, but we are free around 10 am.\"\nSALLY: \"10 am is good for us too.\"\nMARY: \"Ok. Let's meet on Sunday at 10 am at the restaurant.\"\nSALLY: \"That sounds wonderful.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/pancake-breakfast.html",
+        "quiz": "1. Where is Sally and her family's favorite breakfast place?\n A pancake house on Main Street(x)\n A waffle house on First Avenue\n A diner down the street\n Sally's home cooked breakfasts\n\n2. What do Sally's kids like?\n Belgian waffles with strawberries\n Chocolate chip pancakes(x)\n Glazed donuts\n Cinnamon French toast\n\n3. What is Sally doing Saturday morning?\n Going to Joanne's soccer game(x)\n Going to church\n Going shopping with friends\n Getting her hair done\n\n4. When are Sally and Mary going to meet for breakfast?\n Today\n On Saturday at 10 am\n On Sunday at 10am(x)\n They don't have time to meet"
     },
     {
         "title": "Preparing Dinner for Guests",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/prepare_breakfast.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/prepare_breakfast.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/prepare_breakfast.mp3",
         "dialog": "LINDA: \"What are you doing this weekend?\"\nKATHY: \"We're going to take the train to my mother's house.\"\nLINDA: \"That should be fun.\"\nKATHY: \"Yeah. We usually drive, but we decided to take the train this time.\"\nLINDA: \"Why?\"\nKATHY: \"My son loves trains, so I thought it would be a good idea to take the train up there.\"\nLINDA: \"Does he have a train set?\"\nKATHY: \"Oh yes. He has several trains and Jason built him a big wooden train track.\"\nLINDA: \"Then he's going to love this ride.\"\nKATHY: \"I know. We haven't told him yet. It's going to be a surprise.\"\nLINDA: \"I remember riding the train as a child. It was a lot of fun.\"\nKATHY: \"One of his toy trains looks just like the train we're going to take.\"\nLINDA: \"Make sure to take a picture of it.\"\nKATHY: \"That's a great idea. I'll frame it and hang it on his bedroom wall.\"\nLINDA: \"Have a great train ride!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/preparing-dinner-for-guests.html",
+        "quiz": "1. Who is Sue cooking dinner for tonight?\n Her mother-in-law\n Her boss\n Her husband's boss and wife(x)\n Alice\n\n2. Who is a vegetarian?\n Jeff's boss's wife\n Alice's mother-in-law\n Neither A or B\n Both A and B(x)\n\n3. What is Sue going to make tonight?\n Roast beef\n Pot roast\n Lasagna(x)\n Salmon\n\n4. What happened when Alice cooked for her boss?\n She served undercooked chicken\n She burned the roast beef(x)\n Her dog at the main dish\n Her turkey was still frozen"
     },
     {
         "title": "Dinner with Grandparents",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/dinner_grandparents.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/dinner_grandparents.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/dinner_grandparents.mp3",
         "dialog": "MOM: \"Ethan, get ready. We're going to your grandparents' house for dinner.\"\nETHAN: \"Again? We went there last weekend.\"\nMOM: \"That's right. Remember we go every Sunday evening.\"\nETHAN: \"But grandma's food tastes weird.\"\nMOM: \"Don't be rude. She loves to cook for us.\"\nETHAN: \"I know. I love them. But she always makes the same dish, chicken pot pie.\"\nMOM: \"Your grandfather likes it. It's his favorite, so we're going to eat it too.\"\nETHAN: \"Ok, Mom. Sorry for being rude.\"\nMOM: \"Why don't we pick up a dessert on the way to their house?\"\nETHAN: \"Ok! Can we get ice cream?\"\nMOM: \"Sure. We can make ice cream sundaes after dinner.\"\nETHAN: \"Mom, that's funny.\"\nMOM: \"What's funny?\"\nETHAN: \"Sundaes on Sundays.\"\nMOM: \"That is funny. This will be our new tradition.\"\nETHAN: \"Grandpa will love it. He loves ice cream too.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/dinner-with-grandparents.html",
+        "quiz": "1. Where do Ethan and his family go every Sunday evening?\n To a Chinese restaurant\n To Ethan's grandparents' house(x)\n Stay home for dinner\n Pizza place\n\n2. What does Ethan's grandmother make every weekend?\n Meatloaf\n Chicken pot pie(x)\n Pot roast\n Roast beef\n\n3. What is going to be their new tradition?\n Macaroni Mondays\n Taco Tuesdays\n French toast Fridays\n Sundaes on Sundays(x)\n\n4. What does Ethan's grandfather love to eat?\n Chicken pot pie\n Ice cream\n Neither A or B\n Both A and B(x)"
     },
     {
         "title": "No Time to Eat",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/no_time_eat.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/no_time_eat.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/no_time_eat.mp3",
         "dialog": "MOM: \"Hey Jane. Did you eat lunch?\"\nJANE: \"No, I don't have time. I have a big test today at 1 pm.\"\nMOM: \"You still need to eat or you won't have energy for the test.\"\nJANE: \"I know. I'll grab something on the way to class.\"\nMOM: \"Fast food?\"\nJANE: \"Yeah, I'll grab a burger.\"\nMOM: \"That's not healthy for you. Let me make you something to eat.\"\nJANE: \"Thanks. But I don't have time.\"\nMOM: \"You never have the time to eat a proper meal anymore.\"\nJANE: \"I like fast food meals anyway. They're quick and easy.\"\nMOM: \"Let me pack you some fruits.\"\nJANE: \"Mom, please. I'm in college now. I can cut my own fruits.\"\nMOM: \"But you won't do it.\"\nJANE: \"I'll take this banana. It's quick and easy. See you later, Mom.\"\nMOM: \"Eat something nutritious!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/no-time-to-eat.html",
+        "quiz": "1. What does Jane have today?\n A job interview\n A dentist appointment\n A soccer game\n A big test(x)\n\n2. What is she going to eat?\n A burger(x)\n Her mom's cooking\n Pizza\n Nothing\n\n3. Why does she like fast food?\n It's delicious\n It's quick and easy(x)\n It's close to home\n It's cheap\n\n4. What does she take before she leaves home?\n An apple\n An orange\n A banana(x)\n A granola bar"
     },
     {
         "title": "Quick Bite to Eat",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/quick_bite.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/quick_bite.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/quick_bite.mp3",
         "dialog": "CHARLIE: \"Hey Jesse, should we grab a bite to eat before the concert?\"\nJESSE: \"Yeah, I'm getting a little hungry.\"\nCHARLIE: \"Let's get some fast food here.\"\nJESSE: \"Burgers and fries?\"\nCHARLIE: \"Yeah, that sounds good.\"\nJESSE: \"Why is the drive-thru line so long?\"\nCHARLIE: \"It's dinner time. Should we go inside?\"\nJESSE: \"It might be busier inside?\"\nCHARLIE: \"Looks like the line is really long inside too.\"\nJESSE: \"Let's head to another place.\"\nCHARLIE: \"Can we go to one closer to the concert arena?\"\nJESSE: \"That's a good idea!\"\nCHARLIE: \"There are many fast food places around there.\"\nJESSE: \"Yeah, we should be able to find one that's not too crowded.\"\nCHARLIE: \"Fast food is great. Fast and cheap.\"\nJESSE: \"But not very healthy.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/quick-bite-to-eat.html",
+        "quiz": "1. What are they doing tonight?\n Going to a concert(x)\n Watching a movie\n Studying at the library\n Visiting their parents\n\n2. What are they going to eat?\n Spaghetti and meatballs\n Macaroni and cheese\n Burgers and fries(x)\n Steak and mashed potatoes\n\n3. What do they think of fast food?\n Healthy and nutritious\n Delicious and fancy\n Fast and cheap(x)\n Disgusting and greasy\n\n4. What is too long?\n The drive-thru line(x)\n The movie ticket line\n The popcorn line\n The store checkout line"
     },
     {
         "title": "Working at a Fast Food Place",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/working_fast_food.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/working_fast_food.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/working_fast_food.mp3",
         "dialog": "SCOTT: \"Hey Sam. What was your first job?\"\nSAM: \"I worked at a fast food restaurant.\"\nSCOTT: \"Did you like it?\"\nSAM: \"It was ok. It was always busy.\"\nSCOTT: \"What did you do there?\"\nSAM: \"I took orders at the counter and sometimes at the drive-thru window.\"\nSCOTT: \"Was it fun?\"\nSAM: \"It wasn't fun. It was just a job. We had to work fast.\"\nSCOTT: \"I need to find a job. I was thinking about applying at a fast food restaurant.\"\nSAM: \"It's a good place to learn how to work quickly.\"\nSCOTT: \"I'm a fast learner and I can move pretty quickly.\"\nSAM: \"Also, it's a good place to learn how to handle customers.\"\nSCOTT: \"I don't have any customer service experience.\"\nSAM: \"They will train you. You just have to be polite and listen well.\"\nSCOTT: \"I can do that.\"\nSAM: \"You should apply then.\"\nSCOTT: \"Did you get to eat a lot of the food?\"\nSAM: \"I ate too much fast food working there. I got sick of it.\"\nSCOTT: \"I love fast food. I may eat it every day.\"\nSAM: \"That's probably not a good thing.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/working-at-fast-food-place.html",
+        "quiz": "1. What was Sam's first job?\n Newspaper delivery boy\n Fast food worker(x)\n Dishwasher\n Waiter\n\n2. What did Sam learn at his first job?\n How to work quickly\n How to handle customers\n Neither A or B\n Both A and B(x)\n\n3. Where does Scott want to get a job?\n Fast food restaurant(x)\n Hospital\n Bookstore\n Grocery store\n\n4. What kind of training does Scott need?\n Customer Service(x)\n Cooking\n Bagging groceries\n Babysitting"
     },
     {
         "title": "Planning for Lunch with Friend",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/plan_lunch.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/plan_lunch.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/plan_lunch.mp3",
         "dialog": "JOAN: \"Hello?\"\nKAREN: \"Hi Joan. This is Karen. Are you free for lunch today?\"\nJOAN: \"Hi Karen. No, I'm having lunch with my mom. It's her birthday today.\"\nKAREN: \"What about tomorrow?\"\nJOAN: \"I'm free tomorrow. Where should we go?\"\nKAREN: \"There's a new Chinese restaurant downtown.\"\nJOAN: \"I love Chinese food! Let's check it out.\"\nKAREN: \"Do you think we should make reservations.\"\nJOAN: \"Yeah, that might be a good idea.\"\nKAREN: \"Should we invite anyone else?\"\nJOAN: \"Sure. How about Cathy and Lisa?\"\nKAREN: \"Lisa is out of town. Let's invite Cathy and Sharon.\"\nJOAN: \"Ok. What time should we meet tomorrow?\"\nKAREN: \"Noon?\"\nJOAN: \"Noon is perfect.\"\nKAREN: \"Good. I'll call Cathy and Sharon right now.\"\nJOAN: \"Hopefully, then can meet at noon too.\"\nKAREN: \"If they can't, I'll let you know",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/planning-for-lunch-with-friend.html",
+        "quiz": "1. What is Joan doing today?\n Having lunch with Karen\n Having lunch with her mom(x)\n Going to the dentist\n Working\n\n2. Where are they having lunch tomorrow?\n Chinese restaurant(x)\n Italian restaurant\n Sandwich deli\n At Karen's house\n\n3. Who else are they inviting?\n Cathy and Lisa\n Cathy and Sharon(x)\n Just Cathy\n No one else\n\n4. What time are they meeting?\n 11 am\n Noon(x)\n 1 pm\n 2 pm"
     },
     {
         "title": "Talking about your Lunch",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/talking_lunch.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/talking_lunch.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/talking_lunch.mp3",
         "dialog": "BOBBY: \"Hey Steve, what did your mom pack for your lunch today?\"\nSTEVE: \"Hey Bobby. She packs me the same lunch every day. A peanut butter and jelly sandwich, cookies, and milk.\"\nBOBBY: \"I got something new today. It looks like a tuna sandwich. I'm not sure I like it.\"\nSTEVE: \"I love tuna sandwiches. Do you want to trade?\"\nBOBBY: \"Sure! But will your mom get mad?\"\nSTEVE: \"No. She won't know. I won't tell her.\"\nBOBBY: \"Do you ever buy the school lunch?\"\nSTEVE: \"No, it looks gross.\"\nBOBBY: \"It's actually not bad. Some dishes are pretty good.\"\nSTEVE: \"Which ones have you tried?\"\nBOBBY: \"The spaghetti and pizza are good. But the hamburgers and burritos are terrible. They taste like cardboard.\"\nSTEVE: \"That's awful! Maybe I'll buy lunch when the cafeteria serves spaghetti and pizza. Those are my favorite dishes at home.\"\nBOBBY: \"They're pretty good, but not as good as our moms' cooking.\"\nSTEVE: \"Are you done with lunch? Let's go out to recess.\"\nBOBBY: \"Yeah. Let's go!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/talking-about-your-lunch.html",
+        "quiz": "1. What does Steve's mom pack him every day for lunch?\n Peanut butter and jelly sandwich(x)\n Cookies\n Milk\n All of the above\n\n2. What did Bobby's mom pack him today?\n Peanut butter and jelly sandwich\n Turkey sandwich\n Tuna sandwich(x)\n Ham and cheese sandwich\n\n3. What are they going to trade?\n Baseball cards\n Stamp collection\n Coins\n Lunches(x)\n\n4. Which dishes taste like cardboard?\n Spaghetti and pizza\n Hamburgers and burritos(x)\n Tacos and nachos\n Peanut butter and jelly sandwiches"
     },
     {
         "title": "Lunch Decisions",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/decide_lunch.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/decide_lunch.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/decide_lunch.mp3",
         "dialog": "KATHY: \"Hey Bill, are you hungry?\"\nBILL: \"Oh, hi Kathy. Yeah. Let's have lunch.\"\nKATHY: \"What do you want to eat?\"\nBILL: \"How about pizza?\"\nKATHY: \"We always have pizza. Let's try something different.\"\nBILL: \"Ok. Do you have any suggestions?\"\nKATHY: \"How about sushi?\"\nBILL: \"I don't like raw fish.\"\nKATHY: \"All sushi isn't raw.\"\nBILL: \"I know. I just don't feel like having sushi today.\"\nKATHY: \"Ok. Then what should we eat?\"\nBILL: \"Maybe we should just order take-out. You get sushi and I'll get pizza.\"\nKATHY: \"That's a good idea. But I think I want Chinese food instead.\"\nBILL: \"Chinese food sounds yummy.\"\nKATHY: \"Hey, we agree on something. Let's go out to a Chinese restaurant.\"\nBILL: \"I'd rather eat at home.\"\nKATHY: \"We never agree on anything.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/lunch-decisions.html",
+        "quiz": "1. What do Kathy and Bill always eat?\n Pizza(x)\n Spaghetti\n Raw fish\n Chinese food\n\n2. What does Bill not like to eat?\n Pizza\n Spaghetti\n Raw fish(x)\n Chinese food\n\n3. What do Kathy and Bill agree on?\n Eating Chinese food(x)\n Eating sushi\n Eating pizza\n Going to a restaurant\n\n4. Where are they going to eat?\n At a restaurant\n At home\n At the park\n They don't agree on where to eat(x)"
     },
     {
         "title": "Trying Different Restaurants",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/trying_restaurant.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/trying_restaurant.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/trying_restaurant.mp3",
         "dialog": "JENNIFER: \"Do you want to try a new restaurant tonight?\"\nLINDA: \"Sure. I'm kind of getting sick of the same place.\"\nJENNIFER: \"Me too. What kind of food do you want to eat?\"\nLINDA: \"Do you want to try Indian?\"\nJENNIFER: \"Ok. I've never had Indian food before, so you'll have to choose the place.\"\nLINDA: \"I've never had it before either.\"\nJENNIFER: \"Then why do you want to go there?\"\nLINDA: \"To try something different.\"\nJENNIFER: \"Let's check out the reviews online.\"\nLINDA: \"That's a good idea.\"\nJENNIFER: \"There are many restaurants we haven't tried.\"\nLINDA: \"Should we try a new one each week?\"\nJENNIFER: \"Yeah. That will be fun.\"\nLINDA: \"Ok, so we'll have Indian tonight.\"\nJENNIFER: \"What about next week?\"\nLINDA: \"Let's decide that next week. One place at a time.\"\nJENNIFER: \"I'm hungry.\"\nLINDA: \"Me too. Let's find a restaurant soon.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/trying-different-restaurants.html",
+        "quiz": "1. What do Linda and Jennifer want to eat tonight?\n Indian food(x)\n Korean food\n Mexican food\n Greek food\n\n2. Who has tried it before?\n Linda\n Jennifer\n Neither A or B(x)\n Both A and B\n\n3. Where are they going to get reviews of different restaurants?\n Newspaper\n Magazine\n Online(x)\n Friends\n\n4. What did they decide to do every week?\n Go grocery shopping\n Try a new restaurant(x)\n Clean their apartment\n Wash the car"
     },
     {
         "title": "Opening up a Restaurant",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/opening_restaurant.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/opening_restaurant.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/opening_restaurant.mp3",
         "dialog": "STANLEY: \"Hi Bill. What are you doing tonight?\"\nBILL: \"I'm not sure. Carol and I are thinking about going out to dinner.\"\nSTANLEY: \"I'm opening a restaurant soon.\"\nBILL: \"Where?\"\nSTANLEY: \"Downtown.\"\nBILL: \"What kind of food are you going to serve?\"\nSTANLEY: \"Chinese cuisine.\"\nBILL: \"That's great! Carol and I love Chinese food.\"\nSTANLEY: \"It's been my dream to open a restaurant in America.\"\nBILL: \"What made you finally do it?\"\nSTANLEY: \"I finally saved up enough money to open my own restaurant.\"\nBILL: \"When will it be open?\"\nSTANLEY: \"I don't know yet. It's a very old building and I need to make some repairs first.\"\nBILL: \"Do you have experience running a restaurant?\"\nSTANLEY: \"Yes, I owned a restaurant in China many years ago.\"\nBILL: \"Wow! I didn't know that.\"\nSTANLEY: \"Would you and Carol like to come over and try some of my dishes tonight? I want to create a menu of my best dishes.\"\nBILL: \"We would love to! We were thinking about going to a Chinese restaurant tonight.\"\nSTANLEY: \"Perfect! You can tell me what you think of my food.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/opening-up-restaurant.html",
+        "quiz": "1. What kind of restaurant is Stanley going to open?\n Mexican\n Italian\n Korean\n Chinese(x)\n\n2. What does Stanley need to do before opening his restaurant?\n Make some repairs(x)\n Learn how to cook\n Talk to his wife\n Get a bank loan\n\n3. What is Stanley's dream?\n To become a television chef\n To judge cooking competitions\n To open a restaurant in America(x)\n To cook for the President of the United States\n\n4. What does Stanley want Bill to do?\n Taste his dishes(x)\n Help him remodel his restaurant\n Be his waiter\n Teach him how to cook"
     },
     {
         "title": "Delicious Restaurant",
         "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/delicious_restaurant.jpg",
-        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/delicious_restaurant.mp3",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/EatingRelatedTopics/delicious_restaurant.mp3",
         "dialog": "JANE: \"We went to the best restaurant in town.\"\nMARY: \"How was the food?\"\nJANE: \"The food was delicious. It was the best seafood I ever had.\"\nMARY: \"How was the service?\"\nJANE: \"The service was excellent. The waiter was attentive and very polite.\"\nMARY: \"We should go back together.\"\nJANE: \"Definitely. I will take you next time.\"\nMARY: \"I wish I could've joined you tonight.\"\nJANE: \"Me too. Are you feeling any better?\"\nMARY: \"A little, but I still feel sick.\"\nJANE: \"Are you hungry?\"\nMARY: \"Yes.\"\nJANE: \"The clam chowder was delicious, so I brought you some.\"\nMARY: \"Thank you! I love clam chowder.\"\nJANE: \"I hope you feel better soon, so I can take you there.\"\nMARY: \"Me too. I love good seafood.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/delicious-restaurant.html",
+        "quiz": "1. What kind of restaurant did Jane go to?\n Steakhouse\n Seafood(x)\n Italian\n Mexican\n\n2. How was the waiter?\n Polite(x)\n Rude\n Angry\n Busy\n\n3. Why didn't Mary join Jane for dinner?\n She had too much homework\n She already had dinner plans\n She was sick(x)\n She wasn't hungry\n\n4. What did Jane bring Mary?\n Dessert\n Clam chowder(x)\n French fries\n Chicken noodle soup"
     }
 ]
