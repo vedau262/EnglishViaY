@@ -6,7 +6,37 @@
         "catalognumberbook": 20,
         "enablethumbnail": 1,
         "enablecatalog": 1,
-        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/booListTest.txt",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TripAndVacations.txt",
         "key": "TripAndVacations"
+    },
+    {
+        "catalogtitle": "Eating Related Topics",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/EatingRelatedTopics.jpg",
+        "catalogdes": "Eating Related Topics",
+        "catalognumberbook": 14,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/EatingRelatedTopics.txt",
+        "key": "EatingRelatedTopics"
+    },
+    {
+        "catalogtitle": "Family And Friends",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/FamilyAndFriends.jpg",
+        "catalogdes": "Family And Friends",
+        "catalognumberbook": 24,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/FamilyAndFriends.txt",
+        "key": "FamilyAndFriends"
+    },
+    {
+        "catalogtitle": "Talking about Kids",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/talk_about_kids.jpg",
+        "catalogdes": "Talking about Kids",
+        "catalognumberbook": 21,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TalkingAboutKids.txt",
+        "key": "TalkingAboutKids"
     }
 ]
