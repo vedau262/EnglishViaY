@@ -7,7 +7,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/08/49485bf8-4277-47f6-9abe-617ee2473f8c.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Hello, I'm Anna!",
@@ -17,7 +18,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/10/56246d7b-5fa4-42d2-90b0-d403e6b46227.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I'm Here!",
@@ -27,7 +29,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/18/a82baaf4-0a91-4d43-8ab6-78f72cef8fce.mp3",
+        "enablepractice": 0
     },
     {
         "title": "What Is It?",
@@ -37,7 +40,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/02/26/af0324f6-67c5-4c0c-ab42-abb0cd33817c.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Where Are You?",
@@ -47,7 +51,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/01/ab9c2944-eddc-4806-9296-290bfa8c6ff2.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/01/ab9c2944-eddc-4806-9296-290bfa8c6ff2.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Where Is the Gym?",
@@ -57,7 +62,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/10/66b63229-1dc5-40ab-886d-1f4b891adf6b.mp3",
+        "enablepractice": 0
     },
     {
         "title": "What Are You Doing?",
@@ -67,7 +73,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/16/5d724fbc-a907-4a48-9221-c1813d248168.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Are You Busy?",
@@ -77,7 +84,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/03/25/ae6c5055-13ae-485b-995d-b347125ecf10.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Is It Cold?",
@@ -87,7 +95,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/01/fe67e651-87d0-4b62-9c68-749b2d3c2f21.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Come Over to My Place",
@@ -97,7 +106,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/14/442a6a50-693e-411f-8cff-99e40d16614c.mp3",
+        "enablepractice": 0
     },
     {
         "title": "This Is My Neighborhood",
@@ -107,7 +117,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/20/de238e35-97b9-4c21-81e3-e3c26fbeccaa.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Meet My Family",
@@ -117,7 +128,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/04/28/d1527ef7-587d-45b5-b3cc-fecbe37167ab.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Happy Birthday, William Shakespeare!",
@@ -127,7 +139,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/05/a7673055-e023-4593-9372-06d61ee8afd9.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/05/a7673055-e023-4593-9372-06d61ee8afd9.mp3",
+        "enablepractice": 0
     },
     {
         "title": "How About This?",
@@ -137,7 +150,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/11/f3b56fb5-23f9-4668-bae1-d98ab8967e50.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/11/f3b56fb5-23f9-4668-bae1-d98ab8967e50.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I Love People-Watching!",
@@ -147,7 +161,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/31/b08ceeac-8274-4e2d-b678-2cd30ba31f4f.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/05/31/b08ceeac-8274-4e2d-b678-2cd30ba31f4f.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Where Are You From?",
@@ -157,7 +172,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/02/869a701e-1242-4c34-a679-7a9454a770f1.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/02/869a701e-1242-4c34-a679-7a9454a770f1.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Are You Free on Friday?",
@@ -167,7 +183,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/07/3cb6442c-001f-4fd7-bf37-7507a49e89e4.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/07/3cb6442c-001f-4fd7-bf37-7507a49e89e4.mp3",
+        "enablepractice": 0
     },
     {
         "title": "She Always Does That",
@@ -177,7 +194,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/15/6581d80f-fd20-40f9-b363-3f998c3f1142.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/15/6581d80f-fd20-40f9-b363-3f998c3f1142.mp3",
+        "enablepractice": 0
     },
     {
         "title": "When Do I Start?",
@@ -187,7 +205,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/20/11279270-a48f-4bca-851e-e6477329717b.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/20/11279270-a48f-4bca-851e-e6477329717b.mp3",
+        "enablepractice": 0
     },
     {
         "title": "What Can You Do?",
@@ -197,7 +216,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/29/8225db0f-179b-453f-92bb-50f548175c42.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/06/29/8225db0f-179b-453f-92bb-50f548175c42.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Can You Come to the Party?",
@@ -207,7 +227,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/11/e0c9e4c4-584b-4bd7-a4d5-a4b1f7bdfa8f.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/11/e0c9e4c4-584b-4bd7-a4d5-a4b1f7bdfa8f.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Next Summer...",
@@ -217,7 +238,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/25/2dc70acb-f8c2-4e93-9e8d-e3d37348d819.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/25/2dc70acb-f8c2-4e93-9e8d-e3d37348d819.mp3",
+        "enablepractice": 0
     },
     {
         "title": "What Do You Want?",
@@ -227,7 +249,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/27/f5ba9389-58a1-4643-9ec4-3bbfcd8c96e6.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/27/f5ba9389-58a1-4643-9ec4-3bbfcd8c96e6.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Yesterday Was Amazing!",
@@ -237,7 +260,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/29/7202578e-98dd-4e93-8a9b-166c72f520ea.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/07/29/7202578e-98dd-4e93-8a9b-166c72f520ea.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Watch Out!",
@@ -247,7 +271,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/16/c98eed28-bb2e-4055-9d08-6f7834b85aa9.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/16/c98eed28-bb2e-4055-9d08-6f7834b85aa9.mp3",
+        "enablepractice": 0
     },
     {
         "title": "This Game Is Fun!",
@@ -257,7 +282,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/21/5085086e-5053-401a-9f9c-826aabe8abcb.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/21/5085086e-5053-401a-9f9c-826aabe8abcb.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I Can't Come In",
@@ -267,7 +293,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/30/4b0918a8-33b1-4b9d-8d88-f54d8a1be9ea.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/08/30/4b0918a8-33b1-4b9d-8d88-f54d8a1be9ea.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I Passed It!",
@@ -277,7 +304,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/08/a087a1f8-4939-4f40-8612-e99605e88caf.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/08/a087a1f8-4939-4f40-8612-e99605e88caf.mp3",
+        "enablepractice": 0
     },
     {
         "title": "A Long Time Ago",
@@ -287,7 +315,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/15/e7c6ba11-8320-4bcc-8fc5-27fa4e385e23.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/15/e7c6ba11-8320-4bcc-8fc5-27fa4e385e23.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Rolling on the River",
@@ -297,7 +326,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/27/a8dbb32b-ada5-4441-a2d1-340924241a4b.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/09/27/a8dbb32b-ada5-4441-a2d1-340924241a4b.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Take Me Out to the Ball Game",
@@ -307,7 +337,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/06/81890cf1-5a16-4426-87db-fdb240c750cc.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/06/81890cf1-5a16-4426-87db-fdb240c750cc.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Welcome to the Treehouse!",
@@ -317,7 +348,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/13/054d9504-47b3-4cc2-80d1-cb66fff404e4.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/13/054d9504-47b3-4cc2-80d1-cb66fff404e4.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Learning America's Sport",
@@ -327,7 +359,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/21/f7144253-3403-4acd-9e09-9c31443113f7.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/21/f7144253-3403-4acd-9e09-9c31443113f7.mp3",
+        "enablepractice": 0
     },
     {
         "title": "What Will I Do?",
@@ -337,7 +370,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/26/a9095f28-b489-4110-98fd-7ce6be485793.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/10/26/a9095f28-b489-4110-98fd-7ce6be485793.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Let’s Make Dinner!",
@@ -347,7 +381,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/02/0c67a47c-b66d-4d36-85f5-41dca2d12bde.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/02/0c67a47c-b66d-4d36-85f5-41dca2d12bde.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I Can Fix This!",
@@ -357,7 +392,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/14/65b768cd-1b20-4074-beb4-3279d8f8e715.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/14/65b768cd-1b20-4074-beb4-3279d8f8e715.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Let's Agree to Disagree",
@@ -367,7 +403,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/17/a0f8f1e0-4d24-425c-8db5-0322d86f3de9.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/11/17/a0f8f1e0-4d24-425c-8db5-0322d86f3de9.mp3",
+        "enablepractice": 0
     },
     {
         "title": "She's My Best Friend!",
@@ -377,7 +414,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/01/7b357de6-9247-45fd-8e49-77197599f6d5.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/01/7b357de6-9247-45fd-8e49-77197599f6d5.mp3",
+        "enablepractice": 0
     },
     {
         "title": "It’s Unbelievable!",
@@ -387,7 +425,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/02/5fd0aa74-ef38-40c2-85fb-47f536c14e28.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/02/5fd0aa74-ef38-40c2-85fb-47f536c14e28.mp3",
+        "enablepractice": 0
     },
     {
         "title": "The Woods Are Alive",
@@ -397,7 +436,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/29/b24ae633-80a3-46e9-afc8-5e2719ed1fa7.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2016/12/29/b24ae633-80a3-46e9-afc8-5e2719ed1fa7.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Teamwork Works Best With a Team",
@@ -407,7 +447,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/05/64e9d749-33ff-4b41-934d-9f44e81cfea0.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/05/64e9d749-33ff-4b41-934d-9f44e81cfea0.mp3",
+        "enablepractice": 0
     },
     {
         "title": "I Was Minding My Own Business",
@@ -417,7 +458,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/12/51393a0f-7412-4703-8f47-866cfd57955c.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/12/51393a0f-7412-4703-8f47-866cfd57955c.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Time for Plan B",
@@ -427,7 +469,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/18/b97c84f3-f68d-4b35-bf71-9c369a107e82.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/18/b97c84f3-f68d-4b35-bf71-9c369a107e82.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Making Healthy Choices",
@@ -437,7 +480,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/30/e8edcdf8-a252-41eb-af50-d1337bbb614f.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/01/30/e8edcdf8-a252-41eb-af50-d1337bbb614f.mp3",
+        "enablepractice": 0
     },
     {
         "title": "This Land is Your Land",
@@ -447,7 +491,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/02/07/1fb535dc-77e2-4e0e-930e-b50fab4e45cd.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/02/07/1fb535dc-77e2-4e0e-930e-b50fab4e45cd.mp3",
+        "enablepractice": 0
     },
     {
         "title": "May I Borrow That?",
@@ -457,7 +502,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/02/22/8e170a7e-dd5c-4c9b-b214-48b68bc68f47.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/02/22/8e170a7e-dd5c-4c9b-b214-48b68bc68f47.mp3",
+        "enablepractice": 0
     },
     {
         "title": "How Can I help?",
@@ -467,7 +513,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/03/8511524b-9e6f-4e73-9fa1-cd3f6b32b495.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/03/8511524b-9e6f-4e73-9fa1-cd3f6b32b495.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Have You Ever ...?",
@@ -477,7 +524,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/09/d11896f1-be6c-47bf-acbc-968ebda02e96.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/09/d11896f1-be6c-47bf-acbc-968ebda02e96.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Operation Spy!",
@@ -487,7 +535,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/16/fdd6be45-f44e-4a0d-8231-e9cc9e710f44.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/03/16/fdd6be45-f44e-4a0d-8231-e9cc9e710f44.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Back to School",
@@ -497,7 +546,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/28/c26515f8-0d7c-4fb4-9646-4dfece722172.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/28/c26515f8-0d7c-4fb4-9646-4dfece722172.mp3",
+        "enablepractice": 0
     },
     {
         "title": "A Good Habit",
@@ -507,7 +557,8 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/06/1f484880-f858-47b5-8e0d-37a063b34a07.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/06/1f484880-f858-47b5-8e0d-37a063b34a07.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Taking Chances",
@@ -517,6 +568,7 @@
         "catalog": "Let's Learn English - Level 1",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/14/8259e341-9066-4896-af3d-f62d738d0948.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2017/04/14/8259e341-9066-4896-af3d-f62d738d0948.mp3",
+        "enablepractice": 0
     }
 ]

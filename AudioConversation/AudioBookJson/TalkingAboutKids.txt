@@ -8,7 +8,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/sick-child.html",
-        "quiz": "1. Who is sick today?\n Sue\n Linda\n Billy\n David(x)\n\n2. How long was Billy out of school?\n 2 days\n 3 days\n 4 days(x)\n 1 week\n\n3. What is Sue doing to stay healthy?\n Staying away from sick people\n Taking Vitamin C(x)\n Getting a flu shot\n Exercising\n\n4. What is Linda buying at the market?\n Vitamin C\n Chicken\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. Who is sick today?\n Sue\n Linda\n Billy\n David(x)\n\n2. How long was Billy out of school?\n 2 days\n 3 days\n 4 days(x)\n 1 week\n\n3. What is Sue doing to stay healthy?\n Staying away from sick people\n Taking Vitamin C(x)\n Getting a flu shot\n Exercising\n\n4. What is Linda buying at the market?\n Vitamin C\n Chicken\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "Flu Shot",
@@ -19,7 +20,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/flu-shot.html",
-        "quiz": "1. Who got the flu shot this year?\n Sue\n Jeff\n Sue and Jeff's children\n All of the above(x)\n\n2. Who will not get a flu shot?\n Sue\n Linda\n Jeff\n Bill(x)\n\n3. What happened to Sue's kids last year?\n They got really sick(x)\n They broke their arms\n They got the chicken pox\n They dropped out of high school\n\n4. What is Linda going to do after talking to Sue?\n Call Bill\n Have lunch\n Call the doctor's office(x)\n Go to work"
+        "quiz": "1. Who got the flu shot this year?\n Sue\n Jeff\n Sue and Jeff's children\n All of the above(x)\n\n2. Who will not get a flu shot?\n Sue\n Linda\n Jeff\n Bill(x)\n\n3. What happened to Sue's kids last year?\n They got really sick(x)\n They broke their arms\n They got the chicken pox\n They dropped out of high school\n\n4. What is Linda going to do after talking to Sue?\n Call Bill\n Have lunch\n Call the doctor's office(x)\n Go to work",
+        "enablepractice": 1
     },
     {
         "title": "Stomach Ache",
@@ -30,7 +32,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/stomach-ache.html",
-        "quiz": "1. Where did Susie go today?\n School\n Friend's house\n Birthday party(x)\n Dinner with her parents\n\n2. How is Susie feeling?\n Sad\n Sick(x)\n Happy\n Angry\n\n3. What did Susie do?\n She ate too much(x)\n She overslept\n She fought with a friend\n She lied to her parents\n\n4. What does Susie's mom tell her to do?\n Lie down(x)\n Do her homework\n Watch TV\n Check the mail"
+        "quiz": "1. Where did Susie go today?\n School\n Friend's house\n Birthday party(x)\n Dinner with her parents\n\n2. How is Susie feeling?\n Sad\n Sick(x)\n Happy\n Angry\n\n3. What did Susie do?\n She ate too much(x)\n She overslept\n She fought with a friend\n She lied to her parents\n\n4. What does Susie's mom tell her to do?\n Lie down(x)\n Do her homework\n Watch TV\n Check the mail",
+        "enablepractice": 1
     },
     {
         "title": "Spring Cleaning",
@@ -41,7 +44,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/spring-cleaning.html",
-        "quiz": "1. What is Jill doing today?\n Going to the mall\n Working at the office\n Thoroughly cleaning her house(x)\n Taking the kids to the zoo\n\n2. What season is it?\n Spring(x)\n Summer\n Fall\n Winter\n\n3. What are her kids doing today?\n Doing their homework\n Cleaning out their closets and toy bins(x)\n Riding their bikes to the park\n Going to the movie theater\n\n4. Where is Jim going later today?\n Local homeless shelter(x)\n Golfing\n Post office\n Work"
+        "quiz": "1. What is Jill doing today?\n Going to the mall\n Working at the office\n Thoroughly cleaning her house(x)\n Taking the kids to the zoo\n\n2. What season is it?\n Spring(x)\n Summer\n Fall\n Winter\n\n3. What are her kids doing today?\n Doing their homework\n Cleaning out their closets and toy bins(x)\n Riding their bikes to the park\n Going to the movie theater\n\n4. Where is Jim going later today?\n Local homeless shelter(x)\n Golfing\n Post office\n Work",
+        "enablepractice": 1
     },
     {
         "title": "Busy Day Cleaning",
@@ -52,7 +56,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/busy-day-cleaning.html",
-        "quiz": "1. What does Sally have to do today?\n Household chores(x)\n Get a haircut\n Wash her car\n Work on her yard\n\n2. Who is visiting?\n Sally's mom\n Sally's dad\n Sally's mother-in-law(x)\n Sally's daughter\n\n3. What did Sally's husband do yesterday?\n Mow the lawn\n Clean the bathrooms\n Set up the guest room\n All of the above(x)\n\n4. How is Karen going to help Sally?\n Go grocery shopping for her(x)\n Vacuum her house\n Clean her kitchen\n Do her laundry"
+        "quiz": "1. What does Sally have to do today?\n Household chores(x)\n Get a haircut\n Wash her car\n Work on her yard\n\n2. Who is visiting?\n Sally's mom\n Sally's dad\n Sally's mother-in-law(x)\n Sally's daughter\n\n3. What did Sally's husband do yesterday?\n Mow the lawn\n Clean the bathrooms\n Set up the guest room\n All of the above(x)\n\n4. How is Karen going to help Sally?\n Go grocery shopping for her(x)\n Vacuum her house\n Clean her kitchen\n Do her laundry",
+        "enablepractice": 1
     },
     {
         "title": "Cleaning the Attic",
@@ -63,7 +68,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/cleaning-attic.html",
-        "quiz": "1. What is Gary going to do today?\n Golf\n Clean out his attic(x)\n Wash his car\n Go to work\n\n2. What does Gary ask Ted for?\n Boxes(x)\n Tools\n Money\n Golf tees\n\n3. What did Ted's and Gary's wives say?\n If you don't know what's in there, you probably don't need it(x)\n Can you go to the market\n Let's go out to dinner\n Can you take out the trash\n\n4. What would Gary rather do next weekend?\n Go golfing(x)\n Go cycling\n Play soccer\n Wash his car"
+        "quiz": "1. What is Gary going to do today?\n Golf\n Clean out his attic(x)\n Wash his car\n Go to work\n\n2. What does Gary ask Ted for?\n Boxes(x)\n Tools\n Money\n Golf tees\n\n3. What did Ted's and Gary's wives say?\n If you don't know what's in there, you probably don't need it(x)\n Can you go to the market\n Let's go out to dinner\n Can you take out the trash\n\n4. What would Gary rather do next weekend?\n Go golfing(x)\n Go cycling\n Play soccer\n Wash his car",
+        "enablepractice": 1
     },
     {
         "title": "Kids Chores",
@@ -74,7 +80,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/kids-chores.html",
-        "quiz": "1. What does Mark ask Billy to do after school?\n Come over to his house(x)\n Help him with his homework\n Do chores together\n Ride bikes\n\n2. What does Billy have to do after school?\n Rake the yard\n Clean his room\n Neither A or B\n Both A and B(x)\n\n3. What does Mark want to show Billy?\n His new video game(x)\n His new bike\n His new toy truck\n His homework assignment\n\n4. What does Billy tell himself every week?\n Finish chores earlier(x)\n Study harder\n Sleep earlier\n Finish homework on time"
+        "quiz": "1. What does Mark ask Billy to do after school?\n Come over to his house(x)\n Help him with his homework\n Do chores together\n Ride bikes\n\n2. What does Billy have to do after school?\n Rake the yard\n Clean his room\n Neither A or B\n Both A and B(x)\n\n3. What does Mark want to show Billy?\n His new video game(x)\n His new bike\n His new toy truck\n His homework assignment\n\n4. What does Billy tell himself every week?\n Finish chores earlier(x)\n Study harder\n Sleep earlier\n Finish homework on time",
+        "enablepractice": 1
     },
     {
         "title": "Chores for Money",
@@ -85,7 +92,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/chores-for-money.html",
-        "quiz": "1. What is Alan looking for?\n His shoes\n His wallet\n More chores to do(x)\n Something to eat\n\n2. What chore does his mom give him?\n Doing the laundry(x)\n Washing the dishes\n Cleaning the bathroom\n Vacuuming\n\n3. What is Alan saving up for?\n A video game\n A gift for his dad(x)\n A drum set\n A gift for his brother\n\n4. How long does he have to save up enough money?\n A week\n A couple of weeks(x)\n A month\n One year"
+        "quiz": "1. What is Alan looking for?\n His shoes\n His wallet\n More chores to do(x)\n Something to eat\n\n2. What chore does his mom give him?\n Doing the laundry(x)\n Washing the dishes\n Cleaning the bathroom\n Vacuuming\n\n3. What is Alan saving up for?\n A video game\n A gift for his dad(x)\n A drum set\n A gift for his brother\n\n4. How long does he have to save up enough money?\n A week\n A couple of weeks(x)\n A month\n One year",
+        "enablepractice": 1
     },
     {
         "title": "Chores and Allowance",
@@ -96,7 +104,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/chores-and-allowance.html",
-        "quiz": "1. What kind of chores do Greg's parents want him to do?\n Clean the playroom\n Set and clear the dinner table\n Load and unload the dishwasher\n All of the above(x)\n\n2. Who does Greg have to share chores with?\n No one. Greg is doing them alone\n Susie, his sister(x)\n Their family dog\n Greg's mom\n\n3. Why does Greg want a raise in his allowance?\n He thinks he will be doing most of the work by himself(x)\n He wants to buy a new bike\n He thinks he deserves more\n He wants to buy more baseball cards\n\n4. How much allowance does Greg receive?\n $10 a week\n $20 a week\n $3 an hour\n He doesn't know(x)"
+        "quiz": "1. What kind of chores do Greg's parents want him to do?\n Clean the playroom\n Set and clear the dinner table\n Load and unload the dishwasher\n All of the above(x)\n\n2. Who does Greg have to share chores with?\n No one. Greg is doing them alone\n Susie, his sister(x)\n Their family dog\n Greg's mom\n\n3. Why does Greg want a raise in his allowance?\n He thinks he will be doing most of the work by himself(x)\n He wants to buy a new bike\n He thinks he deserves more\n He wants to buy more baseball cards\n\n4. How much allowance does Greg receive?\n $10 a week\n $20 a week\n $3 an hour\n He doesn't know(x)",
+        "enablepractice": 1
     },
     {
         "title": "Lost Dog",
@@ -107,7 +116,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/lost-dog.html",
-        "quiz": "1. How did Rusty get lost?\n Someone left a gate open(x)\n He jumped over a fence\n He jumped out of a car window\n He ran out the front door\n\n2. What kind of identification does Rusty have?\n Dog tag\n Microchip\n Neither A or B\n Both A and B(x)\n\n3. What does Rusty look like?\n He's all black\n He's brown with white spots(x)\n He is white with brown spots\n He's all white\n\n4. What does Phil give Mark just in case Mark sees Rusty first?\n A leash\n Dog treats(x)\n A flyer\n A ball"
+        "quiz": "1. How did Rusty get lost?\n Someone left a gate open(x)\n He jumped over a fence\n He jumped out of a car window\n He ran out the front door\n\n2. What kind of identification does Rusty have?\n Dog tag\n Microchip\n Neither A or B\n Both A and B(x)\n\n3. What does Rusty look like?\n He's all black\n He's brown with white spots(x)\n He is white with brown spots\n He's all white\n\n4. What does Phil give Mark just in case Mark sees Rusty first?\n A leash\n Dog treats(x)\n A flyer\n A ball",
+        "enablepractice": 1
     },
     {
         "title": "Asking for a Dog",
@@ -118,7 +128,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/asking-for-dog.html",
-        "quiz": "1. When did Daniel's dad promise to get a dog?\n When Daniel got older(x)\n On Daniel's birthday\n On Christmas\n Next week\n\n2. What does Daniel promise to do?\n Walk him and feed him\n Bathe and clean up his messes\n Play with him\n All of the above(x)\n\n3. Who is afraid of dogs?\n Daniel\n Daniel's mom(x)\n Daniel's dad\n Daniel's neighbor\n\n4. How old was Daniel's dad when he got a dog?\n Ten years old\n Eleven years old(x)\n Twelve years old\n Thirteen years old"
+        "quiz": "1. When did Daniel's dad promise to get a dog?\n When Daniel got older(x)\n On Daniel's birthday\n On Christmas\n Next week\n\n2. What does Daniel promise to do?\n Walk him and feed him\n Bathe and clean up his messes\n Play with him\n All of the above(x)\n\n3. Who is afraid of dogs?\n Daniel\n Daniel's mom(x)\n Daniel's dad\n Daniel's neighbor\n\n4. How old was Daniel's dad when he got a dog?\n Ten years old\n Eleven years old(x)\n Twelve years old\n Thirteen years old",
+        "enablepractice": 1
     },
     {
         "title": "Giving up a Dog",
@@ -129,7 +140,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/giving-up-dog.html",
-        "quiz": "1. Why does Janet's family have to give their dog away?\n Their dog barks all night long\n Their dog bit someone\n Their son is allergic to dogs(x)\n Her husband doesn't like their dog\n\n2. What happens when Steven pets Buster?\n He sneezes\n He gets a rash\n Neither A or B\n Both A and B(x)\n\n3. Why do Alice and Stan like Buster?\n He's housetrained\n He's well-behaved\n He rarely barks\n All of the above(x)\n\n4. Who is going to adopt Buster?\n Janet's sister\n Charlie's brother\n Alice and Stan(x)\n No one. Janet and Charlie are going to keep him"
+        "quiz": "1. Why does Janet's family have to give their dog away?\n Their dog barks all night long\n Their dog bit someone\n Their son is allergic to dogs(x)\n Her husband doesn't like their dog\n\n2. What happens when Steven pets Buster?\n He sneezes\n He gets a rash\n Neither A or B\n Both A and B(x)\n\n3. Why do Alice and Stan like Buster?\n He's housetrained\n He's well-behaved\n He rarely barks\n All of the above(x)\n\n4. Who is going to adopt Buster?\n Janet's sister\n Charlie's brother\n Alice and Stan(x)\n No one. Janet and Charlie are going to keep him",
+        "enablepractice": 1
     },
     {
         "title": "Sister's Birthday Party",
@@ -140,7 +152,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/sisters-birthday-party.html",
-        "quiz": "1. Why did Sally call Cindy?\n To invite her to Alison's birthday party(x)\n To invite her to Sally's birthday party\n To invite her to Alison's retirement party\n To invite her to a sleepover\n\n2. What time does the party start?\n 4 o'clock\n 5 o'clock(x)\n 6 o'clock\n 7 o'clock\n\n3. Where is the party going to be?\n At Cindy's house\n At Sally's house(x)\n At Alison's house\n At a bar\n\n4. What is Alison's favorite music?\n Pop(x)\n Jazz\n Hip hop\n Classical"
+        "quiz": "1. Why did Sally call Cindy?\n To invite her to Alison's birthday party(x)\n To invite her to Sally's birthday party\n To invite her to Alison's retirement party\n To invite her to a sleepover\n\n2. What time does the party start?\n 4 o'clock\n 5 o'clock(x)\n 6 o'clock\n 7 o'clock\n\n3. Where is the party going to be?\n At Cindy's house\n At Sally's house(x)\n At Alison's house\n At a bar\n\n4. What is Alison's favorite music?\n Pop(x)\n Jazz\n Hip hop\n Classical",
+        "enablepractice": 1
     },
     {
         "title": "Birthday Party Planning",
@@ -151,7 +164,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/birthday-party-planning.html",
-        "quiz": "1. Who is the Anne planning a birthday party for?\n Carol\n Anne\n Her dog\n Tim(x)\n\n2. Who are invited to the party?\n 12 boys and 12 girls\n 12 boys and no girls\n 12 girls and no boys(x)\n 24 boys\n\n3. What kind of food will be served?\n Pizza(x)\n Hamburgers\n Steaks\n Tacos\n\n4. What other activity is planned for the party?\n Laser tag\n Video games\n Movie(x)\n Baseball game"
+        "quiz": "1. Who is the Anne planning a birthday party for?\n Carol\n Anne\n Her dog\n Tim(x)\n\n2. Who are invited to the party?\n 12 boys and 12 girls\n 12 boys and no girls\n 12 girls and no boys(x)\n 24 boys\n\n3. What kind of food will be served?\n Pizza(x)\n Hamburgers\n Steaks\n Tacos\n\n4. What other activity is planned for the party?\n Laser tag\n Video games\n Movie(x)\n Baseball game",
+        "enablepractice": 1
     },
     {
         "title": "Surprise Birthday Party",
@@ -162,7 +176,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/surprise-birthday-party.html",
-        "quiz": "1. What kind of party does Helen want to throw her mom?\n A surprise birthday party(x)\n A costume party\n A gift-exchange party\n A pool party\n\n2. Who are Diane and Helen going to ask for help?\n Their grandparents\n Their children\n Their dad(x)\n Their boss\n\n3. What do they need?\n Phone numbers\n E-mail addresses\n Neither A or B\n Both A and B(x)\n\n4. What their mom's favorite kind of food?\n Pasta(x)\n Chinese\n Seafood\n Sushi"
+        "quiz": "1. What kind of party does Helen want to throw her mom?\n A surprise birthday party(x)\n A costume party\n A gift-exchange party\n A pool party\n\n2. Who are Diane and Helen going to ask for help?\n Their grandparents\n Their children\n Their dad(x)\n Their boss\n\n3. What do they need?\n Phone numbers\n E-mail addresses\n Neither A or B\n Both A and B(x)\n\n4. What their mom's favorite kind of food?\n Pasta(x)\n Chinese\n Seafood\n Sushi",
+        "enablepractice": 1
     },
     {
         "title": "Finding a Babysitter",
@@ -173,7 +188,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/finding-babysitter.html",
-        "quiz": "1. What does Kathy need tonight?\n Tickets to a play\n A babysitter for Michael(x)\n A ride to the store\n A tutor for Michael\n\n2. Where are Sarah and Kathy going tonight?\n To a play(x)\n To the movies\n To a restaurant\n To the store\n\n3. What is Jenny studying to be?\n A doctor\n A nurse\n A lawyer\n A teacher(x)\n\n4. What will Michael not like?\n Watching a movie\n Playing video games\n Doing his homework(x)\n Eating pizza"
+        "quiz": "1. What does Kathy need tonight?\n Tickets to a play\n A babysitter for Michael(x)\n A ride to the store\n A tutor for Michael\n\n2. Where are Sarah and Kathy going tonight?\n To a play(x)\n To the movies\n To a restaurant\n To the store\n\n3. What is Jenny studying to be?\n A doctor\n A nurse\n A lawyer\n A teacher(x)\n\n4. What will Michael not like?\n Watching a movie\n Playing video games\n Doing his homework(x)\n Eating pizza",
+        "enablepractice": 1
     },
     {
         "title": "First time with Babysitter",
@@ -184,7 +200,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/first-time-with-babysitter.html",
-        "quiz": "1. What is Janice doing tonight?\n Going out to dinner with Bill(x)\n Babysitting her friend's daughter\n Staying and watching television\n Doing her homework\n\n2. Who is Natalie?\n Sandy's daughter\n Janice's daughter\n Carol's daughter(x)\n Bill's daughter\n\n3. What does Natalie want to be?\n A teacher\n A librarian\n A pediatric doctor(x)\n An actor\n\n4. What is Natalie saving money for?\n A car\n College tuition(x)\n A house\n A trip to Europe"
+        "quiz": "1. What is Janice doing tonight?\n Going out to dinner with Bill(x)\n Babysitting her friend's daughter\n Staying and watching television\n Doing her homework\n\n2. Who is Natalie?\n Sandy's daughter\n Janice's daughter\n Carol's daughter(x)\n Bill's daughter\n\n3. What does Natalie want to be?\n A teacher\n A librarian\n A pediatric doctor(x)\n An actor\n\n4. What is Natalie saving money for?\n A car\n College tuition(x)\n A house\n A trip to Europe",
+        "enablepractice": 1
     },
     {
         "title": "Babysitting Neighbor's Kid",
@@ -195,7 +212,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/babysitting-neighbors-kid.html",
-        "quiz": "1. What does Alison have to do tonight?\n Babysit a neighbor's kid(x)\n Work at the office\n Study for a test\n Visit her grandparents\n\n2. What does Tom think of children?\n They're noisy\n They smell weird\n Neither A or B\n Both A and B(x)\n\n3. What does tom like more than children?\n Dogs(x)\n Cats\n Birds\n Hamsters\n\n4. What are Tom and Alison doing tomorrow night?\n Study together\n Watching a movie\n Having dinner together(x)\n Riding to work together"
+        "quiz": "1. What does Alison have to do tonight?\n Babysit a neighbor's kid(x)\n Work at the office\n Study for a test\n Visit her grandparents\n\n2. What does Tom think of children?\n They're noisy\n They smell weird\n Neither A or B\n Both A and B(x)\n\n3. What does tom like more than children?\n Dogs(x)\n Cats\n Birds\n Hamsters\n\n4. What are Tom and Alison doing tomorrow night?\n Study together\n Watching a movie\n Having dinner together(x)\n Riding to work together",
+        "enablepractice": 1
     },
     {
         "title": "Broken Arm",
@@ -206,7 +224,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/broken-arm.html",
-        "quiz": "1. What happened to David?\n He got the flu\n He broke his arm(x)\n He sprained his ankle\n He hit his head on the ground\n\n2. Why is David so upset?\n He's in a lot of pain\n He hates school\n He doesn't like doctors\n He has a big game this weekend(x)\n\n3. What sport does David play?\n Soccer(x)\n Baseball\n Basketball\n Rugby\n\n4. What is David going to do this weekend?\n Get surgery\n Study for a history test\n Cheer his team on(x)\n Stay home because he's in pain"
+        "quiz": "1. What happened to David?\n He got the flu\n He broke his arm(x)\n He sprained his ankle\n He hit his head on the ground\n\n2. Why is David so upset?\n He's in a lot of pain\n He hates school\n He doesn't like doctors\n He has a big game this weekend(x)\n\n3. What sport does David play?\n Soccer(x)\n Baseball\n Basketball\n Rugby\n\n4. What is David going to do this weekend?\n Get surgery\n Study for a history test\n Cheer his team on(x)\n Stay home because he's in pain",
+        "enablepractice": 1
     },
     {
         "title": "Bad Injury",
@@ -217,7 +236,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/bad-injury.html",
-        "quiz": "1. What happened to Tom?\n He fell off the roof\n He was in a car accident(x)\n He was attacked on the street\n He as in a boating accident\n\n2. Why is he in a hospital?\n He has two broken legs\n He has broken ribs\n He has a head injury\n All of the above(x)\n\n3. How long is he going to be in the hospital?\n A few days\n A couple of weeks\n A month\n Several months(x)\n\n4. Who is taking turns staying with Tom?\n Judy\n His children(x)\n Joan\n Carol"
+        "quiz": "1. What happened to Tom?\n He fell off the roof\n He was in a car accident(x)\n He was attacked on the street\n He as in a boating accident\n\n2. Why is he in a hospital?\n He has two broken legs\n He has broken ribs\n He has a head injury\n All of the above(x)\n\n3. How long is he going to be in the hospital?\n A few days\n A couple of weeks\n A month\n Several months(x)\n\n4. Who is taking turns staying with Tom?\n Judy\n His children(x)\n Joan\n Carol",
+        "enablepractice": 1
     },
     {
         "title": "Talking about Stitches",
@@ -228,6 +248,7 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TalkingAboutKids/talking-about-stitches.html",
-        "quiz": "1. Why was Jason at the Emergency room?\n He cut himself with a knife(x)\n He fell off his bike\n He was in a car accident\n He was visiting Kate\n\n2. What did the doctor do to Jason?\n Gave him stitches(x)\n Put a cast on his arm\n Relocated his shoulder\n Did a chest x-ray\n\n3. How long did they wait at the Emergency Room?\n One hour\n Two hours\n Three hours(x)\n 45 minutes\n\n4. What is Jason unhappy about?\n He can't play golf\n He can't write\n He can't play the guitar\n He can't play Video games(x)"
+        "quiz": "1. Why was Jason at the Emergency room?\n He cut himself with a knife(x)\n He fell off his bike\n He was in a car accident\n He was visiting Kate\n\n2. What did the doctor do to Jason?\n Gave him stitches(x)\n Put a cast on his arm\n Relocated his shoulder\n Did a chest x-ray\n\n3. How long did they wait at the Emergency Room?\n One hour\n Two hours\n Three hours(x)\n 45 minutes\n\n4. What is Jason unhappy about?\n He can't play golf\n He can't write\n He can't play the guitar\n He can't play Video games(x)",
+        "enablepractice": 1
     }
 ]

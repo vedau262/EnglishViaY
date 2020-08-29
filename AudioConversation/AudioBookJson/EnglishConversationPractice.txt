@@ -7,7 +7,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/23a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/23a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be desperate for",
@@ -17,7 +18,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/22a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/22a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be Down to Earth",
@@ -27,7 +29,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/3a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/3a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be Hungry for",
@@ -37,7 +40,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/21a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/21a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be in a Bind",
@@ -47,7 +51,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/42a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/42a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be in Hot Water",
@@ -57,7 +62,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/41a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/41a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be into",
@@ -67,7 +73,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/10a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/10a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be on a Roll",
@@ -77,7 +84,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/32a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/32a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be one’s Last Resort",
@@ -87,7 +95,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/19a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be out of one’s Mind",
@@ -97,7 +106,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/15a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/15a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be Scared to Death",
@@ -107,7 +117,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/13a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/13a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be Soul-Crushing",
@@ -117,7 +128,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/39a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/39a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Be Stuffed",
@@ -127,7 +139,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/9a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/9a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Bend over Backward for",
@@ -137,7 +150,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/28a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/28a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Cannot Take Anymore",
@@ -147,7 +161,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/14a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/14a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Cannot Wait",
@@ -157,7 +172,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/24a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/24a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Crack Up",
@@ -167,7 +183,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/12a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/12a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Cram for a Test",
@@ -177,7 +194,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/4a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/4a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Feel Blue",
@@ -187,7 +205,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/1a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/1a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Get on one’s Nerves",
@@ -197,7 +216,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/11a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/11a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Get out of Hand",
@@ -207,7 +227,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/18a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/18a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Give Something a Shot",
@@ -217,7 +238,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/26a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/26a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Give the Cold Shoulder",
@@ -227,7 +249,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/2a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/2a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Go through Hell",
@@ -237,7 +260,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/35a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/35a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Have Guts",
@@ -247,7 +271,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/30a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/30a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Have one’s Work Cut Out for one",
@@ -257,7 +282,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/29a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/29a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Kick Out",
@@ -267,7 +293,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/16a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/16a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Look up to",
@@ -277,7 +304,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/43a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/43a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Meet Halfway",
@@ -287,7 +315,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/27a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/01/27a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Pig Out",
@@ -297,7 +326,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/7a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/7a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Play a Joke on somebody",
@@ -307,7 +337,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/45a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/45a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Pull an All-Nighter",
@@ -317,7 +348,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/31a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/31a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Pull oneself Together",
@@ -327,7 +359,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/20a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/20a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "School somebody",
@@ -337,7 +370,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/38a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/38a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Screw Up",
@@ -347,7 +381,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/6a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/6a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Sit Around Collecting Dust",
@@ -357,7 +392,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/44a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/44a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Sleep on",
@@ -367,7 +403,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/17a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/17a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Splurge on",
@@ -377,7 +414,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/37a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/37a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Suck up to",
@@ -387,7 +425,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/40a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/04/40a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Sugarcoat",
@@ -397,7 +436,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/25a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/25a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Talk into",
@@ -407,7 +447,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/33a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/33a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Talk out of",
@@ -417,7 +458,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/34a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/34a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Talk Trash",
@@ -427,7 +469,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/36a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2020/03/36a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Unwind",
@@ -437,7 +480,8 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/8a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/8a.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Wrap Up",
@@ -447,6 +491,7 @@
         "catalog": "English Conversation Practice",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/5a.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/5a.mp3",
+        "enablepractice": 0
     }
 ]

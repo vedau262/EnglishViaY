@@ -8,7 +8,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/new-friend-at-school.html",
-        "quiz": "1. What happened at school today?\n Jane's teacher was absent\n Jane made a new friend(x)\n Jane got into trouble\n Jane forgot her homework\n\n2. Who lives in Seattle, Washington?\n Jane's grandparents\n Jane's best friend\n Jane's aunt(x)\n Jane\n\n3. What do Jane and Cindy have in common?\n They both like drawing\n They both like dogs\n They both like pizza\n All of the above(x)\n\n4. What does Jane's mom want to do?\n Go out to dinner\n Move to Seattle\n Invite Cindy and her parents over for dinner(x)\n Bake cookies"
+        "quiz": "1. What happened at school today?\n Jane's teacher was absent\n Jane made a new friend(x)\n Jane got into trouble\n Jane forgot her homework\n\n2. Who lives in Seattle, Washington?\n Jane's grandparents\n Jane's best friend\n Jane's aunt(x)\n Jane\n\n3. What do Jane and Cindy have in common?\n They both like drawing\n They both like dogs\n They both like pizza\n All of the above(x)\n\n4. What does Jane's mom want to do?\n Go out to dinner\n Move to Seattle\n Invite Cindy and her parents over for dinner(x)\n Bake cookies",
+        "enablepractice": 1
     },
     {
         "title": "Meeting Someone at the Apartment",
@@ -19,7 +20,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/meeting-someone-at-apartment.html",
-        "quiz": "1. What apartment does Paul live in?\n 105\n 205\n 305(x)\n 405\n\n2. Where does Monica live?\n Below Paul\n On the first floor\n Above Paul(x)\n On the rooftop\n\n3. What is happening on Saturday?\n Potluck party(x)\n Tenants meeting\n Paul is moving out\n Monica is moving in\n\n4. What is Paul's famous dish?\n Spaghetti\n Lasagna\n Fried rice\n Pasta salad(x)"
+        "quiz": "1. What apartment does Paul live in?\n 105\n 205\n 305(x)\n 405\n\n2. Where does Monica live?\n Below Paul\n On the first floor\n Above Paul(x)\n On the rooftop\n\n3. What is happening on Saturday?\n Potluck party(x)\n Tenants meeting\n Paul is moving out\n Monica is moving in\n\n4. What is Paul's famous dish?\n Spaghetti\n Lasagna\n Fried rice\n Pasta salad(x)",
+        "enablepractice": 1
     },
     {
         "title": "Riding School Bus with Friend",
@@ -30,7 +32,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/riding-school-bus-with-friend.html",
-        "quiz": "1. Why is today special for Billy?\n It's the last day of school\n It's his birthday\n It's his first day at a new school(x)\n There's a class party\n\n2. What is the name of Billy's new friend?\n Ted\n Richard\n Mark\n Brian(x)\n\n3. What does Billy want to do tomorrow morning?\n Ride the school bus to school(x)\n Sleep longer\n Stay home from school\n Play soccer\n\n4. What time does Billy need to wake up tomorrow morning?\n 7:00 am(x)\n 7:15 am\n 7:30 am\n 7:45 am"
+        "quiz": "1. Why is today special for Billy?\n It's the last day of school\n It's his birthday\n It's his first day at a new school(x)\n There's a class party\n\n2. What is the name of Billy's new friend?\n Ted\n Richard\n Mark\n Brian(x)\n\n3. What does Billy want to do tomorrow morning?\n Ride the school bus to school(x)\n Sleep longer\n Stay home from school\n Play soccer\n\n4. What time does Billy need to wake up tomorrow morning?\n 7:00 am(x)\n 7:15 am\n 7:30 am\n 7:45 am",
+        "enablepractice": 1
     },
     {
         "title": "Misunderstanding",
@@ -41,7 +44,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/misunderstanding.html",
-        "quiz": "1. Why is Bill looking for Sandy?\n They have a date\n He needs a ride to school\n He wants to apologize to her(x)\n He wants to study together\n\n2. What did Bill do?\n He hurt Sandy's feelings(x)\n He hurt Joe's feelings\n He got angry at Sandy\n He got angry at Joe\n\n3. Where has Bill looked?\n Sandy's house\n Linda's house\n Library\n All of the above(x)\n\n4. What does Bill think of exercise?\n It's silly\n It keeps you healthy(x)\n It's unnecessary\n He doesn't like it"
+        "quiz": "1. Why is Bill looking for Sandy?\n They have a date\n He needs a ride to school\n He wants to apologize to her(x)\n He wants to study together\n\n2. What did Bill do?\n He hurt Sandy's feelings(x)\n He hurt Joe's feelings\n He got angry at Sandy\n He got angry at Joe\n\n3. Where has Bill looked?\n Sandy's house\n Linda's house\n Library\n All of the above(x)\n\n4. What does Bill think of exercise?\n It's silly\n It keeps you healthy(x)\n It's unnecessary\n He doesn't like it",
+        "enablepractice": 1
     },
     {
         "title": "Buying a New Necklace",
@@ -52,7 +56,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/buying-new-necklace.html",
-        "quiz": "1. What is Sally shopping for?\n A purse\n A wallet\n A camera\n A necklace(x)\n\n2. Who is she shopping for?\n Her mom\n Her sister(x)\n Susie\n Herself\n\n3. Why does she need to go shopping?\n To buy a replacement for a lost item(x)\n She just got her paycheck\n She needs a new outfit\n It's her mother's birthday\n\n4. How much does she have to spend?\n $100(x)\n $200\n $300\n $400"
+        "quiz": "1. What is Sally shopping for?\n A purse\n A wallet\n A camera\n A necklace(x)\n\n2. Who is she shopping for?\n Her mom\n Her sister(x)\n Susie\n Herself\n\n3. Why does she need to go shopping?\n To buy a replacement for a lost item(x)\n She just got her paycheck\n She needs a new outfit\n It's her mother's birthday\n\n4. How much does she have to spend?\n $100(x)\n $200\n $300\n $400",
+        "enablepractice": 1
     },
     {
         "title": "Argument with Roommate",
@@ -63,7 +68,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/argument-with-roommate.html",
-        "quiz": "1. Why did Christine and Nancy have an argument?\n Christine is messy and does not pay her rent on time(x)\n Christine and Nancy do not agree on politics\n Christine does not do the dishes\n Nancy does not like the way Christine decorates the apartment\n\n2. What is Christine going to do?\n Be a better roommate\n Pay more rent\n Move out(x)\n Buy a house\n\n3. What does Nancy need to do?\n Get a new job\n Find another roommate(x)\n Decorate the apartment\n Clean the apartment\n\n4. What do Betty and Nancy decide to do together?\n Go shopping\n Eat dinner\n Go to the movies\n Become roommates(x)"
+        "quiz": "1. Why did Christine and Nancy have an argument?\n Christine is messy and does not pay her rent on time(x)\n Christine and Nancy do not agree on politics\n Christine does not do the dishes\n Nancy does not like the way Christine decorates the apartment\n\n2. What is Christine going to do?\n Be a better roommate\n Pay more rent\n Move out(x)\n Buy a house\n\n3. What does Nancy need to do?\n Get a new job\n Find another roommate(x)\n Decorate the apartment\n Clean the apartment\n\n4. What do Betty and Nancy decide to do together?\n Go shopping\n Eat dinner\n Go to the movies\n Become roommates(x)",
+        "enablepractice": 1
     },
     {
         "title": "Planning to Hangout",
@@ -74,7 +80,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/planning-to-hangout.html",
-        "quiz": "1. What are John's plans tonight?\n Go on a date\n Study at the library\n Work late\n He had no plans(x)\n\n2. Why did Steven call John?\n He needed help on his homework\n It is a Friday night and he's bored(x)\n His car broke down\n He needs help fixing his computer\n\n3. What kind of movie do they want to see?\n Drama\n Comedy(x)\n Horror\n Documentary\n\n4. What did John and Steven decide to do tonight?\n Go to the movies and eat popcorn\n Eat dinner and go to a comedy club(x)\n Stay home and order pizza\n Study and eat snacks"
+        "quiz": "1. What are John's plans tonight?\n Go on a date\n Study at the library\n Work late\n He had no plans(x)\n\n2. Why did Steven call John?\n He needed help on his homework\n It is a Friday night and he's bored(x)\n His car broke down\n He needs help fixing his computer\n\n3. What kind of movie do they want to see?\n Drama\n Comedy(x)\n Horror\n Documentary\n\n4. What did John and Steven decide to do tonight?\n Go to the movies and eat popcorn\n Eat dinner and go to a comedy club(x)\n Stay home and order pizza\n Study and eat snacks",
+        "enablepractice": 1
     },
     {
         "title": "Going to the Mall",
@@ -85,7 +92,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/going-to-mall.html",
-        "quiz": "1. Why do Carol and Jane want to celebrate?\n It's Jane's birthday\n It's Carol's birthday\n They are graduating\n They finished their final exams(x)\n\n2. What does Carol want to do?\n Go dancing(x)\n Go to the movies\n Go to a music concert\n Stay home\n\n3. What does Carol think is boring?\n Movies\n Plays(x)\n Shopping\n Dancing\n\n4. What are Carol and Jane going to do later?\n Eat dinner\n Go shopping\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. Why do Carol and Jane want to celebrate?\n It's Jane's birthday\n It's Carol's birthday\n They are graduating\n They finished their final exams(x)\n\n2. What does Carol want to do?\n Go dancing(x)\n Go to the movies\n Go to a music concert\n Stay home\n\n3. What does Carol think is boring?\n Movies\n Plays(x)\n Shopping\n Dancing\n\n4. What are Carol and Jane going to do later?\n Eat dinner\n Go shopping\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "Sleepover",
@@ -96,7 +104,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/sleepover.html",
-        "quiz": "1. What kind of party is Stacy having?\n Birthday\n Graduation\n Sleepover(x)\n Surprise\n\n2. Why can't Linda go?\n She has to babysit her younger sister(x)\n She is sick\n She is having dinner with her parents\n She has to do her homework\n\n3. What is Stacy planning for her party?\n Rent a movie and order pizza(x)\n Go to the movie theater and eat popcorn\n Shop and eat dinner at the mall\n Stay home and order Chinese food\n\n4. What is Linda going to do after 9 o'clock pm?\n Sleep\n Do her homework\n Watch a movie at home\n Go to Stacy's house(x)"
+        "quiz": "1. What kind of party is Stacy having?\n Birthday\n Graduation\n Sleepover(x)\n Surprise\n\n2. Why can't Linda go?\n She has to babysit her younger sister(x)\n She is sick\n She is having dinner with her parents\n She has to do her homework\n\n3. What is Stacy planning for her party?\n Rent a movie and order pizza(x)\n Go to the movie theater and eat popcorn\n Shop and eat dinner at the mall\n Stay home and order Chinese food\n\n4. What is Linda going to do after 9 o'clock pm?\n Sleep\n Do her homework\n Watch a movie at home\n Go to Stacy's house(x)",
+        "enablepractice": 1
     },
     {
         "title": "Coworker Moving Away",
@@ -107,7 +116,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/coworker-moving-away.html",
-        "quiz": "1. Where is Joanne moving?\n Hong Kong\n Hawaii\n England(x)\n Canada\n\n2. What does Janet want to do for Joanne?\n Give her a present\n Throw her a going-away party(x)\n Give her an award\n Take her out to dinner\n\n3. How many people work in their department?\n 20\n 30(x)\n 40\n 50\n\n4. When is Joanne's last day at work?\n Next Monday\n Next Friday(x)\n Next month\n In two months"
+        "quiz": "1. Where is Joanne moving?\n Hong Kong\n Hawaii\n England(x)\n Canada\n\n2. What does Janet want to do for Joanne?\n Give her a present\n Throw her a going-away party(x)\n Give her an award\n Take her out to dinner\n\n3. How many people work in their department?\n 20\n 30(x)\n 40\n 50\n\n4. When is Joanne's last day at work?\n Next Monday\n Next Friday(x)\n Next month\n In two months",
+        "enablepractice": 1
     },
     {
         "title": "Daughter's friend Moving Away",
@@ -118,7 +128,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/daughters-friend-moving-away.html",
-        "quiz": "1. Why is Sally's best friend moving?\n Her dad got a job in another state(x)\n Her parents are getting a divorce\n She doesn't like her school\n She is moving closer to her grandparents\n\n2. How can Sally and Candace keep in touch?\n E-mail\n Text\n Phone\n All of the above(x)\n\n3. When is Candace moving?\n At the beginning of the school year\n At the middle of the school year\n At the end of the school year(x)\n Next week\n\n4. How close is California to Sally's house?\n It's the same state\n It's the same city\n It's across the country(x)\n It's in another country"
+        "quiz": "1. Why is Sally's best friend moving?\n Her dad got a job in another state(x)\n Her parents are getting a divorce\n She doesn't like her school\n She is moving closer to her grandparents\n\n2. How can Sally and Candace keep in touch?\n E-mail\n Text\n Phone\n All of the above(x)\n\n3. When is Candace moving?\n At the beginning of the school year\n At the middle of the school year\n At the end of the school year(x)\n Next week\n\n4. How close is California to Sally's house?\n It's the same state\n It's the same city\n It's across the country(x)\n It's in another country",
+        "enablepractice": 1
     },
     {
         "title": "Selling the House",
@@ -129,7 +140,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/selling-house.html",
-        "quiz": "1. Why are Jeff's parents selling their home?\n Because they are getting too old to take care of it(x)\n Because it's too small\n Because they don't like their neighbors\n Because Jeff wants to buy it\n\n2. Who bought their home?\n A businessman\n Jeff\n A young couple with two kids(x)\n A retired couple\n\n3. Where are Jeff's parents moving to?\n Retirement home\n Beautiful, small condo(x)\n Jeff's house\n To a bigger house\n\n4. What is Jeff's mom doing?\n She's buying fabric to make curtains(x)\n She's at the store to buy groceries\n She's making dinner\n She's going for a walk"
+        "quiz": "1. Why are Jeff's parents selling their home?\n Because they are getting too old to take care of it(x)\n Because it's too small\n Because they don't like their neighbors\n Because Jeff wants to buy it\n\n2. Who bought their home?\n A businessman\n Jeff\n A young couple with two kids(x)\n A retired couple\n\n3. Where are Jeff's parents moving to?\n Retirement home\n Beautiful, small condo(x)\n Jeff's house\n To a bigger house\n\n4. What is Jeff's mom doing?\n She's buying fabric to make curtains(x)\n She's at the store to buy groceries\n She's making dinner\n She's going for a walk",
+        "enablepractice": 1
     },
     {
         "title": "Loud Dog Barking",
@@ -140,7 +152,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/loud-dog-barking.html",
-        "quiz": "1. Why does Carol look tired?\n She was studying all night\n She just ran a marathon\n She didn't get any sleep(x)\n She has jet lag\n\n2. What was her neighbor's dog doing last night?\n Digging a hole\n Barking all night(x)\n Begging for food\n Chasing cats\n\n3. What did Carol do all night?\n Watch television(x)\n Read a book\n Study for a test\n Played video games\n\n4. What is her neighbor holding?\n A bouquet of flowers\n His dog\n A note\n A plate of cookies(x)"
+        "quiz": "1. Why does Carol look tired?\n She was studying all night\n She just ran a marathon\n She didn't get any sleep(x)\n She has jet lag\n\n2. What was her neighbor's dog doing last night?\n Digging a hole\n Barking all night(x)\n Begging for food\n Chasing cats\n\n3. What did Carol do all night?\n Watch television(x)\n Read a book\n Study for a test\n Played video games\n\n4. What is her neighbor holding?\n A bouquet of flowers\n His dog\n A note\n A plate of cookies(x)",
+        "enablepractice": 1
     },
     {
         "title": "Loud Neighborhood Music",
@@ -151,7 +164,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/loud-neighborhood-music.html",
-        "quiz": "1. Who is Helen angry at?\n Her neighbors(x)\n Her parents\n Her children\n Joan\n\n2. Why couldn't Joan get any sleep?\n Because of loud music(x)\n Because of a barking dog\n Because she was worried about her children\n Because her husband snores\n\n3. Who did she call in the middle of the night?\n Her neighbors\n The police(x)\n Her husband\n Her children\n\n4. Who is in big trouble?\n Helen\n Her children\n Her husband\n Her neighbor's children(x)"
+        "quiz": "1. Who is Helen angry at?\n Her neighbors(x)\n Her parents\n Her children\n Joan\n\n2. Why couldn't Joan get any sleep?\n Because of loud music(x)\n Because of a barking dog\n Because she was worried about her children\n Because her husband snores\n\n3. Who did she call in the middle of the night?\n Her neighbors\n The police(x)\n Her husband\n Her children\n\n4. Who is in big trouble?\n Helen\n Her children\n Her husband\n Her neighbor's children(x)",
+        "enablepractice": 1
     },
     {
         "title": "Helping a Neighbor",
@@ -162,7 +176,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/helping-neighbor.html",
-        "quiz": "1. What happened to Mary?\n She got divorced\n Her husband died(x)\n Her children moved away\n She was laid off from work\n\n2. How many children does Mary have?\n 1\n 2\n 3\n None(x)\n\n3. What do people think of Mary?\n She's mean to kids\n She's always nice to everyone(x)\n She is rude to customers\n She's a selfish woman\n\n4. What are Janet and Sarah going to do for Mary?\n Clean her house\n Do her yard work\n Bring her meals\n All of the above(x)"
+        "quiz": "1. What happened to Mary?\n She got divorced\n Her husband died(x)\n Her children moved away\n She was laid off from work\n\n2. How many children does Mary have?\n 1\n 2\n 3\n None(x)\n\n3. What do people think of Mary?\n She's mean to kids\n She's always nice to everyone(x)\n She is rude to customers\n She's a selfish woman\n\n4. What are Janet and Sarah going to do for Mary?\n Clean her house\n Do her yard work\n Bring her meals\n All of the above(x)",
+        "enablepractice": 1
     },
     {
         "title": "Small Talk at the Bus Stop",
@@ -173,7 +188,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/small-talk-at-bus-stop.html",
-        "quiz": "1. What is the bus schedule today?\n It's on time\n It's early\n It's late(x)\n It was cancelled\n\n2. What is the weather like today?\n It's sunny\n It's raining(x)\n It's snowing\n It's clear\n\n3. When does Tom ride the bus?\n A couple of times a week\n When it rains\n Everyday(x)\n Only on Fridays\n\n4. When is Alice going to ride the bus?\n When there is a sports game\n When it rains(x)\n When she works late\n When Tom rides the bus"
+        "quiz": "1. What is the bus schedule today?\n It's on time\n It's early\n It's late(x)\n It was cancelled\n\n2. What is the weather like today?\n It's sunny\n It's raining(x)\n It's snowing\n It's clear\n\n3. When does Tom ride the bus?\n A couple of times a week\n When it rains\n Everyday(x)\n Only on Fridays\n\n4. When is Alice going to ride the bus?\n When there is a sports game\n When it rains(x)\n When she works late\n When Tom rides the bus",
+        "enablepractice": 1
     },
     {
         "title": "Small Talk about Sports",
@@ -184,7 +200,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/small-talk-about-sports.html",
-        "quiz": "1. What is Karen wearing?\n A sweatshirt\n A sports jersey(x)\n A T-shirt\n A jacket\n\n2. What did they both major in?\n Medicine\n Mathematics\n Law(x)\n Business\n\n3. What are they doing tonight?\n Going to a college football game(x)\n Studying at the library\n Watching a movie\n Staying home and eating pizza\n\n4. Where are they going to meet later?\n At school\n At the mall\n At a coffee shop(x)\n At the bookstore"
+        "quiz": "1. What is Karen wearing?\n A sweatshirt\n A sports jersey(x)\n A T-shirt\n A jacket\n\n2. What did they both major in?\n Medicine\n Mathematics\n Law(x)\n Business\n\n3. What are they doing tonight?\n Going to a college football game(x)\n Studying at the library\n Watching a movie\n Staying home and eating pizza\n\n4. Where are they going to meet later?\n At school\n At the mall\n At a coffee shop(x)\n At the bookstore",
+        "enablepractice": 1
     },
     {
         "title": "Taxi Small Talk",
@@ -195,7 +212,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/taxi-small-talk.html",
-        "quiz": "1. What are Mark and Sue going to share?\n Dessert\n Taxi(x)\n Pizza\n Notes\n\n2. Where is Sue going?\n To a restaurant(x)\n To school\n To work\n Home\n\n3. What kind of food has Sue not tried before?\n Chinese\n Italian\n Thai(x)\n Hawaiian\n\n4. What is Mark's job?\n Teacher\n Doctor\n Lawyer\n Chef(x)"
+        "quiz": "1. What are Mark and Sue going to share?\n Dessert\n Taxi(x)\n Pizza\n Notes\n\n2. Where is Sue going?\n To a restaurant(x)\n To school\n To work\n Home\n\n3. What kind of food has Sue not tried before?\n Chinese\n Italian\n Thai(x)\n Hawaiian\n\n4. What is Mark's job?\n Teacher\n Doctor\n Lawyer\n Chef(x)",
+        "enablepractice": 1
     },
     {
         "title": "Family Reunion",
@@ -206,7 +224,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/family-reunion.html",
-        "quiz": "1. What is Robert's mom planning tonight?\n A family reunion(x)\n A birthday party\n A graduation party\n A surprise party\n\n2. What does she want Robert to do?\n Vacuum the house\n Wash the dishes\n Do the laundry\n Buy some ice(x)\n\n3. What is Robert's mom cooking?\n Barbeque ribs\n Potatoes\n Neither A nor B\n Both A and B(x)\n\n4. Who is not able to come?\n Aunt Linda(x)\n Aunt Sally\n Neither A or B\n Both A and B"
+        "quiz": "1. What is Robert's mom planning tonight?\n A family reunion(x)\n A birthday party\n A graduation party\n A surprise party\n\n2. What does she want Robert to do?\n Vacuum the house\n Wash the dishes\n Do the laundry\n Buy some ice(x)\n\n3. What is Robert's mom cooking?\n Barbeque ribs\n Potatoes\n Neither A nor B\n Both A and B(x)\n\n4. Who is not able to come?\n Aunt Linda(x)\n Aunt Sally\n Neither A or B\n Both A and B",
+        "enablepractice": 1
     },
     {
         "title": "Boring Family Reunion",
@@ -217,7 +236,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/boring-family-reunion.html",
-        "quiz": "1. Why doesn't Sam want to go to the family reunion?\n He has homework\n It's boring and he has no one to talk to(x)\n He has a date\n He is working late\n\n2. Why doesn't he want to hang out with his cousins?\n They are all younger than him(x)\n They are mean to him\n They are not coming\n They don't like him\n\n3. Who will be disappointed if Sam does not attend the reunion?\n His cousins\n His sister\n His grandparents(x)\n His teachers\n\n4. What is Sam's favorite food?\n Chinese\n Italian(x)\n Korean\n Mexican"
+        "quiz": "1. Why doesn't Sam want to go to the family reunion?\n He has homework\n It's boring and he has no one to talk to(x)\n He has a date\n He is working late\n\n2. Why doesn't he want to hang out with his cousins?\n They are all younger than him(x)\n They are mean to him\n They are not coming\n They don't like him\n\n3. Who will be disappointed if Sam does not attend the reunion?\n His cousins\n His sister\n His grandparents(x)\n His teachers\n\n4. What is Sam's favorite food?\n Chinese\n Italian(x)\n Korean\n Mexican",
+        "enablepractice": 1
     },
     {
         "title": "Unhappy Family Reunion",
@@ -228,7 +248,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/unhappy-family-reunion.html",
-        "quiz": "1. Why did Susan call Jane?\n To ask her out to lunch\n To ask if she is going to the family reunion(x)\n To ask if she wants to go shopping\n To ask if she wants to go blueberry picking\n\n2. Why does Jane not want to go?\n She had a misunderstanding with Bill(x)\n She did not receive an invitation\n She doesn't want to go alone\n She doesn't like to leave her home\n\n3. What city does Jane live?\n New York(x)\n Los Angeles\n Paris\n London\n\n4. What does Jane decide to do at the end of the conversation?\n She is going to go\n She is not going to go\n She's going to think about it(x)\n She hangs up on Susan"
+        "quiz": "1. Why did Susan call Jane?\n To ask her out to lunch\n To ask if she is going to the family reunion(x)\n To ask if she wants to go shopping\n To ask if she wants to go blueberry picking\n\n2. Why does Jane not want to go?\n She had a misunderstanding with Bill(x)\n She did not receive an invitation\n She doesn't want to go alone\n She doesn't like to leave her home\n\n3. What city does Jane live?\n New York(x)\n Los Angeles\n Paris\n London\n\n4. What does Jane decide to do at the end of the conversation?\n She is going to go\n She is not going to go\n She's going to think about it(x)\n She hangs up on Susan",
+        "enablepractice": 1
     },
     {
         "title": "Having a Baby",
@@ -239,7 +260,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/having-baby.html",
-        "quiz": "1. What is Linda's good news?\n She is getting a promotion at work\n She is having a baby(x)\n She's moving to another country\n She is getting a new car\n\n2. When did she find out about her news?\n Last night\n This morning(x)\n Last week\n A month ago\n\n3. How does Dan feel about the news?\n Angry\n Sad\n Happy(x)\n Scared\n\n4. What are Linda and her mom going to do this morning?\n Go shopping\n Take a walk\n Watch a movie\n Have breakfast(x)"
+        "quiz": "1. What is Linda's good news?\n She is getting a promotion at work\n She is having a baby(x)\n She's moving to another country\n She is getting a new car\n\n2. When did she find out about her news?\n Last night\n This morning(x)\n Last week\n A month ago\n\n3. How does Dan feel about the news?\n Angry\n Sad\n Happy(x)\n Scared\n\n4. What are Linda and her mom going to do this morning?\n Go shopping\n Take a walk\n Watch a movie\n Have breakfast(x)",
+        "enablepractice": 1
     },
     {
         "title": "Grandchildren",
@@ -250,7 +272,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/grandchildren.html",
-        "quiz": "1. Who was Carol talking to on the phone?\n Her mom\n Her daughter(x)\n Her son\n Her husband\n\n2. What is Carol going to be in June?\n A grandmother(x)\n A mother\n A college graduate\n A retired teacher\n\n3. How many grandchildren does Joan have?\n One\n Two\n Three(x)\n None\n\n4. What are Carol and Joan going to do?\n Go shopping(x)\n Go to the library\n Eat lunch\n Take a trip"
+        "quiz": "1. Who was Carol talking to on the phone?\n Her mom\n Her daughter(x)\n Her son\n Her husband\n\n2. What is Carol going to be in June?\n A grandmother(x)\n A mother\n A college graduate\n A retired teacher\n\n3. How many grandchildren does Joan have?\n One\n Two\n Three(x)\n None\n\n4. What are Carol and Joan going to do?\n Go shopping(x)\n Go to the library\n Eat lunch\n Take a trip",
+        "enablepractice": 1
     },
     {
         "title": "Sister's Baby",
@@ -261,6 +284,7 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/sisters-baby.html",
-        "quiz": "1. Where is Susie going?\n Seattle\n Los Angeles\n Chicago(x)\n New York\n\n2. What is Susie's niece's name?\n Rose(x)\n Marie\n Jennifer\n Susie\n\n3. Who was she named after?\n Grandmother(x)\n Mother\n Aunt\n Sister\n\n4. Where does Susie have to be by 1 pm?\n Work\n School\n Airport(x)\n Hospital"
+        "quiz": "1. Where is Susie going?\n Seattle\n Los Angeles\n Chicago(x)\n New York\n\n2. What is Susie's niece's name?\n Rose(x)\n Marie\n Jennifer\n Susie\n\n3. Who was she named after?\n Grandmother(x)\n Mother\n Aunt\n Sister\n\n4. Where does Susie have to be by 1 pm?\n Work\n School\n Airport(x)\n Hospital",
+        "enablepractice": 1
     }
 ]

@@ -7,7 +7,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/10/3892157d-def9-49f9-86ae-9af8e850d27d.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/10/3892157d-def9-49f9-86ae-9af8e850d27d.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Virus Could Lower Already Low US Birth Rates",
@@ -17,7 +18,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/04/d5ff8f44-80d2-4c0f-967d-f22e0ee75135.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/04/d5ff8f44-80d2-4c0f-967d-f22e0ee75135.mp3",
+        "enablepractice": 0
     },
     {
         "title": "New Drugs Make Big Difference in Treating Lung, Prostate, Colon Cancers",
@@ -27,7 +29,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/02/5d47e554-88ec-48d9-a5cb-fdf040d0b5ef.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/02/5d47e554-88ec-48d9-a5cb-fdf040d0b5ef.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Protests, Lack of Trust Undo Coronavirus Control",
@@ -37,7 +40,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/01/ff73818e-dd46-4e79-9b81-8153a0e6c08e.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/06/01/ff73818e-dd46-4e79-9b81-8153a0e6c08e.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Dengue Kills Too` - Latin America Faces Two Epidemics",
@@ -47,7 +51,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/05/15/9a30ef8b-ce5e-4b61-8afa-e2ff8f9f7606.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/05/15/9a30ef8b-ce5e-4b61-8afa-e2ff8f9f7606.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Moderna Says Early Coronavirus Vaccine Shows Promise",
@@ -57,7 +62,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/05/18/05e87a98-3984-4aa4-9ed3-d38696fb8b84.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/05/18/05e87a98-3984-4aa4-9ed3-d38696fb8b84.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Baking Is Good for Mental Health",
@@ -67,7 +73,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/03/27/52d80f4d-2a53-4f6c-816a-a7a647a6547b.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/03/27/52d80f4d-2a53-4f6c-816a-a7a647a6547b.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Extroverts, Introverts Face Difficulties During Social Distancing",
@@ -77,7 +84,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/04/03/d6dff419-415f-4bc7-aa9d-25c8615ea239.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/04/03/d6dff419-415f-4bc7-aa9d-25c8615ea239.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Study: Home Cleaning Products May Cause Breathing Problems in Children",
@@ -87,7 +95,8 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/02/20/c0ca1443-8ad3-47de-92e3-410ce074eede.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/02/20/c0ca1443-8ad3-47de-92e3-410ce074eede.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Weight Loss Movement Battles Obesity in Malaysia",
@@ -97,6 +106,7 @@
         "catalog": "Health & Lifestyle - VOA",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/02/18/75420f10-2663-4a1a-a102-2a4fa0863eb8.mp3"
+        "mediaurlbackup": "https://av.voanews.com/clips/VLE/2020/02/18/75420f10-2663-4a1a-a102-2a4fa0863eb8.mp3",
+        "enablepractice": 0
     }
 ]

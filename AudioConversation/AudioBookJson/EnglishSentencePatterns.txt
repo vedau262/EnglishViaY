@@ -7,7 +7,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/10/speaking_level1_1_and.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/10/speaking_level1_1_and.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: Are you going to…?",
@@ -17,7 +18,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/10/speaking_level1_2_areyougoingto.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/10/speaking_level1_2_areyougoingto.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: At / In / On and Other Prepositions",
@@ -27,7 +29,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_3_atinon.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_3_atinon.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: Because",
@@ -37,7 +40,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_4_because.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_4_because.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: But",
@@ -47,7 +51,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_5_but.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_5_but.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: Did…?",
@@ -57,7 +62,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_6_did.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_6_did.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: Do…? / Does…?",
@@ -67,7 +73,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_7_dodoes.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_7_dodoes.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: He is scared…",
@@ -77,7 +84,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_8_heisscared.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_8_heisscared.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am about to…",
@@ -87,7 +95,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_9_iamaboutto.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_9_iamaboutto.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am going to…",
@@ -97,7 +106,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_10_iamgoingto.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level1_10_iamgoingto.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am good at…",
@@ -107,7 +117,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_11_iamgoodat.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_11_iamgoodat.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am ready…",
@@ -117,7 +128,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_12_iamready.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_12_iamready.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am sorry…",
@@ -127,7 +139,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_13_iamsorry.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_13_iamsorry.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I am… / She is… / They are…",
@@ -137,7 +150,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_14_iamsheistheyare.mp3?_=1"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_14_iamsheistheyare.mp3?_=1",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 1: I need…",
@@ -147,7 +161,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_15_ineed.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level1_15_ineed.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Can you…?",
@@ -157,7 +172,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_1_canyou.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_1_canyou.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Could I…?",
@@ -167,7 +183,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_2_couldi.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_2_couldi.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Don’t let…",
@@ -177,7 +194,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_4_dontlet.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_4_dontlet.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Don’t you think you should…?",
@@ -187,7 +205,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_5_dontyouthinkyoushould.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_5_dontyouthinkyoushould.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Excuse me…",
@@ -197,7 +216,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_6_excuseme.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_6_excuseme.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: Have you tried…?",
@@ -207,7 +227,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_7_haveyoutried.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_7_haveyoutried.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: He has never…",
@@ -217,7 +238,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_8_hehasnever.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_8_hehasnever.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: How exciting!",
@@ -227,7 +249,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_9_howexciting.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_9_howexciting.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: How long have you…?",
@@ -237,7 +260,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_10_howlonghaveyou.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_10_howlonghaveyou.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: I am looking forward to…",
@@ -247,7 +271,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_11_iamlookingforwardto.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level2_11_iamlookingforwardto.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: I appreciate…",
@@ -257,7 +282,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_12_iappreciate.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_12_iappreciate.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: I can…",
@@ -267,7 +293,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_13_ican.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_13_ican.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: I have been waiting for/since…",
@@ -277,7 +304,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_14_ihavebeenwaitingforsince.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_14_ihavebeenwaitingforsince.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 2: I have been…",
@@ -287,7 +315,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_15_ihavebeen.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level2_15_ihavebeen.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Although…",
@@ -297,7 +326,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_1_although.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_1_although.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Are you telling me that…?",
@@ -307,7 +337,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_2_areyoutellingmethat.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_2_areyoutellingmethat.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Believe it or not…",
@@ -317,7 +348,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_3_believeitornot.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_3_believeitornot.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Could you have…?",
@@ -327,7 +359,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_4_couldyouhave.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_4_couldyouhave.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Don’t even think about…",
@@ -337,7 +370,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_5_donteventhinkabout.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_5_donteventhinkabout.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Even if…",
@@ -347,7 +381,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_6_evenif.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_6_evenif.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: Even though…",
@@ -357,7 +392,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_7_eventhough.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_7_eventhough.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: He seems nice.",
@@ -367,7 +403,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_10_heseemsnice.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/09/speaking_level3_10_heseemsnice.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: How could you…?",
@@ -377,7 +414,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_11_howcouldyou.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_11_howcouldyou.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: How did it go?",
@@ -387,7 +425,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_12_howdiditgo.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_12_howdiditgo.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: I am willing to…",
@@ -397,7 +436,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_13_iamwillingto.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_13_iamwillingto.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: I can’t understand why…",
@@ -407,7 +447,8 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_14_icantunderstandwhy.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_14_icantunderstandwhy.mp3",
+        "enablepractice": 0
     },
     {
         "title": "Speaking Level 3: I couldn’t have…",
@@ -417,6 +458,7 @@
         "catalog": "English Sentence Patterns for Speaking",
         "thumbenable": 1,
         "enable": 1,
-        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_15_icouldnthave.mp3"
+        "mediaurlbackup": "https://convoenglish.co/wp-content/uploads/2019/12/speaking_level3_15_icouldnthave.mp3",
+        "enablepractice": 0
     }
 ]

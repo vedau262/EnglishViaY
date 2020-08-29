@@ -8,7 +8,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/small_accident.html",
-        "quiz": "1. What happened to Carol yesterday?\n Someone stole her car\n She was in an auto accident(x)\n She bought a new car\n She car ran out of gas on the highway\n\n2. Where did Carol go this morning?\n Hospital(x)\n Work\n School\n Store\n\n3. Where is Carol's car?\n It was stolen\n At the auto shop\n At the junkyard(x)\n It was sold\n\n4. What is Carol driving today?\n Her old car\n A rental car(x)\n A new car\n Jane's car"
+        "quiz": "1. What happened to Carol yesterday?\n Someone stole her car\n She was in an auto accident(x)\n She bought a new car\n She car ran out of gas on the highway\n\n2. Where did Carol go this morning?\n Hospital(x)\n Work\n School\n Store\n\n3. Where is Carol's car?\n It was stolen\n At the auto shop\n At the junkyard(x)\n It was sold\n\n4. What is Carol driving today?\n Her old car\n A rental car(x)\n A new car\n Jane's car",
+        "enablepractice": 1
     },
     {
         "title": "Big Auto Accident",
@@ -19,7 +20,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/big_accident.html",
-        "quiz": "1. Where was Mary his morning?\n At the hospital(x)\n At the police station\n At work\n At school\n\n2. When did Mary's son get his driver's license?\n Yesterday\n Last week\n A month ago(x)\n He doesn't have a driver's license\n\n3. Why is Mary so angry?\n Her son could've been killed by an irresponsible driver(x)\n Her son doesn't have auto insurance\n Her son hit someone\n Her son doesn't have his driver's license yet\n\n4. Who caused the accident?\n A drunk driver(x)\n Mary's son\n Mary\n Alice"
+        "quiz": "1. Where was Mary his morning?\n At the hospital(x)\n At the police station\n At work\n At school\n\n2. When did Mary's son get his driver's license?\n Yesterday\n Last week\n A month ago(x)\n He doesn't have a driver's license\n\n3. Why is Mary so angry?\n Her son could've been killed by an irresponsible driver(x)\n Her son doesn't have auto insurance\n Her son hit someone\n Her son doesn't have his driver's license yet\n\n4. Who caused the accident?\n A drunk driver(x)\n Mary's son\n Mary\n Alice",
+        "enablepractice": 1
     },
     {
         "title": "Freeway Auto Accident",
@@ -30,7 +32,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/freeway_accident.html",
-        "quiz": "1. Why was Peter late?\n He was working late\n There was an accident on the freeway(x)\n He stopped by the store to pick up some flowers\n He overslept\n\n2. What were Susan and Peter going to do tonight?\n Have dinner with Cathy and Rick(x)\n Stay home and order pizza\n See a movie\n Go to a concert\n\n3. Why didn't Peter call Susan?\n He forgot to\n He was on an important business call\n He forgot his phone at work\n He didn't want to use the phone while driving(x)\n\n4. What happened to Cathy and Rick?\n They decided not to go out tonight\n They were in an accident on the freeway(x)\n They got into an argument\n They both got food poisoning at the restaurant"
+        "quiz": "1. Why was Peter late?\n He was working late\n There was an accident on the freeway(x)\n He stopped by the store to pick up some flowers\n He overslept\n\n2. What were Susan and Peter going to do tonight?\n Have dinner with Cathy and Rick(x)\n Stay home and order pizza\n See a movie\n Go to a concert\n\n3. Why didn't Peter call Susan?\n He forgot to\n He was on an important business call\n He forgot his phone at work\n He didn't want to use the phone while driving(x)\n\n4. What happened to Cathy and Rick?\n They decided not to go out tonight\n They were in an accident on the freeway(x)\n They got into an argument\n They both got food poisoning at the restaurant",
+        "enablepractice": 1
     },
     {
         "title": "Finding a Car Mechanic",
@@ -41,7 +44,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/car_mechanic.html",
-        "quiz": "1. What kind of auto mechanic is Joe looking for?\n Someone who does a good job\n Someone who is not too expensive\n Neither A or B\n Both A and B(x)\n\n2. What is wrong with Joe's car?\n Transmission problems(x)\n Needs an oil change\n Engine problems\n Car won't start\n\n3. What did Stan replace on his old car?\n Transmission(x)\n Engine\n Battery\n Brakes\n\n4. What does Joe need to get used to if the repair cost is too expensive?\n Taking the bus\n Walking(x)\n Borrowing his friend's car\n Riding his bike"
+        "quiz": "1. What kind of auto mechanic is Joe looking for?\n Someone who does a good job\n Someone who is not too expensive\n Neither A or B\n Both A and B(x)\n\n2. What is wrong with Joe's car?\n Transmission problems(x)\n Needs an oil change\n Engine problems\n Car won't start\n\n3. What did Stan replace on his old car?\n Transmission(x)\n Engine\n Battery\n Brakes\n\n4. What does Joe need to get used to if the repair cost is too expensive?\n Taking the bus\n Walking(x)\n Borrowing his friend's car\n Riding his bike",
+        "enablepractice": 1
     },
     {
         "title": "Fixing the Car",
@@ -52,7 +56,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/fix_car.html",
-        "quiz": "1. What is wrong with Sam's car?\n Transmission problems\n Engine problems\n Dead battery\n He doesn't know(x)\n\n2. Why did Sam choose this mechanic?\n He is cheap(x)\n He is good\n He is the only mechanic in town\n He had a coupon\n\n3. How long has Sam had his car?\n It's brand new\n One year\n Two years\n Three years(x)\n\n4. Who is Sam's mechanic?\n His brother\n His brother-in-law(x)\n His best friend\n His dad"
+        "quiz": "1. What is wrong with Sam's car?\n Transmission problems\n Engine problems\n Dead battery\n He doesn't know(x)\n\n2. Why did Sam choose this mechanic?\n He is cheap(x)\n He is good\n He is the only mechanic in town\n He had a coupon\n\n3. How long has Sam had his car?\n It's brand new\n One year\n Two years\n Three years(x)\n\n4. Who is Sam's mechanic?\n His brother\n His brother-in-law(x)\n His best friend\n His dad",
+        "enablepractice": 1
     },
     {
         "title": "Auto Shop",
@@ -63,7 +68,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/auto_shop.html",
-        "quiz": "1. Where is Jason's car?\n At the auto shop(x)\n His brother is borrowing it\n It was stolen\n He sold it\n\n2. What happened to Jason yesterday?\n He got into a fight with his neighbor\n He lost his job\n He was in an auto accident(x)\n He got a raise at work\n\n3. What is wrong with Dan's car?\n Nothing. It just needs regular maintenance work(x)\n His car won't start\n His radio doesn't work\n His car needs an oil change\n\n4. How does Jason describe the auto shop?\n They do a great job and they are very cheap\n I will never go back there because they do an awful job\n They do a great job, but they are a little expensive(x)\n They do a bad job and they are very expensive"
+        "quiz": "1. Where is Jason's car?\n At the auto shop(x)\n His brother is borrowing it\n It was stolen\n He sold it\n\n2. What happened to Jason yesterday?\n He got into a fight with his neighbor\n He lost his job\n He was in an auto accident(x)\n He got a raise at work\n\n3. What is wrong with Dan's car?\n Nothing. It just needs regular maintenance work(x)\n His car won't start\n His radio doesn't work\n His car needs an oil change\n\n4. How does Jason describe the auto shop?\n They do a great job and they are very cheap\n I will never go back there because they do an awful job\n They do a great job, but they are a little expensive(x)\n They do a bad job and they are very expensive",
+        "enablepractice": 1
     },
     {
         "title": "Gas prices",
@@ -74,7 +80,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/gas_price.html",
-        "quiz": "1. What do Ben and Mike think about the price of gas?\n Too high(x)\n Too low\n Fair\n They don't care since they both do not drive\n\n2. How many buses would Mike have to take to get to work?\n One\n Two\n Three(x)\n Four\n\n3. How does Ben get to work?\n Takes the bus(x)\n Carpools with a co-worker\n Drives alone\n Rides his bike\n\n4. Who can Mike carpool with?\n His dad\n Ben\n His boss(x)\n His co-worker"
+        "quiz": "1. What do Ben and Mike think about the price of gas?\n Too high(x)\n Too low\n Fair\n They don't care since they both do not drive\n\n2. How many buses would Mike have to take to get to work?\n One\n Two\n Three(x)\n Four\n\n3. How does Ben get to work?\n Takes the bus(x)\n Carpools with a co-worker\n Drives alone\n Rides his bike\n\n4. Who can Mike carpool with?\n His dad\n Ben\n His boss(x)\n His co-worker",
+        "enablepractice": 1
     },
     {
         "title": "Bad Traffic",
@@ -85,7 +92,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/bad_traffic.html",
-        "quiz": "1. How long did James sit in traffic last night?\n 15 minutes\n 30 minutes\n One hour\n Two hours(x)\n\n2. Where does James have to go after work?\n Gym\n Daycare(x)\n His second job\n Home\n\n3. What does Kevin do to beat traffic?\n He leaves work late(x)\n He takes the bus\n He carpools with a friend\n He leaves early\n\n4. What does James listen to before leaving work?\n Music\n News\n Traffic report(x)\n Weather report"
+        "quiz": "1. How long did James sit in traffic last night?\n 15 minutes\n 30 minutes\n One hour\n Two hours(x)\n\n2. Where does James have to go after work?\n Gym\n Daycare(x)\n His second job\n Home\n\n3. What does Kevin do to beat traffic?\n He leaves work late(x)\n He takes the bus\n He carpools with a friend\n He leaves early\n\n4. What does James listen to before leaving work?\n Music\n News\n Traffic report(x)\n Weather report",
+        "enablepractice": 1
     },
     {
         "title": "Son's driver's license",
@@ -96,7 +104,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/son_license.html",
-        "quiz": "1. What is Tom's son doing today?\n Graduating from high school\n Taking his driver's license test(x)\n Getting a part-time job\n Having a birthday party\n\n2. What does Tom's son look forward to doing?\n Driving to school(x)\n Going to college\n Going fishing\n Getting a job\n\n3. What does Tom's son have to share?\n Car(x)\n Bike\n Bedroom\n Toys\n\n4. What does Tom want both of his sons to do in a couple of years?\n Get part-time jobs(x)\n Mow the lawn\n Wash the car\n Do their homework"
+        "quiz": "1. What is Tom's son doing today?\n Graduating from high school\n Taking his driver's license test(x)\n Getting a part-time job\n Having a birthday party\n\n2. What does Tom's son look forward to doing?\n Driving to school(x)\n Going to college\n Going fishing\n Getting a job\n\n3. What does Tom's son have to share?\n Car(x)\n Bike\n Bedroom\n Toys\n\n4. What does Tom want both of his sons to do in a couple of years?\n Get part-time jobs(x)\n Mow the lawn\n Wash the car\n Do their homework",
+        "enablepractice": 1
     },
     {
         "title": "Making Dentist Appointment",
@@ -107,7 +116,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/make_appointment.html",
-        "quiz": "1. Why hasn't Eleanor been to the dentist in a while?\n She couldn't find a good one\n They are too far from her home\n She is afraid(x)\n She doesn't trust them\n\n2. Why will Eleanor like Dr. Smith?\n He is very gentle(x)\n He is very handsome\n He is very polite\n He is very smart\n\n3. What time is Eleanor's appointment?\n 8 am\n 9 am\n 4 pm(x)\n 5 pm\n\n4. What does Eleanor need to at the dentist office?\n Brush her teeth\n Fill out some forms(x)\n Talk to the receptionist\n Pay for x-rays"
+        "quiz": "1. Why hasn't Eleanor been to the dentist in a while?\n She couldn't find a good one\n They are too far from her home\n She is afraid(x)\n She doesn't trust them\n\n2. Why will Eleanor like Dr. Smith?\n He is very gentle(x)\n He is very handsome\n He is very polite\n He is very smart\n\n3. What time is Eleanor's appointment?\n 8 am\n 9 am\n 4 pm(x)\n 5 pm\n\n4. What does Eleanor need to at the dentist office?\n Brush her teeth\n Fill out some forms(x)\n Talk to the receptionist\n Pay for x-rays",
+        "enablepractice": 1
     },
     {
         "title": "Talking about Dentist Appointment",
@@ -118,7 +128,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/talking_dentist.html",
-        "quiz": "1. Why is Susie's mom picking her up from school early?\n Susie has a piano recital\n Susie has soccer practice\n Susie has a dentist appointment(x)\n Susie has a doctor appointment\n\n2. What does Susie eat too much of?\n Candy(x)\n Ice cream\n Potato chips\n Popcorn\n\n3. What time is her mom picking her up?\n One o'clock\n Two o'clock(x)\n Three o'clock\n Four o'clock\n\n4. Who is Susie's mom going to call?\n The dentist's office\n The doctor's office\n The school office(x)\n Her husband's office"
+        "quiz": "1. Why is Susie's mom picking her up from school early?\n Susie has a piano recital\n Susie has soccer practice\n Susie has a dentist appointment(x)\n Susie has a doctor appointment\n\n2. What does Susie eat too much of?\n Candy(x)\n Ice cream\n Potato chips\n Popcorn\n\n3. What time is her mom picking her up?\n One o'clock\n Two o'clock(x)\n Three o'clock\n Four o'clock\n\n4. Who is Susie's mom going to call?\n The dentist's office\n The doctor's office\n The school office(x)\n Her husband's office",
+        "enablepractice": 1
     },
     {
         "title": "At the Dentist",
@@ -129,7 +140,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/at_dentist.html",
-        "quiz": "1. What kind of procedure is Linda getting?\n A teeth-cleaning\n A root canal(x)\n A cavity filling\n A routine check-up\n\n2. What is wrong with Linda's tooth?\n It is infected(x)\n It has a cavity\n It is not clean\n Nothing\n\n3. Why doesn't Linda have dental insurance?\n She cannot afford it\n She does not have a job\n She didn't think it was important(x)\n She forgot to get it\n\n4. What do Alice and Linda both agree on?\n It's important to have dental insurance\n It's important to take care of your teeth\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. What kind of procedure is Linda getting?\n A teeth-cleaning\n A root canal(x)\n A cavity filling\n A routine check-up\n\n2. What is wrong with Linda's tooth?\n It is infected(x)\n It has a cavity\n It is not clean\n Nothing\n\n3. Why doesn't Linda have dental insurance?\n She cannot afford it\n She does not have a job\n She didn't think it was important(x)\n She forgot to get it\n\n4. What do Alice and Linda both agree on?\n It's important to have dental insurance\n It's important to take care of your teeth\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "Working Out and Exercising",
@@ -140,7 +152,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/exercise.html",
-        "quiz": "1. When does Paul go to the gym?\n Once a week\n Twice a week\n Every morning before work(x)\n Every day after work\n\n2. What motivated Paul to start working out?\n He needed to lose some weight(x)\n He wanted to meet women at the gym\n He was training for a marathon\n His doctor told him to exercise\n\n3. How many pounds did David gain this year?\n 10\n 20(x)\n 30\n 40\n\n4. What kind of exercise does David like?\n Running\n Lifting weights\n Yoga\n None of the above(x)"
+        "quiz": "1. When does Paul go to the gym?\n Once a week\n Twice a week\n Every morning before work(x)\n Every day after work\n\n2. What motivated Paul to start working out?\n He needed to lose some weight(x)\n He wanted to meet women at the gym\n He was training for a marathon\n His doctor told him to exercise\n\n3. How many pounds did David gain this year?\n 10\n 20(x)\n 30\n 40\n\n4. What kind of exercise does David like?\n Running\n Lifting weights\n Yoga\n None of the above(x)",
+        "enablepractice": 1
     },
     {
         "title": "Late Library Books",
@@ -151,7 +164,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/library_books.html",
-        "quiz": "1. Where is Janet going today?\n Library(x)\n Work\n School\n Bank\n\n2. What did Janet receive in the mail?\n Credit card bill\n Letter from her mom\n Notice for overdue library books(x)\n A birthday card\n\n3. What did Janet find in her son's room?\n Library books\n Notices from the library\n Neither A or B\n Both A and B(x)\n\n4. What can Joseph not do for five weeks?\n Play with his friends\n Play video games(x)\n Watch TV\n Ride his bike"
+        "quiz": "1. Where is Janet going today?\n Library(x)\n Work\n School\n Bank\n\n2. What did Janet receive in the mail?\n Credit card bill\n Letter from her mom\n Notice for overdue library books(x)\n A birthday card\n\n3. What did Janet find in her son's room?\n Library books\n Notices from the library\n Neither A or B\n Both A and B(x)\n\n4. What can Joseph not do for five weeks?\n Play with his friends\n Play video games(x)\n Watch TV\n Ride his bike",
+        "enablepractice": 1
     },
     {
         "title": "Opening a Bank Account for Child",
@@ -162,7 +176,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/open_bank.html",
-        "quiz": "1. Where is Mark going today?\n To the bank with his son(x)\n To the movies with his wife\n To the amusement park with his kids\n To the store with his daughter\n\n2. What did Mark's son receive yesterday?\n His high school diploma\n His first paycheck(x)\n A birthday present\n A college acceptance letter\n\n3. What does Mark want to teach his son?\n How to swim\n How to ride a bike\n How to drive a car\n How to save money(x)\n\n4. What does Peter's younger son want to be?\n A lawyer\n A doctor\n A banker(x)\n An accountant"
+        "quiz": "1. Where is Mark going today?\n To the bank with his son(x)\n To the movies with his wife\n To the amusement park with his kids\n To the store with his daughter\n\n2. What did Mark's son receive yesterday?\n His high school diploma\n His first paycheck(x)\n A birthday present\n A college acceptance letter\n\n3. What does Mark want to teach his son?\n How to swim\n How to ride a bike\n How to drive a car\n How to save money(x)\n\n4. What does Peter's younger son want to be?\n A lawyer\n A doctor\n A banker(x)\n An accountant",
+        "enablepractice": 1
     },
     {
         "title": "Post Office Talk with Friend",
@@ -173,7 +188,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/post_office.html",
-        "quiz": "1. Why does Joe need to go to the Post Office?\n To buy stamps\n To check his Post Office Box\n To send a package(x)\n To pick up his mail\n\n2. What day is it?\n Monday(x)\n Tuesday\n Wednesday\n Thursday\n\n3. Why does Joe decide not to go to the post office?\n It is closed\n The lines are too long(x)\n He wants to take a nap instead\n He doesn't have a car\n\n4. What are Joe and Mark going to do?\n Go to the movies\n Go golfing\n Have lunch(x)\n Go to the store"
+        "quiz": "1. Why does Joe need to go to the Post Office?\n To buy stamps\n To check his Post Office Box\n To send a package(x)\n To pick up his mail\n\n2. What day is it?\n Monday(x)\n Tuesday\n Wednesday\n Thursday\n\n3. Why does Joe decide not to go to the post office?\n It is closed\n The lines are too long(x)\n He wants to take a nap instead\n He doesn't have a car\n\n4. What are Joe and Mark going to do?\n Go to the movies\n Go golfing\n Have lunch(x)\n Go to the store",
+        "enablepractice": 1
     },
     {
         "title": "At the Post Office",
@@ -184,7 +200,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/at_post_office.html",
-        "quiz": "1. Where is the package being mailed?\n China\n England\n India\n Italy(x)\n\n2. What is inside the package?\n Baby clothes\n Toys\n Neither A or B\n Both A and B(x)\n\n3. When will the package arrive?\n Once week(x)\n Two weeks\n Three weeks\n Four weeks\n\n4. What does the customer pay with?\n Cash\n Credit card(x)\n Check\n Money order"
+        "quiz": "1. Where is the package being mailed?\n China\n England\n India\n Italy(x)\n\n2. What is inside the package?\n Baby clothes\n Toys\n Neither A or B\n Both A and B(x)\n\n3. When will the package arrive?\n Once week(x)\n Two weeks\n Three weeks\n Four weeks\n\n4. What does the customer pay with?\n Cash\n Credit card(x)\n Check\n Money order",
+        "enablepractice": 1
     },
     {
         "title": "Running into Friend at Post Office",
@@ -195,7 +212,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/friend_post_office.html",
-        "quiz": "1. What is Robert doing at the Post Office?\n Buying stamps(x)\n Checking his mail\n Mailing a package\n Checking his Post Office box\n\n2. Why can't Kevin open his Post Office box?\n He forgot to pay his bill(x)\n The key is broken\n He can't remember his box number\n His key was stolen\n\n3. How long has Kevin been waiting in line?\n 15 minutes\n 30 minutes(x)\n 45 minutes\n One hour\n\n4. What does Robert have at 9 am?\n Doctor's appointment\n Dentist appointment(x)\n Work\n Church"
+        "quiz": "1. What is Robert doing at the Post Office?\n Buying stamps(x)\n Checking his mail\n Mailing a package\n Checking his Post Office box\n\n2. Why can't Kevin open his Post Office box?\n He forgot to pay his bill(x)\n The key is broken\n He can't remember his box number\n His key was stolen\n\n3. How long has Kevin been waiting in line?\n 15 minutes\n 30 minutes(x)\n 45 minutes\n One hour\n\n4. What does Robert have at 9 am?\n Doctor's appointment\n Dentist appointment(x)\n Work\n Church",
+        "enablepractice": 1
     },
     {
         "title": "Supermarket Talk with Daughter",
@@ -206,7 +224,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/supermarket_daughter.html",
-        "quiz": "1. Where is Sally's mom going?\n To the bank\n To the library\n To the supermarket(x)\n To the Post Office\n\n2. What does Sally want her mom to do?\n Buy some snacks(x)\n Buy her a toy\n Take her to the mall\n Get a haircut\n\n3. What does Sally not like?\n Ice cream\n Fruits(x)\n Pretzels\n Potato chips\n\n4. What does Sally have tomorrow?\n A math test(x)\n A science test\n A history test\n An English test"
+        "quiz": "1. Where is Sally's mom going?\n To the bank\n To the library\n To the supermarket(x)\n To the Post Office\n\n2. What does Sally want her mom to do?\n Buy some snacks(x)\n Buy her a toy\n Take her to the mall\n Get a haircut\n\n3. What does Sally not like?\n Ice cream\n Fruits(x)\n Pretzels\n Potato chips\n\n4. What does Sally have tomorrow?\n A math test(x)\n A science test\n A history test\n An English test",
+        "enablepractice": 1
     },
     {
         "title": "Supermarket Talk with Friend",
@@ -217,7 +236,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/supermarket_friend.html",
-        "quiz": "1. Which market is Jane going to?\n The one a few blocks away\n The one across town\n The one down the street(x)\n The one behind her house\n\n2. Why is the market going out of business?\n Not enough customers(x)\n The owner is retiring\n There was a fire\n No enough employees\n\n3. Why is today a good day to go?\n The market is giving away free stuff\n There are many items on sale(x)\n The market is crowded\n There is no one there\n\n4. Why are there more people going to the bigger market?\n Nicer employees\n Free samples\n Bigger selection(x)\n Not crowded"
+        "quiz": "1. Which market is Jane going to?\n The one a few blocks away\n The one across town\n The one down the street(x)\n The one behind her house\n\n2. Why is the market going out of business?\n Not enough customers(x)\n The owner is retiring\n There was a fire\n No enough employees\n\n3. Why is today a good day to go?\n The market is giving away free stuff\n There are many items on sale(x)\n The market is crowded\n There is no one there\n\n4. Why are there more people going to the bigger market?\n Nicer employees\n Free samples\n Bigger selection(x)\n Not crowded",
+        "enablepractice": 1
     },
     {
         "title": "Shopping List",
@@ -228,6 +248,7 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/shopping_list.html",
-        "quiz": "1. What is Carol doing?\n Reading the newspaper\n Reading a magazine\n Making a shopping list(x)\n Listening to music\n\n2. What are Carol and Jane going to do?\n Have lunch\n Go to the market(x)\n Go to the movies\n Get haircuts\n\n3. What is Jane looking for in her purse?\n Coupons(x)\n Checkbook\n Lipstick\n Hairbrush\n\n4. Where is Jane going to look next?\n Her car\n Her mail box(x)\n Her wallet\n Her desk"
+        "quiz": "1. What is Carol doing?\n Reading the newspaper\n Reading a magazine\n Making a shopping list(x)\n Listening to music\n\n2. What are Carol and Jane going to do?\n Have lunch\n Go to the market(x)\n Go to the movies\n Get haircuts\n\n3. What is Jane looking for in her purse?\n Coupons(x)\n Checkbook\n Lipstick\n Hairbrush\n\n4. Where is Jane going to look next?\n Her car\n Her mail box(x)\n Her wallet\n Her desk",
+        "enablepractice": 1
     }
 ]

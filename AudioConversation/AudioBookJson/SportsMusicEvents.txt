@@ -8,7 +8,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/art_gallery.html",
-        "quiz": "1. Where is Greg going tonight?\n Concert\n Symphony\n Art gallery(x)\n Play\n\n2. What does Greg's friend, Jane, do?\n She's a painter\n She's a sculptor(x)\n She's a singer\n She's a drummer\n\n3. What does Cathy like to do in her spare time?\n Paint(x)\n Do pottery\n Play the piano\n Draw\n\n4. What is Greg's interest?\n Art\n Chess\n Sports\n Music(x)"
+        "quiz": "1. Where is Greg going tonight?\n Concert\n Symphony\n Art gallery(x)\n Play\n\n2. What does Greg's friend, Jane, do?\n She's a painter\n She's a sculptor(x)\n She's a singer\n She's a drummer\n\n3. What does Cathy like to do in her spare time?\n Paint(x)\n Do pottery\n Play the piano\n Draw\n\n4. What is Greg's interest?\n Art\n Chess\n Sports\n Music(x)",
+        "enablepractice": 1
     },
     {
         "title": "Pottery Class",
@@ -19,7 +20,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/pottery_class.html",
-        "quiz": "1. What kind of class is Joan taking now?\n Painting\n Pottery(x)\n Dance\n Quilting\n\n2. What is she going to make her family members?\n Plate\n Bowl\n Cup(x)\n Vase\n\n3. Why does she take different classes?\n She gets bored(x)\n She wants to get a job\n She likes school\n She wants to sell her products\n\n4. What are her hobbies?\n Sewing\n Quilting\n Scrapbooking\n All of the above(x)"
+        "quiz": "1. What kind of class is Joan taking now?\n Painting\n Pottery(x)\n Dance\n Quilting\n\n2. What is she going to make her family members?\n Plate\n Bowl\n Cup(x)\n Vase\n\n3. Why does she take different classes?\n She gets bored(x)\n She wants to get a job\n She likes school\n She wants to sell her products\n\n4. What are her hobbies?\n Sewing\n Quilting\n Scrapbooking\n All of the above(x)",
+        "enablepractice": 1
     },
     {
         "title": "Drawing",
@@ -30,7 +32,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/drawing.html",
-        "quiz": "1. What is one of Sue's hobbies?\n Drawing(x)\n Painting\n Sewing\n Quilting\n\n2. Who needs help with a school project?\n Helen\n Sue\n Helen's son(x)\n Sue's daughter\n\n3. What is the project?\n Build a pyramid out of cardboard\n Draw a castle(x)\n Build a tower\n Draw farm animals\n\n4. When is the project due?\n Today\n Tomorrow(x)\n Monday\n Friday"
+        "quiz": "1. What is one of Sue's hobbies?\n Drawing(x)\n Painting\n Sewing\n Quilting\n\n2. Who needs help with a school project?\n Helen\n Sue\n Helen's son(x)\n Sue's daughter\n\n3. What is the project?\n Build a pyramid out of cardboard\n Draw a castle(x)\n Build a tower\n Draw farm animals\n\n4. When is the project due?\n Today\n Tomorrow(x)\n Monday\n Friday",
+        "enablepractice": 1
     },
     {
         "title": "Tickets to the Symphony",
@@ -41,7 +44,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/symphony.html",
-        "quiz": "1. What does Anne have tickets for?\n Rock concert\n Symphony(x)\n Play\n Comedy show\n\n2. What time does the show start?\n 5 pm\n 6 pm\n 7 pm(x)\n 8 pm\n\n3. What does Jane have to do tonight?\n Study for a test\n Have dinner with her parents\n Visit her sick friend\n Work(x)\n\n4. Where did Anne get the tickets?\n Her work(x)\n Her parents\n She bought them\n She won them on the radio"
+        "quiz": "1. What does Anne have tickets for?\n Rock concert\n Symphony(x)\n Play\n Comedy show\n\n2. What time does the show start?\n 5 pm\n 6 pm\n 7 pm(x)\n 8 pm\n\n3. What does Jane have to do tonight?\n Study for a test\n Have dinner with her parents\n Visit her sick friend\n Work(x)\n\n4. Where did Anne get the tickets?\n Her work(x)\n Her parents\n She bought them\n She won them on the radio",
+        "enablepractice": 1
     },
     {
         "title": "Going to a Play",
@@ -52,7 +56,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/going_play.html",
-        "quiz": "1. Where is Carol going tonight?\n Concert\n Play(x)\n Symphony\n Baseball game\n\n2. What is Carol's daughter studying in college?\n Drama(x)\n Psychology\n Architecture\n Economics\n\n3. How does Carol feel about her daughter?\n Excited\n Proud\n Neither A or B\n Both A and B(x)\n\n4. Who is Carol's daughter most nervous about seeing?\n Her mom\n Her dad\n Her professor(x)\n Her boyfriend"
+        "quiz": "1. Where is Carol going tonight?\n Concert\n Play(x)\n Symphony\n Baseball game\n\n2. What is Carol's daughter studying in college?\n Drama(x)\n Psychology\n Architecture\n Economics\n\n3. How does Carol feel about her daughter?\n Excited\n Proud\n Neither A or B\n Both A and B(x)\n\n4. Who is Carol's daughter most nervous about seeing?\n Her mom\n Her dad\n Her professor(x)\n Her boyfriend",
+        "enablepractice": 1
     },
     {
         "title": "Concert Tickets",
@@ -63,7 +68,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/concert_tickets.html",
-        "quiz": "1. Where is Stephanie going tonight?\n Symphony\n Concert(x)\n Movie theater\n Play\n\n2. Who did Stephanie invite?\n Her mom\n Her dad\n Her brother\n Her best friend(x)\n\n3. Where are their seats?\n Front row(x)\n Last row\n Behind the stage\n On the side\n\n4. How did she get these tickets?\n She bought them\n It was a birthday gift from her brother\n Her dad works for the arena(x)\n She found them on the street"
+        "quiz": "1. Where is Stephanie going tonight?\n Symphony\n Concert(x)\n Movie theater\n Play\n\n2. Who did Stephanie invite?\n Her mom\n Her dad\n Her brother\n Her best friend(x)\n\n3. Where are their seats?\n Front row(x)\n Last row\n Behind the stage\n On the side\n\n4. How did she get these tickets?\n She bought them\n It was a birthday gift from her brother\n Her dad works for the arena(x)\n She found them on the street",
+        "enablepractice": 1
     },
     {
         "title": "Baseball Game with Son",
@@ -74,7 +80,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/go_baseball.html",
-        "quiz": "1. Who is Sam taking to the baseball game?\n His dad\n His son(x)\n His boss\n His wife\n\n2. How did Sam get tickets?\n From his boss(x)\n He bought them\n He won them on a radio show\n They were a gift from his wife\n\n3. Where are his seats?\n By left field\n By right field\n Behind home plate(x)\n By first base\n\n4. Why is Sam bringing his mitt?\n To get it signed by a player\n To catch foul balls\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. Who is Sam taking to the baseball game?\n His dad\n His son(x)\n His boss\n His wife\n\n2. How did Sam get tickets?\n From his boss(x)\n He bought them\n He won them on a radio show\n They were a gift from his wife\n\n3. Where are his seats?\n By left field\n By right field\n Behind home plate(x)\n By first base\n\n4. Why is Sam bringing his mitt?\n To get it signed by a player\n To catch foul balls\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "Basketball Game",
@@ -85,7 +92,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/basketball_game.html",
-        "quiz": "1. What did Phil invite Simon to?\n Baseball game(x)\n Soccer game\n Basketball game\n Football game\n\n2. What are they going to do before the game?\n Work\n Eat dinner(x)\n Study\n Go to the store\n\n3. How is Phil going to pay Simon for the ticket?\n Buy him dinner(x)\n Buy him a beer\n Pay for gas\n Give him money for the ticket\n\n4. What time does the game start?\n 4 pm\n 5 pm\n 6 pm\n 7pm(x)"
+        "quiz": "1. What did Phil invite Simon to?\n Baseball game(x)\n Soccer game\n Basketball game\n Football game\n\n2. What are they going to do before the game?\n Work\n Eat dinner(x)\n Study\n Go to the store\n\n3. How is Phil going to pay Simon for the ticket?\n Buy him dinner(x)\n Buy him a beer\n Pay for gas\n Give him money for the ticket\n\n4. What time does the game start?\n 4 pm\n 5 pm\n 6 pm\n 7pm(x)",
+        "enablepractice": 1
     },
     {
         "title": "Soccer Game",
@@ -96,7 +104,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/soccer_game.html",
-        "quiz": "1. Where did Cathy watch the soccer game?\n At home on TV\n At a bar\n At the arena(x)\n At David's house\n\n2. Who did she watch it with?\n Her boss\n Her co-workers(x)\n David\n Her husband\n\n3. What happened at the game?\n A drunk guy was escorted out(x)\n There was a serious injury\n It started to rain\n People were bored\n\n4. Who won the game?\n David and Cathy's team(x)\n The other team\n It was a tie\n The game was delayed due to rain"
+        "quiz": "1. Where did Cathy watch the soccer game?\n At home on TV\n At a bar\n At the arena(x)\n At David's house\n\n2. Who did she watch it with?\n Her boss\n Her co-workers(x)\n David\n Her husband\n\n3. What happened at the game?\n A drunk guy was escorted out(x)\n There was a serious injury\n It started to rain\n People were bored\n\n4. Who won the game?\n David and Cathy's team(x)\n The other team\n It was a tie\n The game was delayed due to rain",
+        "enablepractice": 1
     },
     {
         "title": "Basketball at the Park",
@@ -107,7 +116,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/basketball_park.html",
-        "quiz": "1. Where does Joe play basketball?\n At school\n At the park(x)\n At a sports arena\n In his backyard\n\n2. What team was Charlie on in high school?\n Swim\n Football\n Basketball(x)\n Wrestling\n\n3. What does Charlie have to do today?\n Go to his grandparents' house\n Help his friend move furniture\n Go to the doctor\n Go to the dentist(x)\n\n4. When does Joe play basketball?\n Every Saturday at 10 am(x)\n Every Saturday at noon\n Every Sunday at noon\n Every Monday at 4 pm"
+        "quiz": "1. Where does Joe play basketball?\n At school\n At the park(x)\n At a sports arena\n In his backyard\n\n2. What team was Charlie on in high school?\n Swim\n Football\n Basketball(x)\n Wrestling\n\n3. What does Charlie have to do today?\n Go to his grandparents' house\n Help his friend move furniture\n Go to the doctor\n Go to the dentist(x)\n\n4. When does Joe play basketball?\n Every Saturday at 10 am(x)\n Every Saturday at noon\n Every Sunday at noon\n Every Monday at 4 pm",
+        "enablepractice": 1
     },
     {
         "title": "Son's Baseball Team",
@@ -118,7 +128,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/son_baseball.html",
-        "quiz": "1. Why is Steve carrying baseball gear?\n He's coaching his son's baseball team(x)\n He's selling them at the garage sale\n He's giving them away to a neighbor\n He's a major league player\n\n2. What position did Bob play in college?\n Catcher\n 1st base\n Shortstop\n Pitcher(x)\n\n3. Why did Bob stop playing baseball in college?\n It was boring\n He got injured(x)\n He needed to study\n He wanted to play basketball\n\n4. What did Steve ask Bob to do?\n To coach his son's baseball team\n To help his son with throwing(x)\n To buy his baseball gear\n To give him a ride to the baseball field"
+        "quiz": "1. Why is Steve carrying baseball gear?\n He's coaching his son's baseball team(x)\n He's selling them at the garage sale\n He's giving them away to a neighbor\n He's a major league player\n\n2. What position did Bob play in college?\n Catcher\n 1st base\n Shortstop\n Pitcher(x)\n\n3. Why did Bob stop playing baseball in college?\n It was boring\n He got injured(x)\n He needed to study\n He wanted to play basketball\n\n4. What did Steve ask Bob to do?\n To coach his son's baseball team\n To help his son with throwing(x)\n To buy his baseball gear\n To give him a ride to the baseball field",
+        "enablepractice": 1
     },
     {
         "title": "Daughter's Soccer Game",
@@ -129,7 +140,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/daughter_soccer.html",
-        "quiz": "1. What is Janet doing today?\n Playing soccer\n Going to her daughter's soccer game(x)\n Watching soccer on TV\n Buying a new soccer ball\n\n2. What is the weather going to be like?\n Sunny\n Cloudy\n Rainy(x)\n Snowy\n\n3. What does Janet's daughter want?\n A new car\n A cell phone\n A scholarship to college(x)\n A new laptop\n\n4. What is Janet's daughter's dream?\n To become a surgeon\n To win the lottery\n To get married\n To play in the Olympics(x)"
+        "quiz": "1. What is Janet doing today?\n Playing soccer\n Going to her daughter's soccer game(x)\n Watching soccer on TV\n Buying a new soccer ball\n\n2. What is the weather going to be like?\n Sunny\n Cloudy\n Rainy(x)\n Snowy\n\n3. What does Janet's daughter want?\n A new car\n A cell phone\n A scholarship to college(x)\n A new laptop\n\n4. What is Janet's daughter's dream?\n To become a surgeon\n To win the lottery\n To get married\n To play in the Olympics(x)",
+        "enablepractice": 1
     },
     {
         "title": "Backyard Barbeque",
@@ -140,7 +152,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/backyard_bbq.html",
-        "quiz": "1. What did Bill invite Ted to?\n A birthday party\n A graduation ceremony\n A backyard barbeque(x)\n A piano recital\n\n2. What is the special occasion?\n Bill's birthday\n Bill's graduation\n Bill's daughter's piano recital\n Bill wants to test out his new outdoor grill(x)\n\n3. What did Bill ask Ted to bring?\n Tools\n Beverages(x)\n Dessert\n Money\n\n4. What is Bill going to serve?\n Hamburgers\n Hot dogs\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. What did Bill invite Ted to?\n A birthday party\n A graduation ceremony\n A backyard barbeque(x)\n A piano recital\n\n2. What is the special occasion?\n Bill's birthday\n Bill's graduation\n Bill's daughter's piano recital\n Bill wants to test out his new outdoor grill(x)\n\n3. What did Bill ask Ted to bring?\n Tools\n Beverages(x)\n Dessert\n Money\n\n4. What is Bill going to serve?\n Hamburgers\n Hot dogs\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "Backyard Birthday Party",
@@ -151,7 +164,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/bbq_birthday.html",
-        "quiz": "1. Do does Karen want to throw a birthday party for?\n Bobby(x)\n Karen\n Susan\n Steve\n\n2. What is the weather going to be like this weekend?\n Rainy\n Sunny(x)\n Snowy\n Cloudy\n\n3. What is Susan offer to do for Karen?\n Go grocery shopping\n Do laundry\n Grill hot dogs\n Bake the birthday cake(x)\n\n4. How much does Susan have to pay Karen?\n $100\n $200\n $300\n Nothing. It is a gift to Bobby(x)"
+        "quiz": "1. Do does Karen want to throw a birthday party for?\n Bobby(x)\n Karen\n Susan\n Steve\n\n2. What is the weather going to be like this weekend?\n Rainy\n Sunny(x)\n Snowy\n Cloudy\n\n3. What is Susan offer to do for Karen?\n Go grocery shopping\n Do laundry\n Grill hot dogs\n Bake the birthday cake(x)\n\n4. How much does Susan have to pay Karen?\n $100\n $200\n $300\n Nothing. It is a gift to Bobby(x)",
+        "enablepractice": 1
     },
     {
         "title": "Grilling Steaks",
@@ -162,7 +176,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/bbq_friends.html",
-        "quiz": "1. What does Dan want to grill tonight?\n Steaks(x)\n Hamburgers\n Hot dogs\n Fish\n\n2. Who are Dan and Tim inviting to dinner?\n Susie and Linda\n Sandy and Linda\n Sandy and Susie(x)\n None of the above\n\n3. What is a vegetarian?\n A person who is afraid of the dark\n A person who does not eat meat(x)\n A person who is afraid of water\n A person who is allergic to peanuts\n\n4. Who is a vegetarian?\n Susie\n Sandy\n Linda(x)\n Dan"
+        "quiz": "1. What does Dan want to grill tonight?\n Steaks(x)\n Hamburgers\n Hot dogs\n Fish\n\n2. Who are Dan and Tim inviting to dinner?\n Susie and Linda\n Sandy and Linda\n Sandy and Susie(x)\n None of the above\n\n3. What is a vegetarian?\n A person who is afraid of the dark\n A person who does not eat meat(x)\n A person who is afraid of water\n A person who is allergic to peanuts\n\n4. Who is a vegetarian?\n Susie\n Sandy\n Linda(x)\n Dan",
+        "enablepractice": 1
     },
     {
         "title": "Choir Club",
@@ -173,7 +188,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/choir.html",
-        "quiz": "1. What club does Jennifer not want to join?\n Choir(x)\n Chess\n Math\n Science\n\n2. Why doesn't Jennifer want to join the club?\n She doesn't like the teacher\n She's has no talent\n She doesn't have time\n She's too shy(x)\n\n3. What does Nancy think about Jennifer's skill?\n She's terrible\n She needs some improvement\n She's great(x)\n She should quit her dream\n\n4. What does the club teacher think about Jennifer?\n She's has an amazing voice(x)\n She is a good dancer\n She is a great speller\n She's very smart in math"
+        "quiz": "1. What club does Jennifer not want to join?\n Choir(x)\n Chess\n Math\n Science\n\n2. Why doesn't Jennifer want to join the club?\n She doesn't like the teacher\n She's has no talent\n She doesn't have time\n She's too shy(x)\n\n3. What does Nancy think about Jennifer's skill?\n She's terrible\n She needs some improvement\n She's great(x)\n She should quit her dream\n\n4. What does the club teacher think about Jennifer?\n She's has an amazing voice(x)\n She is a good dancer\n She is a great speller\n She's very smart in math",
+        "enablepractice": 1
     },
     {
         "title": "Playing Instruments",
@@ -184,7 +200,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/music_instruments.html",
-        "quiz": "1. How many instruments does Jason play?\n 1\n 2(x)\n 3\n 4\n\n2. How long did Jason take lessons?\n 1 year\n 2 years\n 5 years\n 10 years(x)\n\n3. What instrument does Matt want to play?\n Piano\n Violin\n Guitar(x)\n Clarinet\n\n4. What did Jason's parents do in China?\n They owned a clothing business\n They were doctors\n They were famous musicians(x)\n They were famous designers"
+        "quiz": "1. How many instruments does Jason play?\n 1\n 2(x)\n 3\n 4\n\n2. How long did Jason take lessons?\n 1 year\n 2 years\n 5 years\n 10 years(x)\n\n3. What instrument does Matt want to play?\n Piano\n Violin\n Guitar(x)\n Clarinet\n\n4. What did Jason's parents do in China?\n They owned a clothing business\n They were doctors\n They were famous musicians(x)\n They were famous designers",
+        "enablepractice": 1
     },
     {
         "title": "Dance Classes",
@@ -195,6 +212,7 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/SportsMusicEvents/dance_class.html",
-        "quiz": "1. What did Jane need to buy for dance class?\n Shoes(x)\n Leotard\n Bag\n Yoga mat\n\n2. Where is Jane taking dance lessons?\n Studio\n Community center(x)\n Private home\n High school\n\n3. What is her favorite type of dance?\n Ballet\n Modern\n Tap(x)\n Hip Hop\n\n4. Why doesn't Carol take dance lessons?\n She hates dancing\n She doesn't have time\n Her leg is broken\n She thinks she is too old(x)"
+        "quiz": "1. What did Jane need to buy for dance class?\n Shoes(x)\n Leotard\n Bag\n Yoga mat\n\n2. Where is Jane taking dance lessons?\n Studio\n Community center(x)\n Private home\n High school\n\n3. What is her favorite type of dance?\n Ballet\n Modern\n Tap(x)\n Hip Hop\n\n4. Why doesn't Carol take dance lessons?\n She hates dancing\n She doesn't have time\n Her leg is broken\n She thinks she is too old(x)",
+        "enablepractice": 1
     }
 ]

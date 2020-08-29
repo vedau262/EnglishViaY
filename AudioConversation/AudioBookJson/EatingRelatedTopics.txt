@@ -8,7 +8,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/breakfast-with-grandparents.html",
-        "quiz": "1. Who's coming over for breakfast?\n Lucy's friend\n Lucy's grandparents(x)\n Lucy's boyfriend\n Lucy's teacher\n\n2. What is for breakfast?\n Pancakes\n Eggs\n Hash browns\n All of the above(x)\n\n3. What is Lucy going to make?\n Orange juice(x)\n French toast\n Crepes\n Coffee\n\n4. What did Lucy's mom run out of?\n Milk\n Coffee\n Eggs(x)\n Butter"
+        "quiz": "1. Who's coming over for breakfast?\n Lucy's friend\n Lucy's grandparents(x)\n Lucy's boyfriend\n Lucy's teacher\n\n2. What is for breakfast?\n Pancakes\n Eggs\n Hash browns\n All of the above(x)\n\n3. What is Lucy going to make?\n Orange juice(x)\n French toast\n Crepes\n Coffee\n\n4. What did Lucy's mom run out of?\n Milk\n Coffee\n Eggs(x)\n Butter",
+        "enablepractice": 1
     },
     {
         "title": "Breakfast at Home or the Diners",
@@ -19,7 +20,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/breakfast-at-home-or-diners.html",
-        "quiz": "1. Where is the new diner located?\n Across town\n Down the street(x)\n In another city\n Three blocks away\n\n2. What is the diner's specialty?\n Omelets(x)\n Waffles\n Pancakes\n Crepes\n\n3. How long did Janet wait for a table?\n 10 minutes\n 30 minutes\n 45 minutes\n One hour(x)\n\n4. What ingredient are Kevin and Jane missing?\n Eggs\n Ham(x)\n Cheese\n Mushrooms"
+        "quiz": "1. Where is the new diner located?\n Across town\n Down the street(x)\n In another city\n Three blocks away\n\n2. What is the diner's specialty?\n Omelets(x)\n Waffles\n Pancakes\n Crepes\n\n3. How long did Janet wait for a table?\n 10 minutes\n 30 minutes\n 45 minutes\n One hour(x)\n\n4. What ingredient are Kevin and Jane missing?\n Eggs\n Ham(x)\n Cheese\n Mushrooms",
+        "enablepractice": 1
     },
     {
         "title": "Pancake Breakfast",
@@ -30,7 +32,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/pancake-breakfast.html",
-        "quiz": "1. Where is Sally and her family's favorite breakfast place?\n A pancake house on Main Street(x)\n A waffle house on First Avenue\n A diner down the street\n Sally's home cooked breakfasts\n\n2. What do Sally's kids like?\n Belgian waffles with strawberries\n Chocolate chip pancakes(x)\n Glazed donuts\n Cinnamon French toast\n\n3. What is Sally doing Saturday morning?\n Going to Joanne's soccer game(x)\n Going to church\n Going shopping with friends\n Getting her hair done\n\n4. When are Sally and Mary going to meet for breakfast?\n Today\n On Saturday at 10 am\n On Sunday at 10am(x)\n They don't have time to meet"
+        "quiz": "1. Where is Sally and her family's favorite breakfast place?\n A pancake house on Main Street(x)\n A waffle house on First Avenue\n A diner down the street\n Sally's home cooked breakfasts\n\n2. What do Sally's kids like?\n Belgian waffles with strawberries\n Chocolate chip pancakes(x)\n Glazed donuts\n Cinnamon French toast\n\n3. What is Sally doing Saturday morning?\n Going to Joanne's soccer game(x)\n Going to church\n Going shopping with friends\n Getting her hair done\n\n4. When are Sally and Mary going to meet for breakfast?\n Today\n On Saturday at 10 am\n On Sunday at 10am(x)\n They don't have time to meet",
+        "enablepractice": 1
     },
     {
         "title": "Preparing Dinner for Guests",
@@ -41,7 +44,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/preparing-dinner-for-guests.html",
-        "quiz": "1. Who is Sue cooking dinner for tonight?\n Her mother-in-law\n Her boss\n Her husband's boss and wife(x)\n Alice\n\n2. Who is a vegetarian?\n Jeff's boss's wife\n Alice's mother-in-law\n Neither A or B\n Both A and B(x)\n\n3. What is Sue going to make tonight?\n Roast beef\n Pot roast\n Lasagna(x)\n Salmon\n\n4. What happened when Alice cooked for her boss?\n She served undercooked chicken\n She burned the roast beef(x)\n Her dog at the main dish\n Her turkey was still frozen"
+        "quiz": "1. Who is Sue cooking dinner for tonight?\n Her mother-in-law\n Her boss\n Her husband's boss and wife(x)\n Alice\n\n2. Who is a vegetarian?\n Jeff's boss's wife\n Alice's mother-in-law\n Neither A or B\n Both A and B(x)\n\n3. What is Sue going to make tonight?\n Roast beef\n Pot roast\n Lasagna(x)\n Salmon\n\n4. What happened when Alice cooked for her boss?\n She served undercooked chicken\n She burned the roast beef(x)\n Her dog at the main dish\n Her turkey was still frozen",
+        "enablepractice": 1
     },
     {
         "title": "Dinner with Grandparents",
@@ -52,7 +56,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/dinner-with-grandparents.html",
-        "quiz": "1. Where do Ethan and his family go every Sunday evening?\n To a Chinese restaurant\n To Ethan's grandparents' house(x)\n Stay home for dinner\n Pizza place\n\n2. What does Ethan's grandmother make every weekend?\n Meatloaf\n Chicken pot pie(x)\n Pot roast\n Roast beef\n\n3. What is going to be their new tradition?\n Macaroni Mondays\n Taco Tuesdays\n French toast Fridays\n Sundaes on Sundays(x)\n\n4. What does Ethan's grandfather love to eat?\n Chicken pot pie\n Ice cream\n Neither A or B\n Both A and B(x)"
+        "quiz": "1. Where do Ethan and his family go every Sunday evening?\n To a Chinese restaurant\n To Ethan's grandparents' house(x)\n Stay home for dinner\n Pizza place\n\n2. What does Ethan's grandmother make every weekend?\n Meatloaf\n Chicken pot pie(x)\n Pot roast\n Roast beef\n\n3. What is going to be their new tradition?\n Macaroni Mondays\n Taco Tuesdays\n French toast Fridays\n Sundaes on Sundays(x)\n\n4. What does Ethan's grandfather love to eat?\n Chicken pot pie\n Ice cream\n Neither A or B\n Both A and B(x)",
+        "enablepractice": 1
     },
     {
         "title": "No Time to Eat",
@@ -63,7 +68,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/no-time-to-eat.html",
-        "quiz": "1. What does Jane have today?\n A job interview\n A dentist appointment\n A soccer game\n A big test(x)\n\n2. What is she going to eat?\n A burger(x)\n Her mom's cooking\n Pizza\n Nothing\n\n3. Why does she like fast food?\n It's delicious\n It's quick and easy(x)\n It's close to home\n It's cheap\n\n4. What does she take before she leaves home?\n An apple\n An orange\n A banana(x)\n A granola bar"
+        "quiz": "1. What does Jane have today?\n A job interview\n A dentist appointment\n A soccer game\n A big test(x)\n\n2. What is she going to eat?\n A burger(x)\n Her mom's cooking\n Pizza\n Nothing\n\n3. Why does she like fast food?\n It's delicious\n It's quick and easy(x)\n It's close to home\n It's cheap\n\n4. What does she take before she leaves home?\n An apple\n An orange\n A banana(x)\n A granola bar",
+        "enablepractice": 1
     },
     {
         "title": "Quick Bite to Eat",
@@ -74,7 +80,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/quick-bite-to-eat.html",
-        "quiz": "1. What are they doing tonight?\n Going to a concert(x)\n Watching a movie\n Studying at the library\n Visiting their parents\n\n2. What are they going to eat?\n Spaghetti and meatballs\n Macaroni and cheese\n Burgers and fries(x)\n Steak and mashed potatoes\n\n3. What do they think of fast food?\n Healthy and nutritious\n Delicious and fancy\n Fast and cheap(x)\n Disgusting and greasy\n\n4. What is too long?\n The drive-thru line(x)\n The movie ticket line\n The popcorn line\n The store checkout line"
+        "quiz": "1. What are they doing tonight?\n Going to a concert(x)\n Watching a movie\n Studying at the library\n Visiting their parents\n\n2. What are they going to eat?\n Spaghetti and meatballs\n Macaroni and cheese\n Burgers and fries(x)\n Steak and mashed potatoes\n\n3. What do they think of fast food?\n Healthy and nutritious\n Delicious and fancy\n Fast and cheap(x)\n Disgusting and greasy\n\n4. What is too long?\n The drive-thru line(x)\n The movie ticket line\n The popcorn line\n The store checkout line",
+        "enablepractice": 1
     },
     {
         "title": "Working at a Fast Food Place",
@@ -85,7 +92,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/working-at-fast-food-place.html",
-        "quiz": "1. What was Sam's first job?\n Newspaper delivery boy\n Fast food worker(x)\n Dishwasher\n Waiter\n\n2. What did Sam learn at his first job?\n How to work quickly\n How to handle customers\n Neither A or B\n Both A and B(x)\n\n3. Where does Scott want to get a job?\n Fast food restaurant(x)\n Hospital\n Bookstore\n Grocery store\n\n4. What kind of training does Scott need?\n Customer Service(x)\n Cooking\n Bagging groceries\n Babysitting"
+        "quiz": "1. What was Sam's first job?\n Newspaper delivery boy\n Fast food worker(x)\n Dishwasher\n Waiter\n\n2. What did Sam learn at his first job?\n How to work quickly\n How to handle customers\n Neither A or B\n Both A and B(x)\n\n3. Where does Scott want to get a job?\n Fast food restaurant(x)\n Hospital\n Bookstore\n Grocery store\n\n4. What kind of training does Scott need?\n Customer Service(x)\n Cooking\n Bagging groceries\n Babysitting",
+        "enablepractice": 1
     },
     {
         "title": "Planning for Lunch with Friend",
@@ -96,7 +104,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/planning-for-lunch-with-friend.html",
-        "quiz": "1. What is Joan doing today?\n Having lunch with Karen\n Having lunch with her mom(x)\n Going to the dentist\n Working\n\n2. Where are they having lunch tomorrow?\n Chinese restaurant(x)\n Italian restaurant\n Sandwich deli\n At Karen's house\n\n3. Who else are they inviting?\n Cathy and Lisa\n Cathy and Sharon(x)\n Just Cathy\n No one else\n\n4. What time are they meeting?\n 11 am\n Noon(x)\n 1 pm\n 2 pm"
+        "quiz": "1. What is Joan doing today?\n Having lunch with Karen\n Having lunch with her mom(x)\n Going to the dentist\n Working\n\n2. Where are they having lunch tomorrow?\n Chinese restaurant(x)\n Italian restaurant\n Sandwich deli\n At Karen's house\n\n3. Who else are they inviting?\n Cathy and Lisa\n Cathy and Sharon(x)\n Just Cathy\n No one else\n\n4. What time are they meeting?\n 11 am\n Noon(x)\n 1 pm\n 2 pm",
+        "enablepractice": 1
     },
     {
         "title": "Talking about your Lunch",
@@ -107,7 +116,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/talking-about-your-lunch.html",
-        "quiz": "1. What does Steve's mom pack him every day for lunch?\n Peanut butter and jelly sandwich(x)\n Cookies\n Milk\n All of the above\n\n2. What did Bobby's mom pack him today?\n Peanut butter and jelly sandwich\n Turkey sandwich\n Tuna sandwich(x)\n Ham and cheese sandwich\n\n3. What are they going to trade?\n Baseball cards\n Stamp collection\n Coins\n Lunches(x)\n\n4. Which dishes taste like cardboard?\n Spaghetti and pizza\n Hamburgers and burritos(x)\n Tacos and nachos\n Peanut butter and jelly sandwiches"
+        "quiz": "1. What does Steve's mom pack him every day for lunch?\n Peanut butter and jelly sandwich(x)\n Cookies\n Milk\n All of the above\n\n2. What did Bobby's mom pack him today?\n Peanut butter and jelly sandwich\n Turkey sandwich\n Tuna sandwich(x)\n Ham and cheese sandwich\n\n3. What are they going to trade?\n Baseball cards\n Stamp collection\n Coins\n Lunches(x)\n\n4. Which dishes taste like cardboard?\n Spaghetti and pizza\n Hamburgers and burritos(x)\n Tacos and nachos\n Peanut butter and jelly sandwiches",
+        "enablepractice": 1
     },
     {
         "title": "Lunch Decisions",
@@ -118,7 +128,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/lunch-decisions.html",
-        "quiz": "1. What do Kathy and Bill always eat?\n Pizza(x)\n Spaghetti\n Raw fish\n Chinese food\n\n2. What does Bill not like to eat?\n Pizza\n Spaghetti\n Raw fish(x)\n Chinese food\n\n3. What do Kathy and Bill agree on?\n Eating Chinese food(x)\n Eating sushi\n Eating pizza\n Going to a restaurant\n\n4. Where are they going to eat?\n At a restaurant\n At home\n At the park\n They don't agree on where to eat(x)"
+        "quiz": "1. What do Kathy and Bill always eat?\n Pizza(x)\n Spaghetti\n Raw fish\n Chinese food\n\n2. What does Bill not like to eat?\n Pizza\n Spaghetti\n Raw fish(x)\n Chinese food\n\n3. What do Kathy and Bill agree on?\n Eating Chinese food(x)\n Eating sushi\n Eating pizza\n Going to a restaurant\n\n4. Where are they going to eat?\n At a restaurant\n At home\n At the park\n They don't agree on where to eat(x)",
+        "enablepractice": 1
     },
     {
         "title": "Trying Different Restaurants",
@@ -129,7 +140,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/trying-different-restaurants.html",
-        "quiz": "1. What do Linda and Jennifer want to eat tonight?\n Indian food(x)\n Korean food\n Mexican food\n Greek food\n\n2. Who has tried it before?\n Linda\n Jennifer\n Neither A or B(x)\n Both A and B\n\n3. Where are they going to get reviews of different restaurants?\n Newspaper\n Magazine\n Online(x)\n Friends\n\n4. What did they decide to do every week?\n Go grocery shopping\n Try a new restaurant(x)\n Clean their apartment\n Wash the car"
+        "quiz": "1. What do Linda and Jennifer want to eat tonight?\n Indian food(x)\n Korean food\n Mexican food\n Greek food\n\n2. Who has tried it before?\n Linda\n Jennifer\n Neither A or B(x)\n Both A and B\n\n3. Where are they going to get reviews of different restaurants?\n Newspaper\n Magazine\n Online(x)\n Friends\n\n4. What did they decide to do every week?\n Go grocery shopping\n Try a new restaurant(x)\n Clean their apartment\n Wash the car",
+        "enablepractice": 1
     },
     {
         "title": "Opening up a Restaurant",
@@ -140,7 +152,8 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/opening-up-restaurant.html",
-        "quiz": "1. What kind of restaurant is Stanley going to open?\n Mexican\n Italian\n Korean\n Chinese(x)\n\n2. What does Stanley need to do before opening his restaurant?\n Make some repairs(x)\n Learn how to cook\n Talk to his wife\n Get a bank loan\n\n3. What is Stanley's dream?\n To become a television chef\n To judge cooking competitions\n To open a restaurant in America(x)\n To cook for the President of the United States\n\n4. What does Stanley want Bill to do?\n Taste his dishes(x)\n Help him remodel his restaurant\n Be his waiter\n Teach him how to cook"
+        "quiz": "1. What kind of restaurant is Stanley going to open?\n Mexican\n Italian\n Korean\n Chinese(x)\n\n2. What does Stanley need to do before opening his restaurant?\n Make some repairs(x)\n Learn how to cook\n Talk to his wife\n Get a bank loan\n\n3. What is Stanley's dream?\n To become a television chef\n To judge cooking competitions\n To open a restaurant in America(x)\n To cook for the President of the United States\n\n4. What does Stanley want Bill to do?\n Taste his dishes(x)\n Help him remodel his restaurant\n Be his waiter\n Teach him how to cook",
+        "enablepractice": 1
     },
     {
         "title": "Delicious Restaurant",
@@ -151,6 +164,7 @@
         "thumbenable": 1,
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/EatingRelatedTopics/delicious-restaurant.html",
-        "quiz": "1. What kind of restaurant did Jane go to?\n Steakhouse\n Seafood(x)\n Italian\n Mexican\n\n2. How was the waiter?\n Polite(x)\n Rude\n Angry\n Busy\n\n3. Why didn't Mary join Jane for dinner?\n She had too much homework\n She already had dinner plans\n She was sick(x)\n She wasn't hungry\n\n4. What did Jane bring Mary?\n Dessert\n Clam chowder(x)\n French fries\n Chicken noodle soup"
+        "quiz": "1. What kind of restaurant did Jane go to?\n Steakhouse\n Seafood(x)\n Italian\n Mexican\n\n2. How was the waiter?\n Polite(x)\n Rude\n Angry\n Busy\n\n3. Why didn't Mary join Jane for dinner?\n She had too much homework\n She already had dinner plans\n She was sick(x)\n She wasn't hungry\n\n4. What did Jane bring Mary?\n Dessert\n Clam chowder(x)\n French fries\n Chicken noodle soup",
+        "enablepractice": 1
     }
 ]

@@ -9,7 +9,7 @@
         "enable": 1,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TripAndVacations/going-to-beach.html",
         "quiz": "1. What does Carl like to do all day?\n Sleep\n Study\n Watch TV(x)\n Play outside\n\n2. What does Sally want to do?\n Go to the beach(x)\n Go shopping\n Watch TV\n Go to a concert\n\n3. What do Sally and Carl like taking pictures of?\n The mountains\n The trees\n The sunset at the beach(x)\n Their children\n\n4. When does Carl agree to watch television?\n After Sally goes to sleep\n When it rains(x)\n When he's bored\n When Sally is not home",
-        "enablepractice": 0
+        "enablepractice": 1
     },
     {
         "title": "Going to the Zoo",
