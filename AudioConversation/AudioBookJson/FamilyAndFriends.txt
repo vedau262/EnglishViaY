@@ -6,7 +6,9 @@
         "dialog": "MOM: \"Jane, how was school today?\"\nJANE: \"Mom, it was fun. I made a new friend.\"\nMOM: \"That's nice. What's her name?\"\nJANE: \"Her name is Cindy.\"\nMOM: \"Is she new to your school?\"\nJANE: \"Yeah, she's a new student. She moved here from Seattle, Washington.\"\nMOM: \"You have an aunt who lives in Seattle.\"\nJANE: \"I know. I like Seattle. It's beautiful there, but it rains too much.\"\nMOM: \"Yeah. That's why we're staying in sunny California.\"\nJANE: \"Cindy and I have a lot in common. We both like drawing, playing with dogs, and eating pizza.\"\nMOM: \"You should invite her over for dinner one night.\"\nJANE: \"Can we, Mom?\"\nMOM: \"Sure. We can order pizza.\"\nJANE: \"Maybe I'll ask her if she can come over on Friday.\"\nMOM: \"Ok. Let's invite her parents too. We can get to know them.\"\nJANE: \"That's a good idea. They don't have any friends here, yet.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/new-friend-at-school.html",
+        "quiz": "1. What happened at school today?\n Jane's teacher was absent\n Jane made a new friend(x)\n Jane got into trouble\n Jane forgot her homework\n\n2. Who lives in Seattle, Washington?\n Jane's grandparents\n Jane's best friend\n Jane's aunt(x)\n Jane\n\n3. What do Jane and Cindy have in common?\n They both like drawing\n They both like dogs\n They both like pizza\n All of the above(x)\n\n4. What does Jane's mom want to do?\n Go out to dinner\n Move to Seattle\n Invite Cindy and her parents over for dinner(x)\n Bake cookies"
     },
     {
         "title": "Meeting Someone at the Apartment",
@@ -15,7 +17,9 @@
         "dialog": "PAUL: \"Hi. Are you new to the apartment building?\"\nMONICA: \"Yes. My name is Monica.\"\nPAUL: \"Nice to meet you, Monica. My name is Paul. I live on the third floor, apartment number 305.\"\nMONICA: \"I live on the fourth floor in 405.\"\nPAUL: \"Hey, you live right above me.\"\nMONICA: \"That's funny. I hope I'm not too noisy. I've been moving furniture around.\"\nPAUL: \"That's ok. It doesn't bother me. Have you met any of the other neighbors?\"\nMONICA: \"I met a few people. Everyone seems friendly here.\"\nPAUL: \"Yeah. Every month, we have a party on the rooftop. It's a potluck, so you can bring a dish to share.\"\nMONICA: \"That sounds fun! I love parties and potlucks.\"\nPAUL: \"Our next one is on Saturday at 5 pm. You should come. I'm bringing my famous pasta salad.\"\nMONICA: \"Sounds delicious. I'll make a chocolate cake.\"\nPAUL: \"I love chocolate cake. I can't wait to try it.\"\nMONICA: \"Thanks for letting me know about the party.\"\nPAUL: \"There should be an invitation in your mailbox. Everyone gets one.\"\nMONICA: \"I better check the mailbox then. I still have so much unpacking to do.\"\nPAUL: \"Do you need help moving any more furniture?\"\nMONICA: \"No. My brother helped me last night. I'm done with the big items. I just need to unpack pots and pans and dishes now.\"\nPAUL: \"Ok. Let me know if you need help. See you at the party.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/meeting-someone-at-apartment.html",
+        "quiz": "1. What apartment does Paul live in?\n 105\n 205\n 305(x)\n 405\n\n2. Where does Monica live?\n Below Paul\n On the first floor\n Above Paul(x)\n On the rooftop\n\n3. What is happening on Saturday?\n Potluck party(x)\n Tenants meeting\n Paul is moving out\n Monica is moving in\n\n4. What is Paul's famous dish?\n Spaghetti\n Lasagna\n Fried rice\n Pasta salad(x)"
     },
     {
         "title": "Riding School Bus with Friend",
@@ -24,7 +28,9 @@
         "dialog": "MOM: \"Hi Billy, how was your first day at a new school?\"\nBILLY: \"It was ok, Mom.\"\nMOM: \"Did you make any new friends?\"\nBILLY: \"Yeah. A boy in my class.\"\nMOM: \"Is he nice? What's his name?\"\nBILLY: \"He's cool. His name is Brian. He plays soccer.\"\nMOM: \"You love soccer. You were on the soccer team at your old school.\"\nBILLY: \"Yeah, I miss my old team with Ted, Mark, and Richard.\"\nMOM: \"I know you do. Do you want to invite Brian over to play one day?\"\nBILLY: \"Sure. He rides the school bus on our street.\"\nMOM: \"Do you want to start riding the school bus too.\"\nBILLY: \"Yeah. Then I can meet more of the neighborhood kids.\"\nMOM: \"Ok. Let's plan for you to ride the bus tomorrow morning.\"\nBILLY: \"Brian said the bus comes at 7:45.\"\nMOM: \"Then you need to wake up at 7 o'clock.\"\nBILLY: \"I know. I'll set my alarm.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/riding-school-bus-with-friend.html",
+        "quiz": "1. Why is today special for Billy?\n It's the last day of school\n It's his birthday\n It's his first day at a new school(x)\n There's a class party\n\n2. What is the name of Billy's new friend?\n Ted\n Richard\n Mark\n Brian(x)\n\n3. What does Billy want to do tomorrow morning?\n Ride the school bus to school(x)\n Sleep longer\n Stay home from school\n Play soccer\n\n4. What time does Billy need to wake up tomorrow morning?\n 7:00 am(x)\n 7:15 am\n 7:30 am\n 7:45 am"
     },
     {
         "title": "Misunderstanding",
@@ -33,7 +39,9 @@
         "dialog": "BILL: \"Hey Joe. Have you seen Sandy?\"\nJOE: \"No, Bill. Why?\"\nBILL: \"We had a misunderstanding and she is not talking to me.\"\nJOE: \"Oh. I'm sorry to hear that.\"\nBILL: \"Yeah. I said something silly and hurt her feelings.\"\nJOE: \"What did you say?\"\nBILL: \"It's not important. I don't want to discuss it. I just want to apologize to her.\"\nJOE: \"She always hangs out at Linda's house or the library.\"\nBILL: \"I've already checked both places.\"\nJOE: \"How about her house.\"\nBILL: \"Her roommate said she wasn't home.\"\nJOE: \"Have you called her cell phone.\"\nBILL: \"Yeah, several times.\"\nJOE: \"She must really be mad at you.\"\nBILL: \"She was! She stormed off and I didn't get to explain what I meant.\"\nJOE: \"I'm really curious now. What did you say to her?\"\nBILL: \"I told her to exercise.\"\nJOE: \"Well, that probably wasn't a smart thing to say to a woman.\"\nBILL: \"I meant that she should exercise to stay healthy.\"\nJOE: \"That sounds better. Hope you find her.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/misunderstanding.html",
+        "quiz": "1. Why is Bill looking for Sandy?\n They have a date\n He needs a ride to school\n He wants to apologize to her(x)\n He wants to study together\n\n2. What did Bill do?\n He hurt Sandy's feelings(x)\n He hurt Joe's feelings\n He got angry at Sandy\n He got angry at Joe\n\n3. Where has Bill looked?\n Sandy's house\n Linda's house\n Library\n All of the above(x)\n\n4. What does Bill think of exercise?\n It's silly\n It keeps you healthy(x)\n It's unnecessary\n He doesn't like it"
     },
     {
         "title": "Buying a New Necklace",
@@ -42,7 +50,9 @@
         "dialog": "SUSIE: \"Hi Sally. What are you doing here?\"\nSALLY: \"Hey Susie. I need to buy my sister a new necklace. I accidentally lost her necklace and she is really mad at me now.\"\nSUSIE: \"But you said it was an accident.\"\nSALLY: \"Yeah, but I didn't ask if I could borrow it.\"\nSUSIE: \"Oh, that's not good.\"\nSALLY: \"She wasn't home and it looked nice with my outfit, so I wore it.\"\nSUSIE: \"That's like stealing.\"\nSALLY: \"I know. I feel terrible. I was going to put it back when I got home.\"\nSUSIE: \"How did you lose it?\"\nSALLY: \"I don't know. I was on my way home and I noticed it was gone.\"\nSUSIE: \"Was it an expensive necklace?\"\nSALLY: \"I don't know. I'm looking for a replacement here.\"\nSUSIE: \"What does it look like?\"\nSALLY: \"It's a gold butterfly.\"\nSUSIE: \"Like this one?\"\nSALLY: \"That's it! That's exactly like hers? How much is it?\"\nSUSIE: \"The price tag says $100.\"\nSALLY: \"Wow! That's expensive. Now I see why she was really mad.\"\nSUSIE: \"Are you going to buy it?\"\nSALLY: \"Yeah. That's all the money I have until my next paycheck.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/buying-new-necklace.html",
+        "quiz": "1. What is Sally shopping for?\n A purse\n A wallet\n A camera\n A necklace(x)\n\n2. Who is she shopping for?\n Her mom\n Her sister(x)\n Susie\n Herself\n\n3. Why does she need to go shopping?\n To buy a replacement for a lost item(x)\n She just got her paycheck\n She needs a new outfit\n It's her mother's birthday\n\n4. How much does she have to spend?\n $100(x)\n $200\n $300\n $400"
     },
     {
         "title": "Argument with Roommate",
@@ -51,7 +61,9 @@
         "dialog": "BETTY: \"Hey Nancy, why do you look so worried?\"\nNANCY: \"Oh, hi Betty. Christine and I had a big argument and she has decided to move out.\"\nBETTY: \"What did you argue about?\"\nNANCY: \"I told her that she needs to help clean up around the apartment.\"\nBETTY: \"What happened after you told her that?\"\nNANCY: \"She got upset and said she is moving out. But it's the truth. She never helps around house.\"\nBETTY: \"Yeah, that could be a problem.\"\nNANCY: \"I had to say something since we're roommates and I'm tired of cleaning her mess.\"\nBETTY: \"I totally understand. I like things neat and organized too.\"\nNANCY: \"But the bigger problem is that she never pays her rent on time. She is late every month.\"\nBETTY: \"What are you going to do?\"\nNANCY: \"I need to find a roommate soon. I can't afford the rent by myself. Do you know anyone looking for a roommate?\"\nBETTY: \"Yes, I do.\"\nNANCY: \"Who?\"\nBETTY: \"Me.\"\nNANCY: \"That would be awesome!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/argument-with-roommate.html",
+        "quiz": "1. Why did Christine and Nancy have an argument?\n Christine is messy and does not pay her rent on time(x)\n Christine and Nancy do not agree on politics\n Christine does not do the dishes\n Nancy does not like the way Christine decorates the apartment\n\n2. What is Christine going to do?\n Be a better roommate\n Pay more rent\n Move out(x)\n Buy a house\n\n3. What does Nancy need to do?\n Get a new job\n Find another roommate(x)\n Decorate the apartment\n Clean the apartment\n\n4. What do Betty and Nancy decide to do together?\n Go shopping\n Eat dinner\n Go to the movies\n Become roommates(x)"
     },
     {
         "title": "Planning to Hangout",
@@ -60,7 +72,9 @@
         "dialog": "JOHN: \"Hello?\"\nSTEVEN: \"Hi John. This is Steven. What are you doing tonight?\"\nJOHN: \"Hey Steven. Nothing much. I don't have any plans yet.\"\nSTEVEN: \"Do you want to hang out?\"\nJOHN: \"Sure. What did you have in mind?\"\nSTEVEN: \"I don't know. It's Friday and I'm bored.\"\nJOHN: \"Want to go to the movies?\"\nSTEVEN: \"Is there a good movie to see?\"\nJOHN: \"Let's check the Internet.\"\nSTEVEN: \"Ok. Let me log onto my computer.\"\nJOHN: \"Do you want to see a comedy or a drama?\"\nSTEVEN: \"Nothing sad or depressing. I had a hard work week. I want to see something funny.\"\nJOHN: \"I agree. Work was stressful for me too.\"\nSTEVEN: \"There aren't any new comedies right now. I only see dramas and horror movies.\"\nJOHN: \"Yeah, that's all I see too.\"\nSTEVEN: \"Hey, let's go to comedy club. My favorite comedian is performing tonight at the local theater.\"\nJOHN: \"That sounds great. What time?\"\nSTEVEN: \"It starts at 7 pm. Let's do dinner too.\"\nJOHN: \"Good idea! I'll meet you at your house at 5 pm.\"\nSTEVEN: \"See you tonight.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/planning-to-hangout.html",
+        "quiz": "1. What are John's plans tonight?\n Go on a date\n Study at the library\n Work late\n He had no plans(x)\n\n2. Why did Steven call John?\n He needed help on his homework\n It is a Friday night and he's bored(x)\n His car broke down\n He needs help fixing his computer\n\n3. What kind of movie do they want to see?\n Drama\n Comedy(x)\n Horror\n Documentary\n\n4. What did John and Steven decide to do tonight?\n Go to the movies and eat popcorn\n Eat dinner and go to a comedy club(x)\n Stay home and order pizza\n Study and eat snacks"
     },
     {
         "title": "Going to the Mall",
@@ -69,7 +83,9 @@
         "dialog": "JANE: \"Hey Carol, are you done with your final exams?\"\nCAROL: \"Yes, Jane! I had my last one this morning. How about you?\"\nJANE: \"Yeah, I got done an hour ago.\"\nCAROL: \"Do you want to celebrate?\"\nJANE: \"Sure! What should we do?\"\nCAROL: \"I don't know. Should we throw a party?\"\nJANE: \"What if our friends are not done with exams.\"\nCAROL: \"Yeah, you're right. Do you want to go dancing?\"\nJANE: \"I don't know how to dance.\"\nCAROL: \"You don't? It's easy. Just move your body to music.\"\nJANE: \"I look silly when I dance.\"\nCAROL: \"Me too. I don't care.\"\nJANE: \"Let's do something else.\"\nCAROL: \"Ok. Do you have any ideas?\"\nJANE: \"Do you want to go see a play?\"\nCAROL: \"That sounds boring. I want to do something active.\"\nJANE: \"I think we have different ideas of fun.\"\nCAROL: \"Yeah. How about shopping? Do you want to go to the mall?\"\nJANE: \"I love shopping. Let's do that. We can eat dinner there too.\"\nCAROL: \"Great! Let's meet at the department store at 4 pm.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/going-to-mall.html",
+        "quiz": "1. Why do Carol and Jane want to celebrate?\n It's Jane's birthday\n It's Carol's birthday\n They are graduating\n They finished their final exams(x)\n\n2. What does Carol want to do?\n Go dancing(x)\n Go to the movies\n Go to a music concert\n Stay home\n\n3. What does Carol think is boring?\n Movies\n Plays(x)\n Shopping\n Dancing\n\n4. What are Carol and Jane going to do later?\n Eat dinner\n Go shopping\n Neither A or B\n Both A and B(x)"
     },
     {
         "title": "Sleepover",
@@ -78,7 +94,9 @@
         "dialog": "LINDA: \"Hello?\"\nSTACY: \"Hi Linda. This is Stacy. Are you free tomorrow night?\"\nLINDA: \"No, I'm not. Why?\"\nSTACY: \"I'm inviting a couple of friends to sleep over.\"\nLINDA: \"I wish I could go, but I have to babysit my younger sister.\"\nSTACY: \"That's too bad. We were going to rent a movie and order pizza.\"\nLINDA: \"Now I really wish I could go. That sounds like so much fun.\"\nSTACY: \"Can your parents find another babysitter?\"\nLINDA: \"No. Our regular babysitter got sick, so they asked me.\"\nSTACY: \"I see. What time will your parents be back?\"\nLINDA: \"9 o'clock pm.\"\nSTACY: \"Do you want to come over after you finish babysitting?\"\nLINDA: \"Will you still be awake?\"\nSTACY: \"Of course! It's a sleepover party. We're all going to sleep late.\"\nLINDA: \"Ok! Please save me some pizza.\"\nSTACY: \"I will. See you tomorrow night.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/sleepover.html",
+        "quiz": "1. What kind of party is Stacy having?\n Birthday\n Graduation\n Sleepover(x)\n Surprise\n\n2. Why can't Linda go?\n She has to babysit her younger sister(x)\n She is sick\n She is having dinner with her parents\n She has to do her homework\n\n3. What is Stacy planning for her party?\n Rent a movie and order pizza(x)\n Go to the movie theater and eat popcorn\n Shop and eat dinner at the mall\n Stay home and order Chinese food\n\n4. What is Linda going to do after 9 o'clock pm?\n Sleep\n Do her homework\n Watch a movie at home\n Go to Stacy's house(x)"
     },
     {
         "title": "Coworker Moving Away",
@@ -87,7 +105,9 @@
         "dialog": "KAREN: \"Hello?\"\nJANET: \"Hi Karen. This is Janet. Did you hear that Joanne is moving to England?\"\nKAREN: \"Yeah, what a great opportunity for her.\"\nJANET: \"I'm thinking about throwing her a going-away party. What do you think?\"\nKAREN: \"I think that's wonderful idea. She is such a good co-worker.\"\nJANET: \"Would you like to help me plan it?\"\nKAREN: \"Sure. Let's make it a potluck, so everyone can bring a dish to share.\"\nJANET: \"That's a great idea. Less stress if I don't have to cook.\"\nKAREN: \"Right! How many people do you want to invite?\"\nJANET: \"How about all of the people she works with. How many is that?\"\nKAREN: \"I think there are about 30 people in our department, including us.\"\nJANET: \"Should we keep it a secret or let her know?\"\nKAREN: \"She doesn't like people making a big fuss over her, so let's keep it a secret.\"\nJANET: \"When should we have the party?\"\nKAREN: \"When is she moving?\"\nJANET: \"Next month, I think.\"\nKAREN: \"Then we should do it soon. She'll be busy packing and getting ready for the move.\"\nJANET: \"How about next Friday? It's her last day at work too.\"\nKAREN: \"Perfect!\"\nJANET: \"I'll send out an email to everyone tonight. Thanks for your help.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/coworker-moving-away.html",
+        "quiz": "1. Where is Joanne moving?\n Hong Kong\n Hawaii\n England(x)\n Canada\n\n2. What does Janet want to do for Joanne?\n Give her a present\n Throw her a going-away party(x)\n Give her an award\n Take her out to dinner\n\n3. How many people work in their department?\n 20\n 30(x)\n 40\n 50\n\n4. When is Joanne's last day at work?\n Next Monday\n Next Friday(x)\n Next month\n In two months"
     },
     {
         "title": "Daughter's friend Moving Away",
@@ -96,7 +116,9 @@
         "dialog": "MOM: \"Sally, what's wrong? Why do you look so sad?\"\nSALLY: \"Mom, Candace is moving away.\"\nMOM: \"Oh, I'm sorry to hear that. Why is she moving?\"\nSALLY: \"Her dad got a job in another state.\"\nMOM: \"Where is she moving?\"\nSALLY: \"To California. That's across the country.\"\nMOM: \"There are many ways you can still keep in touch. You can e-mail, text, and call each other on the phone.\"\nSALLY: \"But it won't be the same as seeing each other every day. She is my best friend. I'm going to miss her.\"\nMOM: \"I know you will. When are they moving?\"\nSALLY: \"At the end of June when the school year ends. In two months.\"\nMOM: \"Would you like to invite her over this weekend? You can have a sleepover.\"\nSALLY: \"Yes, please. That would be great. We're going to try to hang out as much as possible before she moves.\"\nMOM: \"That sounds like a good plan.\"\nSALLY: \"Can we visit her in California?\"\nMOM: \"It's pretty far from us. We don't know anyone there.\"\nSALLY: \"Yes, we do. Candace and her family.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/daughters-friend-moving-away.html",
+        "quiz": "1. Why is Sally's best friend moving?\n Her dad got a job in another state(x)\n Her parents are getting a divorce\n She doesn't like her school\n She is moving closer to her grandparents\n\n2. How can Sally and Candace keep in touch?\n E-mail\n Text\n Phone\n All of the above(x)\n\n3. When is Candace moving?\n At the beginning of the school year\n At the middle of the school year\n At the end of the school year(x)\n Next week\n\n4. How close is California to Sally's house?\n It's the same state\n It's the same city\n It's across the country(x)\n It's in another country"
     },
     {
         "title": "Selling the House",
@@ -105,7 +127,9 @@
         "dialog": "DAD: \"Hey Jeff. Are you ok?\"\nJEFF: \"Hi Dad. Yeah, I'm just a little sad that we are selling my childhood home.\"\nDAD: \"I know. I'm sad too. But it's just too big for your mother and me.\"\nJEFF: \"I understand. I just have a lot of memories here.\"\nDAD: \"Me too. This is the first home your mother and I bought.\"\nJEFF: \"Do you remember all of our holiday parties here? Everyone came to our house.\"\nDAD: \"Of course I remember them. Those were the best times.\"\nJEFF: \"Now I'm married and have a family of my own.\"\nDAD: \"I wish we didn't have to sell it, but we can no longer take care of it. We're getting old and it's too much work.\"\nJEFF: \"Do you know who bought our house?\"\nDAD: \"A young couple with two kids. They seem like a loving family.\"\nJEFF: \"Where will you and mom go?\"\nDAD: \"We found a beautiful, small condo a few blocks away.\"\nJEFF: \"That's nice. Will there be enough room when the grandchildren visit?\"\nDAD: \"Yes. We have an extra room for guests, so your kids can stay over any time.\"\nJEFF: \"Where's Mom?\"\nDAD: \"She's at the fabric store. She wants to sew new curtains for the condo.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/selling-house.html",
+        "quiz": "1. Why are Jeff's parents selling their home?\n Because they are getting too old to take care of it(x)\n Because it's too small\n Because they don't like their neighbors\n Because Jeff wants to buy it\n\n2. Who bought their home?\n A businessman\n Jeff\n A young couple with two kids(x)\n A retired couple\n\n3. Where are Jeff's parents moving to?\n Retirement home\n Beautiful, small condo(x)\n Jeff's house\n To a bigger house\n\n4. What is Jeff's mom doing?\n She's buying fabric to make curtains(x)\n She's at the store to buy groceries\n She's making dinner\n She's going for a walk"
     },
     {
         "title": "Loud Dog Barking",
@@ -114,7 +138,9 @@
         "dialog": "KATHY: \"Hi Carol. You look tired today.\"\nCAROL: \"I am tired. I didn't get any sleep last night.\"\nKATHY: \"Why?\"\nCAROL: \"Our neighbor's dog would not stop barking. He barked all night long.\"\nKATHY: \"That's awful! Did you complain to your neighbor?\"\nCAROL: \"I knocked on his door, but he didn't answer. I don't think he was home.\"\nKATHY: \"What did you do all night?\"\nCAROL: \"I couldn't sleep, so I tried to read a book. But the dog's barking kept distracting me. So, I just watched TV.\"\nKATHY: \"I would be so angry. You should've called the police.\"\nCAROL: \"I didn't want to bother the police with a barking dog.\"\nKATHY: \"I would have called them. What if there was an emergency at your neighbor's house and the dog was trying to alert someone.\"\nCAROL: \"That's true. I didn't think about that. But this dog usually barks because he's bored.\"\nKATHY: \"That's annoying.\"\nCAROL: \"I know.\"\nKATHY: \"Hey Carol. Is that your neighbor? He's walking towards us.\"\nCAROL: \"What is he holding?\"\nKATHY: \"It looks like a plate of cookies.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/loud-dog-barking.html",
+        "quiz": "1. Why does Carol look tired?\n She was studying all night\n She just ran a marathon\n She didn't get any sleep(x)\n She has jet lag\n\n2. What was her neighbor's dog doing last night?\n Digging a hole\n Barking all night(x)\n Begging for food\n Chasing cats\n\n3. What did Carol do all night?\n Watch television(x)\n Read a book\n Study for a test\n Played video games\n\n4. What is her neighbor holding?\n A bouquet of flowers\n His dog\n A note\n A plate of cookies(x)"
     },
     {
         "title": "Loud Neighborhood Music",
@@ -123,7 +149,9 @@
         "dialog": "JOAN: \"Hi Helen. What's wrong?\"\nHELEN: \"I couldn't sleep until 3 o'clock in the morning.\"\nJOAN: \"Why? What happened?\"\nHELEN: \"Our neighbors' children threw a big party last night. The music was so loud.\"\nJOAN: \"Wow! Where were their parents?\"\nHELEN: \"They are on vacation. They left the kids home.\"\nJOAN: \"How old are the kids?\"\nHELEN: \"They're teenagers. They're old enough to be home alone.\"\nJOAN: \"Did you complain to them?\"\nHELEN: \"Yes! I went over there three times. I told them that their music was too loud and we were trying to sleep.\"\nJOAN: \"What did they do?\"\nHELEN: \"Nothing. They wouldn't turn the music down.\"\nJOAN: \"That is so rude! Why didn't you call the police?\"\nHELEN: \"I finally did. The police found some of the teens drinking alcohol.\"\nJOAN: \"I bet that ended the party.\"\nHELEN: \"Yeah. Now my neighbors are heading back home from their vacation.\"\nJOAN: \"Do they know what happened?\"\nHELEN: \"Yes. They are not happy. Those kids are in big trouble.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/loud-neighborhood-music.html",
+        "quiz": "1. Who is Helen angry at?\n Her neighbors(x)\n Her parents\n Her children\n Joan\n\n2. Why couldn't Joan get any sleep?\n Because of loud music(x)\n Because of a barking dog\n Because she was worried about her children\n Because her husband snores\n\n3. Who did she call in the middle of the night?\n Her neighbors\n The police(x)\n Her husband\n Her children\n\n4. Who is in big trouble?\n Helen\n Her children\n Her husband\n Her neighbor's children(x)"
     },
     {
         "title": "Helping a Neighbor",
@@ -132,7 +160,9 @@
         "dialog": "JANET: \"I feel so bad for Mary.\"\nSARAH: \"Me too. I can't believe her husband died. They were married for a long time.\"\nJANET: \"I know. What is she going to do now?\"\nSARAH: \"I don't know. Does she have any children?\"\nJANET: \"No, I don't think they had any children.\"\nSARAH: \"How about other family members?\"\nJANET: \"I think she had one sister, but she passed away several years ago.\"\nSARAH: \"So, she's all alone now?\"\nJANET: \"Yeah. Isn't that sad?\"\nSARAH: \"Yes, it is very sad.\"\nJANET: \"She is always so nice to everyone. I think we should all get together and do something nice for her.\"\nSARAH: \"I like that idea. What should we do?\"\nJANET: \"Let's take turns helping her around the house?\"\nSARAH: \"Great idea! We can take care of her yard, help clean her house, and bring her meals.\"\nJANET: \"I love this. Let's talk to the other neighbors soon.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/helping-neighbor.html",
+        "quiz": "1. What happened to Mary?\n She got divorced\n Her husband died(x)\n Her children moved away\n She was laid off from work\n\n2. How many children does Mary have?\n 1\n 2\n 3\n None(x)\n\n3. What do people think of Mary?\n She's mean to kids\n She's always nice to everyone(x)\n She is rude to customers\n She's a selfish woman\n\n4. What are Janet and Sarah going to do for Mary?\n Clean her house\n Do her yard work\n Bring her meals\n All of the above(x)"
     },
     {
         "title": "Small Talk at the Bus Stop",
@@ -141,7 +171,9 @@
         "dialog": "ALICE: \"Has Bus 47 come yet?\"\nTOM: \"No. I think it's late today.\"\nALICE: \"Do you ride this bus every day?\"\nTOM: \"Yeah. Do you?\"\nALICE: \"Not every day. Only a couple of times a week.\"\nTOM: \"Well, I think the bus is late today because of the rain.\"\nALICE: \"Oh. Does the weather make a difference?\"\nTOM: \"Yes. The bus is usually several minutes late when it rains.\"\nALICE: \"Because of bad traffic?\"\nTOM: \"Yeah and probably because of car accidents.\"\nALICE: \"That makes sense. I must have picked the wrong day to ride the bus.\"\nTOM: \"Actually, I think riding the bus on rainy days is better.\"\nALICE: \"Why?\"\nTOM: \"Then you don't have to drive in bad traffic. Someone is driving for you.\"\nALICE: \"You are totally right! I'm going to check the weather from now on. I'm going to take the bus when it rains.\"\nTOM: \"Then I'll see you here at the bus stop.\"\nALICE: \"Great! It was nice talking with you.\"\nTOM: \"Yes, it was. I think our bus is coming now.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/small-talk-at-bus-stop.html",
+        "quiz": "1. What is the bus schedule today?\n It's on time\n It's early\n It's late(x)\n It was cancelled\n\n2. What is the weather like today?\n It's sunny\n It's raining(x)\n It's snowing\n It's clear\n\n3. When does Tom ride the bus?\n A couple of times a week\n When it rains\n Everyday(x)\n Only on Fridays\n\n4. When is Alice going to ride the bus?\n When there is a sports game\n When it rains(x)\n When she works late\n When Tom rides the bus"
     },
     {
         "title": "Small Talk about Sports",
@@ -150,7 +182,9 @@
         "dialog": "MATTHEW: \"I like your sports jersey.\"\nKAREN: \"Thanks! You must be a fan too.\"\nMATTHEW: \"I am. I went to that college.\"\nKAREN: \"Really? Me too.\"\nMATTHEW: \"What year did you graduate?\"\nKAREN: \"2000.\"\nMATTHEW: \"I graduated in 2004.\"\nKAREN: \"What was your major?\"\nMATTHEW: \"I studied Law.\"\nKAREN: \"I studied Law, too!\"\nMATTHEW: \"I'm Matthew, by the way.\"\nKAREN: \"I'm Karen. Nice to meet you, Matthew.\"\nMATTHEW: \"Are you going to the game tonight?\"\nKAREN: \"No. I'm going to watch it at home.\"\nMATTHEW: \"I have an extra ticket. Would you like to go to the game with me?\"\nKAREN: \"I'd love to. We can watch our college football team win tonight!\"\nMATTHEW: \"Ok! What about dinner first?\"\nKAREN: \"Sounds great.\"\nMATTHEW: \"I'll meet you at this coffee shop at 5 pm.\"\nKAREN: \"Ok. See you tonight, Matthew.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/small-talk-about-sports.html",
+        "quiz": "1. What is Karen wearing?\n A sweatshirt\n A sports jersey(x)\n A T-shirt\n A jacket\n\n2. What did they both major in?\n Medicine\n Mathematics\n Law(x)\n Business\n\n3. What are they doing tonight?\n Going to a college football game(x)\n Studying at the library\n Watching a movie\n Staying home and eating pizza\n\n4. Where are they going to meet later?\n At school\n At the mall\n At a coffee shop(x)\n At the bookstore"
     },
     {
         "title": "Taxi Small Talk",
@@ -159,7 +193,9 @@
         "dialog": "SUE: \"Can we share this cab?\"\nMARK: \"Where are you going?\"\nSUE: \"To 5th Avenue and Main Street.\"\nMARK: \"That's where I'm going too.\"\nSUE: \"Great! It's so hard to catch a cab at this time.\"\nMARK: \"I know! Are you going to work?\"\nSUE: \"No, I'm meeting some friends at a restaurant.\"\nMARK: \"Is it the new Thai place?\"\nSUE: \"Yes. Have you been there?\"\nMARK: \"Yeah.\"\nSUE: \"How is it?\"\nMARK: \"It's pretty good.\"\nSUE: \"Oh good. It's my first time trying Thai food.\"\nMARK: \"Really? Everything is freshly made.\"\nSUE: \"That's good to hear. I'm a little picky about food.\"\nMARK: \"I hope you like it.\"\nSUE: \"Thanks. Where are you going?\"\nMARK: \"Work.\"\nSUE: \"Where do you work?\"\nMARK: \"I'm a chef at the new Thai restaurant.\"\nSUE: \"That's awesome!\"\nMARK: \"Let the chef know what you think later. If you liked it, you may get a free dessert.\"\nSUE: \"You're funny!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/taxi-small-talk.html",
+        "quiz": "1. What are Mark and Sue going to share?\n Dessert\n Taxi(x)\n Pizza\n Notes\n\n2. Where is Sue going?\n To a restaurant(x)\n To school\n To work\n Home\n\n3. What kind of food has Sue not tried before?\n Chinese\n Italian\n Thai(x)\n Hawaiian\n\n4. What is Mark's job?\n Teacher\n Doctor\n Lawyer\n Chef(x)"
     },
     {
         "title": "Family Reunion",
@@ -168,7 +204,9 @@
         "dialog": "ROBERT: \"Mom, are we having a big party tonight?\"\nMOM: \"Yes, Robert. All of our relatives are coming. Did you forget?\"\nROBERT: \"Oh yeah. It's our annual family reunion.\"\nMOM: \"How could you forget? We have a big party every year. This year it is at our house.\"\nROBERT: \"I remember it was at Uncle Walter's house last year. That was fun.\"\nMOM: \"Do you need any help?\"\nROBERT: \"Yes. Could you please go to the store and buy some ice?\"\nMOM: \"I made some lemonade and I want to keep it cold during the party.\"\nROBERT: \"That's a good idea. It's going to be hot today.\"\nMOM: \"I hope the food stays fresh.\"\nROBERT: \"I'm sure it will be fine. What are you making?\"\nMOM: \"It's going to be a potluck. I am serving barbeque ribs and potatoes.\"\nROBERT: \"Do you know what other people are bringing.\"\nMOM: \"I think some people are going to bring salads, appetizers, and desserts.\"\nROBERT: \"Sounds like a feast.\"\nMOM: \"I think everyone is coming, except Aunt Linda. She's feeling sick today.\"\nROBERT: \"That's too bad. She is my favorite aunt.\"\nMOM: \"I know. She's my favorite sister.\"\nROBERT: \"I can't wait to see all of my cousins.\"\nMOM: \"They're excited to see you too. But right now, please go buy some ice.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/family-reunion.html",
+        "quiz": "1. What is Robert's mom planning tonight?\n A family reunion(x)\n A birthday party\n A graduation party\n A surprise party\n\n2. What does she want Robert to do?\n Vacuum the house\n Wash the dishes\n Do the laundry\n Buy some ice(x)\n\n3. What is Robert's mom cooking?\n Barbeque ribs\n Potatoes\n Neither A nor B\n Both A and B(x)\n\n4. Who is not able to come?\n Aunt Linda(x)\n Aunt Sally\n Neither A or B\n Both A and B"
     },
     {
         "title": "Boring Family Reunion",
@@ -177,7 +215,9 @@
         "dialog": "SAM: \"Mom, do I have to go to the family reunion?\"\nMOM: \"Yes, Sam. Why don't you want to go?\"\nSAM: \"It's boring and I have no one to talk to.\"\nMOM: \"You have a lot of cousins.\"\nSAM: \"I know, but they are all younger than me.\"\nMOM: \"So, you could entertain them.\"\nSAM: \"Ok.\"\nMOM: \"Your grandparents will be very disappointed if you do not attend.\"\nSAM: \"Ok. Where is it going to be?\"\nMOM: \"It is going to be at an Italian restaurant. Italian food is your favorite.\"\nSAM: \"I know. How long is it going to be?\"\nMOM: \"Probably a few hours.\"\nSAM: \"Can I leave early?\"\nMOM: \"If you can find a ride home, you can leave early.\"\nSAM: \"I wish I knew how to drive.\"\nMOM: \"You will learn someday. But tonight you are going to the reunion.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/boring-family-reunion.html",
+        "quiz": "1. Why doesn't Sam want to go to the family reunion?\n He has homework\n It's boring and he has no one to talk to(x)\n He has a date\n He is working late\n\n2. Why doesn't he want to hang out with his cousins?\n They are all younger than him(x)\n They are mean to him\n They are not coming\n They don't like him\n\n3. Who will be disappointed if Sam does not attend the reunion?\n His cousins\n His sister\n His grandparents(x)\n His teachers\n\n4. What is Sam's favorite food?\n Chinese\n Italian(x)\n Korean\n Mexican"
     },
     {
         "title": "Unhappy Family Reunion",
@@ -186,7 +226,9 @@
         "dialog": "JANE: \"Hello?\"\nSUSAN: \"Hi Jane. This is Susan.\"\nJANE: \"Hi Susan. How are you?\"\nSUSAN: \"Did you receive an invitation to the family reunion?\"\nJANE: \"Yeah.\"\nSUSAN: \"Are you going to go?\"\nJANE: \"I don't think so.\"\nSUSAN: \"Why?\"\nJANE: \"Remember our cousin Bill and I had a disagreement at the last reunion?\"\nSUSAN: \"Yes. But it was all a misunderstanding.\"\nJANE: \"I know, but I still feel uncomfortable about it.\"\nSUSAN: \"I would really like to see you there. I haven't seen you in a while.\"\nJANE: \"I know. I feel the same way.\"\nSUSAN: \"If you don't go to the reunion, maybe I can visit you.\"\nJANE: \"That sounds like a great idea. Have you ever been to New York?\"\n\n \n\nSUSAN: \"No. I would love to visit you and check out the city.\"\nJANE: \"Let's plan to do that.\"\nSUSAN: \"I still want you to come to the reunion.\"\nJANE: \"I'll think about it.\"\nSUSAN: \"Ok. I hope to see you there.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/unhappy-family-reunion.html",
+        "quiz": "1. Why did Susan call Jane?\n To ask her out to lunch\n To ask if she is going to the family reunion(x)\n To ask if she wants to go shopping\n To ask if she wants to go blueberry picking\n\n2. Why does Jane not want to go?\n She had a misunderstanding with Bill(x)\n She did not receive an invitation\n She doesn't want to go alone\n She doesn't like to leave her home\n\n3. What city does Jane live?\n New York(x)\n Los Angeles\n Paris\n London\n\n4. What does Jane decide to do at the end of the conversation?\n She is going to go\n She is not going to go\n She's going to think about it(x)\n She hangs up on Susan"
     },
     {
         "title": "Having a Baby",
@@ -195,7 +237,9 @@
         "dialog": "MOM: \"Hello.\"\nLINDA: \"Hi Mom. This is Linda.\"\nMOM: \"Hi Linda. Why are you calling so early in the morning? Is something wrong?\"\nLINDA: \"No, not at all. Actually, I have some good news.\"\nMOM: \"What is it?\"\nLINDA: \"I'm having a baby.\"\nMOM: \"That's great news! When did you find out?\"\nLINDA: \"Last night. It was too late to call you. I thought you might be sleeping.\"\nMOM: \"You can call me anytime, Linda. How does Dan feel?\"\nLINDA: \"He's so happy. He went out this morning to buy the baby a gift?\"\nMOM: \"Already? That is funny! When is the baby due?\"\nLINDA: \"In June. I am 3 months pregnant.\"\nMOM: \"How are you feeling? Do you feel sick at all?\"\nLINDA: \"Just a little.\"\nMOM: \"Are you able to eat anything?\"\nLINDA: \"Yeah, I'm actually really hungry right now.\"\nMOM: \"Let me come over and make you something to eat.\"\nLINDA: \"Mom, let's go out for breakfast. I'll treat you.\"\nMOM: \"Don't be silly. I'll buy you breakfast. I'll be there in 30 minutes.\"\nLINDA: \"Ok, Mom. See you at 8 am.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/having-baby.html",
+        "quiz": "1. What is Linda's good news?\n She is getting a promotion at work\n She is having a baby(x)\n She's moving to another country\n She is getting a new car\n\n2. When did she find out about her news?\n Last night\n This morning(x)\n Last week\n A month ago\n\n3. How does Dan feel about the news?\n Angry\n Sad\n Happy(x)\n Scared\n\n4. What are Linda and her mom going to do this morning?\n Go shopping\n Take a walk\n Watch a movie\n Have breakfast(x)"
     },
     {
         "title": "Grandchildren",
@@ -204,7 +248,9 @@
         "dialog": "JOAN: \"Why do you look so happy, Carol?\"\nCAROL: \"I was just on the phone with my daughter. She is having a baby.\"\nJOAN: \"How exciting!\"\nCAROL: \"This will be our first grandchild.\"\nJOAN: \"Is the baby a boy or a girl?\"\nCAROL: \"She doesn't know yet. She is only three months pregnant.\"\nJOAN: \"Three months? So, the baby is due in June?\"\nCAROL: \"Yes. I'm going to be a grandmother in June. How many grandchildren do you have, Joan?\"\nJOAN: \"I have three. Two grandsons and one granddaughter.\"\nCAROL: \"Yes, I remember now. They visit you often.\"\nJOAN: \"Yes, they do. I love when they visit.\"\nCAROL: \"I'm so excited. I'm going to go shopping to buy my grandchild some clothes.\"\nJOAN: \"But the baby hasn't been born yet.\"\nCAROL: \"I know. But I love looking at baby clothes. Do you want to go with me?\"\nJOAN: \"Sure. Maybe I'll get something for my grandkids too. Let me grab my purse.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/grandchildren.html",
+        "quiz": "1. Who was Carol talking to on the phone?\n Her mom\n Her daughter(x)\n Her son\n Her husband\n\n2. What is Carol going to be in June?\n A grandmother(x)\n A mother\n A college graduate\n A retired teacher\n\n3. How many grandchildren does Joan have?\n One\n Two\n Three(x)\n None\n\n4. What are Carol and Joan going to do?\n Go shopping(x)\n Go to the library\n Eat lunch\n Take a trip"
     },
     {
         "title": "Sister's Baby",
@@ -213,6 +259,8 @@
         "dialog": "JENNIFER: \"Hi Susie. Where are you going? Are you taking a trip?\"\nSUSIE: \"Yeah, I'm going to Chicago. My sister just had a baby. I'm going to be helping her for a couple of weeks.\"\n\n \n\nJENNIFER: \"That's so nice of you. Did she have a boy or a girl?\"\nSUSIE: \"A girl. Her name is Rose.\"\nJENNIFER: \"What a beautiful name!\"\nSUSIE: \"Yeah. She is named after our grandmother.\"\nJENNIFER: \"My daughter is also named after my grandmother. Her name is Marie.\"\nSUSIE: \"That's also a beautiful name.\"\nJENNIFER: \"Thanks. Is this your sister's first child?\"\nSUSIE: \"Yeah. This is my first niece too. She's also the first grandchild in the family.\"\nJENNIFER: \"How special!\"\nSUSIE: \"I know. My mother is so excited. She's only lives a few blocks away from my sister. So, she will be helping a lot too.\"\nJENNIFER: \"That's wonderful. It's nice to have a lot of help with your first child.\"\n\n \n\nSUSIE: \"Yeah. I agree. Well, I better go now. I have to be at the airport by 1 pm.\"\nJENNIFER: \"Ok. See you in two weeks.\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/FamilyAndFriends/sisters-baby.html",
+        "quiz": "1. Where is Susie going?\n Seattle\n Los Angeles\n Chicago(x)\n New York\n\n2. What is Susie's niece's name?\n Rose(x)\n Marie\n Jennifer\n Susie\n\n3. Who was she named after?\n Grandmother(x)\n Mother\n Aunt\n Sister\n\n4. Where does Susie have to be by 1 pm?\n Work\n School\n Airport(x)\n Hospital"
     }
 ]
