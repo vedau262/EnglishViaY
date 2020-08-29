@@ -1,7 +1,7 @@
 [
     {
         "catalogtitle": "Trip & Vacations",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_01trips_vacation.jpg",
         "catalogdes": "Trip & Vacations",
         "catalognumberbook": 20,
         "enablethumbnail": 1,
@@ -11,7 +11,7 @@
     },
     {
         "catalogtitle": "Eating Related Topics",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/EatingRelatedTopics.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_02eating_topics.jpg",
         "catalogdes": "Eating Related Topics",
         "catalognumberbook": 14,
         "enablethumbnail": 1,
@@ -21,7 +21,7 @@
     },
     {
         "catalogtitle": "Family And Friends",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/FamilyAndFriends.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_03family_friends.jpg",
         "catalogdes": "Family And Friends",
         "catalognumberbook": 24,
         "enablethumbnail": 1,
@@ -31,13 +31,23 @@
     },
     {
         "catalogtitle": "Talking about Kids",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/talk_about_kids.jpg",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_04talking_kids.jpg",
         "catalogdes": "Talking about Kids",
         "catalognumberbook": 21,
         "enablethumbnail": 1,
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TalkingAboutKids.txt",
         "key": "TalkingAboutKids"
+    },
+    {
+        "catalogtitle": "Daily Life",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_05daily_life.jpg",
+        "catalogdes": "Daily Life",
+        "catalognumberbook": 21,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/DailyLife.txt",
+        "key": "DailyLife"
     },
     {
         "catalogtitle": "Beginning Level - Learn English - Level 1 - VOA",

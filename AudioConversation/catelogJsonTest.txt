@@ -38,5 +38,15 @@
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/TalkingAboutKids.txt",
         "key": "TalkingAboutKids"
+    },
+    {
+        "catalogtitle": "Daily Life",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_05daily_life.jpg",
+        "catalogdes": "Daily Life",
+        "catalognumberbook": 21,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/DailyLife.txt",
+        "key": "DailyLife"
     }
 ]

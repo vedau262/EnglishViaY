@@ -1,0 +1,233 @@
+[
+    {
+        "title": "Small Auto Accident",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/small_accident.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/small_accident.mp3",
+        "dialog": "JANE: \"Hi Carol. Did you get a new car?\"\nCAROL: \"Hi Jane. No, this is a rental car. I was in an auto accident yesterday.\"\nJANE: \"Are you ok?\"\nCAROL: \"Yeah. My back hurts a little, but luckily I wasn't seriously injured.\"\nJANE: \"Did you go to the hospital?\"\nCAROL: \"Yeah. I went there this morning. The doctor took some did x-rays. Nothing is serious. I just have some bruises.\"\nJANE: \"I'm glad you are ok. Was there another car involved?\"\nCAROL: \"Yeah, the other driver rear-ended me at a red light.\"\nJANE: \"Wow! Is he or she ok?\"\nCAROL: \"Yeah. He seemed ok at the scene.\"\nJANE: \"This could've been a serious accident.\"\nCAROL: \"I know. We were both lucky.\"\nJANE: \"Where is your car? Is it getting fixed?\"\nCAROL: \"No. It's too damaged to be repaired. It's at the junkyard now.\"\nJANE: \"That's terrible. Is your insurance going to pay for a new car?\"\nCAROL: \"Well, it was the other driver's fault, so his insurance is going to take care of it.\"\nJANE: \"That's good. Are you going to buy the same type of car?\"\nCAROL: \"I think so. I loved that car. It protected me in this accident.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/small_accident.html",
+        "quiz": "1. What happened to Carol yesterday?\n Someone stole her car\n She was in an auto accident(x)\n She bought a new car\n She car ran out of gas on the highway\n\n2. Where did Carol go this morning?\n Hospital(x)\n Work\n School\n Store\n\n3. Where is Carol's car?\n It was stolen\n At the auto shop\n At the junkyard(x)\n It was sold\n\n4. What is Carol driving today?\n Her old car\n A rental car(x)\n A new car\n Jane's car"
+    },
+    {
+        "title": "Big Auto Accident",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/big_accident.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/big_accident.mp3",
+        "dialog": "ALICE: \"Hi Mary. What's wrong?\"\nMARY: \"Oh hi Alice. I just got back from the hospital.\"\nALICE: \"Is something wrong?\"\nMARY: \"My son was in an auto accident last night.\"\nALICE: \"Oh dear. I'm sorry to hear that. Was he seriously injured?\"\nMARY: \"Yes. He broke both of his legs and his ribs.\"\nALICE: \"That's awful!\"\nMARY: \"I know. He just got his driver's license a month ago.\"\nALICE: \"How scary for him.\"\nMARY: \"It wasn't his fault though. He was hit by a drunk driver.\"\nALICE: \"That's terrible!\"\nMARY: \"I'm so angry about it! My son could've been killed by an irresponsible driver.\"\nALICE: \"You're right! Did they catch the other driver? Was he or she injured?\"\nMARY: \"Yeah, he was arrested. He wasn't injured.\"\nALICE: \"Do you think he will go to jail?\"\nMARY: \"I don't know. I'm just worried about my son right now.\"\nALICE: \"Can I help you with anything?\"\nMARY: \"Well, I just came home to get a change of clothes. I'm going to go back to the hospital soon. Would you be able to feed our cats tonight?\"\nALICE: \"Of course. Please let me know if there is anything else I can help you with.\"\nMARY: \"Thanks Alice.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/big_accident.html",
+        "quiz": "1. Where was Mary his morning?\n At the hospital(x)\n At the police station\n At work\n At school\n\n2. When did Mary's son get his driver's license?\n Yesterday\n Last week\n A month ago(x)\n He doesn't have a driver's license\n\n3. Why is Mary so angry?\n Her son could've been killed by an irresponsible driver(x)\n Her son doesn't have auto insurance\n Her son hit someone\n Her son doesn't have his driver's license yet\n\n4. Who caused the accident?\n A drunk driver(x)\n Mary's son\n Mary\n Alice"
+    },
+    {
+        "title": "Freeway Auto Accident",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/freeway_accident.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/freeway_accident.mp3",
+        "dialog": "SUSAN: \"Why are you so late?\"\nPETER: \"There was big accident on the freeway. The police closed all the lanes. We had to take a detour.\"\nSUSAN: \"Was anyone hurt?\"\nPETER: \"I think so. I saw two ambulances and a fire truck driving by.\"\nSUSAN: \"That's terrible.\"\nPETER: \"I know. I hope no one was seriously injured.\"\nSUSAN: \"That's scary. Do you know what caused the accident?\"\nPETER: \"I don't know. I didn't see it happen.\"\nSUSAN: \"You should've called me. We were supposed to meet Cathy and Rick for dinner at 6 pm.\"\nPETER: \"After seeing the accident, I didn't want to use my phone while driving.\"\nSUSAN: \"That was smart.\"\nPETER: \"We should just eat at home tonight. I think traffic is going to be bad.\"\nSUSAN: \"Oh no!\"\nPETER: \"What's wrong?\"\nSUSAN: \"I just got a text from Cathy. She said she and Rick were in an accident on the freeway! They're at the hospital.\"\nPETER: \"Oh my goodness. Let's go to the hospital now.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/freeway_accident.html",
+        "quiz": "1. Why was Peter late?\n He was working late\n There was an accident on the freeway(x)\n He stopped by the store to pick up some flowers\n He overslept\n\n2. What were Susan and Peter going to do tonight?\n Have dinner with Cathy and Rick(x)\n Stay home and order pizza\n See a movie\n Go to a concert\n\n3. Why didn't Peter call Susan?\n He forgot to\n He was on an important business call\n He forgot his phone at work\n He didn't want to use the phone while driving(x)\n\n4. What happened to Cathy and Rick?\n They decided not to go out tonight\n They were in an accident on the freeway(x)\n They got into an argument\n They both got food poisoning at the restaurant"
+    },
+    {
+        "title": "Finding a Car Mechanic",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/car_mechanic.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/car_mechanic.mp3",
+        "dialog": "JOE: \"Hey Stan. Do you know any good mechanics around here?\"\nSTAN: \"Yeah. I use a really good one. What's wrong with your car?\"\nJOE: \"I'm not sure. I think there is a problem with my transmission.\"\nSTAN: \"Transmission problems can be very expensive.\"\nJOE: \"I know. I took it to an auto shop yesterday and it was so expensive. I'm looking for someone cheaper, but who can also do a good job.\"\nSTAN: \"You should go to my mechanic. You can trust him and his repair costs are pretty reasonable.\"\nJOE: \"Is he close to us?\"\nSTAN: \"Yeah. His shop is just a few blocks away.\"\nJOE: \"That's good. I hope I don't have to replace the transmission. That will be really expensive.\"\nSTAN: \"I know. I had to replace the transmission on my old car. The repair cost more than the price of the car.\"\nJOE: \"That's crazy! If my repair costs too much, I'm just going to buy a new car.\"\nSTAN: \"Can you afford a new car?\"\nJOE: \"No. I would have to buy a used car.\"\nSTAN: \"Let me get my mechanic's phone number. You can decide what you want to do after he takes a look at your car.\"\nJOE: \"Thanks.\"\nSTAN: \"I can give you a ride home if you need to leave your car there.\"\nJOE: \"If it's only a few blocks away, I'll walk. If my car is too expensive to fix, I better get used to walking.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/car_mechanic.html",
+        "quiz": "1. What kind of auto mechanic is Joe looking for?\n Someone who does a good job\n Someone who is not too expensive\n Neither A or B\n Both A and B(x)\n\n2. What is wrong with Joe's car?\n Transmission problems(x)\n Needs an oil change\n Engine problems\n Car won't start\n\n3. What did Stan replace on his old car?\n Transmission(x)\n Engine\n Battery\n Brakes\n\n4. What does Joe need to get used to if the repair cost is too expensive?\n Taking the bus\n Walking(x)\n Borrowing his friend's car\n Riding his bike"
+    },
+    {
+        "title": "Fixing the Car",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/fix_car.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/fix_car.mp3",
+        "dialog": "JOHN: \"Hey Sam. You're home? Where's your car?\"\nSAM: \"Oh hey John. It's in the auto shop.\"\nJOHN: \"Again? What's wrong with it this time?\"\nSAM: \"I'm not sure. It's making a lot of strange noises.\"\nJOHN: \"That's weird. It's not even an old car.\"\nSAM: \"I know. I've only had it for three years. My mechanic doesn't know what the problem is.\"\nJOHN: \"He doesn't know? What is he doing then?\"\nSAM: \"Trying all different things. I'm getting tired of waiting for him to fix it.\"\nJOHN: \"You should take it to another mechanic.\"\nSAM: \"I should, but I already paid him. He just keeps saying he will fix it.\"\nJOHN: \"He doesn't sound very trustworthy.\"\nSAM: \"I know. I should've gone somewhere else. But he was so cheap. He was the cheapest I could find.\"\nJOHN: \"Maybe too cheap isn't always better.\"\nSAM: \"I'm learning that now.\"\nJOHN: \"You should demand a refund.\"\nSAM: \"I wish I could, but it's a little complicated.\"\nJOHN: \"Why is it complicated?\"\nSAM: \"The mechanic is my brother-in-law.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/fix_car.html",
+        "quiz": "1. What is wrong with Sam's car?\n Transmission problems\n Engine problems\n Dead battery\n He doesn't know(x)\n\n2. Why did Sam choose this mechanic?\n He is cheap(x)\n He is good\n He is the only mechanic in town\n He had a coupon\n\n3. How long has Sam had his car?\n It's brand new\n One year\n Two years\n Three years(x)\n\n4. Who is Sam's mechanic?\n His brother\n His brother-in-law(x)\n His best friend\n His dad"
+    },
+    {
+        "title": "Auto Shop",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/auto_shop.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/auto_shop.mp3",
+        "dialog": "DAN: \"Hey Jason. Is that a new car?\"\nJASON: \"Hey Dan. No, this is a rental car?\"\nDAN: \"Where is your car?\"\nJASON: \"At the auto shop. I was in an accident yesterday. The car is getting repaired.\"\nDAN: \"Are you ok?\"\nJASON: \"Yeah. Luckily, it wasn't a serious accident. There were just some minor damages to the fender and bumper.\"\nDAN: \"That's good. When do you get your car back?\"\nJASON: \"It's supposed to be ready this afternoon.\"\nDAN: \"That's quick.\"\nJASON: \"Yeah, my auto shop is pretty fast. They have a lot of mechanics.\"\nDAN: \"Do they do a good job? Are they reasonably priced?\"\nJASON: \"Oh yes. They do a great job. I haven't had any problems yet. They're a little more expensive than other places, but their work and service is excellent.\"\nDAN: \"I may have to get their name and number. My car needs some regular maintenance work.\"\nJASON: \"They have a website. Sometimes, they offer discounts on certain services.\"\nDAN: \"Really? That's good to know.\"\nJASON: \"Yeah. I'll e-mail you the website link.\"\nDAN: \"Thanks. I'll check it out tonight.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/auto_shop.html",
+        "quiz": "1. Where is Jason's car?\n At the auto shop(x)\n His brother is borrowing it\n It was stolen\n He sold it\n\n2. What happened to Jason yesterday?\n He got into a fight with his neighbor\n He lost his job\n He was in an auto accident(x)\n He got a raise at work\n\n3. What is wrong with Dan's car?\n Nothing. It just needs regular maintenance work(x)\n His car won't start\n His radio doesn't work\n His car needs an oil change\n\n4. How does Jason describe the auto shop?\n They do a great job and they are very cheap\n I will never go back there because they do an awful job\n They do a great job, but they are a little expensive(x)\n They do a bad job and they are very expensive"
+    },
+    {
+        "title": "Gas prices",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/gas_price.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/gas_price.mp3",
+        "dialog": "MIKE: \"Hey Ben, have you seen the price of gas lately?\"\nBEN: \"Yeah Mike. It's really high. That's why I've been riding the bus to work.\"\nMIKE: \"I wish I could ride the bus, but I would have to take three buses to get to work.\"\nBEN: \"Three?\"\nMIKE: \"Yeah. It would take me twice as long to get to work.\"\nBEN: \"That's not good. I only have to take one bus and it takes me directly from my home to my office building.\"\nMIKE: \"You're lucky!\"\nBEN: \"I know. What about riding your bike to work?\"\nMIKE: \"No, I'm not very good at cycling and it's too far.\"\nBEN: \"You can carpool with someone.\"\nMIKE: \"That's a good idea. Then we could share the cost of gas and ride in the carpool lane.\"\nBEN: \"Do you work with anyone who lives near you?\"\nMIKE: \"Yeah, my boss.\"\nBEN: \"Would you want to ride with your boss?\"\nMIKE: \"No, not really. I think I'd rather pay more for gas.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/gas_price.html",
+        "quiz": "1. What do Ben and Mike think about the price of gas?\n Too high(x)\n Too low\n Fair\n They don't care since they both do not drive\n\n2. How many buses would Mike have to take to get to work?\n One\n Two\n Three(x)\n Four\n\n3. How does Ben get to work?\n Takes the bus(x)\n Carpools with a co-worker\n Drives alone\n Rides his bike\n\n4. Who can Mike carpool with?\n His dad\n Ben\n His boss(x)\n His co-worker"
+    },
+    {
+        "title": "Bad Traffic",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/bad_traffic.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/bad_traffic.mp3",
+        "dialog": "KEVIN: \"The traffic is really getting bad these days.\"\nJAMES: \"I agree. I sat in traffic for two hours last night.\"\nKEVIN: \"I've started to leave work late just to beat rush hour traffic.\"\nJAMES: \"I wish I could do that. I have to pick up my son before the daycare closes.\"\nKEVIN: \"Oh, I see. What time does the daycare close?\"\nJAMES: \"6 o'clock.\"\nKEVIN: \"What time do you usually get there?\"\nJAMES: \"Just a few minutes before they close.\"\nKEVIN: \"What happens if you're late?\"\nJAMES: \"They will wait with the child, of course. But you have to pay extra.\"\nKEVIN: \"Have you ever been late?\"\nJAMES: \"Yeah, a few times. I was late yesterday. I don't want to pay extra. Daycare is already expensive.\"\nKEVIN: \"Yeah, I'm sure it is. Do you have other people who can help you?\"\nJAMES: \"No, I just listen to the traffic report and leave earlier if the roads sound bad.\"\nKEVIN: \"Is your boss understanding?\"\nJAMES: \"Yeah, she's very understanding. She has children too.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/bad_traffic.html",
+        "quiz": "1. How long did James sit in traffic last night?\n 15 minutes\n 30 minutes\n One hour\n Two hours(x)\n\n2. Where does James have to go after work?\n Gym\n Daycare(x)\n His second job\n Home\n\n3. What does Kevin do to beat traffic?\n He leaves work late(x)\n He takes the bus\n He carpools with a friend\n He leaves early\n\n4. What does James listen to before leaving work?\n Music\n News\n Traffic report(x)\n Weather report"
+    },
+    {
+        "title": "Son's driver's license",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/son_license.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/son_license.mp3",
+        "dialog": "TOM: \"My son is taking his driver's license test today.\"\nBILL: \"Is he nervous?\"\nTOM: \"He's a little nervous.\"\nBILL: \"It's normal to be nervous.\"\nTOM: \"I told him that. He just wants to pass the test, so he can start driving to school.\"\nBILL: \"Does he have a car?\"\nTOM: \"No, he has to share with my wife.\"\nBILL: \"Are you going to get him a car?\"\nTOM: \"No, not yet. First, he has to show us that he is a responsible driver.\"\nBILL: \"Did your auto insurance go up a lot?\"\nTOM: \"Yes! Our insurance rate doubled.\"\nBILL: \"Wow! Are you serious?\"\nTOM: \"Yes, that's what makes me nervous. I don't know how we'll be able to afford insurance when my younger son starts to drive.\"\nBILL: \"When will that be?\"\nTOM: \"In two years.\"\nBILL: \"Better start saving or better have your sons get part-time jobs.\"\nTOM: \"I think I like the part-time job idea better.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/son_license.html",
+        "quiz": "1. What is Tom's son doing today?\n Graduating from high school\n Taking his driver's license test(x)\n Getting a part-time job\n Having a birthday party\n\n2. What does Tom's son look forward to doing?\n Driving to school(x)\n Going to college\n Going fishing\n Getting a job\n\n3. What does Tom's son have to share?\n Car(x)\n Bike\n Bedroom\n Toys\n\n4. What does Tom want both of his sons to do in a couple of years?\n Get part-time jobs(x)\n Mow the lawn\n Wash the car\n Do their homework"
+    },
+    {
+        "title": "Making Dentist Appointment",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/make_appointment.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/make_appointment.mp3",
+        "dialog": "A: \"Hello. Thank you for calling Dr. Smith's office. How can I help you?\"\nB: \"This is Eleanor Johnson. I'd like to make an appointment to see the dentist.\"\nA: \"Will this be your first visit?\"\nB: \"Yes. I haven't been to the dentist in a while. I'm afraid of going to the dentist.\"\nA: \"Oh. You will like Dr. Smith. He is very gentle.\"\nB: \"That's nice to hear.\"\nA: \"Is there anything wrong with your teeth?\"\nB: \"I have a toothache.\"\nA: \"We have an opening tomorrow morning at 9 am.\"\nB: \"Do you have anything this afternoon. My tooth hurts very much.\"\nA: \"We are very busy this afternoon, but I can squeeze you in around 4 pm. Does that work for you?\"\nB: \"Yes! 4 pm is perfect.\"\nA: \"Do you have dental insurance?\"\nB: \"Yes, I do.\"\nA: \"Ok. Please come 15 minutes early to fill out some forms.\"\nB: \"Ok. I will be there at 3:45. Thank you so much.\"\nA: \"You're welcome. We'll see you soon.\"\nB: \"Bye.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/make_appointment.html",
+        "quiz": "1. Why hasn't Eleanor been to the dentist in a while?\n She couldn't find a good one\n They are too far from her home\n She is afraid(x)\n She doesn't trust them\n\n2. Why will Eleanor like Dr. Smith?\n He is very gentle(x)\n He is very handsome\n He is very polite\n He is very smart\n\n3. What time is Eleanor's appointment?\n 8 am\n 9 am\n 4 pm(x)\n 5 pm\n\n4. What does Eleanor need to at the dentist office?\n Brush her teeth\n Fill out some forms(x)\n Talk to the receptionist\n Pay for x-rays"
+    },
+    {
+        "title": "Talking about Dentist Appointment",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/talking_dentist.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/talking_dentist.mp3",
+        "dialog": "A: \"Susie, I'm picking you up from school early today.\"\nB: \"Why Mom?\"\nA: \"You have a dentist appointment.\"\nB: \"I don't want to go.\"\nA: \"It's just a check-up.\"\nB: \"But it hurt last time.\"\nA: \"That is because you had a cavity.\"\nB: \"But I brush my teeth every day.\"\nA: \"I know, but you eat too much candy.\"\nB: \"I hope I don't have any cavities this time.\"\nA: \"Me too.\"\nB: \"What time are you picking me up?\"\nA: \"2 o'clock.\"\nB: \"Ok. I'll tell my teacher.\"\nA: \"I will also call the school office.\"\nB: \"Ok. I'll see you later.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/talking_dentist.html",
+        "quiz": "1. Why is Susie's mom picking her up from school early?\n Susie has a piano recital\n Susie has soccer practice\n Susie has a dentist appointment(x)\n Susie has a doctor appointment\n\n2. What does Susie eat too much of?\n Candy(x)\n Ice cream\n Potato chips\n Popcorn\n\n3. What time is her mom picking her up?\n One o'clock\n Two o'clock(x)\n Three o'clock\n Four o'clock\n\n4. Who is Susie's mom going to call?\n The dentist's office\n The doctor's office\n The school office(x)\n Her husband's office"
+    },
+    {
+        "title": "At the Dentist",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/at_dentist.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/at_dentist.mp3",
+        "dialog": "A: \"Hi Alice. What are you doing here?\"\nB: \"Hi Linda. I'm here for a check-up. How about you?\"\nA: \"I'm here for a procedure.\"\nB: \"What kind of procedure?\"\nA: \"A root canal.\"\nB: \"A root canal? That's pretty serious, isn't it?\"\nA: \"Yeah. I didn't take care of a tooth and now it's infected.\"\nB: \"Wow! I'm sorry to hear that. Are you in pain?\"\nA: \"A little. I took some medicine this morning.\"\nB: \"That should help.\"\nA: \"I don't have dental insurance, so it's going to be very expensive.\"\nB: \"That's terrible. Why don't you have dental insurance?\"\nA: \"I didn't think it was important.\"\nB: \"I think it's important to have dental insurance.\"\nA: \"Yeah. And it's important to take care of your teeth.\"\nB: \"I agree.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/at_dentist.html",
+        "quiz": "1. What kind of procedure is Linda getting?\n A teeth-cleaning\n A root canal(x)\n A cavity filling\n A routine check-up\n\n2. What is wrong with Linda's tooth?\n It is infected(x)\n It has a cavity\n It is not clean\n Nothing\n\n3. Why doesn't Linda have dental insurance?\n She cannot afford it\n She does not have a job\n She didn't think it was important(x)\n She forgot to get it\n\n4. What do Alice and Linda both agree on?\n It's important to have dental insurance\n It's important to take care of your teeth\n Neither A or B\n Both A and B(x)"
+    },
+    {
+        "title": "Working Out and Exercising",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/exercise.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/exercise.mp3",
+        "dialog": "DAVID: \"Hey Paul, have you been working out?\"\nPAUL: \"Hey David. Yeah, I've been going to the gym every day before work.\"\nDAVID: \"I need to go too, but I'm so lazy now.\"\nPAUL: \"I needed to lose a few pounds. That's what motivated me. Now, I just like going.\"\nDAVID: \"I need to lose some weight too. I gained around 20 pounds this year.\"\nPAUL: \"You did? Why don't you come with me tomorrow morning?\"\nDAVID: \"What time do you go in the morning?\"\nPAUL: \"5 am. I work out for about an hour.\"\nDAVID: \"5 am? That's too early.\"\nPAUL: \"You should try it. It feels great to work out early in the morning.\"\nDAVID: \"I'm asleep at 5 am.\"\nPAUL: \"I'll wake you up tomorrow morning. We can start slow by doing just a little running on the treadmill.\"\nDAVID: \"I hate running.\"\nPAUL: \"Ok, how about lifting weights?\"\nDAVID: \"I don't have the strength to lift weights.\"\nPAUL: \"Ok. How about aerobics?\"\nDAVID: \"That's too much jumping around?\"\nPAUL: \"Yoga?\"\nDAVID: \"Too boring.\"\nPAUL: \"You're right, David. You're too lazy to work out.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/exercise.html",
+        "quiz": "1. When does Paul go to the gym?\n Once a week\n Twice a week\n Every morning before work(x)\n Every day after work\n\n2. What motivated Paul to start working out?\n He needed to lose some weight(x)\n He wanted to meet women at the gym\n He was training for a marathon\n His doctor told him to exercise\n\n3. How many pounds did David gain this year?\n 10\n 20(x)\n 30\n 40\n\n4. What kind of exercise does David like?\n Running\n Lifting weights\n Yoga\n None of the above(x)"
+    },
+    {
+        "title": "Late Library Books",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/library_books.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/library_books.mp3",
+        "dialog": "KATE: \"Hi Janet. Where are you going with those books?\"\nJANET: \"To the library. I found these under Joseph's bed.\"\nKATE: \"Under his bed?\"\nJANET: \"Yeah. They are all overdue.\"\nKATE: \"How did you find them?\"\nJANET: \"We got a notice from the library that he had several overdue books, so I started searching his room.\"\nKATE: \"How late are they?\"\nJANET: \"About two months.\"\nKATE: \"Didn't you receive notices before?\"\nJANET: \"I found the notices in his room too.\"\nKATE: \"Why didn't he return them?\"\nJANET: \"He said he couldn't find them.\"\nKATE: \"Is he in trouble?\"\nJANET: \"Of course he's in trouble. He doesn't get to play video games for each book that is late.\"\nKATE: \"That's five weeks.\"\nJANET: \"Yes. That's his punishment. He needs to learn not to hide letters that come in the mail. He also needs to learn to clean his room, so things don't get lost.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/library_books.html",
+        "quiz": "1. Where is Janet going today?\n Library(x)\n Work\n School\n Bank\n\n2. What did Janet receive in the mail?\n Credit card bill\n Letter from her mom\n Notice for overdue library books(x)\n A birthday card\n\n3. What did Janet find in her son's room?\n Library books\n Notices from the library\n Neither A or B\n Both A and B(x)\n\n4. What can Joseph not do for five weeks?\n Play with his friends\n Play video games(x)\n Watch TV\n Ride his bike"
+    },
+    {
+        "title": "Opening a Bank Account for Child",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/open_bank.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/open_bank.mp3",
+        "dialog": "PETER: \"What are you doing today?\"\nMARK: \"Hi Peter. I'm taking my son to the bank. He got his first paycheck yesterday, so we're going to open a bank account for him.\"\nPETER: \"That's a great idea.\"\nMARK: \"Yeah, I hope this will teach him how to save money and use it wisely.\"\nPETER: \"We did that with our kids too. Is he excited about it?\"\nMARK: \"Not really. He wants to spend it all on video games.\"\nPETER: \"Well, it's his first paycheck, so I'm sure he wants to spend his own money.\"\nMARK: \"I understand that. He knows he can spend it any way he wants to. I just want him to be able to learn how to save some too.\"\nPETER: \"Yeah, I totally understand. My first son spent his whole paycheck each time. Now he doesn't have anything saved. My second son saves and saves.\"\nMARK: \"I'm hoping Jonathan saves and saves.\"\nPETER: \"Now my older son always borrows money from his younger brother.\"\nMARK: \"Wow! Does your younger son loan him money?\"\nPETER: \"Yeah, but he adds on interest.\"\nMARK: \"That's funny and smart. He's like a bank.\"\nPETER: \"He wants to be a banker one day.\"\nMARK: \"This is giving him great experience.\"\nPETER: \"Yeah, but not a great relationship with his brother.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/open_bank.html",
+        "quiz": "1. Where is Mark going today?\n To the bank with his son(x)\n To the movies with his wife\n To the amusement park with his kids\n To the store with his daughter\n\n2. What did Mark's son receive yesterday?\n His high school diploma\n His first paycheck(x)\n A birthday present\n A college acceptance letter\n\n3. What does Mark want to teach his son?\n How to swim\n How to ride a bike\n How to drive a car\n How to save money(x)\n\n4. What does Peter's younger son want to be?\n A lawyer\n A doctor\n A banker(x)\n An accountant"
+    },
+    {
+        "title": "Post Office Talk with Friend",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/post_office.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/post_office.mp3",
+        "dialog": "A: \"Hey Joe. What are you doing?\"\nB: \"Hi Mark. I'm getting ready to send a package.\"\nA: \"Do you need to go to the post office?\"\nB: \"Yeah, but the line is usually very long.\"\nA: \"Where are you sending your package?\"\nB: \"Overseas to Korea.\"\nA: \"Is it a big package?\"\nB: \"Yeah. Some books and clothes for my nephew and nieces.\"\nA: \"That's nice.\"\nB: \"Do you think the line will be long today?\"\nA: \"I think so. Today is Monday. Most people go on Monday since the post office is closed on Sunday.\"\nB: \"You're right! Maybe I should wait until tomorrow.\"\nA: \"I think that's a better idea.\"\nB: \"Thanks for reminding me. I don't like waiting in long lines.\"\nA: \"Me too.\"\nB: \"Do you want to go have lunch instead?\"\nA: \"Sure.\"\nB: \"I'll be right back. I'm going to put my package away.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/post_office.html",
+        "quiz": "1. Why does Joe need to go to the Post Office?\n To buy stamps\n To check his Post Office Box\n To send a package(x)\n To pick up his mail\n\n2. What day is it?\n Monday(x)\n Tuesday\n Wednesday\n Thursday\n\n3. Why does Joe decide not to go to the post office?\n It is closed\n The lines are too long(x)\n He wants to take a nap instead\n He doesn't have a car\n\n4. What are Joe and Mark going to do?\n Go to the movies\n Go golfing\n Have lunch(x)\n Go to the store"
+    },
+    {
+        "title": "At the Post Office",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/at_post_office.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/at_post_office.mp3",
+        "dialog": "A: \"Hi. How can I help you?\"\nB: \"I need to mail this package to Italy.\"\nA: \"What is in the package?\"\nB: \"Some toys and baby clothes.\"\nA: \"Are there any breakables? Is it fragile?\"\nB: \"No.\"\nA: \"What is the address?\"\nB: \"I have it here.\"\nA: \"Please fill out this form. Print clearly. Sometimes, it is hard to read.\"\nB: \"Ok. When will my package arrive?\"\nA: \"It depends on your shipping choice.\"\nB: \"I would like your fastest shipping.\"\nA: \"It will be there in one week.\"\nB: \"Great! That's perfect.\"\nA: \"This is the cost. How would you like to pay?\"\nB: \"With my credit card.\"\nA: \"Ok. Is there anything else I can help you with today?\"\nB: \"No. That's it.\"\nA: \"Thank you. Have a nice day.\"\nB: \"You too.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/at_post_office.html",
+        "quiz": "1. Where is the package being mailed?\n China\n England\n India\n Italy(x)\n\n2. What is inside the package?\n Baby clothes\n Toys\n Neither A or B\n Both A and B(x)\n\n3. When will the package arrive?\n Once week(x)\n Two weeks\n Three weeks\n Four weeks\n\n4. What does the customer pay with?\n Cash\n Credit card(x)\n Check\n Money order"
+    },
+    {
+        "title": "Running into Friend at Post Office",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/friend_post_office.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/friend_post_office.mp3",
+        "dialog": "A: \"Hey Robert. What are you doing here?\"\nB: \"Hi Kevin. I need to buy some stamps. What about you?\"\nA: \"I was checking my post office box, but my key won't work.\"\nB: \"Do you know why?\"\nA: \"I think they canceled my account because I forgot to pay.\"\nB: \"That's too bad.\"\nA: \"Yeah. I use it for my business.\"\nB: \"How long have you been waiting?\"\nA: \"I've been here since 8 am.\"\nB: \"That's 30 minutes.\"\nA: \"I know. It's been a long wait.\"\nB: \"There are still several people ahead of us.\"\nA: \"Many people left. They were tired of waiting.\"\nB: \"I don't think I can wait either. I have a dentist appointment at 9 am.\"\nA: \"I'm going to wait. I need to re-open my account.\"\nB: \"Yeah. I understand. I'm going to come back later.\"\nA: \"Ok. See you another time.\"\nB: \"Bye Kevin.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/friend_post_office.html",
+        "quiz": "1. What is Robert doing at the Post Office?\n Buying stamps(x)\n Checking his mail\n Mailing a package\n Checking his Post Office box\n\n2. Why can't Kevin open his Post Office box?\n He forgot to pay his bill(x)\n The key is broken\n He can't remember his box number\n His key was stolen\n\n3. How long has Kevin been waiting in line?\n 15 minutes\n 30 minutes(x)\n 45 minutes\n One hour\n\n4. What does Robert have at 9 am?\n Doctor's appointment\n Dentist appointment(x)\n Work\n Church"
+    },
+    {
+        "title": "Supermarket Talk with Daughter",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/supermarket_daughter.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/supermarket_daughter.mp3",
+        "dialog": "A: \"Sally, I'm going to the supermarket this afternoon. Do you need anything?\"\nB: \"Yes Mom. Can you buy some snacks for school?\"\nA: \"Sure. What kind of snacks?\"\nB: \"I like pretzels and potato chips.\"\nA: \"Ok. I will pick up some fruits too.\"\nB: \"I don't like fruits.\"\nA: \"Fruits are healthy for you.\"\nB: \"Can I go to the market with you?\"\nA: \"Are you done with your homework?\"\nB: \"No. I have to study for a math test tomorrow.\"\nA: \"Then you should stay home and study.\"\nB: \"I need to take break. I've been studying all day.\"\nA: \"Ok. We will only be gone for about an hour.\"\nB: \"Can we get ice cream on the way home?\"\nA: \"I thought you needed to study.\"\nB: \"I've studied enough. I'm ready for my math test.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/supermarket_daughter.html",
+        "quiz": "1. Where is Sally's mom going?\n To the bank\n To the library\n To the supermarket(x)\n To the Post Office\n\n2. What does Sally want her mom to do?\n Buy some snacks(x)\n Buy her a toy\n Take her to the mall\n Get a haircut\n\n3. What does Sally not like?\n Ice cream\n Fruits(x)\n Pretzels\n Potato chips\n\n4. What does Sally have tomorrow?\n A math test(x)\n A science test\n A history test\n An English test"
+    },
+    {
+        "title": "Supermarket Talk with Friend",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/supermarket_friend.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/supermarket_friend.mp3",
+        "dialog": "A: \"Hi Jane. Where are you going?\"\nB: \"Hi Sandra. I'm heading to the market.\"\nA: \"Which one?\"\nB: \"The one down the street.\"\nA: \"Today is a good day to go. There are a lot of items on sale.\"\nB: \"That's great to know. I need to buy a lot of stuff.\"\nA: \"The market is going out of business?\"\nB: \"Why?\"\nA: \"Not enough customers.\"\nB: \"That's not good. I always go to that market.\"\nA: \"Me too. But more people are going to the bigger market a few blocks away.\"\nB: \"It's always so crowded there.\"\nA: \"I know. But it has a bigger selection of things.\"\nB: \"Yeah, but I still like the smaller store.\"\nA: \"Well, you better leave soon. There were a lot of people today because of the big sale.\"\nB: \"Ok. Thanks for letting me know. I'll see you later.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/supermarket_friend.html",
+        "quiz": "1. Which market is Jane going to?\n The one a few blocks away\n The one across town\n The one down the street(x)\n The one behind her house\n\n2. Why is the market going out of business?\n Not enough customers(x)\n The owner is retiring\n There was a fire\n No enough employees\n\n3. Why is today a good day to go?\n The market is giving away free stuff\n There are many items on sale(x)\n The market is crowded\n There is no one there\n\n4. Why are there more people going to the bigger market?\n Nicer employees\n Free samples\n Bigger selection(x)\n Not crowded"
+    },
+    {
+        "title": "Shopping List",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/DailyLife/shopping_list.jpg",
+        "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/DailyLife/shopping_list.mp3",
+        "dialog": "A: \"Hi Carol. What are you doing?\"\nB: \"Hi Jane. I'm making a shopping list for the supermarket.\"\nA: \"I need to go too. But my car is at the repair shop.\"\nB: \"What's wrong with it?\"\nA: \"Nothing serious. Just an oil change.\"\nB: \"Do you want to join me?\"\nA: \"Sure. Which one are you going to?\"\nB: \"ABC Grocery. I have coupons for that market.\"\nA: \"Let me check my purse and see if I have any coupons too.\"\nB: \"You can get good deals on a lot of things if you have their coupons.\"\nA: \"I know. I use their coupons all the time.\"\nB: \"So, do you have any?\"\nA: \"No. I think I used them all. Where did you get your coupons?\"\nB: \"They came in the mail today. Have you looked in your mail box?\"\nA: \"No, not yet. I'll go do that right now. What time are you leaving?\"\nB: \"Don't worry. I can wait for you.\"\nA: \"Thanks. I'll be right back.\"",
+        "catalog": "Daily Life",
+        "thumbenable": 1,
+        "enable": 1,
+        "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/DailyLife/shopping_list.html",
+        "quiz": "1. What is Carol doing?\n Reading the newspaper\n Reading a magazine\n Making a shopping list(x)\n Listening to music\n\n2. What are Carol and Jane going to do?\n Have lunch\n Go to the market(x)\n Go to the movies\n Get haircuts\n\n3. What is Jane looking for in her purse?\n Coupons(x)\n Checkbook\n Lipstick\n Hairbrush\n\n4. Where is Jane going to look next?\n Her car\n Her mail box(x)\n Her wallet\n Her desk"
+    }
+]
