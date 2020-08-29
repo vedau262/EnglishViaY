@@ -58,5 +58,125 @@
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/SportsMusicEvents.txt",
         "key": "SportsMusicEvents"
+    },
+    {
+        "catalogtitle": "Beginning Level - Learn English - Level 1 - VOA",
+        "catalogthumb": "https://gdb.voanews.com/59BE814D-FFA4-46E8-B424-8D22999808B6_w408_r0_s.png",
+        "catalogdes": "Beginning Level - Learn English - Level 1",
+        "catalognumberbook": 52,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/VOA_BeginningLevel_LearnEnglishLevel1",
+        "key": "LearnEnglishLevel1"
+    },
+    {
+        "catalogtitle": "Beginning Level - Learn English - Level 2 - VOA",
+        "catalogthumb": "https://gdb.voanews.com/59BE814D-FFA4-46E8-B424-8D22999808B6_w408_r0_s.png",
+        "catalogdes": "Beginning Level - Learn English - Level 2",
+        "catalognumberbook": 30,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/VOA_BeginningLevel_LearnEnglishLevel2",
+        "key": "LearnEnglishLevel2"
+    },
+    {
+        "catalogtitle": "Health & Lifestyle - VOA",
+        "catalogthumb": "https://gdb.voanews.com/0CB2C870-AEC9-4BB3-83F5-9B40546B65A9_cx0_cy7_cw0_w1023_r1_s.jpg",
+        "catalogdes": "Health & Lifestyle - VOA",
+        "catalognumberbook": 10,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/Health_Lifestyle.txt",
+        "key": "Health_Lifestyle"
+    },
+    {
+        "catalogtitle": "200 English Conversations",
+        "catalogthumb": "https://lh5.googleusercontent.com/proxy/4KVoYLmt55_NwQjZdi9CCOZ-95ZTzcwb77X6zs7-7ScFW451sBM2oZ4A7dSeHJlCOoDV3fhZsQ6rmOlUTa-_oEvOWb372gx9pOMFeFLUPOb_IxhP3lOxqfx6Vbys-KJoxAt_hK9lRhcOhfgdPtXT",
+        "catalogdes": "200 English Conversations",
+        "catalognumberbook": 200,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/200EnglishConversations.txt",
+        "key": "200EnglishConversation"
+    },
+    {
+        "catalogtitle": "Listening Beginner A1",
+        "catalogthumb": "https://cdn01.alison-static.net/courses/453/alison_courseware_intro_453.jpg",
+        "catalogdes": "Are you a beginner (CEFR level A1) learner of English? This section offers listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
+        "catalognumberbook": 12,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "NA",
+        "key": "beginnerA1"
+    },
+    {
+        "catalogtitle": "Listening Preintermediate A2",
+        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/1a-300x220.jpg",
+        "catalogdes": "Are you a pre-intermediate (CEFR level A2) learner of English? This section offers listening practice to help you understand common vocabulary and expressions in short, clear dialogues. Situations include simple explanations, introductions, messages and announcements.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
+        "catalognumberbook": 12,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "NA",
+        "key": "PreIntermediateA2"
+    },
+    {
+        "catalogtitle": "Intermediate B1",
+        "catalogthumb": "https://www.marj3.com/wp-content/uploads/2020/04/Konversationskurse.jpg",
+        "catalogdes": "Are you an intermediate (CEFR level B1) learner of English? This section offers listening practice to help you understand the main points of clear, standard speech about everyday or job-related topics. Situations include phone calls, meetings and interviews.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
+        "catalognumberbook": 12,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "NA",
+        "key": "IntermediateB1"
+    },
+    {
+        "catalogtitle": "Upper intermediate B2",
+        "catalogthumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXX7py1Fu8G52n1lR7YA48_vKOKh1BYPhxuIGKOkyhyzBUjIP&s",
+        "catalogdes": "Are you an upper intermediate (CEFR level B2) learner of English? This section offers listening practice to help you understand extended, standard speech about familiar topics that may contain complex ideas. Situations include broadcasts, reviews, presentations and lectures.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
+        "catalognumberbook": 12,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "NA",
+        "key": "UpperIntermediateB2"
+    },
+    {
+        "catalogtitle": "Advanced C1",
+        "catalogthumb": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8051_GettyImages-970429194%20%281%29-hig.jpg?itok=6B09d576",
+        "catalogdes": "Are you an advanced (CEFR level C1) learner of English? This section offers reading practice to help you understand long, complex texts about a wide variety of topics, some of which may be unfamiliar. Texts include specialised articles, biographies and summaries.\n\nEach lesson has a preparation task, a reading text and two tasks to check your understanding and to practise a variety of reading skills. Make a start today.",
+        "catalognumberbook": 12,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "NA",
+        "key": "AdvancedC1"
+    },
+    {
+        "catalogtitle": "English Sentence Patterns for Speaking",
+        "catalogthumb": "https://convoenglish.co/wp-content/uploads/2020/03/59a-300x220.jpg",
+        "catalogdes": "English Sentence Patterns for Speaking",
+        "catalognumberbook": 42,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/EnglishSentencePatterns.txt",
+        "key": "EnglishSentencePatterns"
+    },
+    {
+        "catalogtitle": "English Conversation Practice",
+        "catalogthumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUnz0M7qzoYjn6BQr-b4_FHzGO83AlMbXdfqPkEcoFLCdF-w&s",
+        "catalogdes": "English Conversation Practice",
+        "catalognumberbook": 45,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/EnglishConversationPractice.txt",
+        "key": "EnglishConversationPractice"
+    },
+    {
+        "catalogtitle": "English Interview",
+        "catalogthumb": "https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-343-English-Interviews-2nd-Round-Behavioral-in-English-social-346x188.jpg",
+        "catalogdes": "English Interview",
+        "catalognumberbook": 73,
+        "enablethumbnail": 1,
+        "enablecatalog": 1,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/EnglishInterview.txt",
+        "key": "EnglishInterview"
     }
 ]
