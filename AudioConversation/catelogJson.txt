@@ -55,9 +55,19 @@
         "catalogdes": "Sports, Music, and Events",
         "catalognumberbook": 18,
         "enablethumbnail": 1,
-        "enablecatalog": 0,
+        "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/SportsMusicEvents.txt",
         "key": "SportsMusicEvents"
+    },
+    {
+        "catalogtitle": "US Holiday",
+        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_07us_holidays.jpg",
+        "catalogdes": "US Holiday",
+        "catalognumberbook": 15,
+        "enablethumbnail": 1,
+        "enablecatalog": 0,
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/USHoliday.txt",
+        "key": "USHoliday"
     },
     {
         "catalogtitle": "Beginning Level - Learn English - Level 1 - VOA",
