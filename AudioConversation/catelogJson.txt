@@ -65,7 +65,7 @@
         "catalogdes": "US Holiday",
         "catalognumberbook": 15,
         "enablethumbnail": 1,
-        "enablecatalog": 0,
+        "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/USHoliday.txt",
         "key": "USHoliday"
     },
