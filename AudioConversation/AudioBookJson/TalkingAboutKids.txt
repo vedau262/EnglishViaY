@@ -1,7 +1,7 @@
 [
     {
         "title": "Sick Child",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/sick_child.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/sick_child.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/sick_child.mp3",
         "dialog": "SUE: \"Hello?\"\nLINDA: \"Hi Sue. This is Linda. Are you free for lunch today?\"\nSUE: \"No, David is sick today. He couldn't go to school.\"\nLINDA: \"That's terrible. Is it a cold?\"\nSUE: \"Yeah, I think so. He has a cough and a sore throat.\"\nLINDA: \"My son, Billy, was sick last week too. He missed four days of school.\"\nSUE: \"Wow! I hope David isn't sick that long.\"\nLINDA: \"There's a virus going around. We need to stay healthy too.\"\nSUE: \"I know. I've been taking extra Vitamin C to stay healthy.\"\nLINDA: \"Good idea! I think I'll buy some today. Do you need anything at the store?\"\nSUE: \"Actually, I do. I couldn't go to the store because I didn't want to leave David alone.\"\nLINDA: \"I understand. What do you need?\"\nSUE: \"Could you please buy me a whole chicken? I want to make David some chicken soup.\"\nLINDA: \"That's a great idea! I'll drop it off on my way home.\"\nSUE: \"Thank you so much! I will pay you back when you drop off the chicken.\"\nLINDA: \"Ok! I'm going to go to the store after lunch. I will be at your house around 2 pm.\"\nSUE: \"Great! See you then. Don't forget to buy Vitamin C!\"",
         "catalog": "Talking about Kids",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Flu Shot",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/flu_shot.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/flu_shot.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/flu_shot.mp3",
         "dialog": "SUE: \"Hello?\"\nLINDA: \"Hi Sue. This is Linda. I have a question about the flu shot.\"\nSUE: \"What is it?\"\nLINDA: \"Are your kids getting the flu shot this year?\"\nSUE: \"They already did.\"\nLINDA: \"They did?\"\nSUE: \"Yeah. We went to the doctor's office last week. They both got them.\"\nLINDA: \"What about you?\"\nSUE: \"I got one too. So did Jeff.\"\nLINDA: \"Really? Bill won't get one.\"\nSUE: \"Why?\"\nLINDA: \"He says he never gets sick.\"\nSUE: \"Well, that could be true. But we don't want to risk it this year.\"\nLINDA: \"I completely understand that.\"\nSUE: \"Both of my kids got really sick last year. I just want to give them extra protection just in case.\"\nLINDA: \"Yeah. I think I'm going to make an appointment for all of us.\"\nSUE: \"Even Bill?\"\nLINDA: \"No. He won't go. He'll just cancel his appointment.\"\nSUE: \"Well, at least the three of you will be protected.\"\nLINDA: \"That's true. Ok, I better call the doctor's office now.\"",
         "catalog": "Talking about Kids",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Stomach Ache",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/stomache_ache.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/stomache_ache.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/stomache_ache.mp3",
         "dialog": "SUSIE: \"Mommy, I don't feel very well.\"\nMOMMY: \"What's wrong, Susie? Didn't you have a good time at the birthday party?\"\nSUSIE: \"Yeah. It was a lot of fun. But now my tummy hurts.\"\nMOMMY: \"Did you eat too much food at the party?\"\nSUSIE: \"I think so.\"\nMOMMY: \"What did you eat?\"\nSUSIE: \"Pizza, cake, ice cream, and potato chips.\"\nMOMMY: \"That is a lot of food.\"\nSUSIE: \"I also had soda, cookies, and popcorn.\"\nMOMMY: \"Susie, that's why your stomach hurts. You ate too much. Why did you eat so much?\"\nSUSIE: \"I was hungry and everything looked delicious.\"\nMOMMY: \"Susie, I think you should go lie down for a while?\"\nSUSIE: \"Ok, mommy.\"\nMOMMY: \"Susie, where are you going?\"\nSUSIE: \"I need to go to the bathroom first.\"",
         "catalog": "Talking about Kids",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Spring Cleaning",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/spring_clean.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/spring_clean.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/spring_clean.mp3",
         "dialog": "SHARON: \"Hi Jill. What are you doing today?\"\nJILL: \"Hi Sharon. Today we are doing our annual spring cleaning.\"\nSHARON: \"What is that?\"\nJILL: \"It's the day we thoroughly clean the whole house. We throw away things we don't need, pack up things to donate, clean all of the rooms, and wash all of the windows.\"\nSHARON: \"Wow! That's a lot to do.\"\nJILL: \"Yeah. It takes all day.\"\nSHARON: \"Do your kids help too.\"\nJILL: \"Of course. They look through their closets and toy bins to find clothes and toys to donate or throw away.\"\nSHARON: \"That's a great idea! But why is it called spring cleaning?\"\nJILL: \"Because it's done in the spring season.\"\nSHARON: \"I see. I think we're going to start doing this too. Our house is so cluttered.\"\nJILL: \"After we have the things ready for donation, Jim takes them to the local homeless shelter. This makes the house easier to clean.\"\nSHARON: \"That's great! I'm going to tell my family about this.\"\nJILL: \"Well, I better get started. I have a lot to do. Talk to you later, Sharon.\"\nSHARON: \"Bye, Jill. Thanks for the cleaning tip.\"",
         "catalog": "Talking about Kids",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Busy Day Cleaning",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/busy_cleaning.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/busy_cleaning.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/busy_cleaning.mp3",
         "dialog": "KAREN: \"Hi Sally. How are you today?\"\nSALLY: \"Hi Karen. I have so many things to do today.\"\nKAREN: \"What do you have to do?\"\nSALLY: \"I have to do several loads of laundry, vacuum the whole house, and clean the kitchen.\"\nKAREN: \"Wow! That's a lot of stuff to do. Why don't you do some of that tomorrow?\"\nSALLY: \"My mother-in-law is coming tonight.\"\nKAREN: \"I completely understand.\"\nSALLY: \"She likes a very neat and tidy house.\"\nKAREN: \"I know what you mean. My mom is very clean and organized too.\"\nSALLY: \"I should've started a few days ago, but I was so busy at work.\"\nKAREN: \"Why doesn't your husband help you?\"\nSALLY: \"He did help me. He mowed the lawn, cleaned all of the bathrooms, and set up the guest room yesterday.\"\nKAREN: \"Wow! He did a lot too.\"\nSALLY: \"I also have to go grocery shopping.\"\nKAREN: \"What a busy day! Do you need any help?\"\nSALLY: \"No, that's ok.\"\nKAREN: \"I'm not busy today. I can help you.\"\nSALLY: \"Really? Could you go grocery shopping for me? I already made my shopping list.\"\nKAREN: \"Of course! You can pay me back when I drop off the groceries.\"\nSALLY: \"Thank you so much! I really appreciate it.\"\nKAREN: \"That's what friends and neighbors are for.\"",
         "catalog": "Talking about Kids",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Cleaning the Attic",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cleaning_attic.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/cleaning_attic.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/cleaning_attic.mp3",
         "dialog": "GARY: \"Hey Ted. Do you have any boxes you're not using?\"\nTED: \"I think so. I have to check my garage.\"\nGARY: \"Great. Thanks.\"\nTED: \"Are you moving?\"\nGARY: \"No. I need to clean out my attic today. It's getting full up there.\"\nTED: \"That's a big chore.\"\nGARY: \"I know. I don't even remember what's in there anymore.\"\nTED: \"Well, if you don't know what's in there, you probably don't need it.\"\nGARY: \"That's what my wife said.\"\nTED: \"I had to clean out my attic last month and my wife said the same thing to me.\"\nGARY: \"They must be talking to each other.\"\nTED: \"What are you going to do with all the stuff?\"\nGARY: \"I think I'm going to have a garage sale next weekend. What did you do with all of your stuff?\"\nTED: \"I threw half of it away and donated the other half.\"\nGARY: \"That's a good idea. Maybe I'll donate the things I don't need.\"\nTED: \"What about the garage sale?\"\nGARY: \"That's just going to be another chore to do. I'd rather go golfing.\"\nTED: \"Good thinking!\"",
         "catalog": "Talking about Kids",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Kids Chores",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/kids_chores.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/kids_chores.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/kids_chores.mp3",
         "dialog": "MARK: \"Hey Billy. Do you want to come over after school?\"\nBILLY: \"Hey Mark. No. I have to finish my chores. I didn't do them all week, so now I have to do them all today.\"\nMARK: \"What do you have to do?\"\nBILLY: \"Rake the yard and clean my room.\"\nMARK: \"Is that going to take a long time?\"\nBILLY: \"Have you seen my room? It looks like a tornado went through it.\"\nMARK: \"Why didn't you clean it before?\"\nBILLY: \"I hate cleaning. Do you have chores?\"\nMARK: \"Yeah, but I try to finish them as soon as possible.\"\nBILLY: \"You're smart! Now, I have to spend Friday afternoon doing chores.\"\nMARK: \"That's too bad. I got a new video game I wanted to show you.\"\nBILLY: \"Do you want to help me with my chores?\"\nMARK: \"No way! I'm going to enjoy my Friday afternoon.\"\nBILLY: \"Well, I better get to work or I'll be doing it after dinner too.\"\nMARK: \"Finish your chores earlier next time.\"\nBILLY: \"I know. I say that every week.\"",
         "catalog": "Talking about Kids",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Chores for Money",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/chores_money.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/chores_money.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/chores_money.mp3",
         "dialog": "ALAN: \"Mom, are there any more chores to do around the house?\"\nMOM: \"There are always chores to do. Why?\"\nALAN: \"I want to make more money. I'm saving up for something.\"\nMOM: \"What is it?\"\nALAN: \"It's a secret.\"\nMOM: \"Ok. There are a couple of loads of laundry that need to be done.\"\nALAN: \"Ok! I can do that.\"\nMOM: \"They need to be washed, folded, and put away.\"\nALAN: \"Got it!\"\nMOM: \"Let me know if you want more to do after that.\"\nALAN: \"Ok. I need a lot more to do.\"\nMOM: \"I'm curious. What are you saving up for?\"\nALAN: \"Do you promise not to say anything?\"\nMOM: \"I promise.\"\nALAN: \"I want to buy Dad a new watch for his birthday.\"\nMOM: \"That's very sweet of you. He would love it!\"\nALAN: \"I only have a couple of weeks to save until his birthday.\"\nMOM: \"You're a good kid, Alan.\"",
         "catalog": "Talking about Kids",
@@ -97,7 +97,7 @@
     },
     {
         "title": "Chores and Allowance",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/chores_allowance.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/chores_allowance.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/chores_allowance.mp3",
         "dialog": "DAD: \"Greg, I think it's time for you to start helping around the house.\"\nGREG: \"Ok, Dad.\"\nDAD: \"Your mom and I want you to start doing some chores.\"\nGREG: \"Will I get an allowance like Susie?\"\nDAD: \"Of course you will. First, let's start with cleaning up the playroom when it gets messy.\"\nGREG: \"Ok. What else?\"\nDAD: \"How about setting and clearing the dinner table.\"\nGREG: \"These are easy.\"\nDAD: \"And, loading and unloading the dishwasher.\"\nGREG: \"Ok. Do I have to do all of these things every day?\"\nDAD: \"No. I want you to share these chores with your sister. You can both decide which ones you want to do.\"\nGREG: \"That's not fair.\"\nDAD: \"Why isn't this fair?\"\nGREG: \"She's going to pick the easiest ones for herself and give me the harder chores to do.\"\nDAD: \"No, she won't.\"\nGREG: \"You don't know Susie. I think I want a raise in my allowance.\"\nDAD: \"We haven't told you how much you're getting yet.\"\n\n \n\nGREG: \"If I have to share chores with my sister, I'm going to be doing most of the work.\"",
         "catalog": "Talking about Kids",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Lost Dog",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/lost_dog.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/lost_dog.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/lost_dog.mp3",
         "dialog": "MARK: \"What's wrong Phil?\"\nPHIL: \"Hi Mark. Our dog, Rusty, is lost. Someone left the backyard gate open and he got out.\"\nMARK: \"Oh no. Let me help you find him.\"\nPHIL: \"Thanks. My daughter is so upset right now.\"\nMARK: \"Have you called the local dog shelters?\"\nPHIL: \"Yeah, they haven't seen him. They said they would call me if they find our dog.\"\nMARK: \"Does he have any identification on him?\"\nPHIL: \"Yeah. He's wearing his dog tag and he's also microchipped.\"\nMARK: \"That's good. Should we make some flyers to post around the neighborhood?\"\nPHIL: \"My wife is doing that right now.\"\nMARK: \"How old is Rusty?\"\nPHIL: \"He's four years old and he's brown with white spots.\"\nMARK: \"I know what he looks like.\"\nPHIL: \"Oh, that's right. I'm not thinking straight. I'm just worried he was stolen or is injured somewhere.\"\nMARK: \"I understand. He's part of your family.\"\nPHIL: \"Yeah, he's a big part of our family. We got him when he was a little puppy.\"\nMARK: \"Hey Phil! There he is!\"\nPHIL: \"Rusty! Come here, boy!\"",
         "catalog": "Talking about Kids",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Asking for a Dog",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/asking_dog.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/asking_dog.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/asking_dog.mp3",
         "dialog": "DANIEL: \"Dad, can we get a dog?\"\nDAD: \"Daniel, are we talking about this again?\"\nDANIEL: \"You promised we could get one when I got older.\"\nDAD: \"Having a dog is a big responsibility.\"\nDANIEL: \"I know. I promise to help take care of it.\"\nDAD: \"You have to walk him, feed him, bathe him, clean his messes, and play with him.\"\nDANIEL: \"I promise to do all of those things.\"\nDAD: \"I need to talk to your mom first.\"\nDANIEL: \"But mom doesn't want a dog. She doesn't like them.\"\nDAD: \"It's because she is afraid of them.\"\nDANIEL: \"Why is she afraid of dogs?\"\nDAD: \"She was bitten by a dog when she was a child.\"\nDANIEL: \"Oh, I see. But if we get a puppy, we can train it not to bite.\"\nDAD: \"That's true.\"\nDANIEL: \"Dad, did you have a dog when you were a kid?\"\nDAD: \"Yes. But I was old enough to help take care of him.\"\nDANIEL: \"How old were you?\"\nDAD: \"Ten years old.\"\nDANIEL: \"Dad, I'm eleven years old.\"",
         "catalog": "Talking about Kids",
@@ -133,7 +133,7 @@
     },
     {
         "title": "Giving up a Dog",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/giving_dog.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/giving_dog.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/giving_dog.mp3",
         "dialog": "JANET: \"Hi Alice. Do you know anyone who wants a dog?\"\nALICE: \"What kind of dog? Yours?\"\nJANET: \"Yeah. We have to give our dog away.\"\nALICE: \"Why? You love Buster.\"\nJANET: \"I know. But we just discovered that our son is allergic to dogs.\"\nALICE: \"Really?\"\nJANET: \"Yeah, he sneezes and gets a rash every time he pets him.\"\nALICE: \"That's terrible.\"\nJANET: \"When Steven was a baby, we didn't know he was allergic. But now he's crawling around and playing with Buster. His symptoms get really bad.\"\nALICE: \"I'm so sorry to hear that. You and Charlie have had Buster since he was a puppy. I remember when all three of you moved in next door.\"\nJANET: \"I know. We got Buster before our son was born. Charlie is so sad.\"\nALICE: \"How about your relatives? Are there any family members that could take Buster? Then you can still see him whenever you want.\"\nJANET: \"I asked my sister and Charlie asked his brothers. But no one is able to take a dog right now.\"\nALICE: \"Well, our kids are all grown up and living on their own. Stan and I get lonely sometimes. Would you like us to adopt Buster?\"\nJANET: \"Really? You would do that?\"\nALICE: \"Stan and I really like Buster. He's housetrained and well-behaved. He rarely barks too.\"\nJANET: \"Don't you need to talk to Stan first!\"\nALICE: \"Oh, he'll say yes. He's been talking about getting a dog lately. He'll be happy it's Buster.\"\nJANET: \"Thank you so much!\"\nALICE: \"You can come see him anytime.\"\nJANET: \"You're the best neighbor anyone could have.\"",
         "catalog": "Talking about Kids",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Sister's Birthday Party",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/sister_birthday.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/sister_birthday.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/sister_birthday.mp3",
         "dialog": "CINDY: \"Hello?\"\nSALLY: \"Hi Cindy. This is Sally. Are you busy this Saturday?\"\nCINDY: \"I will be working until 5 o'clock.\"\nSALLY: \"I'm throwing a birthday party for my sister, Alison. Would you like to come?\"\nCINDY: \"Sure. I would love to. What time is the party?\"\nSALLY: \"It starts at 5 o'clock.\"\nCINDY: \"Ok. I will be a little late. I'll try to be there as soon as possible.\"\nSALLY: \"Great!\"\nCINDY: \"Where is the party going to be?\"\nSALLY: \"At my house.\"\nCINDY: \"What can I bring?\"\nSALLY: \"No need to bring anything.\"\nCINDY: \"I'd like to get her a gift. What does she like?\"\nSALLY: \"That isn't t necessary.\"\nCINDY: \"I really want to. Does she like music?\"\nSALLY: \"She loves music.\"\nCINDY: \"What kind of music does she like? Pop, jazz, hip hop, classical?\"\nSALLY: \"She likes pop music.\"\nCINDY: \"Ok. I have an idea.\"\nSALLY: \"Thanks. That's really nice of you. See you on Saturday.\"",
         "catalog": "Talking about Kids",
@@ -157,7 +157,7 @@
     },
     {
         "title": "Birthday Party Planning",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/birthday_planning.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/birthday_planning.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/birthday_planning.mp3",
         "dialog": "CAROL: \"Hi Anne. What are you doing?\"\nANNE: \"Hi Carol. I'm planning a birthday party for Tim.\"\nCAROL: \"How is that going?\"\nANNE: \"Not well. I can't think of anything to do.\"\nCAROL: \"How many kids do you want to invite?\"\nANNE: \"He wants to invite all of the boys in his classroom. That's 12 boys.\"\nCAROL: \"No girls?\"\nANNE: \"He doesn't want to invite any girls.\"\nCAROL: \"How about an outdoor party?\"\nANNE: \"We did that last year and it rained.\"\nCAROL: \"Oh. That's not fun.\"\nANNE: \"I was thinking about taking the kids to a pizza place.\"\nCAROL: \"Kids like pizza. How about taking them to a movie theater, too?\"\nANNE: \"That's too expensive.\"\nCAROL: \"Yeah. How about renting a movie and watching it at home after the pizza place?\"\nANNE: \"I love that idea! Then they can play in our backyard if it doesn't rain.\"\nCAROL: \"That sounds like a great party.\"\nANNE: \"Thanks for your help.\"",
         "catalog": "Talking about Kids",
@@ -169,7 +169,7 @@
     },
     {
         "title": "Surprise Birthday Party",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/surprise_party.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/surprise_party.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/surprise_party.mp3",
         "dialog": "DIANE: \"Hello?\"\nHELEN: \"Hi Diane. This is Helen.\"\nDIANE: \"Hi Helen. What's up?\"\nHELEN: \"I want to throw Mom a surprise birthday party.\"\nDIANE: \"That's wonderful idea. How can I help?\"\nHELEN: \"Do you know who we should invite?\"\nDIANE: \"Her friends and co-workers?\"\nHELEN: \"Do you have their phone numbers or e-mail addresses?\"\nDIANE: \"No, I don't. Why don't we ask Dad? He should have them.\"\nHELEN: \"Do you think Dad can keep a secret?\"\nDIANE: \"Yeah. Remember he surprised her with a trip to France a couple of years ago?\"\nHELEN: \"Oh yeah. Mom was so surprised.\"\nDIANE: \"What kind of food should we serve?\"\nHELEN: \"Let's serve Mom's favorite food, pasta. I can cook.\"\nDIANE: \"Ok. I can take care of the party decorations.\"\nHELEN: \"Perfect. Should we get together to discuss all of the plans?\"\nDIANE: \"Sure. Do you want to meet right now?\"\nHELEN: \"No. I have some things to do. Can I meet you at 5 pm?\"\nDIANE: \"Ok. That sounds good.\"\nHELEN: \"Why don't you come to my house? I can make us dinner.\"",
         "catalog": "Talking about Kids",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Finding a Babysitter",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/find_babysitter.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/find_babysitter.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/find_babysitter.mp3",
         "dialog": "SARAH: \"Hello?\"\nKATHY: \"Hi Sarah. This is Kathy. I have a huge favor to ask.\"\nSARAH: \"What is it?\"\nKATHY: \"Are you free tonight? I need a babysitter to watch Michael.\"\nSARAH: \"I'm so sorry. I'm not available. We have tickets to the play tonight.\"\nKATHY: \"We do too. Our regular babysitter is sick and the tickets are non-refundable.\"\nSARAH: \"Jenny is home from college this weekend. Would you like me to ask her if she is available?\"\nKATHY: \"That would be wonderful!\"\nSARAH: \"I'll ask her when she gets home. She went to the store. She should be back in a few minutes.\"\nKATHY: \"Thank you! We will pay her, of course. I know she is great with kids. I remember her playing with Michael before. He really liked her.\"\nSARAH: \"Yeah, she loves children. She is studying to become a teacher.\"\nKATHY: \"That's great! She will be a good teacher.\"\nSARAH: \"If Michael has homework, she can help him with it.\"\nKATHY: \"Great idea! But I'm not sure Michael will like this idea.\"\nSARAH: \"That's true. He may not like Jenny after tonight.\"",
         "catalog": "Talking about Kids",
@@ -193,7 +193,7 @@
     },
     {
         "title": "First time with Babysitter",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/first_babysitter.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/first_babysitter.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/first_babysitter.mp3",
         "dialog": "SANDY: \"Hi Janice. Why do you look so nervous?\"\nJANICE: \"Oh, hi Sandy. Bill and I are going out to dinner without the kids.\"\nSANDY: \"That sounds fun! So, why do you look nervous?\"\nJANICE: \"We hired a babysitter. This will be our first time leaving the kids with a babysitter.\"\nSANDY: \"Really? Who did you hire?\"\nJANICE: \"Our friend's daughter, Natalie. She is 18 years old.\"\nSANDY: \"Natalie? Carol's daughter?\"\nJANICE: \"Yes. Do you know her?\"\nSANDY: \"Yeah. She used to babysit my children a couple of years ago.\"\nJANICE: \"Did you like her as a babysitter?\"\nSANDY: \"Yes. She was a very responsible girl.\"\nJANICE: \"That's great to hear.\"\nSANDY: \"You can trust her. She babysits for a few people I know.\"\nJANICE: \"Yeah, I heard she has a lot of babysitting experience.\"\nSANDY: \"She loves children. She wants to go to medical school and become a pediatric doctor.\"\nJANICE: \"Wow! She must be a smart girl.\"\nSANDY: \"She is. She was a straight A student in high school and she has been accepted to many colleges.\"\nJANICE: \"That's awesome!\"\nSANDY: \"She's babysitting a lot to save money for college tuition.\"\nJANICE: \"Now I feel a lot better about hiring her as a babysitter.\"",
         "catalog": "Talking about Kids",
@@ -205,7 +205,7 @@
     },
     {
         "title": "Babysitting Neighbor's Kid",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/neighbor_babysit.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/neighbor_babysit.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/neighbor_babysit.mp3",
         "dialog": "TOM: \"Hey Alison. Are you free for dinner tonight?\"\nALISON: \"Hi Tom. No, I'm not. I'm babysitting a neighbor's kid.\"\nTOM: \"What time?\"\nALISON: \"From 5 pm to 9 pm.\"\nTOM: \"What about next Friday?\"\nALISON: \"I'm babysitting again next Friday.\"\nTOM: \"Why are you babysitting so much?\"\nALISON: \"It's a good way to make money.\"\nTOM: \"Do you like children?\"\nALISON: \"Yeah, I love kids. They're fun to play with.\"\nTOM: \"I don't like them. They're noisy and they smell weird.\"\nALISON: \"You're so funny. You would make a terrible babysitter.\"\nTOM: \"You're right. I'd rather babysit dogs.\"\nALISON: \"Dogs are noisy and they smell weird too.\"\nTOM: \"I know. But they're cuter than kids.\"\nALISON: \"You're silly.\"\nTOM: \"Then when are you free for dinner?\"\nALISON: \"Tomorrow night.\"\nTOM: \"OK. I'm free tomorrow too. I'll pick you up at 6 pm at your house.\"\nALISON: \"Great! I'll see you then.\"",
         "catalog": "Talking about Kids",
@@ -217,7 +217,7 @@
     },
     {
         "title": "Broken Arm",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/broken_arm.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/broken_arm.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/broken_arm.mp3",
         "dialog": "HANNAH: \"Hi Teresa. Is David home from school?\"\nTERESA: \"Yeah, we just got back from the hospital.\"\nHANNAH: \"What happened?\"\nTERESA: \"David fell at school and broke his arm.\"\nHANNAH: \"Are you serious? That's terrible!\"\nTERESA: \"Yeah, the school called an ambulance and they took him to the hospital.\"\nHANNAH: \"Wow! Is he in a lot of pain?\"\nTERESA: \"Just a little. The doctor gave him some pain medication.\"\nHANNAH: \"That's good.\"\nTERESA: \"He's so upset though.\"\nHANNAH: \"Because of the pain?\"\nTERESA: \"No. His soccer team is playing the championship game this weekend and he's the goalie.\"\nHANNAH: \"That must really hurt more than the arm.\"\nTERESA: \"I think it does. He's been practicing so much for this game.\"\nHANNAH: \"Is he going to go to the game?\"\nTERESA: \"Of course. He has to go and cheer his team on.\"\nHANNAH: \"Hopefully, his team will win!\"\nTERESA: \"I hope so. They were undefeated all season.\"",
         "catalog": "Talking about Kids",
@@ -229,7 +229,7 @@
     },
     {
         "title": "Bad Injury",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/bad_injury.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/bad_injury.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/bad_injury.mp3",
         "dialog": "JOAN: \"Hey Carol, have you seen Tom lately?\"\nCAROL: \"Didn't you hear the news?\"\nJOAN: \"No. What happened?\"\nCAROL: \"He got into a car accident last week.\"\nJOAN: \"Is he ok?\"\nCAROL: \"No. He's in the hospital. He broke both of his legs and ribs. He also has a head injury.\"\nJOAN: \"That's terrible. I had the flu, so I haven't seen or talked to anyone lately. How's Judy?\"\nCAROL: \"Judy has come home a couple of times to get a change of clothes.\"\nJOAN: \"She must be devastated.\"\nCAROL: \"She is a very worried wife.\"\nJOAN: \"Have you seen him?\"\nCAROL: \"Bob and I visited him in the hospital a couple of days ago. He is on so much medication.\"\nJOAN: \"Wow! That's serious.\"\nCAROL: \"Yeah.\"\nJOAN: \"Does Judy know how long he's going to be in the hospital?\"\nCAROL: \"The doctors told her he may be there for several months.\"\nJOAN: \"Oh my goodness. What is she going to do?\"\nCAROL: \"Their children are helping her right now. They're taking turns staying at the hospital.\"\nJOAN: \"That's good. I better visit him soon. Thanks for the information.\"",
         "catalog": "Talking about Kids",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Talking about Stitches",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/finger_stitches.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TalkingAboutKids/finger_stitches.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TalkingAboutKids/finger_stitches.mp3",
         "dialog": "ANNE: \"Hi Kate. Why do you look so tired?\"\nKATE: \"Oh hi Anne. We just got back from the emergency room.\"\nANNE: \"Why? What happened?\"\nKATE: \"Jason had to get stitches.\"\nANNE: \"Why? Did he cut himself?\"\nKATE: \"Yeah, he was slicing some onions and the knife slipped. He got a really deep cut on his finger.\"\nANNE: \"That sounds painful.\"\nKATE: \"The painful part was waiting at the emergency room. There was only one doctor working tonight. We waited three hours.\"\nANNE: \"What about his finger?\"\nKATE: \"The nurse wrapped it with a bandage to stop the bleeding.\"\nANNE: \"I hate the ER. It is always crowded and takes too long.\"\nKATE: \"I know. But, I knew he had to have stitches. It was a really bad cut, so we had to stay.\"\nANNE: \"How many stitches did he get?\"\nKATE: \"Nine. He won't be able to play video games for a few weeks.\"\nANNE: \"Is that a good thing?\"\nKATE: \"Actually, it is. But he's not happy about it.\"",
         "catalog": "Talking about Kids",
