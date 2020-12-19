@@ -1,7 +1,7 @@
 [
     {
         "title": "Going to the Beach",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/beach.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/beach.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/beach.mp3",
         "dialog": "SALLY: \"Carl. Are you going to watch television all day?\"\nCARL: \"No. Is there something you want to do?\"\nSALLY: \"It's a beautiful day. The sun is shining. We should do something outdoors.\"\nCARL: \"Ok. What should we do?\"\nSALLY: \"Let's go to the beach.\"\nCARL: \"OK. I'll grab the beach chairs and towels.\"\nSALLY: \"Great! I'll pack some snacks and drinks. Don't forget the sunscreen.\"\nCARL: \"Where is it?\"\nSALLY: \"It's in the bathroom cabinet.\"\nCARL: \"Is there anything else we need to bring?\"\nSALLY: \"I'll bring the camera. I want to take pictures of the sunset.\"\nCARL: \"Good idea! The sunset is beautiful at the beach.\"\nSALLY: \"Do you remember the last time we went to the beach?\"\nCARL: \"No. It's been a long time. Why don't we go more often?\"\nSALLY: \"Because you're always watching TV.\"\nCARL: \"Ok. Let's go to the beach when the weather is nice and watch TV when it rains.\"\nSALLY: \"That's a deal!\"",
         "catalog": "Trip & Vacations",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Going to the Zoo",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/GoingtotheZoo.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/GoingtotheZoo.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/GoingtotheZoo.mp3",
         "dialog": "GREG: \"Hey Steve. My family and I want to do something fun this weekend? Do you have any suggestions?\"\nSTEVE: \"The weather is going to be nice. You should do something outdoors.\"\nGREG: \"Yeah, it's supposed to be sunny all weekend.\"\nSTEVE: \"How about a picnic at the park?\"\nGREG: \"We do that often. I want to do something more fun.\"\nSTEVE: \"How about the city zoo? I heard that bear cubs were recently born there.\"\nGREG: \"That's a good idea. We haven't been to the zoo in a long time.\"\nSTEVE: \"Then you should definitely go this weekend.\"\nGREG: \"The last time we were there, it started raining. None of the animals wanted to come out.\"\nSTEVE: \"That must've been boring.\"\nGREG: \"It was boring. The kids wanted to go home early.\"\nSTEVE: \"The animals should be more visible since the weather is going to be sunny this weekend.\"\nGREG: \"Yeah. I think we will go to the zoo. Hopefully, this time it'll be more fun.\"\nSTEVE: \"Actually, I have four tickets to the zoo. You can have them. Our family won't be able to go. The tickets expire this weekend.\"\nGREG: \"Thanks, Steve! Let me pay you for them. Zoo tickets are expensive.\"\nSTEVE: \"Don't worry about it. It's my gift to you since your last visit was not fun.\"\nGREG: \"Are you sure! This is very generous of you.\"\nSTEVE: \"Also, you mowed my lawn a few times after I had back surgery last year. I really appreciated that.\"\nGREG: \"I'm glad we're neighbors.\"",
         "catalog": "Trip & Vacations",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Going to the Amusement Park",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/amusement_park.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/amusement_park.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/amusement_park.mp3",
         "dialog": "NANCY: \"Hi Sheila. Have you been to the new amusement park yet?\"\nSHEILA: \"No. When did it open?\"\nNANCY: \"Last weekend.\"\nSHEILA: \"Was it crowded?\"\nNANCY: \"It was very crowded. Parking is terrible too.\"\nSHEILA: \"Did you have fun?\"\nNANCY: \"Oh yes! The roller coasters are really fun. My kids had a great time. It was even fun for the adults too.\"\nSHEILA: \"I didn't know it was open yet. I will have to take my son soon.\"\nNANCY: \"You should. They will love it.\"\nSHEILA: \"Are the tickets expensive?\"\nNANCY: \"Yeah, they're pretty expensive. But your family will enjoy it.\"\nSHEILA: \"Maybe we'll go this weekend. We don't have any plans on Saturday. My son has been asking about it.\"\nNANCY: \"If you go on Saturday, try to go early. There aren't enough parking spots. They need to add more.\"\nSHEILA: \"Ok. That's good to know. Do you have any other tips?\"\nNANCY: \"The lines for the rides are very long, so be patient.\"\nSHEILA: \"Ok. I assumed that. Now I have to convince my husband to go.\"\nNANCY: \"He doesn't like amusement parks?\"\nSHEILA: \"No. I have motion sickness, so I can't ride any of the roller coasters. That means my husband has to ride all of them with our son.\"\nNANCY: \"Tell him to be prepared. There are a lot of roller coasters.\"",
         "catalog": "Trip & Vacations",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Afternoon Picnic",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/afternoon_picnic.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/afternoon_picnic.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/AfternoonPicnic.mp3",
         "dialog": "CATHY: \"Mom, can we have a picnic this afternoon?\"\nMOM: \"Sure, Cathy. Where should we have it?\"\nCATHY: \"How about the lake?\"\nMOM: \"That's a great idea.\"\nCATHY: \"What should we pack for lunch?\"\nMOM: \"I can make ham sandwiches and potato salad.\"\nCATHY: \"Yummy. I love ham sandwiches and potato salad.\"\nMOM: \"Tell your sisters about the picnic.\"\nCATHY: \"Ok. I think it is going to get hot later today.\"\nMOM: \"That's good. It will be a good day for a swim in the lake.\"\nCATHY: \"I'll tell Cindy and Alison to wear their swimsuits.\"\nMOM: \"Don't forget to pack your life jackets too.\"\nCATHY: \"Ok. Will Andy be joining us?\"\nMOM: \"Of course, your brother will be joining us. Where is he?\"\nCATHY: \"He's taking a nap on the couch.\"\nMOM: \"Let's wake him up.\"\nCATHY: \"You can wake him up. I'll get my sisters.\"\nMOM: \"Andy, wake up. We're going to the lake.\"",
         "catalog": "Trip & Vacations",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Picnic by the Lake",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/picnic_lake.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/picnic_lake.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/picnic_lake.mp3",
         "dialog": "JOE: \"Hi Mike. What are you doing today?\"\nMIKE: \"Hi Joe. My family and I are going to the lake. We're going to have picnic.\"\nJOE: \"That sounds like fun.\"\nMIKE: \"Do you want to join us?\"\nJOE: \"May I? I would love to join.\"\nMIKE: \"Sure. We are leaving at 10:30.\"\nJOE: \"Ok. Let me ask my parents. What should I bring?\"\nMIKE: \"You should pack swim trunks and a life jacket.\"\nJOE: \"Ok. How about food?\"\nMIKE: \"My parents are going to pack some food. There will be plenty for you too.\"\nJOE: \"Thanks. I'll be back as soon as possible.\"\nMIKE: \"Try to come back before 10:30.\"\nJOE: \"I will. If I can't go, I will call you.\"\nMIKE: \"I hope you can come with us.\"\nJOE: \"Me too. I have no plans today.\"\nMIKE: \"See you soon.\"\nJOE: \"I hope so!\"",
         "catalog": "Trip & Vacations",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Going to the Lake",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/GoingtotheLake.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/GoingtotheLake.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/GoingtotheLake.mp3",
         "dialog": "CATHY: \"Dad, what are we doing today?\"\nDAD: \"Cathy, it's a surprise.\"\nCATHY: \"Is it a special occasion?\"\nDAD: \"No. Just a short family trip.\"\nCATHY: \"Does Mom know?\"\nDAD: \"Of course. It was her idea.\"\nCATHY: \"Where is Mom?\"\nDAD: \"She is at the store getting things for our trip.\"\nCATHY: \"I'm so curious. Can you please tell me?\"\nDAD: \"No. You have to be patient.\"\nCATHY: \"Ok. Can I help you with anything?\"\nDAD: \"Sure. Why don't you pack your swimsuit and life jacket?\"\nCATHY: \"I know what we're doing!\"\nDAD: \"You do?\"\nCATHY: \"Yes. We're going to the lake!\"\nDAD: \"How did you know?\"\nCATHY: \"You asked me to pack a swimsuit and a life jacket. Also, you are pulling out the canoe from the garage.\"\nDAD: \"It looks like I can't keep a secret.\"",
         "catalog": "Trip & Vacations",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Fishing with Dad",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/fishing_dad.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/fishing_dad.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/fishing_dad.mp3",
         "dialog": "TIMOTHY: \"Dad, what are we doing this weekend?\"\nDAD: \"I have a surprise for you, Timothy.\"\nTIMOTHY: \"What is it?\"\nDAD: \"Here. Open it.\"\nTIMOTHY: \"I think I know what it is?\"\nDAD: \"Can you tell by the shape?\"\nTIMOTHY: \"Yeah. Is it a fishing pole?\"\nDAD: \"Well, open it up and find out.\"\nTIMOTHY: \"It is! I love it. I've never gone fishing before.\"\nDAD: \"Your grandfather and I used to go fishing when I was a child. Now, I can take you.\"\nTIMOTHY: \"I can't wait!\"\nDAD: \"You also need a life jacket.\"\nTIMOTHY: \"Why?\"\nDAD: \"You should always wear a life jacket if you're going in a boat.\"\nTIMOTHY: \"Ok, dad.\"\nDAD: \"Now let's go to the fishing store and buy some bait.\"\nTIMOTHY: \"What's bait?\"\nDAD: \"Things that will attract the fish to the hook.\"\nTIMOTHY: \"Like worms?\"\nDAD: \"Exactly!\"\nTIMOTHY: \"This is going to be so much fun!\"",
         "catalog": "Trip & Vacations",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Fishing with Buddies",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/fishing_buddies.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/fishing_buddies.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/fishing_buddies.mp3",
         "dialog": "JAMES: \"Hey Phil, I'm so glad it's Friday.\"\nPHIL: \"I agree, James. It was a stressful work week.\"\nJAMES: \"Have any fun plans this weekend?\"\nPHIL: \"Yeah, I'm going fishing with my buddies.\"\nJAMES: \"Lucky!\"\nPHIL: \"Do you want to join us?\"\nJAMES: \"I can't. I'm helping my brother move. He recently bought a house.\"\nPHIL: \"That's too bad. We're going to have beautiful weather too.\"\nJAMES: \"I'm glad we're going to have good weather. I don't want to move boxes and furniture in the rain.\"\nPHIL: \"That's true. When are you going to be done?\"\nJAMES: \"I don't know. He has a lot of stuff. It could be all day.\"\nPHIL: \"Well, if you get done early, why don't you meet us at the lake?\"\nJAMES: \"Are you going out on a boat?\"\nPHIL: \"No, we're going to fish on the lake shore. None of us have a boat.\"\nJAMES: \"My brother has a boat. I can ask him if we can borrow it sometime.\"\nPHIL: \"That would be awesome! Thanks!\"\nJAMES: \"Well, I'm going to head home now. I'm tired.\"\nPHIL: \"Yeah. Me too. Call me this weekend if you get done early.\"",
         "catalog": "Trip & Vacations",
@@ -97,7 +97,7 @@
     },
     {
         "title": "Talking about Fishing",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/talking_fishing.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/talking_fishing.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/talking_fishing.mp3",
         "dialog": "STEVE: \"Hey John! Did you see the fish Sam just caught?\"\nJOHN: \"No. What did he catch? How big was it?\"\nSTEVE: \"A 20 pound salmon.\"\nJOHN: \"Wow! I've been here all day and have caught nothing. Have you caught anything?\"\nSTEVE: \"Yeah, just a couple of small trout.\"\nJOHN: \"That's better than me. I just want to give up and go home.\"\nSTEVE: \"Don't give up. You might catch something soon.\"\nJOHN: \"My wife told me to bring home dinner.\"\nSTEVE: \"Fish?\"\nJOHN: \"Yeah. I may have to go to the market and buy one.\"\nSTEVE: \"That's silly. Just wait.\"\nJOHN: \"The sun is starting to set and I'm tired of being out here.\"\nSTEVE: \"At least it didn't rain today. We had clear skies all day.\"\nJOHN: \"That's true. It was nice today. Hey, can you hold my fishing pole? I need to go to the restroom.\"\nSTEVE: \"Sure. Wait, John!\"\nJOHN: \"Steve, what?\"\nSTEVE: \"Something is pulling on your fishing pole! Here, grab it!\"\nJOHN: \"Wow! That's a huge salmon!\"\nSTEVE: \"I told you to be patient and you would catch something.\"\nJOHN: \"Now I can take home dinner. Want to come over and have salmon with us?\"",
         "catalog": "Trip & Vacations",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Hiking injury",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/hiking_injury.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/hiking_injury.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/hiking_injury.mp3",
         "dialog": "KEVIN: \"Hey Joe. What happened to your ankle?\"\nJOE: \"Hey Kevin. I broke it while hiking last weekend.\"\nKEVIN: \"That's terrible. How?\"\nJOE: \"We were hiking down a steep trail. I lost my balance and fell.\"\nKEVIN: \"Ouch!\"\nJOE: \"Yeah, it hurt badly.\"\nKEVIN: \"How did you get back to your car?\"\nJOE: \"It was a long, painful walk.\"\nKEVIN: \"Were you alone?\"\nJOE: \"No, I was with my wife. But I'm too heavy for her to carry me.\"\nKEVIN: \"Why didn't you call someone?\"\nJOE: \"There was no cell phone coverage in that area.\"\nKEVIN: \"How long do you have to wear your cast?\"\nJOE: \"Six weeks.\"\nKEVIN: \"Six weeks? Are you going to miss the marathon next month?\"\nJOE: \"Yeah! Looks like I am. I'm so disappointed. I've been training for that for a year. Why don't you go in my place?\"\nKEVIN: \"No, thanks. Do you know what I hate more than hiking?\"\nJOE: \"What?\"\nKEVIN: \"Marathons!\"",
         "catalog": "Trip & Vacations",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Hiking for Beginners",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/hiking_beginners.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/hiking_beginners.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/hiking_beginners.mp3",
         "dialog": "SANDY: \"Hey Sue. What are you doing this weekend?\"\nSUE: \"Hi Sandy. I'm going hiking with some friends. Do you want join?\"\nSANDY: \"No, that's ok. I've never gone hiking before.\"\nSUE: \"Really? It's a lot of fun and great exercise.\"\nSANDY: \"It sounds fun and good for you.\"\nSUE: \"It is. You should come.\"\nSANDY: \"I don't even have the correct shoes.\"\nSUE: \"I have an extra pair. What size do you wear?\"\nSANDY: \"I wear a size 7.\"\nSUE: \"What a coincidence! Me too!\"\nSANDY: \"What else do I need?\"\nSUE: \"Comfortable clothes, a jacket, a water bottle, snacks, a flashlight, and a map.\"\nSANDY: \"Wow! That's a lot of stuff to bring.\"\nSUE: \"Do you have a small backpack to put these items in?\"\nSANDY: \"Yeah.\"\nSUE: \"Well then, you are ready to go.\"\nSANDY: \"How long are you going to be hiking?\"\nSUE: \"We usually hike about 10 miles, but this weekend we're going to hike a much shorter distance.\"\nSANDY: \"Why?\"\nSUE: \"My friend is bringing her sister. She has never gone hiking before either. So, it'll be a fun experience for the both of you.\"",
         "catalog": "Trip & Vacations",
@@ -133,7 +133,7 @@
     },
     {
         "title": "Borrowing Things from a Friend",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/borrowing_things.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/borrowing_things.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/borrowing_things.mp3",
         "dialog": "MIKE: \"Hello?\"\nDAN: \"Mike. This is Dan. Do you have a lantern I can borrow?\"\nMIKE: \"I think so. I have to check.\"\nDAN: \"Our lantern is broken.\"\nMIKE: \"What do you need a lantern for?\"\nDAN: \"We are going camping this weekend.\"\nMIKE: \"We went camping last month.\"\nDAN: \"How was the weather last month?\"\nMIKE: \"It was great! Sunny all weekend.\"\nDAN: \"I think it is going to rain this weekend.\"\nMIKE: \"That's not good. Why are you going camping if it's going to rain?\"\nDAN: \"The kids still want to go.\"\nMIKE: \"I'm sure you will still have fun.\"\nDAN: \"I hope so. We're going to pack some extra clothes.\"\nMIKE: \"Let me check on that lantern.\"\nDAN: \"Mike.\"\nMIKE: \"What's wrong, Dan?\"\nDAN: \"Do you have a tent I can borrow?\"\nMIKE: \"Sure. Why?\"\nDAN: \"I just discovered a hole in our tent.\"",
         "catalog": "Trip & Vacations",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Family Camping",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/family_camping.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/family_camping.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/family_camping.mp3",
         "dialog": "HENRY: \"Susan, what should we do this weekend?\"\nSUSAN: \"I don't know. What would you like to do?\"\nHENRY: \"Should we take the kids camping.\"\nSUSAN: \"That sounds like a fun plan.\"\nHENRY: \"Do you know what the weather forecast for this weekend?\"\nSUSAN: \"No. I have to check.\"\nHENRY: \"I think it is supposed to be sunny and clear.\"\nSUSAN: \"That's perfect weather for camping.\"\nHENRY: \"We can go fishing too.\"\nSUSAN: \"The kids are going to love it.\"\nHENRY: \"Let's not tell them yet.\"\nSUSAN: \"Why?\"\nHENRY: \"I need to make a reservation. There may not be space available.\"\nSUSAN: \"Oh yeah. We better think of another option just in case.\"\nHENRY: \"Yeah. How about going to the beach?\"\nSUSAN: \"That would be fun too.\"\nHENRY: \"Let me try to make a reservation for camping first.\"\nSUSAN: \"Ok. Here's the number.\"",
         "catalog": "Trip & Vacations",
@@ -157,7 +157,7 @@
     },
     {
         "title": "Going Fishing",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/going_fishing.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/going_fishing.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/going_fishing.mp3",
         "dialog": "DAD: \"Billy, are you all packed?\"\nBILLY: \"No, Dad. I can't find my fishing pole.\"\nDAD: \"Where did you see it last?\"\nBILLY: \"In the garage. I'll look again.\"\nDAD: \"Ok. I'm almost done packing too. I just need to load the tents into the car.\"\nBILLY: \"I found my fishing pole. It was behind the skis.\"\nDAD: \"Good. What is your mom doing?\"\nBILLY: \"She is packing food and snacks into the ice chest.\"\nDAD: \"Hopefully, we will catch some fish to eat too.\"\nBILLY: \"Yeah. Dad, where is your fishing pole?\"\nDAD: \"I forgot it. Thanks for reminding me.\"\nBILLY: \"Are we going to the same campsite?\"\nDAD: \"No. I want to try a new place.\"\nBILLY: \"Cool. Can I bring my camera?\"\nDAD: \"Of course. But be careful not to lose it.\"\nBILLY: \"I'll be careful. I want to take a lot of pictures.\"\nDAD: \"Make sure to take pictures of our fish.\"\nBILLY: \"I hope we catch big ones. I love camping and fishing.\"\nDAD: \"I love spending time as a family.\"",
         "catalog": "Trip & Vacations",
@@ -169,7 +169,7 @@
     },
     {
         "title": "Looking for Airline Deals",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/looking_airline_deals.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/looking_airline_deals.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/looking_airline_deals.mp3",
         "dialog": "RUTH: \"Hi Carol. Have you seen any airline deals lately?\"\nCAROL: \"Hi Ruth. No, I haven't. Are you planning a trip?\"\nRUTH: \"Yeah. Stan and I want to visit our daughter in London. She moved there last year.\"\nCAROL: \"Why?\"\nRUTH: \"Her job was transferred there.\"\nCAROL: \"Does she like living there?\"\nRUTH: \"She loves living in England. She wants us to visit, but the airfare is very expensive.\"\nCAROL: \"Have you called any travel agencies? Sometimes they have special deals.\"\nRUTH: \"I've called travel agencies and looked online, but everything is expensive.\"\nCAROL: \"Yeah, airfare is getting more and more expensive every year.\"\nRUTH: \"I know. You travel a lot. Where do you buy your airplane tickets?\"\nCAROL: \"My traveling is for work. My company pays for the tickets.\"\nRUTH: \"That's nice.\"\nCAROL: \"Yeah. One of my business trips was to Hawaii. I got to fly in First Class.\"\nRUTH: \"That's amazing! We rarely travel by plane. I'd rather take the train.\"\nCAROL: \"Well, you can't take the train across the ocean.\"\nRUTH: \"I wish we could.\"",
         "catalog": "Trip & Vacations",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Planning a Boat Trip",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/boat_trip.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/boat_trip.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/boat_trip.mp3",
         "dialog": "SARAH: \"Hi Jane. Isn't it a beautiful day?\"\nJANE: \"Hi Sarah. Yeah, it's sunny and clear. I think we're going to take our boat out.\"\nSARAH: \"It's a great day for it.\"\nJANE: \"Would you and Paul like to join us?\"\nSARAH: \"I would love to. I need to ask Paul. He's at the store. He should be home in a few minutes.\"\nJANE: \"Great! We can pack a lunch and eat on the boat.\"\nSARAH: \"Sounds like fun. I've never been on a boat before.\"\nJANE: \"You haven't? Do you get seasick?\"\nSARAH: \"I've never been on a boat so I wouldn't know.\"\nJANE: \"Do you get airsick? Do you have any kind of motion sickness?\"\nSARAH: \"I don't think so. I don't get sick on planes or trains or long car rides.\"\nJANE: \"That's good. Then you'll probably be ok on the boat.\"\nSARAH: \"Are you really worried about me being seasick?\"\nJANE: \"Yes and there is a reason why.\"\nSARAH: \"What is it?\"\nJANE: \"Tom and I took my friend out on our boat once and she got very sick. I felt terrible for her.\"\nSARAH: \"Oh, I see. I should be ok.\"\nJANE: \"What about Paul?\"\nSARAH: \"He used to be a fisherman. He is definitely not going to be seasick.\"",
         "catalog": "Trip & Vacations",
@@ -193,7 +193,7 @@
     },
     {
         "title": "Train Ride",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/train_ride.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/train_ride.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/train_ride.mp3",
         "dialog": "LINDA: \"What are you doing this weekend?\"\nKATHY: \"We're going to take the train to my mother's house.\"\nLINDA: \"That should be fun.\"\nKATHY: \"Yeah. We usually drive, but we decided to take the train this time.\"\nLINDA: \"Why?\"\nKATHY: \"My son loves trains, so I thought it would be a good idea to take the train up there.\"\nLINDA: \"Does he have a train set?\"\nKATHY: \"Oh yes. He has several trains and Jason built him a big wooden train track.\"\nLINDA: \"Then he's going to love this ride.\"\nKATHY: \"I know. We haven't told him yet. It's going to be a surprise.\"\nLINDA: \"I remember riding the train as a child. It was a lot of fun.\"\nKATHY: \"One of his toy trains looks just like the train we're going to take.\"\nLINDA: \"Make sure to take a picture of it.\"\nKATHY: \"That's a great idea. I'll frame it and hang it on his bedroom wall.\"\nLINDA: \"Have a great train ride!\"",
         "catalog": "Trip & Vacations",
@@ -205,7 +205,7 @@
     },
     {
         "title": "Lost Reservation",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/lost_reservation.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/lost_reservation.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/lost_reservation.mp3",
         "dialog": "SUSAN: \"Mary, I am so angry!\"\nMARY: \"What happened, Susan?\"\nSUSAN: \"Our hotel lost our reservations?\"\nMARY: \"How did that happen?\"\nSUSAN: \"I don't know. They didn't have a reasonable explanation.\"\nMARY: \"Well, can't you just make another reservation?\"\nSUSAN: \"No. They said there are no more rooms available.\"\nMARY: \"Oh no! That's terrible.\"\nSUSAN: \"We are attending my niece's wedding this weekend and everyone is staying at that hotel.\"\nMARY: \"What about another hotel in that area.\"\nSUSAN: \"There's going to be a big doctor's conference this weekend. There are no rooms available at any of the nearby hotels.\"\nMARY: \"Did the hotel apologize?\"\nSUSAN: \"Yes and they offered us a discount on our next visit.\"\nMARY: \"Did you accept it?\"\nSUSAN: \"No. I was so mad. I told them that I would never stay at a place that lost our original reservations.\"\nMARY: \"What did they say?\"\nSUSAN: \"They just kept apologizing.\"\nMARY: \"What are you going to do?\"\nSUSAN: \"I don't know. My niece is very upset. Our daughter is the photographer.\"",
         "catalog": "Trip & Vacations",
@@ -217,7 +217,7 @@
     },
     {
         "title": "Great Hotel Experience",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/great_hotel.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/great_hotel.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/great_hotel.mp3",
         "dialog": "BARBARA: \"Hi Alice. How did you like the hotel?\"\nALICE: \"It was lovely, Barbara. The rooms were spacious and clean.\"\nBARBARA: \"Did you get a good deal on it?\"\nALICE: \"Yeah. They had an online special. If you reserved a room three weeks early, you got 20% off the regular room rate.\"\nBARBARA: \"That's a good deal.\"\nALICE: \"The swimming pool and spa were really nice too. The swimming pool was warm. There was also a sauna.\"\nBARBARA: \"Oh, that's very nice. Joe loves saunas. I need to tell him about this place.\"\nALICE: \"The parking is free and so is the Wi-Fi.\"\nBARBARA: \"That's good to know.\"\nALICE: \"There's a shuttle bus that takes you to the downtown area where all of the shops and restaurants are. It was very convenient.\"\nBARBARA: \"Anything else?\"\nALICE: \"The concierge was very helpful and the front desk clerks were very nice.\"\nBARBARA: \"Sounds like it was a wonderful place to stay.\"\nALICE: \"It was. I would recommend this place to everyone.\"\nBARBARA: \"Is there a restaurant in the hotel?\"\nALICE: \"Yes. They have great food. It's a little expensive, but very delicious. They have a fantastic breakfast buffet every morning too.\"\nBARBARA: \"Wow! I'm definitely going to make a reservation here.\"\nALICE: \"I can't wait to go back.\"",
         "catalog": "Trip & Vacations",
@@ -229,7 +229,7 @@
     },
     {
         "title": "Bad Hotel Experience",
-        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/bad_hotel.jpg",
+        "thumburl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/TripAndVacations/bad_hotel.jpg",
         "mediaurl": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Audio/TripAndVacations/bad_hotel.mp3",
         "dialog": "THOMAS: \"How was the hotel?\"\nSAM: \"It was awful. We had to switch rooms a couple of times.\"\nTHOMAS: \"Why?\"\nSAM: \"Well, we found bugs in the carpet in one room. We had already unpacked. So, we had to re-pack everything and ask for another room.\"\nTHOMAS: \"What was wrong with the second room?\"\nSAM: \"We paid for a garden room and it was a view of the parking lot.\"\nTHOMAS: \"That's terrible. Did you finally get a good room?\"\nSAM: \"They were out of garden view rooms, so they upgraded us to an ocean view room.\"\nTHOMAS: \"That's nice! So, why was it so awful?\"\nSAM: \"Our next door neighbor snored so loudly. He kept us awake every night.\"\nTHOMAS: \"Did you ask for another room?\"\nSAM: \"Yes, but they said that there were no more rooms available.\"\nTHOMAS: \"I'm sorry you had a terrible time.\"\nSAM: \"That's ok. The manager was really nice about it. He offered us a free stay next time.\"\nTHOMAS: \"Are you going to go back there?\"\nSAM: \"Of course. It'll be free.\"",
         "catalog": "Trip & Vacations",
