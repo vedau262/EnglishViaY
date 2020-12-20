@@ -1,0 +1,122 @@
+[
+    {
+        "title": "A morning briefing",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS6164_153626054-hig.jpg?itok=KQvI1KJK",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Morning_briefing.mp3",
+        "dialog": "Hi, everyone. I know you`re all busy so I`ll keep this briefing quick. I have some important information about a change in the management team. As you already know, our head of department, James Watson, is leaving his position at the end of this week. His replacement is starting at the end of the next month. In the meantime, we`ll continue with our projects as usual.\n\nI have two more quick points. Firstly, there will be some improvements made to the staff car park next month for a few weeks. It will be closed during that time.\n\nDon`t worry, we`ve found a solution. We can use the local church car park until our own one is ready. If you arrive before 8.30 a.m., please use our small car park on Brown Street, and if you arrive after that, you should go directly to the church car park. It`s only a five-minute walk away. But they need it in the evenings, so you have to leave before 6 p.m. Sorry about that – I know how much you all love working late!\n\nThe other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can`t use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month.\n\nOK. That`s it? Are there any questions?",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "An invitation to a party",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8061_GettyImages-163845251-hig.jpg?itok=8DJ41qYv",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_An_invitation_to_a_party.mp3",
+        "dialog": "Automated message: You have two new messages. Message number one, received today at 3.45 p.m.\n\nHi, it`s me. How`s it going? I guess you`re at work and you don`t have your phone on, right? First of all, thank you, THANK YOU for the birthday card and message. I received it this morning. That`s so nice of you. I`m organising a little party for my birthday. It`s nothing very big – only a few of my best and closest friends. That means you too! We`re going to have it at my cousin`s house. She lives in the countryside in a nice big house with a swimming pool. I`d love to see you there. It`s going to be this Friday. I`ll send you the instructions on how to get there later, OK? \n\nAnyway, have fun at work. Do not work too hard, OK? Talk soon.\n\nAutomated message: You have two new messages. Message number two, received today at 5.15 p.m.\n\nAw, you`re still not answering your phone! OK, here are the instructions to get to my cousin`s house for the party. Are you going to take your car? If you take the car, drive straight on Forest Road until you get to the motorway. Drive past Brownsville and take exit 13A. That`s 13A. You drive down the road there and turn left. It`s the first big house on the right. OK? If you`re taking a bus, you can get the number 80 to Brownsville. Call me when you get there and somebody can pick you up in a car. I can`t wait. This is going to be so great!",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Changing a meeting time",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS5856_178577303.jpg?itok=ommf8eJ0",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Changing_a_meeting_time.mp3",
+        "dialog": "Lucy: Hi, Anna. Do you have a minute to talk about the meeting next Tuesday?\n\nAnna: Sure. We said 11, didn`t we?\n\nLucy: Yeah, we did. But I have a bit of a problem with the time. Would it be possible to move it?\n\nAnna: Oh, I see. We could postpone it to the afternoon, to 1 p.m., for example. Or bring it forward to earlier in the morning. What would suit you?\n\nLucy: Could we make it 9 o`clock? That would really help me. I have another important meeting in the central office at 12.\n\nAnna: No problem. It`s important you`re there.\n\nLucy: Thanks a lot, Anna.\n\nAnna: Do you need help with any preparation? Did you get the agenda I sent out?\n\nLucy: Yes, I did. And no, that`s all fine, thanks. My report is ready and I`m looking forward to presenting it.\n\nAnna: Great.\n\nLucy: I can tell Sven about the time change. I`ll see him later.\n\nAnna: Don`t worry about telling Sven. I`ll send an email to everyone to confirm the time has changed and with an updated meeting invite.\n\nLucy: Great. Thanks, Anna.\n\nAnna: OK. I`m happy that works for you. We really need you there and it`s good we don`t have to cancel it.\n\nLucy: See you then. Have a good weekend in the meantime.\n\nAnna: You too.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Changing plans",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8087_GettyImages-957042038-hig.jpg?itok=YFEBdtPz",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Changing_plans.mp3",
+        "dialog": "Francesco: Sachi? Sachi? Sachiko! \n\nSachi: Francesco! Is everything OK?\n\nFrancesco: Yes. Yes. Sorry, I saw you and I was across the street … I ran.\n\nSachi: I see. What`s up?\n\nFrancesco: Do you have the tickets … for the play?\n\nSachi: No, I don`t. I`m going to buy them this afternoon.\n\nFrancesco: Oh good, good. Listen, don`t buy tickets for this Friday.\n\nSachi: Oh? Why not?\n\nFrancesco: I can`t go to the theatre on Friday. Something`s come up. I have a concert this Friday.\n\nSachi: Another concert? But you said …\n\nFrancesco: I know, I know. I`m sorry. I forgot.\n\nSachi: Francesco! \n\nFrancesco: How about next week? Are you free then? I can definitely go next Friday.\n\nSachi: Francesco. You did this two weeks ago, remember? I had cinema tickets for the new Marvel movie and you changed the plans then too. For band practice.\n\nFrancesco: I know, and I …\n\nSachi: We also missed my favourite dance group. Because your band was playing at some child`s birthday party.\n\nFrancesco: It was my nephew`s birthday …\n\nSachi: Ha! \n\nFrancesco: OK, why don`t we go out for dinner before my concert? Then, next Friday we can go to the play.\n\nSachi: Oh …\n\nFrancesco: Come on, Sachi. Just this one more time.\n\nSachi: OK, but promise me next Friday. OK?\n\nFrancesco: I promise. I promise!",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Facts and figures",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8115_GettyImages-879741274-hig.jpg?itok=dpZjJO1Z",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Facts_and_figures.mp3",
+        "dialog": "… and the next part of this talk is on the Panama Canal. It`s amazing how this one small section of a small country can be so important to the world. Let`s learn a little bit about the canal itself, before we look at how it connects to everything else.\r\n\r\nThe Panama Canal is an artificial waterway in the Central American country of Panama that connects the Atlantic and Pacific Ocean. It is only 82 kilometres long. If you go around South America by ship then you need to travel another 15,000 kilometres. So the canal saves a lot of travel time. It takes around 8 to 10 hours to cross the canal.\r\n\r\nThe French started building the canal in 1881, but they couldn`t finish it. The project was started again in 1904 by the United States and the canal was finally finished in 1914. Many people died while they were building the canal, some say up to 25,000. For the rest of the 20th century, the United States controlled the canal, but gave control back to Panama in 2000.\r\n\r\nEvery year, around 40,000 ships come through the canal. These are mostly commercial ships. They transport goods for trade between Asia and America, or Europe. In 2016 the government of Panama made the canal bigger, so that now 99 per cent of ships can pass through it.\r\n\r\nLet`s now turn to the role of the Panama Canal in the global economy …",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Four conversations",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS7976_ThinkstockPhotos-879028068-hig.jpg?itok=US-jjogS",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Four_conversations.mp3",
+        "dialog": "A\nMan: How did it go?\n\nWoman: Umm, I think it went quite well. I did a lot of research and prepared a lot. I was in there for ... I don`t know ... half an hour?\n\nMan: And? What did they say?\n\nWoman: Nothing much. At the end I asked them, `What happens now?`, and the woman said, `We`ll call you back with news in three or four days.`\n\nMan: Really?\n\nWoman: Yeah, I think I`ve got the job. There weren`t a lot of other people there. I was the only interview that day, you know?\n\nMan: Well, good luck with it.\n-----------------------------------------------------------------------------------------------------------------------\nB\nMan: Anyway, you were saying ...\n\nWoman: Oh, yeah, um ... let`s see. Yes, so I was in the museum and there were, I don`t know, a hundred people waiting to get into the room. Finally, I got in, and I tried to see the Mona Lisa but I couldn`t look at it.\n\nMan: Why not?\n\nWoman: Because the room was filled with people taking photographs of it!\n\nMan: Oh, right.\n\nWoman: Yes! And selfies.\n\nMan: Wait a minute. You can take photos while you`re in there?\n\nWoman: Yes, but you can`t use flash. I don`t know ... Why do we take photos of everything we see when we travel?\n\nMan: I know. And we never look at the photos after.\n\nWoman: Exactly! I`m tired of always taking photos. I don`t feel I`m enjoying things.\n-----------------------------------------------------------------------------------------------------------------------\nC\nMan: Who took this?\n\nWoman: I can`t remember. Hmmm ...\n\nMan: What am I doing?\n\nWoman: You`re sitting on the sofa, watching TV and eating chocolates. Nothing changes!\n\nMan: Ha! Very funny. You look very young, though.\n\nWoman: I know. Look at my hair – it was so long!\n\nMan: Mine too, look at me! Hey … I think I know who took this photo.\n\nWoman: Umm … who? Was it Dad?\n\nMan: No, it wasn’t Dad or Mum. Do you remember Barry?\n\nWoman: No.\n\nMan: Yes, YES! You do remember. Barry, your boyfriend at high school. You were seventeen and he was sixteen and he was so very polite: `Hello, I`m Barry. It`s very nice to meet you ...`\n\nWoman: Stop it! He was nice.\n\nMan: Yeah, well, he took the photo.\n-----------------------------------------------------------------------------------------------------------------------\nD\nWoman: Let`s see. OK. I`m glad we could talk about this. It`s not easy to say.\n\nMan: What?\n\nWoman: Well, you`re not in our group – for the class project.\n\nMan: What do you mean? You know I`m always in a group with you.\n\nWoman: I know. It`s just that this time … this time we made the group differently and because you were late ...\n\nMan: I see. You don`t want me in the group?\n\nWoman: No, no. It isn`t that. It`s that we`ve already made the group, see? There`s four of us already.\n\nMan: So? We can`t be a group of five?\n\nWoman: Well, the teacher said four people per group.\n\nMan: Oh.\n\nWoman: It`s not about you or your work or anything like that. It`s ... errrr ... well, we already have the group.\n\nMan: So I have to find another group.\n\nWoman: I`m sorry.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Instructions for an assignment",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8060_GettyImages-519588486-hig.jpg?itok=LDBunm8F",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Academic_Instructions_for_an_assignment.mp3",
+        "dialog": "\"I want to explain a few things about your essay.\r\n\r\nFirst of all, the deadline. The deadline for this essay is October the 18th. Not the 19th, not the 28th, not two days later because your dog was ill or your computer broke – the 18th. If it`s late, I won`t mark it. I won`t even read it – you`ll fail the assignment! So, please hand it in on time. You can even hand it in early, if you like!\r\n\r\nYou can email me the essays at j.hartshorn@lmu.ac.uk. That`s H-A-R-T-S-H-O-R-N. I`ll reply to say I`ve got it. If I don`t reply within a day, it might mean I didn`t get it, so please email me again to make sure. You can also bring a paper copy of the essay to my office, but let`s be kind to the trees, OK? Email is better for the trees and for me.\r\n\r\nDon`t forget that you must reference every idea or quote you use that isn`t your own idea. And the last page of your essay should be a list of all the books you used, in alphabetical order, not in the order you used them!\r\n\r\nAnd lastly, make it easy for me to read! That means use a clear font. Arial is best, but Times New Roman is fine too. Not Comic Sans please! Size 12 font for the essay, and size 14 for the titles and subheadings. And use page numbers. Any questions?\"",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Leaving a message",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS6693_78437136.jpg?itok=vps3Jp9x",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Leaving_a_message.mp3",
+        "dialog": "Jane: Hello, this is the sales department. Jane Solomon speaking.\n\nPeter: Hello, is Maria Fernandez there, please?\n\nJane: No, I`m sorry. She`s not in the office at the moment. She`s on her lunch break.\n\nPeter: Oh. Could you take a message, please? Could you tell her that Peter Griffin called?\n\nJane: Sure. Could you give me your number?\n\nPeter: It`s 0-7-4-6-0 double 9-0-1 double 8.\n\nJane: Thanks. That`s 0-7-4-6-0 2-9-0-1-2-8.\n\nPeter: Sorry, no. It`s 0-7-4-6-0 9-9-0-1-8-8.\n\nJane: 9-9-0-1-8-8.\n\nPeter: Yes. Please ask her to call me back, and tell her it`s about the PXO project. I need the new project figures.\n\nJane: The PXO project. Right. I`ll give her your message when she comes back to the office.\n\nPeter: Thank you. In case I`m in a meeting when she calls back, can I give you my email address too?\n\nJane: Of course.\n\nPeter: Great. It`s P-E-T-E-R dot G-R-I-F-F-I-N at F-R-E-S-H dot com.\n\nJane: Can I read that back to you?\n\nPeter: Sure.\n\nJane: That`s P-E-T-E-R dot G-R-I-F-F-I-N at F-R-E-S-H dot com.\n\nPeter: Yes, that`s it.\n\nJane: OK. I`ll tell her you called.\n\nPeter: Thank you. Goodbye.\n\nJane: Goodbye.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Missing a class",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS7969_ThinkstockPhotos-600000530-hig.jpg?itok=HcIVU7CA",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Missing_a_class.mp3",
+        "dialog": "Student: Excuse me, Ms Henderson?\r\n\r\nTeacher: Yes, Diana. How can I help you?\r\n\r\nStudent: I`m sorry, but I can`t come to class next Wednesday. I have a doctor`s appointment.\r\n\r\nTeacher: OK. Thanks for letting me know.\r\n\r\nStudent: Is there anything to do at home?\r\n\r\nTeacher: Let me just check my notebook. OK, first of all … you need to read chapters 17, 19 and 20 in the book. There are also some articles and a video to watch – those are online. I`ll post the links online in the usual place.\r\n\r\nStudent: Chapters 17 to 20.\r\n\r\nTeacher: Yes, except chapter 18. Chapters 17, 19 and 20.\r\n\r\nStudent: Ah, OK. Um ... is there a deadline?\r\n\r\nTeacher: Yes, this Friday. But there`s something else. I was going to give you all a practice test.\r\n\r\nStudent: A practice test?\r\n\r\nTeacher: Yes, to help people prepare for the mid-term exam.\r\n\r\nStudent: Ah. All right.\r\n\r\nTeacher: Don`t worry, I can send you the practice test by email on Wednesday. Can you send it to me before Friday?\r\n\r\nStudent: Sure, no problem.\r\n\r\nTeacher: And don`t forget to bring a certificate from the doctor to the office.\r\n\r\nStudent: Thanks, Ms Henderson! I`ll do that.\r\n\r\nTeacher: You`re welcome, Diana. Take care.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Transport announcements",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS7973_ThinkstockPhotos-475705264-hig.jpg?itok=DzwRb0Ba",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Transport_announcements.mp3",
+        "dialog": "The next train to arrive at Platform 2 is the 12.20 to Bristol Temple Meads, calling at Reading, Oxford and Bristol Parkway. Platform 2 for the 12.20 to Bristol. First class is in the rear carriage.\n-----------------------------------------------------------------------------------------------------------------------\nThis is a platform announcement for passengers for the 12.20 service to Bristol Temple Meads. This train is delayed by approximately 8 minutes. The train will now depart from Platform 9. Passengers for the 12.20 train to Bristol, please make your way to Platform 9.\n-----------------------------------------------------------------------------------------------------------------------\nPassengers for Flight EB380 to Paris please make your way to Gate 13 for boarding. Gate 13 for flight EB380 to Paris. Please have your passports and boarding passes ready. Your flight is ready to board.\n\n-----------------------------------------------------------------------------------------------------------------------\nThis is a London Underground service to Liverpool Street. The next station is Liverpool Street. Upon arrival, the first set of doors will not open. Customers in the first carriage, please move towards the rear doors to leave the train. The next station is Liverpool Street. Change here for Central Line, Circle Line, Hammersmith & City Line and Metropolitan Line and Main Line Suburban rail services. Please mind the gap between the train and the platform. This train terminates at Redbridge.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Understanding an explanation",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8088_GettyImages-643999205-hig.jpg?itok=AxrE4O3P",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Understanding_an_explanation.mp3",
+        "dialog": "Professor: OK, before we continue, does anybody have a question? Oh, lots of questions, I see. OK, we`ll go one at a time. Yes?\n\nStudent: Thank you. You talked about Fibonacci numbers in the lecture. Sorry, I don`t understand. Can you explain?\n\nProfessor: Of course. What do you want to know?\n\nStudent: OK … I hope this isn`t a silly question, but what does Fibonacci actually mean?\n\nProfessor: No question is ever silly – it`s always good to ask. OK, it`s the name of a person. Fibonacci was a European mathematician in the Middle Ages.\n\nStudent: Ah, OK. Thanks. So, we know he was a person, but what are the Fibonacci numbers? I don`t get it.\n\nProfessor: The Fibonacci numbers are a sequence of numbers. They go 1, 1, 2, 3, 5, 8 and so on. Do you see the sequence? Do you see how it works?\n\nStudent: I`m not sure.\n\nProfessor: OK. This is how it works. The first number is 1, then 1 again, then 2. The third number is the first number plus the second number. The fourth number is the second number plus the third number: 1 plus 2 is 3. The fifth number is the third number, 2, plus the fourth number, 3. So the fifth number in a Fibonacci sequence is 5.\n\nStudent: Ah! I think I understand now. But what about their importance? You said these were very important.\n\nProfessor: Yes, let me explain. This sequence of numbers is important because we see it in many things. Fibonacci numbers are common in geometry, they are common in nature, for example in plants. We see the sequence everywhere.\n\nStudent: Could you give us some more examples?\n\nProfessor: OK ... well, we don`t have time right now but I can bring more examples in for next class, OK?",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    },
+    {
+        "title": "Who`s who in the office",
+        "thumburl": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/article/public/RS8069_GettyImages-1015140326-hig.jpg?itok=DKQe2dWp",
+        "mediaurl": "https://6a63fca904fd268f15f7-d5770ffdd579eb31eaa89faeffc55fe7.ssl.cf1.rackcdn.com/LE_listening_A2_Who`s_who_in_the_office.mp3",
+        "dialog": "Jani: Welcome to the department, Yuki. Let me show you around and tell you about your new colleagues. I`ll introduce you to them all later.\n\nYuki: Great. Thanks. So, who are those people over there?\n\nJani: That`s the order management team. Luciana deals with the new orders. She`s the one with short, dark hair.\n\nYuki: In the purple dress?\n\nJani: Yeah, that`s right. You`ll probably work closely with her while you are learning about our ordering process.\n\nYuki: Got it, thanks. And who`s that over there? The guy who`s on the phone?\n\nJani: Oh, you mean the one by the window? In the green shirt? Ah, that`s Ian. He`s the marketing director. And that`s Maria beside him. She`s responsible for the internal IT systems.\n\nYuki: OK, I`ll try to remember all of this. I should probably be taking notes!\n\nJani: Don`t worry about it. For now it`s just good to put some faces to names.\n\nYuki: OK, great – and who do I talk to about setting up my mobile phone with email access? Is that also Maria?\n\nJani: No, you need to talk to Sebastian who works in communications. He can help you. That`s him over there, next to the printer.  \n\nYuki: Thanks. I`ll introduce myself to him later.",
+        "catalog": "Listening Preintermediate A2",
+        "thumbenable": 1,
+        "enable": 1,
+        "enablepractice": 0
+    }
+]
