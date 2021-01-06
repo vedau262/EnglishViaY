@@ -1,18 +1,16 @@
-{
-  "data": {
-    "iap_listing": [
+[
       {
         "id": "1",
-        "name": "iap_remove_ads",
+        "name": "test 1",
+        "type": "inapp",
         "product_id": "iap_remove_ads",        
         "is_purchase": false
       },
       {
         "id": "2",
         "name": "Springfield",
+		"type": "inapp",
         "product_id": "iap_remove_ads",        
         "is_purchase": false
       }      
-    ]
-  }
-}
+]
