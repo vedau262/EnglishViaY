@@ -1,16 +1,16 @@
 [
       {
         "id": "1",
-        "name": "test 1",
+        "name": "iap_remove_ads",
         "type": "inapp",
         "product_id": "iap_remove_ads",        
         "is_purchase": false
       },
       {
         "id": "2",
-        "name": "Springfield",
+        "name": "iap_download_audio",
 		"type": "inapp",
-        "product_id": "iap_remove_ads",        
+        "product_id": "iap_download_audio",        
         "is_purchase": false
       }      
 ]
