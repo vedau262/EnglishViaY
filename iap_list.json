@@ -12,5 +12,12 @@
 		"type": "inapp",
         "product_id": "iap_download_audio",        
         "is_purchase": false
+      },    
+	  {
+        "id": "3",
+        "name": "iap download audio",
+		"type": "inapp",
+        "product_id": "iap_download_audio_xxx",        
+        "is_purchase": false
       }      
 ]
