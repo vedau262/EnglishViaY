@@ -1,14 +1,14 @@
 [
       {
         "id": "1",
-        "name": "iap_remove_ads",
+        "name": "iap remove ads",
         "type": "inapp",
         "product_id": "iap_remove_ads",        
         "is_purchase": false
       },
       {
         "id": "2",
-        "name": "iap_download_audio",
+        "name": "iap download audio",
 		"type": "inapp",
         "product_id": "iap_download_audio",        
         "is_purchase": false
