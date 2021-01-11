@@ -1,23 +1,17 @@
 [
       {
         "id": "1",
-        "name": "iap remove ads",
+        "name": "Purchase: Remove ads",
         "type": "inapp",
         "product_id": "iap_remove_ads",        
         "is_purchase": false
       },
       {
         "id": "2",
-        "name": "iap download audio",
+        "name": "Purchase: Download conversation audio",
 		"type": "inapp",
         "product_id": "iap_download_audio",        
         "is_purchase": false
-      },    
-	  {
-        "id": "3",
-        "name": "iap download audio",
-		"type": "inapp",
-        "product_id": "iap_download_audio_xxx",        
-        "is_purchase": false
-      }      
+      }   
+	     
 ]
