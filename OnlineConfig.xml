@@ -1,8 +1,8 @@
 {
 	"s_load_admob_first":"false",
 	"s_had_ads_when_play_video":"false",
-	"s_had_admob_banner":"true",
-	"s_had_admob_interstitial":"true",
+	"s_had_admob_banner":"false",
+	"s_had_admob_interstitial":"false",
 	"s_had_admob_native":"false",
 	"banner_ad_unit_id":"Y2EtYXBwLXB1Yi02OTE5ODAxNjgxODQxNzg1LzYyMDczNDkzNDc=",		
 	"interstitial_full_screen_id":"Y2EtYXBwLXB1Yi02OTE5ODAxNjgxODQxNzg1Lzg2NDE5NDA5OTA=",
@@ -11,6 +11,8 @@
 	"s_had_fan_interstitial":"true",
 	"fan_banner_ad_unit_id":"533568870320654_832310613779810",
 	"fan_interstitial_full_screen_id":"533568870320654_537151356629072",
+	"s_had_displayIo_banner":"true",
+	"s_had_displayIo_interstitial":"true",
 	"catalogJsonPath":"https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/catelogJson.txt",
 	"catalogJsonPathBackup":"https://www.dropbox.com/s/fv4kgnb9n121hzs/catelogJson.txt?dl=1"
 }  
