@@ -18,7 +18,7 @@
 		{	
 			"LIST_VIDEO_NAME": "Daily English Conversation",
 			"LIST_VIDEO_SIZE": "22",
-			"LIST_VIDEO_ICON": "https://live-english.net/wp-content/uploads/2018/06/Adding-Daily-English-Conversation-To-Your-Routine-750x315.png",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/image/DailyEnglishConversation.jpg",
 			"LIST_VIDEO_ID": "PLsqTu51IRC71RWbgct33qQZx3qLU4PI1S",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Daily%20English%20conversation",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/iosl5dhb0in776s/Daily%20English%20conversation.txt?dl=1"			
