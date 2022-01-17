@@ -90,9 +90,9 @@
         "key": "School"
     },
     {
-        "catalogtitle": "Beginning Level - Learn English - Level 1 - VOA",
+        "catalogtitle": "Let's Learn English - Level 1",
         "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_BeginningLevel1.jpg",
-        "catalogdes": "Beginning Level - Learn English - Level 1",
+        "catalogdes": "Learn English - Level 1",
         "catalognumberbook": 52,
         "enablethumbnail": 1,
         "enablecatalog": 1,
@@ -100,9 +100,9 @@
         "key": "LearnEnglishLevel1"
     },
     {
-        "catalogtitle": "Beginning Level - Learn English - Level 2 - VOA",
+        "catalogtitle": "Let's Learn English - Level 2",
         "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_BeginningLevel2.jpg",
-        "catalogdes": "Beginning Level - Learn English - Level 2",
+        "catalogdes": "Learn English - Level 1",
         "catalognumberbook": 30,
         "enablethumbnail": 1,
         "enablecatalog": 1,
@@ -136,7 +136,7 @@
         "catalognumberbook": 12,
         "enablethumbnail": 1,
         "enablecatalog": 0,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/beginnerA1.txt",
         "key": "beginnerA1"
     },
     {
@@ -146,7 +146,7 @@
         "catalognumberbook": 12,
         "enablethumbnail": 1,
         "enablecatalog": 0,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/PreIntermediateA2.txt",
         "key": "PreIntermediateA2"
     },
     {
@@ -156,7 +156,7 @@
         "catalognumberbook": 12,
         "enablethumbnail": 1,
         "enablecatalog": 0,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/IntermediateB1.txt",
         "key": "IntermediateB1"
     },
     {
@@ -166,7 +166,7 @@
         "catalognumberbook": 12,
         "enablethumbnail": 1,
         "enablecatalog": 0,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/UpperIntermediateB2.txt",
         "key": "UpperIntermediateB2"
     },
     {
@@ -176,7 +176,7 @@
         "catalognumberbook": 12,
         "enablethumbnail": 1,
         "enablecatalog": 0,
-        "catalogjsonlink": "NA",
+        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/AdvancedC1.txt",
         "key": "AdvancedC1"
     },
     {
