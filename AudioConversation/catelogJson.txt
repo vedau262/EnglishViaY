@@ -85,7 +85,7 @@
         "catalogdes": "School",
         "catalognumberbook": 24,
         "enablethumbnail": 1,
-        "enablecatalog": 1,
+        "enablecatalog": 0,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/School.txt",
         "key": "School"
     },
