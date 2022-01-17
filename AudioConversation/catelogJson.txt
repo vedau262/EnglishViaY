@@ -78,17 +78,7 @@
         "enablecatalog": 1,
         "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/Nature.txt",
         "key": "Nature"
-    },
-    {
-        "catalogtitle": "School",
-        "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_09school.jpg",
-        "catalogdes": "School",
-        "catalognumberbook": 24,
-        "enablethumbnail": 1,
-        "enablecatalog": 0,
-        "catalogjsonlink": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/AudioBookJson/School.txt",
-        "key": "School"
-    },
+    },    
     {
         "catalogtitle": "Let's Learn English - Level 1",
         "catalogthumb": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/Thumb/cat_BeginningLevel1.jpg",
