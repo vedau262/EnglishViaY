@@ -6,7 +6,7 @@
         "dialog": "SALLY: \"Carl. Are you going to watch television all day?\"\nCARL: \"No. Is there something you want to do?\"\nSALLY: \"It's a beautiful day. The sun is shining. We should do something outdoors.\"\nCARL: \"Ok. What should we do?\"\nSALLY: \"Let's go to the beach.\"\nCARL: \"OK. I'll grab the beach chairs and towels.\"\nSALLY: \"Great! I'll pack some snacks and drinks. Don't forget the sunscreen.\"\nCARL: \"Where is it?\"\nSALLY: \"It's in the bathroom cabinet.\"\nCARL: \"Is there anything else we need to bring?\"\nSALLY: \"I'll bring the camera. I want to take pictures of the sunset.\"\nCARL: \"Good idea! The sunset is beautiful at the beach.\"\nSALLY: \"Do you remember the last time we went to the beach?\"\nCARL: \"No. It's been a long time. Why don't we go more often?\"\nSALLY: \"Because you're always watching TV.\"\nCARL: \"Ok. Let's go to the beach when the weather is nice and watch TV when it rains.\"\nSALLY: \"That's a deal!\"",
         "catalog": "Trip & Vacations",
         "thumbenable": 1,
-        "enable": 1,
+        "enable": 0,
         "booksource": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/AudioConversation/HtmlParse/TripAndVacations/going-to-beach.html",
         "quiz": "1. What does Carl like to do all day?\n Sleep\n Study\n Watch TV(x)\n Play outside\n\n2. What does Sally want to do?\n Go to the beach(x)\n Go shopping\n Watch TV\n Go to a concert\n\n3. What do Sally and Carl like taking pictures of?\n The mountains\n The trees\n The sunset at the beach(x)\n Their children\n\n4. When does Carl agree to watch television?\n After Sally goes to sleep\n When it rains(x)\n When he's bored\n When Sally is not home",
         "enablepractice": 1
