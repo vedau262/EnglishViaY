@@ -1,7 +1,7 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
-			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_SIZE": "100",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Z3VRSx7aO2A/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/100%20English%20conversation%20with%20subtitle",	
