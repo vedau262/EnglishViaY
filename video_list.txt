@@ -1,6 +1,6 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "100 English Conversation With Subtitle",
+			"LIST_VIDEO_NAME": "100 English Conversation",
 			"LIST_VIDEO_SIZE": "100",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/Z3VRSx7aO2A/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLjCw5iaiPkINqgijTOWM4NEPvVDwDumD7",			
@@ -26,7 +26,7 @@
 		{	
 			"LIST_VIDEO_NAME": "Communication Skil In The Offfice",
 			"LIST_VIDEO_SIZE": "15",
-			"LIST_VIDEO_ICON": "https://enovatelab.org/wp-content/uploads/2018/09/EnSkill_Business_communication-e1538325090772-1030x396.jpg",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/image/Communication_Skil_In_The_Offfice.jpg",
 			"LIST_VIDEO_ID": "PLsqTu51IRC71uAckDkkDLeX05FWMdvfMW",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/master/JsonPlaylist/Communication%20skil%20in%20the%20offfice",	
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/ow7wxsjp22sk2ga/Communication%20skil%20in%20the%20offfice.txt?dl=1"			
