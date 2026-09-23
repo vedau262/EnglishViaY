@@ -1,8 +1,8 @@
 	[	
 		{	
 			"LIST_VIDEO_NAME": "Trips & Vacations",
-			"LIST_VIDEO_SIZE": "10",
-			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/dd3595e3058e214bfdf6d3f845e1cb8b345aa8b8/image/TripsVacations.png",
+			"LIST_VIDEO_SIZE": "20",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/TripsVacations.png",
 			"LIST_VIDEO_ID": "PLIKjnsfU8aj4",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/JsonPlaylist/trips-vacations",
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
