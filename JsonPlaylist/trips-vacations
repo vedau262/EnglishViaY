@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "qPqeLW3Tk_ljizNpFQehVNU6nao",
+  "etag": "WxEJHp0WrVqy-7bwA8nIF640XvI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "k4cheCX751WvI-5HZ_CV_SZQyFk",
+      "etag": "4dDys9G0zIKkZJmwpib9WKP6WQA",
       "id": "UExLZ19uczVSbVVmVS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2026-09-06T15:04:36Z",
@@ -90,7 +90,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Ugu8S0sC9_E"
+          "videoId": "Ugu8S0sC9_E&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -137,7 +137,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-5-llaw_qRo"
+          "videoId": "-5-llaw_qRo&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -184,7 +184,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jmltnstS5Lk"
+          "videoId": "jmltnstS5Lk&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -231,7 +231,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "mESbwp_ePLc"
+          "videoId": "mESbwp_ePLc&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -278,7 +278,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lSzC-0Yl8VQ"
+          "videoId": "lSzC-0Yl8VQ&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -325,7 +325,7 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "umRSiFIwG8k"
+          "videoId": "umRSiFIwG8k&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -372,7 +372,7 @@
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ZY-yePi-Tc4"
+          "videoId": "ZY-yePi-Tc4&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -380,54 +380,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wHJQAue86FoLzvVjJz3MepdIHaQ",
-      "id": "UExLZ19uczVSbVVmVS45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2026-09-06T15:31:08Z",
-        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
-        "title": "Hiking Injury",
-        "description": "KEVIN: \"Hey Joe. What happened to your ankle?\"\nJOE: \"Hey Kevin. I broke it while hiking last weekend.\"\nKEVIN: \"That's terrible. How?\"\nJOE: \"We were hiking down a steep trail. I lost my balance and fell.\"\nKEVIN: \"Ouch!\"\nJOE: \"Yeah, it hurt badly.\"\nKEVIN: \"How did you get back to your car?\"\nJOE: \"It was a long, painful walk.\"\nKEVIN: \"Were you alone?\"\nJOE: \"No, I was with my wife. But I'm too heavy for her to carry me.\"\nKEVIN: \"Why didn't you call someone?\"\nJOE: \"There was no cell phone coverage in that area.\"\nKEVIN: \"How long do you have to wear your cast?\"\nJOE: \"Six weeks.\"\nKEVIN: \"Six weeks? Are you going to miss the marathon next month?\"\nJOE: \"Yeah! Looks like I am. I'm so disappointed. I've been training for that for a year. Why don't you go in my place?\"\nKEVIN: \"No, thanks. Do you know what I hate more than hiking?\"\nJOE: \"What?\"\nKEVIN: \"Marathons!\"",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "English Conversation",
-        "playlistId": "PLKg_ns5RmUfU",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0AcyZLWpEEM"
-        },
-        "videoOwnerChannelTitle": "English Conversation",
-        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "oWgQyow5kP1F2AfQQlkhnV9NJdo",
+      "etag": "tsgINYXQaDJDxeKNDhc3MJi4NiQ",
       "id": "UExLZ19uczVSbVVmVS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2026-09-06T15:42:28Z",
@@ -463,10 +416,527 @@
         },
         "channelTitle": "English Conversation",
         "playlistId": "PLKg_ns5RmUfU",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "prZzmZc4tEA&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eEu0GX3iJIGvpJInGxgMPiVUvyk",
+      "id": "UExLZ19uczVSbVVmVS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2026-09-06T15:31:08Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Hiking Injury",
+        "description": "KEVIN: \"Hey Joe. What happened to your ankle?\"\nJOE: \"Hey Kevin. I broke it while hiking last weekend.\"\nKEVIN: \"That's terrible. How?\"\nJOE: \"We were hiking down a steep trail. I lost my balance and fell.\"\nKEVIN: \"Ouch!\"\nJOE: \"Yeah, it hurt badly.\"\nKEVIN: \"How did you get back to your car?\"\nJOE: \"It was a long, painful walk.\"\nKEVIN: \"Were you alone?\"\nJOE: \"No, I was with my wife. But I'm too heavy for her to carry me.\"\nKEVIN: \"Why didn't you call someone?\"\nJOE: \"There was no cell phone coverage in that area.\"\nKEVIN: \"How long do you have to wear your cast?\"\nJOE: \"Six weeks.\"\nKEVIN: \"Six weeks? Are you going to miss the marathon next month?\"\nJOE: \"Yeah! Looks like I am. I'm so disappointed. I've been training for that for a year. Why don't you go in my place?\"\nKEVIN: \"No, thanks. Do you know what I hate more than hiking?\"\nJOE: \"What?\"\nKEVIN: \"Marathons!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0AcyZLWpEEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
         "position": 9,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "prZzmZc4tEA"
+          "videoId": "0AcyZLWpEEM&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eLEE361Gd_FMeX6JluSF5MUynSw",
+      "id": "UExLZ19uczVSbVVmVS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:03:00Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Hiking for Beginners",
+        "description": "SANDY: \"Hey Sue. What are you doing this weekend?\"\nSUE: \"Hi Sandy. I'm going hiking with some friends. Do you want join?\"\nSANDY: \"No, that's ok. I've never gone hiking before.\"\nSUE: \"Really? It's a lot of fun and great exercise.\"\nSANDY: \"It sounds fun and good for you.\"\nSUE: \"It is. You should come.\"\nSANDY: \"I don't even have the correct shoes.\"\nSUE: \"I have an extra pair. What size do you wear?\"\nSANDY: \"I wear a size 7.\"\nSUE: \"What a coincidence! Me too!\"\nSANDY: \"What else do I need?\"\nSUE: \"Comfortable clothes, a jacket, a water bottle, snacks, a flashlight, and a map.\"\nSANDY: \"Wow! That's a lot of stuff to bring.\"\nSUE: \"Do you have a small backpack to put these items in?\"\nSANDY: \"Yeah.\"\nSUE: \"Well then, you are ready to go.\"\nSANDY: \"How long are you going to be hiking?\"\nSUE: \"We usually hike about 10 miles, but this weekend we're going to hike a much shorter distance.\"\nSANDY: \"Why?\"\nSUE: \"My friend is bringing her sister. She has never gone hiking before either. So, it'll be a fun experience for the both of you.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8ylLPZeXqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8ylLPZeXqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8ylLPZeXqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8ylLPZeXqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8ylLPZeXqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i8ylLPZeXqE&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TicOBFYZ_fZ6VeUnxGbM-7wIHhw",
+      "id": "UExLZ19uczVSbVVmVS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:11:05Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Borrowing Things from a Friend",
+        "description": "MIKE: \"Hello?\"\nDAN: \"Mike. This is Dan. Do you have a lantern I can borrow?\"\nMIKE: \"I think so. I have to check.\"\nDAN: \"Our lantern is broken.\"\nMIKE: \"What do you need a lantern for?\"\nDAN: \"We are going camping this weekend.\"\nMIKE: \"We went camping last month.\"\nDAN: \"How was the weather last month?\"\nMIKE: \"It was great! Sunny all weekend.\"\nDAN: \"I think it is going to rain this weekend.\"\nMIKE: \"That's not good. Why are you going camping if it's going to rain?\"\nDAN: \"The kids still want to go.\"\nMIKE: \"I'm sure you will still have fun.\"\nDAN: \"I hope so. We're going to pack some extra clothes.\"\nMIKE: \"Let me check on that lantern.\"\nDAN: \"Mike.\"\nMIKE: \"What's wrong, Dan?\"\nDAN: \"Do you have a tent I can borrow?\"\nMIKE: \"Sure. Why?\"\nDAN: \"I just discovered a hole in our tent.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5PWqOayr-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5PWqOayr-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5PWqOayr-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S5PWqOayr-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S5PWqOayr-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S5PWqOayr-I&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RoFfY18kAKmsQTzOb_PXcSnO92M",
+      "id": "UExLZ19uczVSbVVmVS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:12:21Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Family Camping",
+        "description": "HENRY: \"Susan, what should we do this weekend?\"\nSUSAN: \"I don't know. What would you like to do?\"\nHENRY: \"Should we take the kids camping.\"\nSUSAN: \"That sounds like a fun plan.\"\nHENRY: \"Do you know what the weather forecast for this weekend?\"\nSUSAN: \"No. I have to check.\"\nHENRY: \"I think it is supposed to be sunny and clear.\"\nSUSAN: \"That's perfect weather for camping.\"\nHENRY: \"We can go fishing too.\"\nSUSAN: \"The kids are going to love it.\"\nHENRY: \"Let's not tell them yet.\"\nSUSAN: \"Why?\"\nHENRY: \"I need to make a reservation. There may not be space available.\"\nSUSAN: \"Oh yeah. We better think of another option just in case.\"\nHENRY: \"Yeah. How about going to the beach?\"\nSUSAN: \"That would be fun too.\"\nHENRY: \"Let me try to make a reservation for camping first.\"\nSUSAN: \"Ok. Here's the number.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHCXnCgwU7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHCXnCgwU7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHCXnCgwU7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHCXnCgwU7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HHCXnCgwU7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HHCXnCgwU7Q&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "68gCyYsK5OKwJLanBT_9W2rhTIc",
+      "id": "UExLZ19uczVSbVVmVS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:19:16Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Going Fishing",
+        "description": "DAD: \"Billy, are you all packed?\"\nBILLY: \"No, Dad. I can't find my fishing pole.\"\nDAD: \"Where did you see it last?\"\nBILLY: \"In the garage. I'll look again.\"\nDAD: \"Ok. I'm almost done packing too. I just need to load the tents into the car.\"\nBILLY: \"I found my fishing pole. It was behind the skis.\"\nDAD: \"Good. What is your mom doing?\"\nBILLY: \"She is packing food and snacks into the ice chest.\"\nDAD: \"Hopefully, we will catch some fish to eat too.\"\nBILLY: \"Yeah. Dad, where is your fishing pole?\"\nDAD: \"I forgot it. Thanks for reminding me.\"\nBILLY: \"Are we going to the same campsite?\"\nDAD: \"No. I want to try a new place.\"\nBILLY: \"Cool. Can I bring my camera?\"\nDAD: \"Of course. But be careful not to lose it.\"\nBILLY: \"I'll be careful. I want to take a lot of pictures.\"\nDAD: \"Make sure to take pictures of our fish.\"\nBILLY: \"I hope we catch big ones. I love camping and fishing.\"\nDAD: \"I love spending time as a family.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bWt5He6YLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bWt5He6YLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bWt5He6YLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1bWt5He6YLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1bWt5He6YLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1bWt5He6YLs&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ATMjqwX5O6y_x8Dtzn_7yl79mc",
+      "id": "UExLZ19uczVSbVVmVS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:24:08Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Looking for Airline Deals",
+        "description": "RUTH: \"Hi Carol. Have you seen any airline deals lately?\"\nCAROL: \"Hi Ruth. No, I haven't. Are you planning a trip?\"\nRUTH: \"Yeah. Stan and I want to visit our daughter in London. She moved there last year.\"\nCAROL: \"Why?\"\nRUTH: \"Her job was transferred there.\"\nCAROL: \"Does she like living there?\"\nRUTH: \"She loves living in England. She wants us to visit, but the airfare is very expensive.\"\nCAROL: \"Have you called any travel agencies? Sometimes they have special deals.\"\nRUTH: \"I've called travel agencies and looked online, but everything is expensive.\"\nCAROL: \"Yeah, airfare is getting more and more expensive every year.\"\nRUTH: \"I know. You travel a lot. Where do you buy your airplane tickets?\"\nCAROL: \"My traveling is for work. My company pays for the tickets.\"\nRUTH: \"That's nice.\"\nCAROL: \"Yeah. One of my business trips was to Hawaii. I got to fly in First Class.\"\nRUTH: \"That's amazing! We rarely travel by plane. I'd rather take the train.\"\nCAROL: \"Well, you can't take the train across the ocean.\"\nRUTH: \"I wish we could.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vKk2sKWBpPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vKk2sKWBpPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vKk2sKWBpPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vKk2sKWBpPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vKk2sKWBpPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vKk2sKWBpPg&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BO8fsjDoViP5ytdjoo3A0YnjGEY",
+      "id": "UExLZ19uczVSbVVmVS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:30:10Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Planning a Boat Trip",
+        "description": "SARAH: \"Hi Jane. Isn't it a beautiful day?\"\nJANE: \"Hi Sarah. Yeah, it's sunny and clear. I think we're going to take our boat out.\"\nSARAH: \"It's a great day for it.\"\nJANE: \"Would you and Paul like to join us?\"\nSARAH: \"I would love to. I need to ask Paul. He's at the store. He should be home in a few minutes.\"\nJANE: \"Great! We can pack a lunch and eat on the boat.\"\nSARAH: \"Sounds like fun. I've never been on a boat before.\"\nJANE: \"You haven't? Do you get seasick?\"\nSARAH: \"I've never been on a boat so I wouldn't know.\"\nJANE: \"Do you get airsick? Do you have any kind of motion sickness?\"\nSARAH: \"I don't think so. I don't get sick on planes or trains or long car rides.\"\nJANE: \"That's good. Then you'll probably be ok on the boat.\"\nSARAH: \"Are you really worried about me being seasick?\"\nJANE: \"Yes and there is a reason why.\"\nSARAH: \"What is it?\"\nJANE: \"Tom and I took my friend out on our boat once and she got very sick. I felt terrible for her.\"\nSARAH: \"Oh, I see. I should be ok.\"\nJANE: \"What about Paul?\"\nSARAH: \"He used to be a fisherman. He is definitely not going to be seasick.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXg-Hy5PRdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXg-Hy5PRdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXg-Hy5PRdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IXg-Hy5PRdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IXg-Hy5PRdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IXg-Hy5PRdY&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5PfYZcPlOT2ppiEsVzUJEJjnfH8",
+      "id": "UExLZ19uczVSbVVmVS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:34:19Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Train Ride",
+        "description": "LINDA: \"What are you doing this weekend?\"\nKATHY: \"We're going to take the train to my mother's house.\"\nLINDA: \"That should be fun.\"\nKATHY: \"Yeah. We usually drive, but we decided to take the train this time.\"\nLINDA: \"Why?\"\nKATHY: \"My son loves trains, so I thought it would be a good idea to take the train up there.\"\nLINDA: \"Does he have a train set?\"\nKATHY: \"Oh yes. He has several trains and Jason built him a big wooden train track.\"\nLINDA: \"Then he's going to love this ride.\"\nKATHY: \"I know. We haven't told him yet. It's going to be a surprise.\"\nLINDA: \"I remember riding the train as a child. It was a lot of fun.\"\nKATHY: \"One of his toy trains looks just like the train we're going to take.\"\nLINDA: \"Make sure to take a picture of it.\"\nKATHY: \"That's a great idea. I'll frame it and hang it on his bedroom wall.\"\nLINDA: \"Have a great train ride!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FSpv_4KAALE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FSpv_4KAALE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FSpv_4KAALE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FSpv_4KAALE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FSpv_4KAALE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FSpv_4KAALE&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pttgBUcHcl6KubnwYYuEBzAuygY",
+      "id": "UExLZ19uczVSbVVmVS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:40:51Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Lost Reservation",
+        "description": "SUSAN: \"Mary, I am so angry!\"\nMARY: \"What happened, Susan?\"\nSUSAN: \"Our hotel lost our reservations?\"\nMARY: \"How did that happen?\"\nSUSAN: \"I don't know. They didn't have a reasonable explanation.\"\nMARY: \"Well, can't you just make another reservation?\"\nSUSAN: \"No. They said there are no more rooms available.\"\nMARY: \"Oh no! That's terrible.\"\nSUSAN: \"We are attending my niece's wedding this weekend and everyone is staying at that hotel.\"\nMARY: \"What about another hotel in that area.\"\nSUSAN: \"There's going to be a big doctor's conference this weekend. There are no rooms available at any of the nearby hotels.\"\nMARY: \"Did the hotel apologize?\"\nSUSAN: \"Yes and they offered us a discount on our next visit.\"\nMARY: \"Did you accept it?\"\nSUSAN: \"No. I was so mad. I told them that I would never stay at a place that lost our original reservations.\"\nMARY: \"What did they say?\"\nSUSAN: \"They just kept apologizing.\"\nMARY: \"What are you going to do?\"\nSUSAN: \"I don't know. My niece is very upset. Our daughter is the photographer.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdcZ6_pQ8w4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdcZ6_pQ8w4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdcZ6_pQ8w4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wdcZ6_pQ8w4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wdcZ6_pQ8w4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wdcZ6_pQ8w4&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LDTuRqa6Mxlw27troTXKc_jUMmw",
+      "id": "UExLZ19uczVSbVVmVS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:44:00Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Great Hotel Experience",
+        "description": "BARBARA: \"Hi Alice. How did you like the hotel?\"\nALICE: \"It was lovely, Barbara. The rooms were spacious and clean.\"\nBARBARA: \"Did you get a good deal on it?\"\nALICE: \"Yeah. They had an online special. If you reserved a room three weeks early, you got 20% off the regular room rate.\"\nBARBARA: \"That's a good deal.\"\nALICE: \"The swimming pool and spa were really nice too. The swimming pool was warm. There was also a sauna.\"\nBARBARA: \"Oh, that's very nice. Joe loves saunas. I need to tell him about this place.\"\nALICE: \"The parking is free and so is the Wi-Fi.\"\nBARBARA: \"That's good to know.\"\nALICE: \"There's a shuttle bus that takes you to the downtown area where all of the shops and restaurants are. It was very convenient.\"\nBARBARA: \"Anything else?\"\nALICE: \"The concierge was very helpful and the front desk clerks were very nice.\"\nBARBARA: \"Sounds like it was a wonderful place to stay.\"\nALICE: \"It was. I would recommend this place to everyone.\"\nBARBARA: \"Is there a restaurant in the hotel?\"\nALICE: \"Yes. They have great food. It's a little expensive, but very delicious. They have a fantastic breakfast buffet every morning too.\"\nBARBARA: \"Wow! I'm definitely going to make a reservation here.\"\nALICE: \"I can't wait to go back.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WGwxF0yvz5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WGwxF0yvz5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WGwxF0yvz5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WGwxF0yvz5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WGwxF0yvz5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WGwxF0yvz5s&list=PLKg_ns5RmUfU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GkBNkXZlrVY6kyOiJO3EuISfSTQ",
+      "id": "UExLZ19uczVSbVVmVS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2026-09-19T15:49:46Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Bad Hotel Experience",
+        "description": "THOMAS: \"How was the hotel?\"\nSAM: \"It was awful. We had to switch rooms a couple of times.\"\nTHOMAS: \"Why?\"\nSAM: \"Well, we found bugs in the carpet in one room. We had already unpacked. So, we had to re-pack everything and ask for another room.\"\nTHOMAS: \"What was wrong with the second room?\"\nSAM: \"We paid for a garden room and it was a view of the parking lot.\"\nTHOMAS: \"That's terrible. Did you finally get a good room?\"\nSAM: \"They were out of garden view rooms, so they upgraded us to an ocean view room.\"\nTHOMAS: \"That's nice! So, why was it so awful?\"\nSAM: \"Our next door neighbor snored so loudly. He kept us awake every night.\"\nTHOMAS: \"Did you ask for another room?\"\nSAM: \"Yes, but they said that there were no more rooms available.\"\nTHOMAS: \"I'm sorry you had a terrible time.\"\nSAM: \"That's ok. The manager was really nice about it. He offered us a free stay next time.\"\nTHOMAS: \"Are you going to go back there?\"\nSAM: \"Of course. It'll be free.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YDOLJ8URS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YDOLJ8URS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YDOLJ8URS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YDOLJ8URS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YDOLJ8URS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLKg_ns5RmUfU",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4YDOLJ8URS4&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -474,7 +944,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 10,
+    "totalResults": 20,
     "resultsPerPage": 50
   }
 }
