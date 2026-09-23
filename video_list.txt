@@ -1,6 +1,6 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "Trips & Vacations",
+			"LIST_VIDEO_NAME": "Trips And Vacations",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/TripsVacations.png",
 			"LIST_VIDEO_ID": "PLIKjnsfU8aj4",			
