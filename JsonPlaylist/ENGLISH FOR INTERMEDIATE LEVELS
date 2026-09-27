@@ -47,7 +47,7 @@
     "position": 0,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "VHBma-tvR-g"
+     "videoId": "VHBma-tvR-g&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -92,7 +92,7 @@
     "position": 1,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "kLQ7UyzMUwY"
+     "videoId": "kLQ7UyzMUwY&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -137,7 +137,7 @@
     "position": 2,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "-asVr8pZ1Zg"
+     "videoId": "-asVr8pZ1Zg&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -182,7 +182,7 @@
     "position": 3,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "zVVINd_9TpU"
+     "videoId": "zVVINd_9TpU&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -227,7 +227,7 @@
     "position": 4,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "n9ru8jEj_OU"
+     "videoId": "n9ru8jEj_OU&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -272,7 +272,7 @@
     "position": 5,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "l6mW7HG6tLk"
+     "videoId": "l6mW7HG6tLk&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -317,7 +317,7 @@
     "position": 6,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "nO_twM2kZb4"
+     "videoId": "nO_twM2kZb4&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -362,7 +362,7 @@
     "position": 7,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "paLLw6NPreY"
+     "videoId": "paLLw6NPreY&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -407,7 +407,7 @@
     "position": 8,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "bWRUirizf7U"
+     "videoId": "bWRUirizf7U&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -452,7 +452,7 @@
     "position": 9,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "UV8Asxp0AAQ"
+     "videoId": "UV8Asxp0AAQ&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -497,7 +497,7 @@
     "position": 10,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "1-Hlxb72k18"
+     "videoId": "1-Hlxb72k18&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -542,7 +542,7 @@
     "position": 11,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "nL4VdKYsL6g"
+     "videoId": "nL4VdKYsL6g&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -587,7 +587,7 @@
     "position": 12,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "TofQdX_CyLA"
+     "videoId": "TofQdX_CyLA&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -632,7 +632,7 @@
     "position": 13,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "dST-cu2144k"
+     "videoId": "dST-cu2144k&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -677,7 +677,7 @@
     "position": 14,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "al0NQJCOHDs"
+     "videoId": "al0NQJCOHDs&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -722,7 +722,7 @@
     "position": 15,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "VJPcrpgGJCw"
+     "videoId": "VJPcrpgGJCw&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -767,7 +767,7 @@
     "position": 16,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "_SIQ9LGjADQ"
+     "videoId": "_SIQ9LGjADQ&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -812,7 +812,7 @@
     "position": 17,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "nZf1isFZP4Y"
+     "videoId": "nZf1isFZP4Y&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -857,7 +857,7 @@
     "position": 18,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "cwNEqZgiTk8"
+     "videoId": "cwNEqZgiTk8&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -902,7 +902,7 @@
     "position": 19,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "XZh0DN93oXU"
+     "videoId": "XZh0DN93oXU&list=PLKg_ns5RmUfU"
     }
    }
   }

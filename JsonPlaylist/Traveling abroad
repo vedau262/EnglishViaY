@@ -37,7 +37,7 @@
     "position": 0,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "EVQj6RW_7t0"
+     "videoId": "EVQj6RW_7t0&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -72,7 +72,7 @@
     "position": 1,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "HREyGddLElo"
+     "videoId": "HREyGddLElo&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -107,7 +107,7 @@
     "position": 2,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "9iPVO1Gj1M8"
+     "videoId": "9iPVO1Gj1M8&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -142,7 +142,7 @@
     "position": 3,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "-oy8NHp6_9k"
+     "videoId": "-oy8NHp6_9k&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -177,7 +177,7 @@
     "position": 4,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "pqjBY-9fsJo"
+     "videoId": "pqjBY-9fsJo&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -212,7 +212,7 @@
     "position": 5,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "-g45PLg_s9Y"
+     "videoId": "-g45PLg_s9Y&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -247,7 +247,7 @@
     "position": 6,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "5xeOMVy9he4"
+     "videoId": "5xeOMVy9he4&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -282,7 +282,7 @@
     "position": 7,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "JCCGXPtpvVU"
+     "videoId": "JCCGXPtpvVU&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -317,7 +317,7 @@
     "position": 8,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "-pRdtxVYnEI"
+     "videoId": "-pRdtxVYnEI&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -352,7 +352,7 @@
     "position": 9,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "zNNfquF8XaM"
+     "videoId": "zNNfquF8XaM&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -387,7 +387,7 @@
     "position": 10,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "uKsMOD_MXaE"
+     "videoId": "uKsMOD_MXaE&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -422,7 +422,7 @@
     "position": 11,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "NbmW4LoKym4"
+     "videoId": "NbmW4LoKym4&list=PLKg_ns5RmUfU"
     }
    }
   },
@@ -457,7 +457,7 @@
     "position": 12,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "MyIHlc5a3J4"
+     "videoId": "MyIHlc5a3J4&list=PLKg_ns5RmUfU"
     }
    }
   }
