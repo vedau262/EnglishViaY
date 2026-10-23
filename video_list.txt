@@ -5,7 +5,15 @@
 			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/TripsVacations.png",
 			"LIST_VIDEO_ID": "PLIKjnsfU8aj4",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/JsonPlaylist/trips-vacations",
-			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/s/5y98sn0fz1cnkha/100%20English%20conversation%20with%20subtitle.txt?dl=1"			
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/scl/fi/qu773yfd7h8tkfi0fpd3l/trips-vacations?rlkey=iv5gocrm2m5kfatytkjv6bc4x&st=t76q0qy1&dl=1"
+		},
+		{
+			"LIST_VIDEO_NAME": "Trips And Vacations",
+			"LIST_VIDEO_SIZE": "6",
+			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/EatingRelatedTopics.png",
+			"LIST_VIDEO_ID": "PLKg_ns5RmUfU",
+			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/JsonPlaylist/EatingRelatedTopics",
+			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/scl/fi/kvz1642ads4jwztvrensl/EatingRelatedTopics?rlkey=8x6aq2sdv5nc8upwyzrmh9mps&st=sbpb6de8&dl=1"
 		},
 		{
 			"LIST_VIDEO_NAME": "Slow And Easy English For Beginners",

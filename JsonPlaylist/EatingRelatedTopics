@@ -48,7 +48,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "UfDsnuHyls4"
+          "videoId": "UfDsnuHyls4&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -100,7 +100,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "kGFpR85u62Y"
+          "videoId": "kGFpR85u62Y&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -152,7 +152,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "_08PBkJYMiM"
+          "videoId": "_08PBkJYMiM&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -204,7 +204,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "DXH8LNfLk2w"
+          "videoId": "DXH8LNfLk2w&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -256,7 +256,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "nwMp6wSypoc"
+          "videoId": "nwMp6wSypoc&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
@@ -308,7 +308,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eDD05Y2CpqU"
+          "videoId": "eDD05Y2CpqU&list=PLKg_ns5RmUfU"
         },
         "videoOwnerChannelTitle": "English Conversation",
         "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
