@@ -8,7 +8,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/scl/fi/qu773yfd7h8tkfi0fpd3l/trips-vacations?rlkey=iv5gocrm2m5kfatytkjv6bc4x&st=t76q0qy1&dl=1"
 		},
 		{
-			"LIST_VIDEO_NAME": "Trips And Vacations",
+			"LIST_VIDEO_NAME": "Eating Related Topics",
 			"LIST_VIDEO_SIZE": "6",
 			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/EatingRelatedTopics.png",
 			"LIST_VIDEO_ID": "PLKg_ns5RmUfU",
