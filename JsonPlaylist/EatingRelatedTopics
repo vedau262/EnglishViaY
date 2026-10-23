@@ -1,0 +1,322 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "h-KdWckHf2dGcj9DP0F7xp_Pob0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "buC3__PP6rCSMx06CLSOt9XkHaM",
+      "id": "UExIbjduZFNUQVhjNC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2026-10-21T15:48:58Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Breakfast with Grandparents",
+        "description": "MOM: \"Lucy, can you help me with breakfast?\"\nLUCY: \"Sure, Mom? Is someone coming over this morning?\"\nMOM: \"Your grandparents are coming.\"\nLUCY: \"Oh, how nice. What are we making?\"\nMOM: \"Pancakes, eggs, bacon, and hash browns.\"\nLUCY: \"Yummy! That sounds delicious.\"\nMOM: \"I hope so. Your grandfather has a big appetite. I hope there's enough food.\"\nLUCY: \"Mom, you always make too much food. It looks like a breakfast buffet every time they come over.\"\nMOM: \"I want to make sure there is enough food. Breakfast is the most important meal of the day.\"\nLUCY: \"Should I make freshly-squeezed orange juice?\"\nMOM: \"That would be great. Do you know where the juicer is?\"\nLUCY: \"Yeah, it's on the top shelf of the pantry.\"\nMOM: \"Oh no!\"\nLUCY: \"What's wrong, Mom?\"\nMOM: \"I'm all out of eggs. Tell your Dad to go to the store and buy some eggs. I'll start on the bacon and hash browns.\"\nLUCY: \"Dad! Mom needs you to buy some eggs!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/UfDsnuHyls4/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UfDsnuHyls4"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hdc3iGBkf2nl4RWZ08ClmoBHIoY",
+      "id": "UExIbjduZFNUQVhjNC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2026-10-21T15:47:20Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Breakfast at Home or the Diners",
+        "description": "JANE: \"Hey Kevin, do you want to try the new diner down the street?\"\nKEVIN: \"Sure. I hear they have really good food especially their omelets.\"\nJANE: \"Susan went their last weekend and said it was the best breakfast place in town.\"\nKEVIN: \"Yeah, I heard the same thing from Janet. She waited an hour for a table.\"\nJANE: \"I don't think I can wait an hour. I'm hungry right now.\"\nKEVIN: \"Do you want to make breakfast at home?\"\nJANE: \"Ok. What do you want to eat?\"\nKEVIN: \"I'd like a ham and cheese omelet.\"\nJANE: \"That sounds good. Do we have all of the ingredients?\"\nKEVIN: \"Well, we only need eggs, ham, and cheese.\"\nJANE: \"I think we may be out of ham. I used the last few slices for a sandwich yesterday.\"\nKEVIN: \"Ok. How about a vegetable omelet?\"\nJANE: \"That's good too. We have green peppers, mushrooms, and onions.\"\nKEVIN: \"That's perfect.\"\nJANE: \"Great! I'll brew some coffee and you make the omelet.\"\nKEVIN: \"I don't know how to make an omelet.\"\nJANE: \"You don't? Well, I don't either.\"\nKEVIN: \"Let's just go to the new diner.\"\nJANE: \"That sounds like a better plan.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/kGFpR85u62Y/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kGFpR85u62Y"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6sIiRN3aWkb6-FMflFkeCmuVDTY",
+      "id": "UExIbjduZFNUQVhjNC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2026-10-21T15:39:21Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Pancake Breakfast",
+        "description": "MARY: \"Hi Sally. My kids want to go out for breakfast this weekend. Do you have a favorite restaurant?\"\nSALLY: \"Hi Mary. Yeah, our favorite place is the pancake house on Main Street.\"\nMARY: \"Oh, I haven't been there yet.\"\nSALLY: \"We love it. Kids eat free on their birthdays too.\"\nMARY: \"What do your kids like there?\"\nSALLY: \"They love the chocolate chip pancakes.\"\nMARY: \"Oh, my children would love those. They like anything with chocolate.\"\nSALLY: \"I like their waffles. They're thick and fluffy. They put fresh strawberries over them.\"\nMARY: \"I may want to try that. I'm getting hungry now.\"\nSALLY: \"Me too.\"\nMARY: \"Would you like to join us on Saturday morning?\"\nSALLY: \"I can't on Saturday. Joanne has a soccer game in the morning. What about Sunday?\"\nMARY: \"We have church in the morning, but we are free around 10 am.\"\nSALLY: \"10 am is good for us too.\"\nMARY: \"Ok. Let's meet on Sunday at 10 am at the restaurant.\"\nSALLY: \"That sounds wonderful.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/_08PBkJYMiM/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_08PBkJYMiM"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EHpmKA3mgkD7PbdAvkCjZP2I3AI",
+      "id": "UExIbjduZFNUQVhjNC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2026-10-23T08:52:40Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Preparing Dinner for Guests",
+        "description": "ALICE: \"Hey Sue. What are you doing today?\"\nSUE: \"Hey Alice. I'm going to the market later. My husband's boss and his wife are coming over for dinner tonight.\"\nALICE: \"Wow! What are you making?\"\nSUE: \"I don't know. His wife is a vegetarian, so I need to make one dish without meat.\"\nALICE: \"My mother-in-law is a vegetarian. I can ask her for some recipes.\"\nSUE: \"That would be great. I'm a little nervous about hosting dinner.\"\nALICE: \"You shouldn't worry. You're a great cook.\"\nSUE: \"I've never cooked for Jeff's boss before. I want to make sure everything is perfect.\"\nALICE: \"I understand. I cooked for my boss once. It was a disaster. I burned the roast beef.\"\nSUE: \"Oh no! What happened?\"\nALICE: \"I was too busy talking and forgot to take it out of the oven. We all laughed, but I was so embarrassed.\"\nSUE: \"I'll make sure to use a timer.\"\nALICE: \"Great idea!\"\nSUE: \"I think I will make lasagna.\"\nALICE: \"Your lasagna is delicious. My mother-in-law makes great vegetarian lasagna. I'll call her right now.\"\nSUE: \"Thank you so much! I'll go the market after you talk to her.\"\nALICE: \"Good luck tonight.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/DXH8LNfLk2w/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DXH8LNfLk2w"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zPErzxeFXGAwGBCCOfJhVYL_NHs",
+      "id": "UExIbjduZFNUQVhjNC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2026-10-23T08:53:55Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "Breakfast with Grandparents",
+        "description": "MOM: \"Ethan, get ready. We're going to your grandparents' house for dinner.\"\nETHAN: \"Again? We went there last weekend.\"\nMOM: \"That's right. Remember we go every Sunday evening.\"\nETHAN: \"But grandma's food tastes weird.\"\nMOM: \"Don't be rude. She loves to cook for us.\"\nETHAN: \"I know. I love them. But she always makes the same dish, chicken pot pie.\"\nMOM: \"Your grandfather likes it. It's his favorite, so we're going to eat it too.\"\nETHAN: \"Ok, Mom. Sorry for being rude.\"\nMOM: \"Why don't we pick up a dessert on the way to their house?\"\nETHAN: \"Ok! Can we get ice cream?\"\nMOM: \"Sure. We can make ice cream sundaes after dinner.\"\nETHAN: \"Mom, that's funny.\"\nMOM: \"What's funny?\"\nETHAN: \"Sundaes on Sundays.\"\nMOM: \"That is funny. This will be our new tradition.\"\nETHAN: \"Grandpa will love it. He loves ice cream too.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/nwMp6wSypoc/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nwMp6wSypoc"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jiJd55eKdYTJ7T5Mm6Eg5P4sL18",
+      "id": "UExIbjduZFNUQVhjNC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2026-10-23T08:55:15Z",
+        "channelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q",
+        "title": "No Time to Eat",
+        "description": "MOM: \"Hey Jane. Did you eat lunch?\"\nJANE: \"No, I don't have time. I have a big test today at 1 pm.\"\nMOM: \"You still need to eat or you won't have energy for the test.\"\nJANE: \"I know. I'll grab something on the way to class.\"\nMOM: \"Fast food?\"\nJANE: \"Yeah, I'll grab a burger.\"\nMOM: \"That's not healthy for you. Let me make you something to eat.\"\nJANE: \"Thanks. But I don't have time.\"\nMOM: \"You never have the time to eat a proper meal anymore.\"\nJANE: \"I like fast food meals anyway. They're quick and easy.\"\nMOM: \"Let me pack you some fruits.\"\nJANE: \"Mom, please. I'm in college now. I can cut my own fruits.\"\nMOM: \"But you won't do it.\"\nJANE: \"I'll take this banana. It's quick and easy. See you later, Mom.\"\nMOM: \"Eat something nutritious!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/eDD05Y2CpqU/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "English Conversation",
+        "playlistId": "PLHn7ndSTAXc4",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eDD05Y2CpqU"
+        },
+        "videoOwnerChannelTitle": "English Conversation",
+        "videoOwnerChannelId": "UCxGgx9mlrCEa5QF6jJ0rw2Q"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  }
+}
