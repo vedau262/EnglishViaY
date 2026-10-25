@@ -9,7 +9,7 @@
 		},
 		{
 			"LIST_VIDEO_NAME": "Eating Related Topics",
-			"LIST_VIDEO_SIZE": "6",
+			"LIST_VIDEO_SIZE": "14",
 			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/EatingRelatedTopics.png",
 			"LIST_VIDEO_ID": "PLHn7ndSTAXc4",
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/JsonPlaylist/EatingRelatedTopics",
