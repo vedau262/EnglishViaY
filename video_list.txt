@@ -1,6 +1,6 @@
 	[	
 		{	
-			"LIST_VIDEO_NAME": "Trips And Vacations",
+			"LIST_VIDEO_NAME": "Trips And Vacations 🏖️ 🌴 🍹",
 			"LIST_VIDEO_SIZE": "20",
 			"LIST_VIDEO_ICON": "https://raw.githubusercontent.com/vedau262/EnglishViaY/refs/heads/master/image/TripsVacations.png",
 			"LIST_VIDEO_ID": "PLKg_ns5RmUfU",
@@ -16,7 +16,7 @@
 			"LIST_VIDEO_JSON_LINK_BACKUP": "https://www.dropbox.com/scl/fi/kvz1642ads4jwztvrensl/EatingRelatedTopics?rlkey=8x6aq2sdv5nc8upwyzrmh9mps&st=sbpb6de8&dl=1"
 		},
 		{
-			"LIST_VIDEO_NAME": "Slow And Easy English For Beginners",
+			"LIST_VIDEO_NAME": "Slow And Easy English For Beginners 🔤 📖 🧱",
 			"LIST_VIDEO_SIZE": "25",
 			"LIST_VIDEO_ICON": "https://i.ytimg.com/vi/JoUe3XqMFnc/maxresdefault.jpg",
 			"LIST_VIDEO_ID": "PLIKjnsfU8aj4",
